@@ -1,0 +1,66 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,23/11/1984,New Zealand,Iqbal Stadium,10*,10,,,0,,,0,,,,22 years 319 days
+2.0,02/12/1984,New Zealand,Jinnah Stadium (Sialkot),22,32,32.00,,0,,,0,,,,22 years 328 days
+3.0,07/12/1984,New Zealand,Ibn-e-Qasim Bagh Stadium,35,67,33.50,,0,,,0,,,,22 years 333 days
+4.0,15/01/1985,New Zealand,Seddon Park,-,67,33.50,,0,,,0,,,,23 years 7 days
+5.0,26/03/1985,England,Sharjah Cricket Stadium,3,70,23.33,3/20,3,6.67,2,2,,,,23 years 77 days
+6.0,13/10/1985,Sri Lanka,Arbab Niaz Stadium,72*,142,47.33,,3,6.67,,2,,,,23 years 278 days
+7.0,23/10/1985,Sri Lanka,Jinnah Stadium (Gujwranwala),4,146,36.50,0/30,3,16.67,,2,,,,23 years 288 days
+8.0,25/10/1985,Sri Lanka,Gaddafi Stadium,14,160,32.00,0/10,3,20.00,,2,,,,23 years 290 days
+9.0,04/12/1985,West Indies,Pindi Club Ground,53,213,35.50,1/30,4,22.50,,2,,,,23 years 330 days
+10.0,06/12/1985,West Indies,National Stadium (Karachi),1,214,30.57,,4,22.50,,2,,,,23 years 332 days
+11.0,04/11/1986,West Indies,Jinnah Stadium (Gujwranwala),3,217,27.13,,4,22.50,,2,,,,24 years 300 days
+12.0,14/11/1986,West Indies,Jinnah Stadium (Sialkot),7,224,24.89,1/31,5,24.20,,2,,,,24 years 310 days
+13.0,17/11/1986,West Indies,Ibn-e-Qasim Bagh Stadium,11,235,23.50,0/25,5,29.20,,2,,,,24 years 313 days
+14.0,18/11/1986,West Indies,Niaz Stadium,3,238,21.64,1/12,6,26.33,2,4,,,,24 years 314 days
+15.0,02/12/1986,Sri Lanka,Sharjah Cricket Stadium,19,257,21.42,0/18,6,29.33,,4,,,,24 years 328 days
+16.0,05/12/1986,India,Sharjah Cricket Stadium,28,285,21.92,1/16,7,27.43,1,5,,,,24 years 331 days
+17.0,30/12/1986,West Indies,WACA Ground,34,319,22.79,2/43,9,26.11,1,6,,,,24 years 356 days
+18.0,02/01/1987,Australia,WACA Ground,9,328,21.87,0/22,9,28.56,,6,,,,24 years 359 days
+19.0,05/01/1987,England,WACA Ground,66,394,24.63,1/24,10,28.10,1,7,,,,24 years 362 days
+20.0,07/01/1987,England,WACA Ground,0,394,23.18,0/11,10,29.20,1,8,,,,24 years 364 days
+21.0,30/10/1987,West Indies,National Stadium (Karachi),0,394,21.89,,10,29.20,,8,,,,25 years 294 days
+22.0,18/11/1987,England,Gaddafi Stadium,11,405,21.32,0/14,10,30.60,,8,,,,25 years 313 days
+23.0,20/11/1987,England,National Stadium (Karachi),37,442,22.10,0/42,10,34.80,,8,,,,25 years 315 days
+24.0,22/11/1987,England,Arbab Niaz Stadium,6*,448,22.40,,10,34.80,1,9,,,,25 years 317 days
+25.0,12/03/1988,West Indies,Sabina Park,3,451,21.48,0/18,10,36.60,,9,,,,26 years 63 days
+26.0,20/03/1988,West Indies,Queen's Park Oval,-,451,21.48,0/15,10,38.10,,9,,,,26 years 71 days
+27.0,30/03/1988,West Indies,Bourda,0,451,20.50,,10,38.10,,9,,,,26 years 81 days
+28.0,14/10/1988,Australia,Gaddafi Stadium,-,451,20.50,0/6,10,38.70,1,10,,,,26 years 279 days
+29.0,18/10/1988,West Indies,Sharjah Cricket Stadium,-,451,20.50,,10,38.70,,10,,,,26 years 283 days
+30.0,22/10/1988,West Indies,Sharjah Cricket Stadium,15,466,20.26,1/26,11,37.55,,10,,,,26 years 287 days
+31.0,27/10/1988,Sri Lanka,Bangabandhu National Stadium,10,476,19.83,0/24,11,39.73,,10,,,,26 years 292 days
+32.0,29/10/1988,Bangladesh,MA Aziz Stadium,-,476,19.83,1/21,12,38.17,,10,,,,26 years 294 days
+33.0,31/10/1988,India,Bangabandhu National Stadium,2,478,19.12,0/6,12,38.67,,10,,,,26 years 296 days
+34.0,08/01/1989,Australia,Brisbane Cricket Ground,29,507,19.50,0/18,12,40.17,,10,,,,27 years 0 days
+35.0,10/01/1989,Australia,Melbourne Cricket Ground,2*,509,19.58,,12,40.17,,10,,,,27 years 2 days
+36.0,06/02/1989,New Zealand,Carisbrook,0,509,18.85,,12,40.17,,10,,,,27 years 29 days
+37.0,04/03/1989,New Zealand,AMI Stadium,2,511,18.25,,12,40.17,,10,,,,27 years 55 days
+38.0,08/03/1989,New Zealand,Basin Reserve,126*,637,22.75,,12,40.17,,10,,,,27 years 59 days
+39.0,11/03/1989,New Zealand,Eden Park,15,652,22.48,,12,40.17,,10,,,,27 years 62 days
+40.0,14/03/1989,New Zealand,Seddon Park,3,655,21.83,,12,40.17,,10,,,,27 years 65 days
+41.0,23/03/1989,Sri Lanka,Sharjah Cricket Stadium,76,731,23.58,,12,40.17,,10,,,,27 years 74 days
+42.0,24/03/1989,Sri Lanka,Sharjah Cricket Stadium,65,796,24.88,2/42,14,37.43,,10,,,,27 years 75 days
+43.0,14/10/1989,West Indies,Sharjah Cricket Stadium,45,841,25.48,1/17,15,36.07,,10,,,,27 years 279 days
+44.0,15/10/1989,India,Sharjah Cricket Stadium,65,906,26.65,0/18,15,37.27,,10,,,,27 years 280 days
+45.0,17/10/1989,West Indies,Sharjah Cricket Stadium,21,927,26.49,1/29,16,36.75,,10,,,,27 years 282 days
+46.0,20/10/1989,India,Sharjah Cricket Stadium,51,978,27.17,2/42,18,35.00,,10,,,,27 years 285 days
+47.0,22/10/1989,England,Barabati Stadium,3,981,26.51,,18,35.00,,10,,,,27 years 287 days
+48.0,23/10/1989,Australia,Brabourne Stadium,73,1054,27.74,1/10,19,33.68,,10,,,,27 years 288 days
+49.0,25/10/1989,West Indies,Gandhi Stadium,12,1066,27.33,0/20,19,34.74,,10,,,,27 years 290 days
+50.0,27/10/1989,Sri Lanka,"KD Singh ""Babu"" Stadium",11,1077,26.93,0/11,19,35.32,,10,,,,27 years 292 days
+51.0,20/12/1989,India,National Stadium (Karachi),13*,1090,27.25,,19,35.32,,10,,,,27 years 346 days
+52.0,22/12/1989,India,Gaddafi Stadium,26,1116,27.22,,19,35.32,,10,,,,27 years 348 days
+53.0,31/12/1989,Sri Lanka,WACA Ground,9,1125,26.79,,19,35.32,,10,,,,27 years 357 days
+54.0,03/01/1990,Australia,Melbourne Cricket Ground,22,1147,26.67,,19,35.32,,10,,,,27 years 360 days
+55.0,13/02/1990,Australia,Sydney Cricket Ground,9,1156,26.27,1/14,20,34.25,,10,,,,28 years 36 days
+56.0,02/11/1990,New Zealand,Gaddafi Stadium,12,1168,25.96,,20,34.25,,10,,,,28 years 298 days
+57.0,13/11/1990,West Indies,Ibn-e-Qasim Bagh Stadium,0,1168,25.39,,20,34.25,,10,,,,28 years 309 days
+58.0,24/08/1992,England,Old Trafford,9,1177,25.04,,20,34.25,,10,,,,30 years 228 days
+59.0,13/02/1993,West Indies,Wanderers Stadium,49,1226,25.54,0/6,20,34.55,,10,,,,31 years 36 days
+60.0,15/02/1993,South Africa,Buffalo Park,0,1226,25.02,0/11,20,35.10,1,11,,,,31 years 38 days
+61.0,19/02/1993,West Indies,Kingsmead,0,1226,24.52,0/23,20,36.25,1,12,,,,31 years 42 days
+62.0,27/02/1993,West Indies,Wanderers Stadium,0,1226,24.04,,20,36.25,,12,,,,31 years 50 days
+63.0,02/03/1993,Zimbabwe,Harare Sports Club,43,1269,24.40,,20,36.25,1,13,,,,31 years 53 days

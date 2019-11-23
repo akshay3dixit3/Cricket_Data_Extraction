@@ -1,0 +1,34 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,20/08/1980,Australia,Kennington Oval,32,32,32.00,,0,,1,1,,,,22 years 327 days
+2.0,22/08/1980,Australia,Edgbaston,51,83,41.50,,0,,,1,,,,22 years 329 days
+3.0,18/07/1986,New Zealand,Old Trafford,142*,225,112.50,,0,,,1,,,,28 years 294 days
+4.0,01/01/1987,Australia,WACA Ground,34,259,86.33,,0,,,1,,,,29 years 95 days
+5.0,03/01/1987,West Indies,WACA Ground,1,260,65.00,,0,,,1,,,,29 years 97 days
+6.0,05/01/1987,Pakistan,WACA Ground,42,302,60.40,,0,,1,2,,,,29 years 99 days
+7.0,07/01/1987,Pakistan,WACA Ground,1,303,50.50,,0,,2,4,,,,29 years 101 days
+8.0,17/01/1987,West Indies,Brisbane Cricket Ground,14,317,45.29,,0,,,4,,,,29 years 111 days
+9.0,18/01/1987,Australia,Brisbane Cricket Ground,111,428,53.50,,0,,,4,,,,29 years 112 days
+10.0,22/01/1987,Australia,Sydney Cricket Ground,2,430,47.78,,0,,3,7,,,,29 years 116 days
+11.0,24/01/1987,West Indies,Adelaide Oval,64,494,49.40,,0,,1,8,,,,29 years 118 days
+12.0,26/01/1987,Australia,Adelaide Oval,12,506,46.00,,0,,,8,,,,29 years 120 days
+13.0,30/01/1987,West Indies,Melbourne Cricket Ground,2,508,42.33,,0,,,8,,,,29 years 124 days
+14.0,01/02/1987,Australia,Melbourne Cricket Ground,29,537,41.31,,0,,2,10,,,,29 years 126 days
+15.0,03/02/1987,West Indies,Devonport Oval,3,540,38.57,,0,,1,11,,,,29 years 128 days
+16.0,08/02/1987,Australia,Melbourne Cricket Ground,12,552,36.80,,0,,,11,,,,29 years 133 days
+17.0,11/02/1987,Australia,Sydney Cricket Ground,16,568,35.50,,0,,,11,,,,29 years 136 days
+18.0,21/05/1987,Pakistan,Kennington Oval,33,601,35.35,,0,,,11,,,,29 years 235 days
+19.0,23/05/1987,Pakistan,Trent Bridge,1,602,33.44,,0,,,11,,,,29 years 237 days
+20.0,25/05/1987,Pakistan,Edgbaston,5,607,31.95,,0,,,11,,,,29 years 239 days
+21.0,17/10/1987,Sri Lanka,Arbab Niaz Stadium,2*,609,32.05,0/10,0,,,11,,,,30 years 19 days
+22.0,20/10/1987,Pakistan,National Stadium (Karachi),86,695,34.75,,0,,1,12,,,,30 years 22 days
+23.0,26/10/1987,West Indies,Sawai Mansingh Stadium,21,716,34.10,,0,,1,13,,,,30 years 28 days
+24.0,30/10/1987,Sri Lanka,Nehru Stadium (Pune),40*,756,36.00,,0,,,13,,,,30 years 32 days
+25.0,05/11/1987,India,Wankhede Stadium,4,760,34.55,,0,,1,14,,,,30 years 38 days
+26.0,08/11/1987,Australia,Eden Gardens,58,818,35.57,,0,,1,15,,,,30 years 41 days
+27.0,18/11/1987,Pakistan,Gaddafi Stadium,20,838,34.92,,0,,,15,,,,30 years 51 days
+28.0,20/11/1987,Pakistan,National Stadium (Karachi),-,838,34.92,,0,,1,16,,,,30 years 53 days
+29.0,22/11/1987,Pakistan,Arbab Niaz Stadium,6,844,33.76,,0,,,16,,,,30 years 55 days
+30.0,04/02/1988,Australia,Melbourne Cricket Ground,4,848,32.62,,0,,,16,,,,30 years 129 days
+31.0,16/03/1988,New Zealand,McLean Park,0,848,31.41,,0,,,16,,,,30 years 170 days

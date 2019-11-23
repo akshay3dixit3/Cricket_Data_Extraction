@@ -1,0 +1,48 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,21/01/2001,Zimbabwe,Melbourne Cricket Ground,-,0,,,0,,,0,,,,25 years 153 days
+2.0,22/01/2004,India,Sydney Cricket Ground,2,2,2.00,,0,,,0,,,,28 years 154 days
+3.0,01/02/2004,India,WACA Ground,18*,20,20.00,,0,,,0,,,,28 years 164 days
+4.0,06/02/2004,India,Melbourne Cricket Ground,-,20,20.00,,0,,,0,,,,28 years 169 days
+5.0,08/02/2004,India,Sydney Cricket Ground,11*,31,31.00,,0,,,0,,,,28 years 171 days
+6.0,29/02/2004,Sri Lanka,Sinhalese Sports Club Ground,13,44,22.00,,0,,1,1,,,,28 years 192 days
+7.0,16/01/2005,Pakistan,Bellerive Oval,38,82,27.33,,0,,,1,,,,29 years 148 days
+8.0,26/01/2005,West Indies,Adelaide Oval,76,158,39.50,,0,,,1,,,,29 years 158 days
+9.0,30/01/2005,Pakistan,WACA Ground,0,158,31.60,,0,,1,2,,,,29 years 162 days
+10.0,04/02/2005,Pakistan,Melbourne Cricket Ground,9,167,27.83,,0,,1,3,,,,29 years 167 days
+11.0,06/02/2005,Pakistan,Sydney Cricket Ground,5,172,24.57,,0,,1,4,,,,29 years 169 days
+12.0,19/02/2005,New Zealand,Westpac Stadium,0,172,21.50,,0,,1,5,,,,29 years 182 days
+13.0,26/02/2005,New Zealand,Eden Park,58,230,25.56,,0,,,5,,,,29 years 189 days
+14.0,01/03/2005,New Zealand,Basin Reserve,43,273,27.30,,0,,1,6,,,,29 years 192 days
+15.0,05/03/2005,New Zealand,McLean Park,5,278,25.27,,0,,,6,,,,29 years 196 days
+16.0,18/06/2005,Bangladesh,Sophia Gardens,36*,314,28.55,,0,,1,7,,,,29 years 301 days
+17.0,10/07/2005,England,Lord's,30,344,28.67,,0,,1,8,,,,29 years 323 days
+18.0,12/07/2005,England,Kennington Oval,-,344,28.67,,0,,,8,,,,29 years 325 days
+19.0,05/10/2005,ICC World XI,Etihad Stadium,58,402,30.92,,0,,,8,,,,30 years 45 days
+20.0,07/10/2005,ICC World XI,Etihad Stadium,47,449,32.07,,0,,,8,,,,30 years 47 days
+21.0,03/12/2005,New Zealand,Eden Park,54,503,33.53,,0,,,8,,,,30 years 104 days
+22.0,07/12/2005,New Zealand,Westpac Stadium,36,539,33.69,,0,,,8,,,,30 years 108 days
+23.0,10/12/2005,New Zealand,AMI Stadium,2,541,31.82,,0,,,8,,,,30 years 111 days
+24.0,13/01/2006,Sri Lanka,Etihad Stadium,60,601,33.39,,0,,1,9,,,,30 years 145 days
+25.0,15/01/2006,South Africa,Brisbane Cricket Ground,0,601,31.63,,0,,1,10,,,,30 years 147 days
+26.0,22/01/2006,Sri Lanka,Sydney Cricket Ground,19,620,31.00,,0,,,10,,,,30 years 154 days
+27.0,26/01/2006,Sri Lanka,Adelaide Oval,52,672,32.00,,0,,,10,,,,30 years 158 days
+28.0,29/01/2006,Sri Lanka,WACA Ground,82,754,34.27,,0,,,10,,,,30 years 161 days
+29.0,03/02/2006,South Africa,Etihad Stadium,25,779,33.87,,0,,,10,,,,30 years 166 days
+30.0,05/02/2006,South Africa,Sydney Cricket Ground,11,790,32.92,,0,,,10,,,,30 years 168 days
+31.0,10/02/2006,Sri Lanka,Adelaide Oval,56,846,33.84,,0,,,10,,,,30 years 173 days
+32.0,12/02/2006,Sri Lanka,Sydney Cricket Ground,1,847,32.58,,0,,,10,,,,30 years 175 days
+33.0,14/02/2006,Sri Lanka,Brisbane Cricket Ground,107*,954,36.69,,0,,1,11,,,,30 years 177 days
+34.0,26/02/2006,South Africa,SuperSport Park,2,956,35.41,,0,,,11,,,,30 years 189 days
+35.0,03/03/2006,South Africa,Newlands,16,972,34.71,,0,,,11,,,,30 years 194 days
+36.0,05/03/2006,South Africa,St George's Park,49,1021,35.21,,0,,,11,,,,30 years 196 days
+37.0,10/03/2006,South Africa,Kingsmead,46,1067,35.57,,0,,,11,,,,30 years 201 days
+38.0,12/03/2006,South Africa,Wanderers Stadium,79,1146,36.97,,0,,,11,,,,30 years 203 days
+39.0,23/04/2006,Bangladesh,Zahur Ahmed Chowdhury Stadium,18,1164,36.38,,0,,,11,,,,30 years 245 days
+40.0,26/04/2006,Bangladesh,Khan Shaheb Osman Ali Stadium,26,1190,36.06,,0,,,11,,,,30 years 248 days
+41.0,28/04/2006,Bangladesh,Khan Shaheb Osman Ali Stadium,42*,1232,37.33,,0,,1,12,,,,30 years 250 days
+42.0,12/09/2006,West Indies,Kinrara Academy Oval,36,1268,37.29,,0,,,12,,,,31 years 22 days
+43.0,18/09/2006,West Indies,Kinrara Academy Oval,22,1290,36.86,,0,,,12,,,,31 years 28 days
+44.0,22/09/2006,India,Kinrara Academy Oval,9,1299,36.08,,0,,,12,,,,31 years 32 days
+45.0,24/09/2006,West Indies,Kinrara Academy Oval,25,1324,35.78,,0,,1,13,,,,31 years 34 days

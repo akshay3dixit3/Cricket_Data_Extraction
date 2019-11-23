@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,07/06/1975,Pakistan,Headingley,25,25,25.00,,0,,,0,,,,28 years 178 days
+2.0,11/06/1975,Sri Lanka,Kennington Oval,73,98,49.00,,0,,,0,,,,28 years 182 days
+3.0,14/06/1975,West Indies,Kennington Oval,0,98,32.67,,0,,,0,,,,28 years 185 days
+4.0,18/06/1975,England,Headingley,15,113,28.25,,0,,,0,,,,28 years 189 days
+5.0,21/06/1975,West Indies,Lord's,7,120,24.00,,0,,,0,,,,28 years 192 days
+6.0,20/12/1975,West Indies,Adelaide Oval,0,120,20.00,,0,,,0,,,,29 years 8 days
+7.0,02/06/1977,England,Old Trafford,1,121,17.29,,0,,1,1,,,,30 years 173 days
+8.0,06/06/1977,England,Kennington Oval,11,132,16.50,,0,,,1,,,,30 years 177 days
+9.0,27/11/1979,West Indies,Sydney Cricket Ground,1,133,14.78,,0,,1,2,,,,32 years 351 days
+10.0,14/01/1980,England,Sydney Cricket Ground,41,174,17.40,,0,,1,3,,,,33 years 33 days
+11.0,18/01/1980,West Indies,Sydney Cricket Ground,95,269,24.45,,0,,,3,,,,33 years 37 days
+12.0,10/01/1982,West Indies,Melbourne Cricket Ground,20,289,24.08,,0,,,3,,,,35 years 30 days
+13.0,14/01/1982,Pakistan,Sydney Cricket Ground,13,302,23.23,,0,,,3,,,,35 years 34 days
+14.0,17/01/1982,West Indies,Brisbane Cricket Ground,18,320,22.86,,0,,,3,,,,35 years 37 days

@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,18/08/2008,Bermuda,Maple Leaf North - West Ground,34,34,34.00,1/27,1,27.00,2,2,,,,30 years 3 days
+2.0,22/08/2008,West Indies,Maple Leaf North - West Ground,89,123,61.50,3/31,4,14.50,1,3,,,,30 years 7 days
+3.0,24/08/2008,West Indies,Maple Leaf North - West Ground,61,184,61.33,0/19,4,19.25,,3,,,,30 years 9 days
+4.0,06/04/2009,Ireland,Willowmoore Park,3,187,46.75,0/21,4,24.50,,3,,,,30 years 234 days
+5.0,08/04/2009,Scotland,Willowmoore Park,0,187,37.40,2/15,6,18.83,,3,,,,30 years 236 days
+6.0,19/04/2009,Ireland,SuperSport Park,8,195,32.50,0/21,6,22.33,,3,,,,30 years 247 days
+7.0,07/07/2009,Scotland,Mannofield Park,47,242,34.57,0/58,6,32.00,1,4,,,,30 years 326 days
+8.0,08/07/2009,Scotland,Mannofield Park,13,255,31.88,0/43,6,39.17,,4,,,,30 years 327 days
+9.0,11/07/2009,Netherlands,VRA Ground,94,349,38.78,1/32,7,38.14,,4,,,,30 years 330 days
+10.0,19/08/2009,Kenya,Maple Leaf North - West Ground,76*,425,47.22,2/15,9,31.33,,4,,,,31 years 4 days
+11.0,22/08/2009,Kenya,Maple Leaf North - West Ground,1,426,42.60,,9,31.33,,4,,,,31 years 7 days
+12.0,16/02/2010,Afghanistan,Sharjah Cricket Stadium,61,487,44.27,0/66,9,38.67,2,6,,,,31 years 185 days
+13.0,18/02/2010,Afghanistan,Sharjah Cricket Stadium,8,495,41.25,2/24,11,33.82,1,7,,,,31 years 187 days
+14.0,13/04/2010,West Indies,Sabina Park,10,505,38.85,1/63,12,36.25,1,8,,,,31 years 241 days
+15.0,01/07/2010,Afghanistan,Sportpark Westvliet,4,509,36.36,0/11,12,37.17,,8,,,,31 years 320 days
+16.0,03/07/2010,Scotland,VRA Ground,2,511,34.07,1/46,13,37.85,,8,,,,31 years 322 days
+17.0,05/07/2010,Netherlands,Hazelaarweg,5,516,32.25,0/30,13,40.15,,8,,,,31 years 324 days
+18.0,07/07/2010,Ireland,VRA Ground,6,522,30.71,0/14,13,41.23,,8,,,,31 years 326 days
+19.0,09/07/2010,Kenya,Sportpark Thurlede,-,522,30.71,2/29,15,37.67,,8,,,,31 years 328 days
+20.0,10/07/2010,Kenya,Sportpark Thurlede,1,523,29.06,3/39,18,33.56,,8,,,,31 years 329 days
+21.0,06/09/2010,Ireland,"Cricket, Skating & Curling Club",0,523,27.53,1/19,19,32.79,1,9,,,,32 years 22 days
+22.0,20/02/2011,Sri Lanka,Mahinda Rajapaksha International Cricket Stadium,37,560,28.00,1/47,20,33.50,,9,,,,32 years 189 days
+23.0,28/02/2011,Zimbabwe,Vidarbha Cricket Association Stadium,14,574,27.33,1/51,21,34.33,,9,,,,32 years 197 days
+24.0,03/03/2011,Pakistan,R Premadasa Stadium,4,578,26.27,2/33,23,32.78,,9,,,,32 years 200 days
+25.0,07/03/2011,Kenya,Arun Jaitley Stadium,17,595,25.87,2/30,25,31.36,,9,,,,32 years 204 days
+26.0,13/03/2011,New Zealand,Wankhede Stadium,2,597,24.88,0/64,25,33.92,,9,,,,32 years 210 days
+27.0,16/03/2011,Australia,M Chinnaswamy Stadium,2,599,23.96,0/23,25,34.84,,9,,,,32 years 213 days
+28.0,07/08/2011,Afghanistan,Maple Leaf North - West Ground,36,635,24.42,3/53,28,33.00,2,11,,,,32 years 357 days
+29.0,09/08/2011,Afghanistan,"Cricket, Skating & Curling Club",36,671,24.85,3/25,31,30.61,1,12,,,,32 years 359 days
+30.0,19/09/2011,Ireland,Castle Avenue,36,707,25.25,0/52,31,32.29,1,13,,,,33 years 34 days
+31.0,20/09/2011,Ireland,Castle Avenue,0,707,24.38,1/28,32,32.16,1,14,,,,33 years 35 days
+32.0,11/03/2013,Kenya,ICC Global Cricket Academy,2,709,23.63,0/41,32,33.44,1,15,,,,34 years 208 days
+33.0,13/03/2013,Kenya,ICC Global Cricket Academy,55,764,24.65,0/25,32,34.22,,15,,,,34 years 210 days

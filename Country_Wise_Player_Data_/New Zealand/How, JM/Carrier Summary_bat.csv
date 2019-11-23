@@ -1,0 +1,44 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,31/12/2005,Sri Lanka,Queenstown Events Centre,58,58,58.00,,0,,1,1,,,,24 years 226 days
+2.0,03/01/2006,Sri Lanka,AMI Stadium,12,70,35.00,,0,,,1,,,,24 years 229 days
+3.0,06/01/2006,Sri Lanka,Westpac Stadium,5,75,25.00,,0,,1,2,,,,24 years 232 days
+4.0,08/01/2006,Sri Lanka,McLean Park,-,75,25.00,,0,,,2,,,,24 years 234 days
+5.0,18/02/2006,West Indies,Westpac Stadium,66,141,35.25,,0,,,2,,,,24 years 275 days
+6.0,22/02/2006,West Indies,Queenstown Events Centre,0,141,28.20,,0,,,2,,,,24 years 279 days
+7.0,25/11/2007,South Africa,Kingsmead,90,231,38.50,,0,,,2,,,,26 years 189 days
+8.0,30/11/2007,South Africa,St George's Park,76,307,43.86,,0,,,2,,,,26 years 194 days
+9.0,02/12/2007,South Africa,Newlands,15,322,40.25,,0,,,2,,,,26 years 196 days
+10.0,14/12/2007,Australia,Adelaide Oval,20,342,38.00,,0,,,2,,,,26 years 208 days
+11.0,16/12/2007,Australia,Sydney Cricket Ground,4,346,34.60,,0,,,2,,,,26 years 210 days
+12.0,20/12/2007,Australia,Bellerive Oval,2,348,31.64,,0,,1,3,,,,26 years 214 days
+13.0,26/12/2007,Bangladesh,Eden Park,88,436,36.33,,0,,1,4,,,,26 years 220 days
+14.0,28/12/2007,Bangladesh,McLean Park,74,510,39.23,,0,,,4,,,,26 years 222 days
+15.0,31/12/2007,Bangladesh,Queenstown Events Centre,7*,517,39.77,,0,,,4,,,,26 years 225 days
+16.0,09/02/2008,England,Westpac Stadium,28,545,38.93,,0,,,4,,,,26 years 265 days
+17.0,12/02/2008,England,Seddon Park,-,545,38.93,,0,,,4,,,,26 years 268 days
+18.0,15/02/2008,England,Eden Park,10,555,37.00,,0,,,4,,,,26 years 271 days
+19.0,20/02/2008,England,McLean Park,139,694,43.38,,0,,,4,,,,26 years 276 days
+20.0,23/02/2008,England,AMI Stadium,24,718,42.24,,0,,1,5,,,,26 years 279 days
+21.0,15/06/2008,England,Riverside Ground,20,738,41.00,,0,,1,6,,,,27 years 27 days
+22.0,18/06/2008,England,Edgbaston,16,754,39.68,,0,,,6,,,,27 years 30 days
+23.0,21/06/2008,England,County Ground (Bristol),10,764,38.20,,0,,1,7,,,,27 years 33 days
+24.0,25/06/2008,England,Kennington Oval,37,801,38.14,,0,,2,9,,,,27 years 37 days
+25.0,27/06/2008,England,Lord's,22,823,37.41,,0,,,9,,,,27 years 39 days
+26.0,09/10/2008,Bangladesh,Shere Bangla National Stadium,7,830,36.09,,0,,,9,,,,27 years 143 days
+27.0,11/10/2008,Bangladesh,Shere Bangla National Stadium,0,830,34.58,,0,,,9,,,,27 years 145 days
+28.0,14/10/2008,Bangladesh,Zahur Ahmed Chowdhury Stadium,73,903,36.12,,0,,1,10,,,,27 years 148 days
+29.0,31/12/2008,West Indies,Queenstown Events Centre,-,903,36.12,,0,,,10,,,,27 years 226 days
+30.0,03/01/2009,West Indies,AMI Stadium,27,930,35.77,,0,,,10,,,,27 years 229 days
+31.0,07/01/2009,West Indies,Westpac Stadium,0,930,34.44,,0,,3,13,,,,27 years 233 days
+32.0,28/11/2010,India,Nehru Stadium (Guwahati),9,939,33.54,,0,,4,17,,,,29 years 192 days
+33.0,01/12/2010,India,Sawai Mansingh Stadium,5,944,32.55,,0,,,17,,,,29 years 195 days
+34.0,07/12/2010,India,M Chinnaswamy Stadium,4,948,31.60,,0,,1,18,,,,29 years 201 days
+35.0,10/12/2010,India,MA Chidambaram Stadium,23,971,31.32,,0,,,18,,,,29 years 204 days
+36.0,26/01/2011,Pakistan,Queenstown Events Centre,-,971,31.32,,0,,,18,,,,29 years 251 days
+37.0,29/01/2011,Pakistan,AMI Stadium,24,995,31.09,,0,,,18,,,,29 years 254 days
+38.0,01/02/2011,Pakistan,McLean Park,13,1008,30.55,,0,,,18,,,,29 years 257 days
+39.0,03/02/2011,Pakistan,Seddon Park,12,1020,30.00,,0,,1,19,,,,29 years 259 days
+40.0,25/02/2011,Australia,Vidarbha Cricket Association Stadium,22,1042,29.77,,0,,,19,,,,29 years 281 days
+41.0,08/03/2011,Pakistan,Pallekele International Cricket Stadium,4,1046,29.06,,0,,,19,,,,29 years 292 days

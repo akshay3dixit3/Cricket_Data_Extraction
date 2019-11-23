@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,25/01/2002,England,MA Chidambaram Stadium,1,1,1.00,1/40,1,40.00,,0,,,,29 years 105 days
+2.0,07/03/2002,Zimbabwe,Nahar Singh Stadium,0,1,0.50,2/42,3,27.33,,0,,,,29 years 146 days
+3.0,10/03/2002,Zimbabwe,Punjab Cricket Association IS Bindra Stadium,0,1,0.33,0/32,3,38.00,1,1,,,,29 years 149 days
+4.0,13/03/2002,Zimbabwe,Nehru Stadium (Kochi),36,37,9.25,0/18,3,44.00,,1,,,,29 years 152 days
+5.0,15/11/2002,West Indies,Sardar Patel Stadium,57*,94,23.50,0/13,3,48.33,,1,,,,30 years 34 days
+6.0,18/11/2002,West Indies,Reliance Stadium,27,121,24.20,0/6,3,50.33,,1,,,,30 years 37 days
+7.0,21/11/2002,West Indies,Barkatullah Khan Stadium,32*,153,30.60,2/39,5,38.00,2,3,,,,30 years 40 days
+8.0,24/11/2002,West Indies,Indira Gandhi Stadium,2,155,25.83,0/39,5,45.80,,3,,,,30 years 43 days
+9.0,29/12/2002,New Zealand,McLean Park,4,159,22.71,0/34,5,52.60,,3,,,,30 years 78 days
+10.0,01/01/2003,New Zealand,AMI Stadium,1,160,20.00,0/7,5,54.00,,3,,,,30 years 81 days
+11.0,11/01/2003,New Zealand,Eden Park,1,161,17.89,0/22,5,58.40,1,4,,,,30 years 91 days
+12.0,16/04/2003,Bangladesh,Bangabandhu National Stadium,7,168,16.80,1/31,6,53.83,,4,,,,30 years 186 days
+13.0,18/04/2003,South Africa,Bangabandhu National Stadium,9,177,16.09,,6,53.83,,4,,,,30 years 188 days
+14.0,09/01/2004,Australia,Melbourne Cricket Ground,3,180,15.00,0/19,6,57.00,,4,,,,31 years 89 days
+15.0,24/01/2004,Zimbabwe,Adelaide Oval,0,180,13.85,1/42,7,54.86,,4,,,,31 years 104 days

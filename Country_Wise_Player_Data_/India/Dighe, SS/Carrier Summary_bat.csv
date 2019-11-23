@@ -1,0 +1,26 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,10/01/2000,Pakistan,Brisbane Cricket Ground,6,6,6.00,,0,,,0,1,,1,31 years 93 days
+2.0,12/01/2000,Australia,Melbourne Cricket Ground,3,9,4.50,,0,,,0,,,1,31 years 95 days
+3.0,14/01/2000,Australia,Sydney Cricket Ground,2,11,3.67,,0,,,0,,,1,31 years 97 days
+4.0,21/01/2000,Pakistan,Bellerive Oval,11*,22,7.33,,0,,,0,4,,5,31 years 104 days
+5.0,25/01/2000,Pakistan,Adelaide Oval,0*,22,7.33,,0,,,0,1,,6,31 years 108 days
+6.0,26/01/2000,Australia,Adelaide Oval,25,47,11.75,,0,,,0,,1,7,31 years 109 days
+7.0,28/01/2000,Pakistan,WACA Ground,2,49,9.80,,0,,,0,,,7,31 years 111 days
+8.0,30/01/2000,Australia,WACA Ground,36*,85,17.00,,0,,,0,1,,8,31 years 113 days
+9.0,09/03/2000,South Africa,Nehru Stadium (Kochi),5,90,15.00,,0,,,0,,,8,31 years 152 days
+10.0,12/03/2000,South Africa,Keenan Stadium,-,90,15.00,,0,,,0,4,,12,31 years 155 days
+11.0,15/03/2000,South Africa,Nahar Singh Stadium,17*,107,17.83,,0,,,0,,,12,31 years 158 days
+12.0,24/06/2001,Zimbabwe,Harare Sports Club,-,107,17.83,,0,,,0,1,,13,32 years 259 days
+13.0,27/06/2001,Zimbabwe,Queens Sports Club,9,116,16.57,,0,,,0,,,13,32 years 262 days
+14.0,30/06/2001,West Indies,Queens Sports Club,-,116,16.57,,0,,,0,1,,14,32 years 265 days
+15.0,04/07/2001,West Indies,Harare Sports Club,-,116,16.57,,0,,,0,,,14,32 years 269 days
+16.0,07/07/2001,West Indies,Harare Sports Club,94*,210,30.00,,0,,,0,,,14,32 years 272 days
+17.0,20/07/2001,New Zealand,R Premadasa Stadium,9,219,27.38,,0,,,0,,2,16,32 years 285 days
+18.0,22/07/2001,Sri Lanka,R Premadasa Stadium,11*,230,28.75,,0,,,0,2,1,19,32 years 287 days
+19.0,26/07/2001,New Zealand,R Premadasa Stadium,0,230,25.56,,0,,,0,1,,20,32 years 291 days
+20.0,28/07/2001,Sri Lanka,R Premadasa Stadium,-,230,25.56,,0,,,0,2,,22,32 years 293 days
+21.0,01/08/2001,Sri Lanka,Sinhalese Sports Club Ground,3,233,23.30,,0,,,0,1,,23,32 years 297 days
+22.0,02/08/2001,New Zealand,Sinhalese Sports Club Ground,-,233,23.30,,0,,,0,,1,24,32 years 298 days
+23.0,05/08/2001,Sri Lanka,R Premadasa Stadium,23,256,23.27,,0,,,0,,,24,32 years 301 days

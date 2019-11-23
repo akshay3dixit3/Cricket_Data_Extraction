@@ -1,0 +1,26 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,15/06/2010,Scotland,Hazelaarweg,80*,80,,,0,,,0,,,,23 years 201 days
+2.0,01/07/2010,Scotland,VRA Ground,87,167,167.00,1/50,1,50.00,,0,,,,23 years 217 days
+3.0,03/07/2010,Kenya,Sportpark Westvliet,67,234,117.00,1/18,2,34.00,,0,,,,23 years 219 days
+4.0,05/07/2010,Canada,Hazelaarweg,39,273,91.00,,2,34.00,2,2,,,,23 years 221 days
+5.0,07/07/2010,Afghanistan,Sportpark Westvliet,101,374,93.50,2/19,4,21.75,,2,,,,23 years 223 days
+6.0,09/07/2010,Ireland,VRA Ground,18,392,78.40,,4,21.75,1,3,,,,23 years 225 days
+7.0,10/07/2010,Afghanistan,Hazelaarweg,96,488,81.33,1/16,5,20.60,1,4,,,,23 years 226 days
+8.0,20/07/2010,Bangladesh,Titwood,8,496,70.86,0/10,5,22.60,,4,,,,23 years 236 days
+9.0,16/08/2010,Ireland,Castle Avenue,68,564,70.50,,5,22.60,2,6,,,,23 years 263 days
+10.0,18/08/2010,Ireland,Castle Avenue,25,589,65.44,0/6,5,23.80,,6,,,,23 years 265 days
+11.0,22/02/2011,England,Vidarbha Cricket Association Stadium,47,636,63.60,0/23,5,28.40,1,7,,,,24 years 88 days
+12.0,28/02/2011,West Indies,Arun Jaitley Stadium,55*,691,69.10,0/37,5,35.80,,7,,,,24 years 94 days
+13.0,03/03/2011,South Africa,Punjab Cricket Association IS Bindra Stadium,9,700,63.64,0/18,5,39.40,1,8,,,,24 years 97 days
+14.0,09/03/2011,India,Arun Jaitley Stadium,29,729,60.75,0/11,5,41.60,,8,,,,24 years 103 days
+15.0,14/03/2011,Bangladesh,Zahur Ahmed Chowdhury Stadium,29,758,58.31,2/33,7,34.43,,8,,,,24 years 108 days
+16.0,18/03/2011,Ireland,Eden Gardens,5,763,54.50,2/31,9,30.22,,8,,,,24 years 112 days
+17.0,28/06/2011,Scotland,Mannofield Park,75,838,55.87,0/10,9,31.33,,8,,,,24 years 214 days
+18.0,29/06/2011,Scotland,Mannofield Park,26,864,54.00,0/17,9,33.22,2,10,,,,24 years 215 days
+19.0,29/03/2012,Afghanistan,Sharjah Cricket Stadium,-,864,54.00,3/11,12,25.83,,10,,,,25 years 123 days
+20.0,31/03/2012,Afghanistan,Sharjah Cricket Stadium,52,916,53.88,0/22,12,27.67,,10,,,,25 years 125 days
+21.0,31/05/2013,South Africa,VRA Ground,14,930,51.67,0/40,12,31.00,,10,,,,26 years 186 days
+22.0,07/07/2013,Ireland,VRA Ground,8,938,49.37,0/23,12,32.92,1,11,,,,26 years 223 days
+23.0,09/07/2013,Ireland,VRA Ground,38,976,48.80,1/43,13,33.69,1,12,,,,26 years 225 days

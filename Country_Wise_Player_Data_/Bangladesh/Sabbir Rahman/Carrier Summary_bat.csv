@@ -1,0 +1,69 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,21/11/2014,Zimbabwe,Zahur Ahmed Chowdhury Stadium,44*,44,,0/6,0,,1,1,,,,22 years 364 days
+2.0,23/11/2014,Zimbabwe,Zahur Ahmed Chowdhury Stadium,0,44,44.00,0/14,0,,,1,,,,23 years 1 days
+3.0,26/11/2014,Zimbabwe,Shere Bangla National Stadium,22,66,33.00,0/16,0,,,1,,,,23 years 4 days
+4.0,28/11/2014,Zimbabwe,Shere Bangla National Stadium,4,70,23.33,,0,,,1,,,,23 years 6 days
+5.0,01/12/2014,Zimbabwe,Shere Bangla National Stadium,13*,83,27.67,,0,,,1,,,,23 years 9 days
+6.0,18/02/2015,Afghanistan,Manuka Oval,3,86,21.50,0/4,0,,1,2,,,,23 years 88 days
+7.0,26/02/2015,Sri Lanka,Melbourne Cricket Ground,53,139,27.80,0/26,0,,,2,,,,23 years 96 days
+8.0,04/03/2015,Scotland,Saxton Oval,42*,181,36.20,1/47,1,113.00,2,4,,,,23 years 102 days
+9.0,09/03/2015,England,Adelaide Oval,14,195,32.50,0/13,1,126.00,,4,,,,23 years 107 days
+10.0,13/03/2015,New Zealand,Seddon Park,40,235,33.57,0/14,1,140.00,,4,,,,23 years 111 days
+11.0,19/03/2015,India,Melbourne Cricket Ground,30,265,33.13,,1,140.00,,4,,,,23 years 117 days
+12.0,17/04/2015,Pakistan,Shere Bangla National Stadium,15,280,31.11,,1,140.00,,4,,,,23 years 146 days
+13.0,19/04/2015,Pakistan,Shere Bangla National Stadium,-,280,31.11,,1,140.00,,4,,,,23 years 148 days
+14.0,22/04/2015,Pakistan,Shere Bangla National Stadium,-,280,31.11,0/17,1,157.00,,4,,,,23 years 151 days
+15.0,18/06/2015,India,Shere Bangla National Stadium,41,321,32.10,,1,157.00,,4,,,,23 years 208 days
+16.0,21/06/2015,India,Shere Bangla National Stadium,22*,343,34.30,,1,157.00,1,5,,,,23 years 211 days
+17.0,24/06/2015,India,Shere Bangla National Stadium,43,386,35.09,,1,157.00,,5,,,,23 years 214 days
+18.0,10/07/2015,South Africa,Shere Bangla National Stadium,5,391,32.58,0/4,1,161.00,1,6,,,,23 years 230 days
+19.0,12/07/2015,South Africa,Shere Bangla National Stadium,-,391,32.58,,1,161.00,2,8,,,,23 years 232 days
+20.0,15/07/2015,South Africa,Zahur Ahmed Chowdhury Stadium,-,391,32.58,,1,161.00,2,10,,,,23 years 235 days
+21.0,07/11/2015,Zimbabwe,Shere Bangla National Stadium,57,448,34.46,,1,161.00,,10,,,,23 years 350 days
+22.0,09/11/2015,Zimbabwe,Shere Bangla National Stadium,33,481,34.36,,1,161.00,,10,,,,23 years 352 days
+23.0,11/11/2015,Zimbabwe,Shere Bangla National Stadium,1,482,32.13,1/12,2,86.50,3,13,,,,23 years 354 days
+24.0,25/09/2016,Afghanistan,Shere Bangla National Stadium,2,484,30.25,,2,86.50,2,15,,,,24 years 308 days
+25.0,28/09/2016,Afghanistan,Shere Bangla National Stadium,4,488,28.71,0/8,2,90.50,1,16,,,,24 years 311 days
+26.0,01/10/2016,Afghanistan,Shere Bangla National Stadium,65,553,30.72,,2,90.50,2,18,,,,24 years 314 days
+27.0,07/10/2016,England,Shere Bangla National Stadium,18,571,30.05,,2,90.50,2,20,,,,24 years 320 days
+28.0,09/10/2016,England,Shere Bangla National Stadium,3,574,28.70,,2,90.50,,20,,,,24 years 322 days
+29.0,12/10/2016,England,Zahur Ahmed Chowdhury Stadium,49,623,29.67,,2,90.50,,20,,,,24 years 325 days
+30.0,26/12/2016,New Zealand,Hagley Oval,16,639,29.05,,2,90.50,,20,,,,25 years 34 days
+31.0,29/12/2016,New Zealand,Saxton Oval,38,677,29.43,,2,90.50,,20,,,,25 years 37 days
+32.0,31/12/2016,New Zealand,Saxton Oval,19,696,29.00,0/20,2,100.50,,20,,,,25 years 39 days
+33.0,25/03/2017,Sri Lanka,Rangiri Dambulla International Stadium,54,750,30.00,,2,100.50,1,21,,,,25 years 123 days
+34.0,28/03/2017,Sri Lanka,Rangiri Dambulla International Stadium,-,750,30.00,,2,100.50,,21,,,,25 years 126 days
+35.0,01/04/2017,Sri Lanka,Sinhalese Sports Club Ground,0,750,28.85,,2,100.50,,21,,,,25 years 130 days
+36.0,12/05/2017,Ireland,The Village,0,750,27.78,,2,100.50,,21,,,,25 years 171 days
+37.0,17/05/2017,New Zealand,Castle Avenue,1,751,26.82,,2,100.50,,21,,,,25 years 176 days
+38.0,19/05/2017,Ireland,The Village,35,786,27.10,,2,100.50,1,22,,,,25 years 178 days
+39.0,24/05/2017,New Zealand,Castle Avenue,65,851,28.37,,2,100.50,,22,,,,25 years 183 days
+40.0,01/06/2017,England,Kennington Oval,24,875,28.23,1/13,3,71.33,,22,,,,25 years 191 days
+41.0,05/06/2017,Australia,Kennington Oval,8,883,27.59,,3,71.33,,22,,,,25 years 195 days
+42.0,09/06/2017,New Zealand,Sophia Gardens,8,891,27.00,,3,71.33,,22,,,,25 years 199 days
+43.0,15/06/2017,India,Edgbaston,19,910,26.76,0/11,3,75.00,,22,,,,25 years 205 days
+44.0,15/10/2017,South Africa,Diamond Oval,19,929,26.54,,3,75.00,,22,,,,25 years 327 days
+45.0,18/10/2017,South Africa,Boland Park,17,946,26.28,0/11,3,78.67,1,23,,,,25 years 330 days
+46.0,22/10/2017,South Africa,Buffalo Park,39,985,26.62,0/8,3,81.33,,23,,,,25 years 334 days
+47.0,15/01/2018,Zimbabwe,Shere Bangla National Stadium,-,985,26.62,,3,81.33,2,25,,,,26 years 54 days
+48.0,19/01/2018,Sri Lanka,Shere Bangla National Stadium,24*,1009,27.27,,3,81.33,,25,,,,26 years 58 days
+49.0,23/01/2018,Zimbabwe,Shere Bangla National Stadium,6,1015,26.71,,3,81.33,3,28,,,,26 years 62 days
+50.0,25/01/2018,Sri Lanka,Shere Bangla National Stadium,10,1025,26.28,,3,81.33,,28,,,,26 years 64 days
+51.0,27/01/2018,Sri Lanka,Shere Bangla National Stadium,2,1027,25.68,,3,81.33,1,29,,,,26 years 66 days
+52.0,22/07/2018,West Indies,Providence Stadium,3,1030,25.12,,3,81.33,,29,,,,26 years 242 days
+53.0,25/07/2018,West Indies,Providence Stadium,12,1042,24.81,,3,81.33,1,30,,,,26 years 245 days
+54.0,28/07/2018,West Indies,Warner Park,12,1054,24.51,,3,81.33,,30,,,,26 years 248 days
+55.0,13/02/2019,New Zealand,McLean Park,13,1067,24.25,0/41,3,95.00,,30,,,,27 years 83 days
+56.0,16/02/2019,New Zealand,Hagley Oval,43,1110,24.67,0/28,3,104.33,,30,,,,27 years 86 days
+57.0,20/02/2019,New Zealand,University Oval,102,1212,26.35,,3,104.33,,30,,,,27 years 90 days
+58.0,07/05/2019,West Indies,Castle Avenue,-,1212,26.35,,3,104.33,1,31,,,,27 years 166 days
+59.0,13/05/2019,West Indies,The Village,0*,1212,26.35,,3,104.33,1,32,,,,27 years 172 days
+60.0,15/05/2019,Ireland,Castle Avenue,7*,1219,26.50,,3,104.33,,32,,,,27 years 174 days
+61.0,17/05/2019,West Indies,The Village,0,1219,25.94,0/12,3,108.33,,32,,,,27 years 176 days
+62.0,20/06/2019,Australia,Trent Bridge,0,1219,25.40,,3,108.33,,32,,,,27 years 210 days
+63.0,02/07/2019,India,Edgbaston,36,1255,25.61,,3,108.33,,32,,,,27 years 222 days
+64.0,26/07/2019,Sri Lanka,R Premadasa Stadium,60,1315,26.30,,3,108.33,2,34,,,,27 years 246 days
+65.0,28/07/2019,Sri Lanka,R Premadasa Stadium,11,1326,26.00,0/20,3,115.00,,34,,,,27 years 248 days
+66.0,31/07/2019,Sri Lanka,R Premadasa Stadium,7,1333,25.63,,3,115.00,3,37,,,,27 years 251 days

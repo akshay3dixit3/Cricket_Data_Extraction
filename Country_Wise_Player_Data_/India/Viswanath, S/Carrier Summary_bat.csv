@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,20/01/1985,England,M Chinnaswamy Stadium,6*,6,,,0,,,0,2,,2,22 years 52 days
+2.0,23/01/1985,England,Vidarbha Cricket Association Ground,23*,29,,,0,,,0,,1,3,22 years 55 days
+3.0,27/01/1985,England,Sector 16 Stadium,-,29,,,0,,,0,,,3,22 years 59 days
+4.0,20/02/1985,Pakistan,Melbourne Cricket Ground,-,29,,,0,,,0,1,,4,22 years 83 days
+5.0,26/02/1985,England,Sydney Cricket Ground,8,37,37.00,,0,,,0,3,2,9,22 years 89 days
+6.0,03/03/1985,Australia,Melbourne Cricket Ground,-,37,37.00,,0,,,0,1,,10,22 years 94 days
+7.0,05/03/1985,New Zealand,Sydney Cricket Ground,-,37,37.00,,0,,,0,2,,12,22 years 96 days
+8.0,10/03/1985,Pakistan,Melbourne Cricket Ground,-,37,37.00,,0,,,0,2,1,15,22 years 101 days
+9.0,22/03/1985,Pakistan,Sharjah Cricket Stadium,3*,40,40.00,,0,,,0,1,1,17,22 years 113 days
+10.0,29/03/1985,Australia,Sharjah Cricket Stadium,-,40,40.00,,0,,,0,1,,18,22 years 120 days
+11.0,25/08/1985,Sri Lanka,Sinhalese Sports Club Ground,7*,47,47.00,,0,,,0,,,18,22 years 269 days
+12.0,21/09/1985,Sri Lanka,P Sara Oval,-,47,47.00,,0,,,0,,,18,22 years 296 days
+13.0,22/09/1985,Sri Lanka,P Sara Oval,-,47,47.00,,0,,,0,1,,19,22 years 297 days
+14.0,20/03/1987,Pakistan,Lal Bahadur Shastri Stadium,1,48,24.00,,0,,,0,,1,20,24 years 111 days
+15.0,22/03/1987,Pakistan,Nehru Stadium (Pune),5,53,17.67,,0,,,0,,,20,24 years 113 days
+16.0,24/03/1987,Pakistan,Vidarbha Cricket Association Ground,6,59,14.75,,0,,,0,,,20,24 years 115 days
+17.0,26/03/1987,Pakistan,Keenan Stadium,-,59,14.75,,0,,,0,1,,21,24 years 117 days
+18.0,02/04/1987,England,Sharjah Cricket Stadium,3,62,12.40,,0,,,0,,1,22,24 years 124 days
+19.0,05/04/1987,Australia,Sharjah Cricket Stadium,-,62,12.40,,0,,,0,1,,23,24 years 127 days
+20.0,10/04/1987,Pakistan,Sharjah Cricket Stadium,2,64,10.67,,0,,,0,,,23,24 years 132 days
+21.0,05/01/1988,West Indies,Madhavrao Scindia Cricket Ground,1,65,9.29,,0,,,0,1,,24,25 years 36 days
+22.0,07/01/1988,West Indies,Sardar Patel Stadium,7,72,9.00,,0,,,0,,,24,25 years 38 days

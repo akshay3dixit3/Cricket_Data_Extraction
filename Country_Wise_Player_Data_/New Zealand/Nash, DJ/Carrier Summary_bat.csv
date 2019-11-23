@@ -1,0 +1,84 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,31/10/1992,Zimbabwe,Bulawayo Athletic Club,3,3,3.00,0/5,0,,,0,,,,20 years 346 days
+2.0,04/12/1992,Sri Lanka,R Premadasa Stadium,9,12,6.00,0/11,0,,,0,,,,21 years 14 days
+3.0,12/12/1992,Sri Lanka,P Sara Oval,40*,52,26.00,0/15,0,,1,1,,,,21 years 22 days
+4.0,13/12/1992,Sri Lanka,R Premadasa Stadium,8,60,20.00,0/44,0,,,1,,,,21 years 23 days
+5.0,25/03/1994,India,McLean Park,1*,61,20.33,1/34,1,109.00,,1,,,,22 years 125 days
+6.0,30/03/1994,India,Basin Reserve,6,67,16.75,1/55,2,82.00,,1,,,,22 years 130 days
+7.0,02/04/1994,India,AMI Stadium,-,67,16.75,0/33,2,98.50,1,2,,,,22 years 133 days
+8.0,18/04/1994,Sri Lanka,Sharjah Cricket Stadium,2,69,13.80,3/43,5,48.00,1,3,,,,22 years 149 days
+9.0,20/04/1994,Pakistan,Sharjah Cricket Stadium,2,71,11.83,1/60,6,50.00,,3,,,,22 years 151 days
+10.0,19/05/1994,England,Edgbaston,0,71,10.14,0/20,6,53.33,1,4,,,,22 years 180 days
+11.0,26/10/1994,West Indies,Nehru Stadium (Margao),-,71,10.14,0/25,6,57.50,,4,,,,22 years 340 days
+12.0,28/10/1994,India,Reliance Stadium,-,71,10.14,0/51,6,66.00,,4,,,,22 years 342 days
+13.0,01/11/1994,West Indies,Nehru Stadium (Guwahati),20*,91,13.00,3/48,9,49.33,,4,,,,22 years 346 days
+14.0,03/11/1994,India,Arun Jaitley Stadium,3,94,11.75,1/50,10,49.40,,4,,,,22 years 348 days
+15.0,18/12/1994,Sri Lanka,Buffalo Park,-,94,11.75,2/52,12,45.50,,4,,,,23 years 28 days
+16.0,15/11/1995,India,Keenan Stadium,-,94,11.75,2/56,14,43.00,1,5,,,,23 years 360 days
+17.0,18/11/1995,India,Gandhi Sports Complex Ground,0,94,10.44,1/17,15,41.27,,5,,,,23 years 363 days
+18.0,24/11/1995,India,Nehru Stadium (Pune),-,94,10.44,0/48,15,44.47,,5,,,,24 years 4 days
+19.0,26/11/1995,India,Vidarbha Cricket Association Ground,4*,98,10.89,0/35,15,46.80,1,6,,,,24 years 6 days
+20.0,29/11/1995,India,Brabourne Stadium,11,109,10.90,0/25,15,48.47,,6,,,,24 years 9 days
+21.0,31/01/1996,Zimbabwe,Basin Reserve,-,109,10.90,3/30,18,42.06,,6,,,,24 years 72 days
+22.0,03/02/1996,Zimbabwe,McLean Park,4,113,10.27,1/39,19,41.89,,6,,,,24 years 75 days
+23.0,14/02/1996,England,Sardar Patel Stadium,-,113,10.27,3/26,22,37.36,,6,,,,24 years 86 days
+24.0,27/02/1996,United Arab Emirates,Iqbal Stadium,8,121,10.08,2/34,24,35.67,,6,,,,24 years 99 days
+25.0,06/03/1996,Pakistan,Gaddafi Stadium,5*,126,10.50,0/49,24,37.71,,6,,,,24 years 107 days
+26.0,11/03/1996,Australia,MA Chidambaram Stadium,-,126,10.50,1/44,25,37.96,,6,,,,24 years 112 days
+27.0,26/03/1996,West Indies,Sabina Park,2,128,9.85,0/46,25,39.80,,6,,,,24 years 127 days
+28.0,29/03/1996,West Indies,Queen's Park Oval,-,128,9.85,1/29,26,39.38,,6,,,,24 years 130 days
+29.0,09/01/1998,South Africa,Brisbane Cricket Ground,38,166,11.86,1/52,27,39.85,2,8,,,,26 years 50 days
+30.0,14/01/1998,Australia,Sydney Cricket Ground,5,171,11.40,0/56,27,41.93,1,9,,,,26 years 55 days
+31.0,16/01/1998,South Africa,WACA Ground,15,186,11.63,0/41,27,43.44,1,10,,,,26 years 57 days
+32.0,21/01/1998,Australia,Melbourne Cricket Ground,-,186,11.63,0/24,27,44.33,1,11,,,,26 years 62 days
+33.0,04/02/1998,Zimbabwe,Seddon Park,8,194,11.41,1/24,28,43.61,,11,,,,26 years 76 days
+34.0,06/02/1998,Zimbabwe,Basin Reserve,-,194,11.41,1/14,29,42.59,,11,,,,26 years 78 days
+35.0,08/02/1998,Australia,AMI Stadium,39*,233,13.71,,29,42.59,1,12,,,,26 years 80 days
+36.0,10/02/1998,Australia,Basin Reserve,23,256,14.22,1/52,30,42.90,,12,,,,26 years 82 days
+37.0,12/02/1998,Australia,McLean Park,-,256,14.22,1/37,31,42.71,1,13,,,,26 years 84 days
+38.0,14/02/1998,Australia,Eden Park,31*,287,15.94,1/23,32,42.09,3,16,,,,26 years 86 days
+39.0,06/03/1998,Zimbabwe,McLean Park,-,287,15.94,3/29,35,39.31,,16,,,,26 years 106 days
+40.0,08/03/1998,Zimbabwe,Eden Park,28,315,16.58,0/26,35,40.06,,16,,,,26 years 108 days
+41.0,17/04/1998,India,Sharjah Cricket Stadium,2,317,15.85,4/38,39,36.92,,16,,,,26 years 148 days
+42.0,18/04/1998,Australia,Sharjah Cricket Stadium,2*,319,15.95,0/15,39,37.31,,16,,,,26 years 149 days
+43.0,21/04/1998,Australia,Sharjah Cricket Stadium,-,319,15.95,2/39,41,36.44,,16,,,,26 years 152 days
+44.0,21/06/1998,Sri Lanka,R Premadasa Stadium,1,320,15.24,0/25,41,37.05,,16,,,,26 years 213 days
+45.0,03/07/1998,India,Sinhalese Sports Club Ground,-,320,15.24,,41,37.05,,16,,,,26 years 225 days
+46.0,05/07/1998,Sri Lanka,Sinhalese Sports Club Ground,3,323,14.68,0/30,41,37.78,,16,,,,26 years 227 days
+47.0,09/01/1999,India,Owen Delany Park,1*,324,14.73,0/42,41,38.80,,16,,,,27 years 50 days
+48.0,12/01/1999,India,McLean Park,4,328,14.26,2/43,43,38.00,,16,,,,27 years 53 days
+49.0,14/01/1999,India,Basin Reserve,-,328,14.26,1/26,44,37.73,,16,,,,27 years 55 days
+50.0,16/01/1999,India,Eden Park,36,364,15.17,0/27,44,38.34,,16,,,,27 years 57 days
+51.0,19/01/1999,India,AMI Stadium,18,382,15.28,0/47,44,39.41,1,17,,,,27 years 60 days
+52.0,14/02/1999,South Africa,Carisbrook,12,394,15.15,0/36,44,40.23,,17,,,,27 years 86 days
+53.0,17/02/1999,South Africa,AMI Stadium,6,400,14.81,0/25,44,40.80,,17,,,,27 years 89 days
+54.0,20/02/1999,South Africa,Eden Park,-,400,14.81,0/29,44,41.45,,17,,,,27 years 92 days
+55.0,25/03/1999,South Africa,McLean Park,17,417,14.89,0/1,44,41.48,,17,,,,27 years 125 days
+56.0,26/03/1999,South Africa,McLean Park,5,422,14.55,2/52,46,40.80,,17,,,,27 years 126 days
+57.0,27/03/1999,South Africa,Eden Park,13,435,14.50,0/29,46,41.43,,17,,,,27 years 127 days
+58.0,30/03/1999,South Africa,Basin Reserve,-,435,14.50,1/32,47,41.23,,17,,,,27 years 130 days
+59.0,17/05/1999,Bangladesh,County Ground (Chelmsford),-,435,14.50,0/30,47,41.87,,17,,,,27 years 178 days
+60.0,20/05/1999,Australia,Sophia Gardens,-,435,14.50,0/30,47,42.51,,17,,,,27 years 181 days
+61.0,24/05/1999,West Indies,County Ground (Southampton),1,436,14.06,1/25,48,42.15,1,18,,,,27 years 185 days
+62.0,28/05/1999,Pakistan,County Ground (Derby),21*,457,14.74,0/36,48,42.90,,18,,,,27 years 189 days
+63.0,31/05/1999,Scotland,Grange Cricket Club,-,457,14.74,1/16,49,42.35,,18,,,,27 years 192 days
+64.0,06/06/1999,Zimbabwe,Headingley,-,457,14.74,0/48,49,43.33,1,19,,,,27 years 198 days
+65.0,10/06/1999,South Africa,Edgbaston,9,466,14.56,0/44,49,44.22,1,20,,,,27 years 202 days
+66.0,12/06/1999,India,Trent Bridge,-,466,14.56,1/57,50,44.48,,20,,,,27 years 204 days
+67.0,16/06/1999,Pakistan,Old Trafford,6*,472,14.75,0/34,50,45.16,,20,,,,27 years 208 days
+68.0,05/11/1999,India,Madhavrao Scindia Cricket Ground,6*,478,14.94,0/2,50,45.20,,20,,,,27 years 350 days
+69.0,02/01/2000,West Indies,Eden Park,12*,490,15.31,1/62,51,45.53,1,21,,,,28 years 43 days
+70.0,04/01/2000,West Indies,Owen Delany Park,-,490,15.31,1/27,52,45.17,,21,,,,28 years 45 days
+71.0,06/01/2000,West Indies,McLean Park,-,490,15.31,2/11,54,43.70,,21,,,,28 years 47 days
+72.0,08/01/2000,West Indies,Westpac Stadium,-,490,15.31,0/35,54,44.35,,21,,,,28 years 49 days
+73.0,30/09/2000,Zimbabwe,Queens Sports Club,19,509,15.42,,54,44.35,1,22,,,,28 years 315 days
+74.0,20/07/2001,India,R Premadasa Stadium,5,514,15.12,3/13,57,42.25,1,23,,,,29 years 242 days
+75.0,26/07/2001,India,R Premadasa Stadium,42,556,15.89,1/25,58,41.95,,23,,,,29 years 248 days
+76.0,31/07/2001,Sri Lanka,Sinhalese Sports Club Ground,23,579,16.08,0/36,58,42.57,1,24,,,,29 years 253 days
+77.0,02/08/2001,India,Sinhalese Sports Club Ground,0,579,15.65,0/29,58,43.07,,24,,,,29 years 255 days
+78.0,26/01/2002,Australia,Adelaide Oval,-,579,15.65,1/31,59,42.86,1,25,,,,30 years 67 days
+79.0,29/01/2002,Australia,Melbourne Cricket Ground,24,603,15.87,2/50,61,42.28,,25,,,,30 years 70 days
+80.0,01/02/2002,South Africa,WACA Ground,12,615,15.77,3/37,64,40.88,,25,,,,30 years 73 days
+81.0,06/02/2002,South Africa,Melbourne Cricket Ground,9,624,15.60,0/6,64,40.97,,25,,,,30 years 78 days

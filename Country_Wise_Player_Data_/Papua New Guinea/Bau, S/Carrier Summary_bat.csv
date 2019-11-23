@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,04/11/2016,Hong Kong,Mission Road,8,8,8.00,0/16,0,,1,1,,,,24 years 134 days
+2.0,06/11/2016,Hong Kong,Mission Road,40,48,24.00,,0,,,1,,,,24 years 136 days
+3.0,08/11/2016,Hong Kong,Mission Road,44,92,30.67,,0,,1,2,,,,24 years 138 days
+4.0,31/03/2017,United Arab Emirates,Sheikh Zayed Stadium,42,134,33.50,,0,,,2,,,,24 years 281 days
+5.0,02/04/2017,United Arab Emirates,Sheikh Zayed Stadium,22,156,31.20,,0,,,2,,,,24 years 283 days
+6.0,04/04/2017,United Arab Emirates,Sheikh Zayed Stadium,0,156,26.00,2/35,2,25.50,,2,,,,24 years 285 days
+7.0,05/10/2017,Scotland,Amini Park,16,172,24.57,,2,25.50,1,3,,,,25 years 103 days
+8.0,08/10/2017,Scotland,Amini Park,13,185,23.13,,2,25.50,1,4,,,,25 years 106 days
+9.0,24/11/2017,Scotland,Dubai International Cricket Stadium,0,185,20.56,,2,25.50,,4,,,,25 years 153 days
+10.0,25/11/2017,Scotland,Dubai International Cricket Stadium,41,226,22.60,,2,25.50,,4,,,,25 years 154 days
+11.0,06/12/2017,Hong Kong,ICC Global Cricket Academy,59,285,25.91,,2,25.50,,4,,,,25 years 165 days
+12.0,08/12/2017,Hong Kong,ICC Global Cricket Academy,18,303,25.25,0/12,2,31.50,,4,,,,25 years 167 days
+13.0,04/03/2018,United Arab Emirates,Harare Sports Club,0,303,23.31,,2,31.50,1,5,,,,25 years 253 days
+14.0,06/03/2018,Ireland,Harare Sports Club,3,306,21.86,,2,31.50,,5,,,,25 years 255 days
+15.0,08/03/2018,West Indies,Old Hararians Sports Club,9,315,21.00,,2,31.50,,5,,,,25 years 257 days
+16.0,17/03/2018,Hong Kong,Old Hararians Sports Club,0,315,19.69,,2,31.50,1,6,,,,25 years 266 days
+17.0,27/04/2019,United States,Affies Park,27*,342,21.38,,2,31.50,1,7,,,,26 years 307 days
+18.0,14/08/2019,Oman,Mannofield Park,15,357,21.00,,2,31.50,,7,,,,27 years 51 days
+19.0,17/08/2019,Scotland,Mannofield Park,1,358,19.89,0/23,2,43.00,,7,,,,27 years 54 days
+20.0,20/08/2019,Scotland,Mannofield Park,6,364,19.16,0/29,2,57.50,,7,,,,27 years 57 days
+21.0,21/08/2019,Oman,Mannofield Park,14,378,18.90,0/9,2,62.00,,7,,,,27 years 58 days

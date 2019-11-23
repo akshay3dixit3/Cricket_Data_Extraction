@@ -1,0 +1,17 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,09/01/1986,New Zealand,Melbourne Cricket Ground,-,0,,2/33,2,16.50,,0,,,,25 years 10 days
+2.0,12/01/1986,India,Brisbane Cricket Ground,-,0,,1/42,3,25.00,,0,,,,25 years 13 days
+3.0,14/01/1986,New Zealand,Sydney Cricket Ground,-,0,,5/46,8,15.13,1,1,,,,25 years 15 days
+4.0,16/01/1986,India,Melbourne Cricket Ground,7,7,7.00,0/41,8,20.25,,1,,,,25 years 17 days
+5.0,21/01/1986,India,Sydney Cricket Ground,-,7,7.00,2/36,10,19.80,,1,,,,25 years 22 days
+6.0,26/01/1986,India,Adelaide Oval,1,8,4.00,0/50,10,24.80,,1,,,,25 years 27 days
+7.0,27/01/1986,New Zealand,Adelaide Oval,8,16,5.33,0/61,10,30.90,1,2,,,,25 years 28 days
+8.0,29/01/1986,New Zealand,Sydney Cricket Ground,6*,22,7.33,1/24,11,30.27,,2,,,,25 years 30 days
+9.0,31/01/1986,India,Melbourne Cricket Ground,7*,29,9.67,2/43,13,28.92,,2,,,,25 years 32 days
+10.0,19/03/1986,New Zealand,Carisbrook,2,31,7.75,2/35,15,27.40,,2,,,,25 years 79 days
+11.0,22/03/1986,New Zealand,AMI Stadium,5,36,7.20,0/29,15,29.33,,2,,,,25 years 82 days
+12.0,24/09/1986,India,Lal Bahadur Shastri Stadium,-,36,7.20,0/1,15,29.40,,2,,,,25 years 268 days
+13.0,02/10/1986,India,Arun Jaitley Stadium,-,36,7.20,1/59,16,31.25,,2,,,,25 years 276 days
+14.0,05/10/1986,India,Sardar Patel Stadium,3*,39,7.80,2/52,18,30.67,1,3,,,,25 years 279 days

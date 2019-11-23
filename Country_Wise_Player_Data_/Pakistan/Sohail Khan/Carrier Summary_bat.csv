@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,30/01/2008,Zimbabwe,Iqbal Stadium,-,0,,1/38,1,38.00,,0,,,,23 years 329 days
+2.0,13/04/2008,Bangladesh,Gaddafi Stadium,-,0,,0/43,1,81.00,,0,,,,24 years 38 days
+3.0,16/04/2008,Bangladesh,Multan Cricket Stadium,-,0,,3/30,4,27.75,,0,,,,24 years 41 days
+4.0,24/01/2009,Sri Lanka,Gaddafi Stadium,4,4,4.00,1/52,5,32.60,,0,,,,24 years 324 days
+5.0,14/09/2011,Zimbabwe,Harare Sports Club,-,4,4.00,1/36,6,33.17,,0,,,,27 years 191 days
+6.0,15/02/2015,India,Adelaide Oval,7,11,5.50,5/55,11,23.09,,0,,,,30 years 345 days
+7.0,21/02/2015,West Indies,Hagley Oval,1,12,4.00,1/73,12,27.25,,0,,,,30 years 351 days
+8.0,01/03/2015,Zimbabwe,Brisbane Cricket Ground,6*,18,6.00,0/45,12,31.00,,0,,,,30 years 359 days
+9.0,04/03/2015,United Arab Emirates,McLean Park,-,18,6.00,2/54,14,30.43,1,1,,,,30 years 362 days
+10.0,07/03/2015,South Africa,Eden Park,3,21,5.25,1/36,15,30.80,1,2,,,,31 years 0 days
+11.0,15/03/2015,Ireland,Adelaide Oval,-,21,5.25,2/44,17,29.76,,2,,,,31 years 8 days
+12.0,20/03/2015,Australia,Adelaide Oval,4,25,5.00,1/57,18,31.28,,2,,,,31 years 13 days
+13.0,05/10/2016,West Indies,Sheikh Zayed Stadium,-,25,5.00,1/34,19,31.42,1,3,,,,32 years 213 days

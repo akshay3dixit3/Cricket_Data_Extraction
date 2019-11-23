@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,09/01/1986,Australia,Melbourne Cricket Ground,2*,2,,,0,,,0,,,,28 years 307 days
+2.0,11/01/1986,India,Brisbane Cricket Ground,6,8,8.00,,0,,,0,,,,28 years 309 days
+3.0,14/01/1986,Australia,Sydney Cricket Ground,3,11,5.50,,0,,,0,2,1,3,28 years 312 days
+4.0,18/01/1986,India,WACA Ground,5,16,5.33,,0,,,0,2,,5,28 years 316 days
+5.0,19/01/1986,Australia,WACA Ground,0*,16,5.33,,0,,,0,1,,6,28 years 317 days
+6.0,23/01/1986,India,Melbourne Cricket Ground,-,16,5.33,,0,,,0,,,6,28 years 321 days
+7.0,25/01/1986,India,Adelaide Oval,5,21,5.25,,0,,,0,1,,7,28 years 323 days
+8.0,27/01/1986,Australia,Adelaide Oval,4*,25,6.25,,0,,,0,1,,8,28 years 325 days
+9.0,29/01/1986,Australia,Sydney Cricket Ground,1,26,5.20,,0,,,0,,,8,28 years 327 days
+10.0,02/02/1986,India,North Tasmania Cricket Association Ground,0,26,4.33,,0,,,0,3,,11,28 years 331 days
+11.0,05/04/1986,Sri Lanka,R Premadasa Stadium,-,26,4.33,,0,,,0,2,,13,29 years 27 days
+12.0,10/04/1986,India,Sharjah Cricket Stadium,18*,44,7.33,,0,,,0,1,1,15,29 years 32 days
+13.0,15/04/1986,Pakistan,Sharjah Cricket Stadium,7,51,7.29,,0,,,0,,,15,29 years 37 days
+14.0,18/03/1987,West Indies,Carisbrook,9,60,7.50,,0,,,0,1,1,17,30 years 9 days
+15.0,21/03/1987,West Indies,Eden Park,0,60,6.67,,0,,,0,,,17,30 years 12 days
+16.0,28/03/1987,West Indies,AMI Stadium,13*,73,8.11,,0,,,0,,,17,30 years 19 days

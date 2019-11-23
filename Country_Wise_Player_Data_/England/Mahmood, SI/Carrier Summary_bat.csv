@@ -1,0 +1,29 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,04/07/2004,New Zealand,County Ground (Bristol),1,1,1.00,0/56,0,,,0,,,,22 years 195 days
+2.0,03/04/2006,India,Nehru Stadium (Margao),8,9,4.50,0/66,0,,,0,,,,24 years 103 days
+3.0,12/04/2006,India,Keenan Stadium,-,9,4.50,3/37,3,53.00,,0,,,,24 years 112 days
+4.0,15/04/2006,India,Holkar Cricket Stadium,9,18,6.00,1/61,4,55.00,,0,,,,24 years 115 days
+5.0,13/06/2006,Ireland,Civil Service Cricket Club,-,18,6.00,1/21,5,48.20,,0,,,,24 years 174 days
+6.0,17/06/2006,Sri Lanka,Lord's,8,26,6.50,1/57,6,49.67,,0,,,,24 years 178 days
+7.0,20/06/2006,Sri Lanka,Kennington Oval,4,30,6.00,2/80,8,47.25,,0,,,,24 years 181 days
+8.0,24/06/2006,Sri Lanka,Riverside Ground,-,30,6.00,0/36,8,51.75,,0,,,,24 years 185 days
+9.0,30/08/2006,Pakistan,Sophia Gardens,1,31,5.17,,8,51.75,,0,,,,24 years 252 days
+10.0,05/09/2006,Pakistan,The Rose Bowl,0,31,4.43,1/66,9,53.33,,0,,,,24 years 258 days
+11.0,08/09/2006,Pakistan,Trent Bridge,-,31,4.43,1/58,10,53.80,,0,,,,24 years 261 days
+12.0,10/09/2006,Pakistan,Edgbaston,22*,53,7.57,2/24,12,46.83,,0,,,,24 years 263 days
+13.0,15/10/2006,India,Sawai Mansingh Stadium,8,61,7.63,0/30,12,49.33,,0,,,,24 years 298 days
+14.0,21/10/2006,Australia,Sawai Mansingh Stadium,8,69,7.67,2/57,14,46.36,,0,,,,24 years 304 days
+15.0,28/10/2006,West Indies,Sardar Patel Stadium,14*,83,9.22,2/44,16,43.31,,0,,,,24 years 311 days
+16.0,02/02/2007,Australia,Sydney Cricket Ground,-,83,9.22,2/38,18,40.61,,0,,,,25 years 42 days
+17.0,06/02/2007,New Zealand,Brisbane Cricket Ground,-,83,9.22,0/62,18,44.06,,0,,,,25 years 46 days
+18.0,09/02/2007,Australia,Melbourne Cricket Ground,-,83,9.22,2/45,20,41.90,1,1,,,,25 years 49 days
+19.0,11/02/2007,Australia,Sydney Cricket Ground,-,83,9.22,1/31,21,41.38,,1,,,,25 years 51 days
+20.0,24/03/2007,Kenya,Darren Sammy National Cricket Stadium,-,83,9.22,1/39,22,41.27,,1,,,,25 years 92 days
+21.0,30/03/2007,Ireland,Providence Stadium,0*,83,9.22,0/34,22,42.82,,1,,,,25 years 98 days
+22.0,04/04/2007,Sri Lanka,Sir Vivian Richards Stadium,2*,85,9.44,4/50,26,38.15,,1,,,,25 years 103 days
+23.0,08/04/2007,Australia,Sir Vivian Richards Stadium,0,85,8.50,0/60,26,40.46,,1,,,,25 years 107 days
+24.0,11/04/2007,Bangladesh,Kensington Oval,-,85,8.50,3/27,29,37.21,,1,,,,25 years 110 days
+25.0,17/04/2007,South Africa,Kensington Oval,0,85,7.73,0/49,29,38.90,,1,,,,25 years 116 days
+26.0,22/11/2009,South Africa,SuperSport Park,-,85,7.73,1/41,30,38.97,,1,,,,27 years 336 days

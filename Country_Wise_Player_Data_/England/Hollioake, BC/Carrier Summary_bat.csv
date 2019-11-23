@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,25/05/1997,Australia,Lord's,63,63,63.00,0/36,0,,,0,,,,19 years 195 days
+2.0,29/03/1998,West Indies,Kensington Oval,-,63,63.00,,0,,,0,,,,20 years 138 days
+3.0,01/04/1998,West Indies,Kensington Oval,16,79,39.50,,0,,,0,,,,20 years 141 days
+4.0,04/04/1998,West Indies,Arnos Vale Ground,35,114,38.00,,0,,,0,,,,20 years 144 days
+5.0,05/04/1998,West Indies,Arnos Vale Ground,2,116,29.00,0/18,0,,,0,,,,20 years 145 days
+6.0,08/04/1998,West Indies,Queen's Park Oval,2,118,23.60,2/43,2,48.50,,0,,,,20 years 148 days
+7.0,03/02/1999,Sri Lanka,Sydney Cricket Ground,4,122,20.33,0/25,2,61.00,1,1,,,,21 years 83 days
+8.0,07/06/2001,Pakistan,Edgbaston,6,128,18.29,0/53,2,87.50,1,2,,,,23 years 208 days
+9.0,10/06/2001,Australia,County Ground (Bristol),37*,165,23.57,0/28,2,101.50,,2,,,,23 years 211 days
+10.0,12/06/2001,Pakistan,Lord's,0,165,20.63,0/36,2,119.50,,2,,,,23 years 213 days
+11.0,14/06/2001,Australia,Old Trafford,0,165,18.33,0/30,2,134.50,1,3,,,,23 years 215 days
+12.0,17/06/2001,Pakistan,Headingley,53,218,21.80,0/14,2,141.50,,3,,,,23 years 218 days
+13.0,21/06/2001,Australia,Kennington Oval,22,240,21.82,0/18,2,150.50,,3,,,,23 years 222 days
+14.0,03/10/2001,Zimbabwe,Harare Sports Club,14*,254,23.09,0/35,2,168.00,1,4,,,,23 years 326 days
+15.0,06/10/2001,Zimbabwe,Harare Sports Club,-,254,23.09,2/37,4,93.25,,4,,,,23 years 329 days
+16.0,10/10/2001,Zimbabwe,Queens Sports Club,5,259,21.58,2/41,6,69.00,1,5,,,,23 years 333 days
+17.0,13/10/2001,Zimbabwe,Queens Sports Club,-,259,21.58,1/34,7,64.00,1,6,,,,23 years 336 days
+18.0,22/01/2002,India,Barabati Stadium,0,259,19.92,1/34,8,60.25,,6,,,,24 years 72 days
+19.0,25/01/2002,India,MA Chidambaram Stadium,37,296,21.14,0/17,8,62.38,,6,,,,24 years 75 days
+20.0,28/01/2002,India,Green Park,13,309,20.60,0/33,8,66.50,,6,,,,24 years 78 days

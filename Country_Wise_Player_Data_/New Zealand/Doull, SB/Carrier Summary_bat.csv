@@ -1,0 +1,45 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,31/10/1992,Zimbabwe,Bulawayo Athletic Club,2*,2,,2/42,2,21.00,,0,,,,23 years 86 days
+2.0,01/11/1994,West Indies,Nehru Stadium (Guwahati),4,6,6.00,1/65,3,35.67,,0,,,,25 years 86 days
+3.0,03/11/1994,India,Arun Jaitley Stadium,8,14,7.00,0/58,3,55.00,,0,,,,25 years 88 days
+4.0,06/12/1994,South Africa,Newlands,19*,33,16.50,1/35,4,50.00,,0,,,,25 years 121 days
+5.0,08/12/1994,Sri Lanka,Mangaung Oval,-,33,16.50,0/66,4,66.50,,0,,,,25 years 123 days
+6.0,11/12/1994,South Africa,SuperSport Park,13,46,15.33,1/70,5,67.20,,0,,,,25 years 126 days
+7.0,22/01/1995,West Indies,Eden Park,6*,52,17.33,0/32,5,73.60,,0,,,,25 years 168 days
+8.0,25/01/1995,West Indies,Basin Reserve,9*,61,20.33,1/37,6,67.50,,0,,,,25 years 171 days
+9.0,29/11/1995,India,Brabourne Stadium,2,63,15.75,3/42,9,49.67,,0,,,,26 years 114 days
+10.0,07/11/1996,Sri Lanka,Sharjah Cricket Stadium,1*,64,16.00,2/29,11,43.27,2,2,,,,27 years 93 days
+11.0,10/11/1996,Pakistan,Sharjah Cricket Stadium,14,78,15.60,0/30,11,46.00,,2,,,,27 years 96 days
+12.0,11/11/1996,Sri Lanka,Sharjah Cricket Stadium,0*,78,15.60,1/37,12,45.25,,2,,,,27 years 97 days
+13.0,13/11/1996,Pakistan,Sharjah Cricket Stadium,3*,81,16.20,0/7,12,45.83,,2,,,,27 years 99 days
+14.0,04/12/1996,Pakistan,Jinnah Stadium (Gujwranwala),0,81,13.50,1/33,13,44.85,,2,,,,27 years 120 days
+15.0,06/12/1996,Pakistan,Jinnah Stadium (Sialkot),1,82,11.71,0/60,13,49.46,,2,,,,27 years 122 days
+16.0,08/12/1996,Pakistan,National Stadium (Karachi),-,82,11.71,0/23,13,51.23,,2,,,,27 years 124 days
+17.0,20/02/1997,England,AMI Stadium,-,82,11.71,2/33,15,46.60,,2,,,,27 years 198 days
+18.0,23/02/1997,England,Eden Park,-,82,11.71,2/39,17,43.41,1,3,,,,27 years 201 days
+19.0,26/02/1997,England,McLean Park,22,104,13.00,1/53,18,43.94,1,4,,,,27 years 204 days
+20.0,02/03/1997,England,Eden Park,13*,117,14.63,0/15,18,44.78,,4,,,,27 years 208 days
+21.0,25/03/1997,Sri Lanka,AMI Stadium,1,118,13.11,0/38,18,46.89,,4,,,,27 years 231 days
+22.0,27/03/1997,Sri Lanka,Basin Reserve,18,136,13.60,1/21,19,45.53,1,5,,,,27 years 233 days
+23.0,04/02/1998,Zimbabwe,Seddon Park,0*,136,13.60,0/21,19,46.63,,5,,,,28 years 182 days
+24.0,06/02/1998,Zimbabwe,Basin Reserve,-,136,13.60,2/26,21,43.43,1,6,,,,28 years 184 days
+25.0,08/02/1998,Australia,AMI Stadium,0*,136,13.60,0/25,21,44.62,,6,,,,28 years 186 days
+26.0,10/02/1998,Australia,Basin Reserve,9*,145,14.50,0/16,21,45.38,,6,,,,28 years 188 days
+27.0,12/02/1998,Australia,McLean Park,-,145,14.50,0/28,21,46.71,,6,,,,28 years 190 days
+28.0,14/02/1998,Australia,Eden Park,-,145,14.50,4/25,25,40.24,,6,,,,28 years 192 days
+29.0,04/03/1998,Zimbabwe,AMI Stadium,0,145,13.18,1/19,26,39.42,,6,,,,28 years 210 days
+30.0,08/03/1998,Zimbabwe,Eden Park,5*,150,13.64,1/54,27,39.96,,6,,,,28 years 214 days
+31.0,17/04/1998,India,Sharjah Cricket Stadium,10,160,13.33,0/25,27,40.89,2,8,,,,28 years 254 days
+32.0,20/04/1998,India,Sharjah Cricket Stadium,-,160,13.33,0/20,27,41.63,,8,,,,28 years 257 days
+33.0,21/04/1998,Australia,Sharjah Cricket Stadium,-,160,13.33,1/48,28,41.86,1,9,,,,28 years 258 days
+34.0,24/10/1998,Zimbabwe,Bangabandhu National Stadium,-,160,13.33,1/42,29,41.86,,9,,,,29 years 78 days
+35.0,26/10/1998,Sri Lanka,Bangabandhu National Stadium,6,166,12.77,2/17,31,39.71,,9,,,,29 years 80 days
+36.0,09/01/1999,India,Owen Delany Park,-,166,12.77,0/34,31,40.81,,9,,,,29 years 155 days
+37.0,16/01/1999,India,Eden Park,-,166,12.77,2/46,33,39.73,,9,,,,29 years 162 days
+38.0,19/01/1999,India,AMI Stadium,-,166,12.77,1/25,34,39.29,,9,,,,29 years 165 days
+39.0,17/02/1999,South Africa,AMI Stadium,6,172,12.29,0/24,34,40.00,,9,,,,29 years 194 days
+40.0,20/02/1999,South Africa,Eden Park,-,172,12.29,0/37,34,41.09,1,10,,,,29 years 197 days
+41.0,01/03/2000,Australia,McLean Park,0*,172,12.29,1/36,35,40.94,,10,,,,30 years 207 days
+42.0,03/03/2000,Australia,Eden Park,-,172,12.29,1/26,36,40.53,,10,,,,30 years 209 days

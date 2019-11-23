@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,10/10/1997,Bangladesh,Gymkhana Club Ground,-,0,,1/12,1,12.00,,0,,,,17 years 41 days
+2.0,12/10/1997,Zimbabwe,Gymkhana Club Ground,4,4,4.00,0/20,1,32.00,1,1,,,,17 years 43 days
+3.0,15/10/1997,Bangladesh,Aga Khan Sports Club Ground,-,4,4.00,1/3,2,17.50,1,2,,,,17 years 46 days
+4.0,16/10/1997,Zimbabwe,Aga Khan Sports Club Ground,5*,9,9.00,1/42,3,25.67,,2,,,,17 years 47 days
+5.0,18/10/1997,Zimbabwe,Gymkhana Club Ground,-,9,9.00,1/54,4,32.75,,2,,,,17 years 49 days
+6.0,19/10/1997,Zimbabwe,Gymkhana Club Ground,1,10,5.00,1/43,5,34.80,,2,,,,17 years 50 days
+7.0,17/05/1998,Bangladesh,Lal Bahadur Shastri Stadium,1*,11,5.50,2/46,7,31.43,1,3,,,,17 years 260 days
+8.0,20/05/1998,India,M Chinnaswamy Stadium,2*,13,6.50,2/41,9,29.00,1,4,,,,17 years 263 days
+9.0,23/05/1998,Bangladesh,MA Chidambaram Stadium,-,13,6.50,1/27,10,28.80,1,5,,,,17 years 266 days
+10.0,28/05/1998,India,Captain Roop Singh Stadium,-,13,6.50,0/24,10,31.20,,5,,,,17 years 271 days
+11.0,31/05/1998,India,Eden Gardens,6*,19,9.50,0/27,10,33.90,,5,,,,17 years 274 days
+12.0,20/03/1999,Bangladesh,Bangabandhu National Stadium,-,19,9.50,3/36,13,28.85,,5,,,,18 years 202 days
+13.0,23/03/1999,Zimbabwe,Bangabandhu National Stadium,15*,34,17.00,0/19,13,30.31,,5,,,,18 years 205 days
+14.0,24/03/1999,Bangladesh,Bangabandhu National Stadium,1,35,11.67,4/36,17,25.29,1,6,,,,18 years 206 days
+15.0,27/03/1999,Zimbabwe,Bangabandhu National Stadium,0,35,8.75,0/28,17,26.94,,6,,,,18 years 209 days
+16.0,18/05/1999,England,St Lawrence Ground,7,42,8.40,0/14,17,27.76,,6,,,,18 years 261 days
+17.0,26/05/1999,South Africa,VRA Ground,8,50,8.33,0/21,17,29.00,1,7,,,,18 years 269 days
+18.0,25/09/1999,Zimbabwe,Gymkhana Club Ground,8,58,8.29,1/57,18,30.56,,7,,,,19 years 26 days
+19.0,29/09/1999,India,Gymkhana Club Ground,1,59,7.38,0/17,18,31.50,,7,,,,19 years 30 days
+20.0,30/09/1999,South Africa,Gymkhana Club Ground,9,68,7.56,1/31,19,31.47,,7,,,,19 years 31 days
+21.0,03/10/2000,India,Gymkhana Club Ground,0,68,6.80,0/27,19,32.89,,7,,,,20 years 35 days

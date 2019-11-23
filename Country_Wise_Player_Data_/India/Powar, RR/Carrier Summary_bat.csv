@@ -1,0 +1,34 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,16/03/2004,Pakistan,Rawalpindi Cricket Stadium,18*,18,,0/35,0,,,0,,,,25 years 300 days
+2.0,19/03/2004,Pakistan,Arbab Niaz Stadium,14,32,32.00,0/17,0,,,0,,,,25 years 303 days
+3.0,11/02/2006,Pakistan,Rawalpindi Cricket Stadium,-,32,32.00,,0,,,0,,,,27 years 267 days
+4.0,19/02/2006,Pakistan,National Stadium (Karachi),-,32,32.00,1/49,1,101.00,,0,,,,27 years 275 days
+5.0,31/03/2006,England,Nahar Singh Stadium,-,32,32.00,3/34,4,33.75,,0,,,,27 years 315 days
+6.0,03/04/2006,England,Nehru Stadium (Margao),1*,33,33.00,1/45,5,36.00,,0,,,,27 years 318 days
+7.0,06/04/2006,England,Nehru Stadium (Kochi),2*,35,35.00,1/41,6,36.83,,0,,,,27 years 321 days
+8.0,12/04/2006,England,Keenan Stadium,54,89,44.50,2/44,8,33.13,,0,,,,27 years 327 days
+9.0,15/04/2006,England,Holkar Cricket Stadium,-,89,44.50,0/38,8,37.88,,0,,,,27 years 330 days
+10.0,18/04/2006,Pakistan,Sheikh Zayed Stadium,5,94,31.33,1/27,9,36.67,,0,,,,27 years 333 days
+11.0,19/04/2006,Pakistan,Sheikh Zayed Stadium,-,94,31.33,3/61,12,32.58,,0,,,,27 years 334 days
+12.0,20/05/2006,West Indies,Sabina Park,12,106,26.50,2/38,14,30.64,,0,,,,28 years 0 days
+13.0,23/05/2006,West Indies,Warner Park,1,107,21.40,0/59,14,34.86,,0,,,,28 years 3 days
+14.0,26/05/2006,West Indies,Queen's Park Oval,0*,107,21.40,2/56,16,34.00,,0,,,,28 years 6 days
+15.0,18/08/2006,Sri Lanka,Sinhalese Sports Club Ground,-,107,21.40,,16,34.00,,0,,,,28 years 90 days
+16.0,15/10/2006,England,Sawai Mansingh Stadium,-,107,21.40,3/24,19,29.89,,0,,,,28 years 148 days
+17.0,24/01/2007,West Indies,Barabati Stadium,5,112,18.67,3/42,22,27.73,1,1,,,,28 years 249 days
+18.0,27/01/2007,West Indies,MA Chidambaram Stadium,5,117,16.71,2/53,24,27.63,,1,,,,28 years 252 days
+19.0,10/05/2007,Bangladesh,Shere Bangla National Stadium,-,117,16.71,2/55,26,27.62,,1,,,,28 years 355 days
+20.0,12/05/2007,Bangladesh,Shere Bangla National Stadium,5,122,15.25,1/32,27,27.78,,1,,,,28 years 357 days
+21.0,26/06/2007,South Africa,Civil Service Cricket Club,1,123,13.67,1/39,28,28.18,,1,,,,29 years 36 days
+22.0,29/06/2007,South Africa,Civil Service Cricket Club,-,123,13.67,0/46,28,29.82,,1,,,,29 years 39 days
+23.0,16/08/2007,Scotland,Titwood,-,123,13.67,0/41,28,31.29,,1,,,,29 years 87 days
+24.0,24/08/2007,England,County Ground (Bristol),1,124,12.40,1/43,29,31.69,,1,,,,29 years 95 days
+25.0,27/08/2007,England,Edgbaston,5,129,11.73,2/45,31,31.10,,1,,,,29 years 98 days
+26.0,30/08/2007,England,Old Trafford,7,136,11.33,1/26,32,30.94,1,2,,,,29 years 101 days
+27.0,02/09/2007,England,Headingley,-,136,11.33,2/45,34,30.44,1,3,,,,29 years 104 days
+28.0,05/09/2007,England,Kennington Oval,0*,136,11.33,0/44,34,31.74,,3,,,,29 years 107 days
+29.0,08/09/2007,England,Lord's,10,146,11.23,0/32,34,32.68,,3,,,,29 years 110 days
+30.0,29/09/2007,Australia,M Chinnaswamy Stadium,-,146,11.23,0/50,34,34.15,,3,,,,29 years 131 days
+31.0,02/10/2007,Australia,Nehru Stadium (Kochi),17,163,11.64,0/30,34,35.03,,3,,,,29 years 134 days

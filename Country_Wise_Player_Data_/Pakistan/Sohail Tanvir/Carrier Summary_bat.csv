@@ -1,0 +1,65 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,18/10/2007,South Africa,Gaddafi Stadium,26,26,26.00,1/52,1,52.00,,0,,,,22 years 309 days
+2.0,20/10/2007,South Africa,Gaddafi Stadium,4*,30,30.00,1/50,2,51.00,2,2,,,,22 years 311 days
+3.0,23/10/2007,South Africa,Iqbal Stadium,-,30,30.00,0/36,2,69.00,,2,,,,22 years 314 days
+4.0,29/10/2007,South Africa,Gaddafi Stadium,0,30,15.00,1/38,3,58.67,1,3,,,,22 years 320 days
+5.0,08/11/2007,India,Punjab Cricket Association IS Bindra Stadium,14*,44,22.00,2/56,5,46.40,,3,,,,22 years 330 days
+6.0,11/11/2007,India,Green Park,0,44,14.67,2/26,7,36.86,,3,,,,22 years 333 days
+7.0,15/11/2007,India,Captain Roop Singh Stadium,6,50,12.50,0/43,7,43.00,1,4,,,,22 years 337 days
+8.0,18/11/2007,India,Sawai Mansingh Stadium,3*,53,13.25,4/53,11,32.18,1,5,,,,22 years 340 days
+9.0,21/01/2008,Zimbabwe,National Stadium (Karachi),-,53,13.25,1/26,12,31.67,,5,,,,23 years 39 days
+10.0,24/01/2008,Zimbabwe,Niaz Stadium,-,53,13.25,4/34,16,25.88,,5,,,,23 years 42 days
+11.0,27/01/2008,Zimbabwe,Multan Cricket Stadium,2,55,11.00,2/41,18,25.28,,5,,,,23 years 45 days
+12.0,30/01/2008,Zimbabwe,Iqbal Stadium,-,55,11.00,0/14,18,26.06,,5,,,,23 years 48 days
+13.0,02/02/2008,Zimbabwe,Sheikhupura Stadium,-,55,11.00,0/24,18,27.39,,5,,,,23 years 51 days
+14.0,08/04/2008,Bangladesh,Gaddafi Stadium,-,55,11.00,3/29,21,24.86,1,6,,,,23 years 117 days
+15.0,11/04/2008,Bangladesh,Iqbal Stadium,-,55,11.00,2/36,23,24.26,,6,,,,23 years 120 days
+16.0,13/04/2008,Bangladesh,Gaddafi Stadium,1,56,9.33,1/55,24,25.54,,6,,,,23 years 122 days
+17.0,08/06/2008,Bangladesh,Shere Bangla National Stadium,2,58,8.29,0/41,24,27.25,1,7,,,,23 years 178 days
+18.0,10/06/2008,India,Shere Bangla National Stadium,6,64,8.00,1/57,25,28.44,,7,,,,23 years 180 days
+19.0,14/06/2008,India,Shere Bangla National Stadium,-,64,8.00,1/60,26,29.65,,7,,,,23 years 184 days
+20.0,24/06/2008,Hong Kong,National Stadium (Karachi),59,123,13.67,2/20,28,28.25,,7,,,,23 years 194 days
+21.0,26/06/2008,India,National Stadium (Karachi),3*,126,14.00,1/55,29,29.17,,7,,,,23 years 196 days
+22.0,29/06/2008,Sri Lanka,National Stadium (Karachi),9*,135,15.00,5/48,34,26.29,,7,,,,23 years 199 days
+23.0,02/07/2008,India,National Stadium (Karachi),-,135,15.00,1/87,35,28.03,,7,,,,23 years 202 days
+24.0,04/07/2008,Bangladesh,National Stadium (Karachi),-,135,15.00,1/31,36,28.11,,7,,,,23 years 204 days
+25.0,12/11/2008,West Indies,Sheikh Zayed Stadium,-,135,15.00,3/42,39,27.03,,7,,,,23 years 335 days
+26.0,14/11/2008,West Indies,Sheikh Zayed Stadium,26,161,16.10,2/32,41,26.49,,7,,,,23 years 337 days
+27.0,16/11/2008,West Indies,Sheikh Zayed Stadium,-,161,16.10,2/32,43,26.00,,7,,,,23 years 339 days
+28.0,20/01/2009,Sri Lanka,National Stadium (Karachi),-,161,16.10,0/35,43,26.81,,7,,,,24 years 39 days
+29.0,21/01/2009,Sri Lanka,National Stadium (Karachi),1,162,14.73,1/50,44,27.34,,7,,,,24 years 40 days
+30.0,27/04/2009,Australia,Sheikh Zayed Stadium,11,173,14.42,0/28,44,27.98,1,8,,,,24 years 136 days
+31.0,01/05/2009,Australia,Sheikh Zayed Stadium,9,182,14.00,0/41,44,28.91,,8,,,,24 years 140 days
+32.0,22/01/2011,New Zealand,Westpac Stadium,6,188,13.43,1/39,45,29.13,,8,,,,26 years 40 days
+33.0,26/01/2011,New Zealand,Queenstown Events Centre,-,188,13.43,,45,29.13,,8,,,,26 years 44 days
+34.0,29/01/2011,New Zealand,AMI Stadium,-,188,13.43,2/56,47,29.09,,8,,,,26 years 47 days
+35.0,01/02/2011,New Zealand,McLean Park,14*,202,14.43,0/67,47,30.51,,8,,,,26 years 50 days
+36.0,05/02/2011,New Zealand,Eden Park,30,232,15.47,1/78,48,31.50,1,9,,,,26 years 54 days
+37.0,08/09/2011,Zimbabwe,Queens Sports Club,17*,249,16.60,1/47,49,31.82,1,10,,,,26 years 269 days
+38.0,11/09/2011,Zimbabwe,Harare Sports Club,-,249,16.60,2/33,51,31.22,,10,,,,26 years 272 days
+39.0,14/09/2011,Zimbabwe,Harare Sports Club,-,249,16.60,0/54,51,32.27,,10,,,,26 years 275 days
+40.0,18/11/2011,Sri Lanka,Dubai International Cricket Stadium,10*,259,17.27,0/52,51,33.29,,10,,,,26 years 340 days
+41.0,23/11/2011,Sri Lanka,Sheikh Zayed Stadium,1,260,16.25,4/34,55,31.49,,10,,,,26 years 345 days
+42.0,03/12/2011,Bangladesh,Shere Bangla National Stadium,0*,260,16.25,0/26,55,31.96,,10,,,,26 years 355 days
+43.0,06/12/2011,Bangladesh,Zahur Ahmed Chowdhury Stadium,8,268,15.76,0/11,55,32.16,,10,,,,26 years 358 days
+44.0,07/06/2012,Sri Lanka,Pallekele International Cricket Stadium,-,268,15.76,0/30,55,32.71,1,11,,,,27 years 177 days
+45.0,09/06/2012,Sri Lanka,Pallekele International Cricket Stadium,3,271,15.06,1/51,56,33.04,,11,,,,27 years 179 days
+46.0,13/06/2012,Sri Lanka,R Premadasa Stadium,-,271,15.06,,56,33.04,,11,,,,27 years 183 days
+47.0,16/06/2012,Sri Lanka,R Premadasa Stadium,0,271,14.26,2/43,58,32.64,,11,,,,27 years 186 days
+48.0,18/06/2012,Sri Lanka,R Premadasa Stadium,11,282,14.10,3/42,61,31.72,,11,,,,27 years 188 days
+49.0,28/08/2012,Australia,Sharjah Cricket Stadium,1,283,13.48,0/47,61,32.49,,11,,,,27 years 259 days
+50.0,31/08/2012,Australia,Sheikh Zayed Stadium,-,283,13.48,0/59,61,33.46,,11,,,,27 years 262 days
+51.0,30/10/2013,South Africa,Sharjah Cricket Stadium,2,285,12.95,2/33,63,32.92,,11,,,,28 years 322 days
+52.0,01/11/2013,South Africa,Dubai International Cricket Stadium,9,294,12.78,1/15,64,32.64,,11,,,,28 years 324 days
+53.0,06/11/2013,South Africa,Sheikh Zayed Stadium,31,325,13.54,1/47,65,32.86,,11,,,,28 years 329 days
+54.0,08/11/2013,South Africa,Sheikh Zayed Stadium,1,326,13.04,0/38,65,33.45,,11,,,,28 years 331 days
+55.0,11/11/2013,South Africa,Sharjah Cricket Stadium,15,341,13.12,0/58,65,34.34,1,12,,,,28 years 334 days
+56.0,30/11/2013,South Africa,SuperSport Park,6,347,12.85,1/42,66,34.45,,12,,,,28 years 353 days
+57.0,18/12/2013,Sri Lanka,Sharjah Cricket Stadium,-,347,12.85,1/69,67,34.97,1,13,,,,29 years 5 days
+58.0,20/12/2013,Sri Lanka,Dubai International Cricket Stadium,-,347,12.85,0/58,67,35.84,,13,,,,29 years 7 days
+59.0,12/10/2014,Australia,Sheikh Zayed Stadium,10,357,12.75,3/40,70,34.87,,13,,,,29 years 303 days
+60.0,12/12/2014,New Zealand,Sharjah Cricket Stadium,14,371,12.79,0/30,70,35.30,2,15,,,,30 years 364 days
+61.0,14/12/2014,New Zealand,Sharjah Cricket Stadium,17*,388,13.38,0/20,70,35.59,,15,,,,30 years 1 days
+62.0,17/12/2014,New Zealand,Sheikh Zayed Stadium,11*,399,13.76,1/75,71,36.14,,15,,,,30 years 4 days

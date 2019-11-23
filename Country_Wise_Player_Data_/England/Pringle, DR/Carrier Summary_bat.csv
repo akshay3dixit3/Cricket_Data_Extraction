@@ -1,0 +1,47 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,17/07/1982,Pakistan,Trent Bridge,-,0,,2/50,2,25.00,,0,,,,23 years 302 days
+2.0,19/07/1982,Pakistan,Old Trafford,34*,34,,2/43,4,23.25,,0,,,,23 years 304 days
+3.0,23/01/1983,Australia,Melbourne Cricket Ground,-,34,,0/47,4,35.00,,0,,,,24 years 127 days
+4.0,23/02/1983,New Zealand,Basin Reserve,11,45,45.00,0/57,4,49.25,,0,,,,24 years 158 days
+5.0,31/05/1984,West Indies,Old Trafford,6,51,25.50,0/64,4,65.25,1,1,,,,25 years 255 days
+6.0,02/06/1984,West Indies,Trent Bridge,2*,53,26.50,3/21,7,40.29,2,3,,,,25 years 257 days
+7.0,04/06/1984,West Indies,Lord's,8,61,20.33,1/38,8,40.00,,3,,,,25 years 259 days
+8.0,24/03/1985,Australia,Sharjah Cricket Stadium,4,65,16.25,2/49,10,36.90,1,4,,,,26 years 187 days
+9.0,26/03/1985,Pakistan,Sharjah Cricket Stadium,13,78,15.60,2/32,12,33.42,1,5,,,,26 years 189 days
+10.0,24/05/1986,India,Kennington Oval,28,106,17.67,0/20,12,35.08,,5,,,,27 years 248 days
+11.0,26/05/1986,India,Old Trafford,49*,155,25.83,0/49,12,39.17,,5,,,,27 years 250 days
+12.0,16/07/1986,New Zealand,Headingley,28,183,26.14,0/42,12,42.67,,5,,,,27 years 301 days
+13.0,18/07/1986,New Zealand,Old Trafford,0*,183,26.14,1/63,13,44.23,1,6,,,,27 years 303 days
+14.0,09/10/1987,West Indies,Jinnah Stadium (Gujwranwala),12,195,24.38,0/83,13,50.62,,6,,,,29 years 20 days
+15.0,12/10/1987,Pakistan,Pindi Club Ground,8,203,22.56,0/54,13,54.77,,6,,,,29 years 23 days
+16.0,17/10/1987,Sri Lanka,Arbab Niaz Stadium,-,203,22.56,1/11,14,51.64,,6,,,,29 years 28 days
+17.0,19/05/1988,West Indies,Edgbaston,23*,226,25.11,1/26,15,49.93,,6,,,,29 years 243 days
+18.0,21/05/1988,West Indies,Headingley,39,265,26.50,3/30,18,43.28,,6,,,,29 years 245 days
+19.0,23/05/1988,West Indies,Lord's,-,265,26.50,1/27,19,42.42,,6,,,,29 years 247 days
+20.0,04/09/1988,Sri Lanka,Kennington Oval,19*,284,28.40,1/46,20,42.60,1,7,,,,29 years 351 days
+21.0,25/05/1989,Australia,Old Trafford,9,293,26.64,1/19,21,41.48,,7,,,,30 years 249 days
+22.0,27/05/1989,Australia,Trent Bridge,25*,318,28.91,1/38,22,41.32,,7,,,,30 years 251 days
+23.0,29/05/1989,Australia,Lord's,0,318,26.50,1/50,23,41.70,,7,,,,30 years 253 days
+24.0,19/10/1989,Australia,Lal Bahadur Shastri Stadium,-,318,26.50,0/42,23,43.52,,7,,,,31 years 31 days
+25.0,30/10/1989,Pakistan,Vidarbha Cricket Association Ground,21*,339,28.25,0/33,23,44.96,,7,,,,31 years 42 days
+26.0,23/05/1990,New Zealand,Headingley,30*,369,30.75,0/45,23,46.91,,7,,,,31 years 247 days
+27.0,23/05/1991,West Indies,Edgbaston,1,370,28.46,0/22,23,47.87,,7,,,,32 years 247 days
+28.0,25/05/1991,West Indies,Old Trafford,-,370,28.46,2/52,25,46.12,1,8,,,,32 years 249 days
+29.0,27/05/1991,West Indies,Lord's,-,370,28.46,0/56,25,48.36,,8,,,,32 years 251 days
+30.0,11/01/1992,New Zealand,Eden Park,-,370,28.46,2/32,27,45.96,,8,,,,33 years 114 days
+31.0,12/02/1992,New Zealand,Carisbrook,14*,384,29.54,1/31,28,45.43,,8,,,,33 years 146 days
+32.0,15/02/1992,New Zealand,AMI Stadium,5,389,27.79,2/11,30,42.77,,8,,,,33 years 149 days
+33.0,22/02/1992,India,WACA Ground,1,390,26.00,0/53,30,44.53,,8,,,,33 years 156 days
+34.0,27/02/1992,West Indies,Melbourne Cricket Ground,-,390,26.00,0/16,30,45.07,1,9,,,,33 years 161 days
+35.0,01/03/1992,Pakistan,Adelaide Oval,-,390,26.00,3/8,33,41.21,1,10,,,,33 years 164 days
+36.0,05/03/1992,Australia,Sydney Cricket Ground,-,390,26.00,1/24,34,40.71,,10,,,,33 years 168 days
+37.0,09/03/1992,Sri Lanka,Eastern Oval,0*,390,26.00,0/27,34,41.50,,10,,,,33 years 172 days
+38.0,12/03/1992,South Africa,Melbourne Cricket Ground,1,391,24.44,0/34,34,42.50,,10,,,,33 years 175 days
+39.0,15/03/1992,New Zealand,Basin Reserve,10,401,23.59,0/34,34,43.50,,10,,,,33 years 178 days
+40.0,25/03/1992,Pakistan,Melbourne Cricket Ground,18*,419,24.65,3/22,37,40.57,,10,,,,33 years 188 days
+41.0,20/05/1992,Pakistan,Lord's,-,419,24.65,4/42,41,37.63,1,11,,,,33 years 244 days
+42.0,22/05/1992,Pakistan,Kennington Oval,-,419,24.65,2/35,43,36.70,,11,,,,33 years 246 days
+43.0,19/05/1993,Australia,Old Trafford,6,425,23.61,0/36,43,37.53,,11,,,,34 years 243 days
+44.0,21/05/1993,Australia,Edgbaston,-,425,23.61,1/63,44,38.11,,11,,,,34 years 245 days

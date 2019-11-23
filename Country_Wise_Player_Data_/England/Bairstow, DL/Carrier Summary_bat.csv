@@ -1,0 +1,24 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,24/01/1979,Australia,Melbourne Cricket Ground,-,0,,,0,,,0,1,,1,27 years 145 days
+2.0,04/02/1979,Australia,Melbourne Cricket Ground,1,1,1.00,,0,,,0,,,1,27 years 156 days
+3.0,07/02/1979,Australia,Melbourne Cricket Ground,3,4,2.00,,0,,,0,1,,2,27 years 159 days
+4.0,28/11/1979,West Indies,Sydney Cricket Ground,0,4,1.33,,0,,,0,,,2,28 years 88 days
+5.0,08/12/1979,Australia,Melbourne Cricket Ground,15*,19,6.33,,0,,,0,1,1,4,28 years 98 days
+6.0,11/12/1979,Australia,Sydney Cricket Ground,18,37,9.25,,0,,,0,2,1,7,28 years 101 days
+7.0,23/12/1979,West Indies,Brisbane Cricket Ground,12,49,9.80,,0,,,0,,,7,28 years 113 days
+8.0,26/12/1979,Australia,Sydney Cricket Ground,7*,56,11.20,,0,,,0,2,,9,28 years 116 days
+9.0,14/01/1980,Australia,Sydney Cricket Ground,21*,77,15.40,,0,,,0,2,1,12,28 years 135 days
+10.0,16/01/1980,West Indies,Adelaide Oval,23*,100,20.00,,0,,,0,,,12,28 years 137 days
+11.0,20/01/1980,West Indies,Melbourne Cricket Ground,4,104,17.33,,0,,,0,3,,15,28 years 141 days
+12.0,22/01/1980,West Indies,Sydney Cricket Ground,18*,122,20.33,,0,,,0,,,15,28 years 143 days
+13.0,28/05/1980,West Indies,Headingley,16,138,19.71,,0,,,0,,,15,28 years 270 days
+14.0,30/05/1980,West Indies,Lord's,2,140,17.50,,0,,,0,,,15,28 years 272 days
+15.0,20/08/1980,Australia,Kennington Oval,9*,149,18.63,,0,,,0,2,,17,28 years 354 days
+16.0,22/08/1980,Australia,Edgbaston,6,155,17.22,,0,,,0,,,17,28 years 356 days
+17.0,04/02/1981,West Indies,Arnos Vale Ground,5,160,16.00,,0,,,0,,1,18,29 years 156 days
+18.0,26/02/1981,West Indies,Albion Sports Complex,16,176,16.00,,0,,,0,,,18,29 years 178 days
+19.0,31/05/1984,West Indies,Old Trafford,13,189,15.75,,0,,,0,2,,20,32 years 273 days
+20.0,02/06/1984,West Indies,Trent Bridge,9,198,15.23,,0,,,0,,,20,32 years 275 days
+21.0,04/06/1984,West Indies,Lord's,8,206,14.71,,0,,,0,1,,21,32 years 277 days

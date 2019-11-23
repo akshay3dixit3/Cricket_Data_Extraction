@@ -1,0 +1,77 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,31/05/2015,Zimbabwe,Gaddafi Stadium,54,54,54.00,,0,,,0,,,,20 years 228 days
+2.0,11/07/2015,Sri Lanka,Rangiri Dambulla International Stadium,25,79,39.50,,0,,1,1,,,,20 years 269 days
+3.0,15/07/2015,Sri Lanka,Pallekele International Cricket Stadium,12,91,30.33,,0,,,1,,,,20 years 273 days
+4.0,11/11/2015,England,Sheikh Zayed Stadium,62*,153,51.00,,0,,1,2,,,,21 years 26 days
+5.0,13/11/2015,England,Sheikh Zayed Stadium,4,157,39.25,,0,,1,3,,,,21 years 28 days
+6.0,17/11/2015,England,Sharjah Cricket Stadium,22,179,35.80,,0,,,3,,,,21 years 32 days
+7.0,20/11/2015,England,Dubai International Cricket Stadium,51,230,38.33,,0,,1,4,,,,21 years 35 days
+8.0,25/01/2016,New Zealand,Basin Reserve,62,292,41.71,,0,,,4,,,,21 years 101 days
+9.0,31/01/2016,New Zealand,Eden Park,83,375,46.88,,0,,2,6,,,,21 years 107 days
+10.0,18/08/2016,Ireland,The Village,29,404,44.89,,0,,,6,,,,21 years 307 days
+11.0,24/08/2016,England,The Rose Bowl,40,444,44.40,,0,,1,7,,,,21 years 313 days
+12.0,27/08/2016,England,Lord's,30,474,43.09,,0,,,7,,,,21 years 316 days
+13.0,30/08/2016,England,Trent Bridge,9,483,40.25,,0,,,7,,,,21 years 319 days
+14.0,01/09/2016,England,Headingley,12,495,38.08,,0,,1,8,,,,21 years 321 days
+15.0,04/09/2016,England,Sophia Gardens,31,526,37.57,,0,,,8,,,,21 years 324 days
+16.0,30/09/2016,West Indies,Sharjah Cricket Stadium,120,646,43.07,,0,,,8,,,,21 years 350 days
+17.0,02/10/2016,West Indies,Sharjah Cricket Stadium,123,769,48.06,,0,,,8,,,,21 years 352 days
+18.0,05/10/2016,West Indies,Sheikh Zayed Stadium,117,886,52.12,,0,,,8,,,,21 years 355 days
+19.0,13/01/2017,Australia,Brisbane Cricket Ground,33,919,51.06,,0,,,8,,,,22 years 90 days
+20.0,15/01/2017,Australia,Melbourne Cricket Ground,34,953,50.16,,0,,,8,,,,22 years 92 days
+21.0,19/01/2017,Australia,WACA Ground,84,1037,51.85,,0,,,8,,,,22 years 96 days
+22.0,22/01/2017,Australia,Sydney Cricket Ground,31,1068,50.86,,0,,,8,,,,22 years 99 days
+23.0,26/01/2017,Australia,Adelaide Oval,100,1168,53.09,,0,,1,9,,,,22 years 103 days
+24.0,07/04/2017,West Indies,Providence Stadium,13,1181,51.35,,0,,1,10,,,,22 years 174 days
+25.0,09/04/2017,West Indies,Providence Stadium,125*,1306,56.78,,0,,2,12,,,,22 years 176 days
+26.0,11/04/2017,West Indies,Providence Stadium,16,1322,55.08,,0,,,12,,,,22 years 178 days
+27.0,04/06/2017,India,Edgbaston,8,1330,53.20,,0,,,12,,,,22 years 232 days
+28.0,07/06/2017,South Africa,Edgbaston,31*,1361,54.44,,0,,1,13,,,,22 years 235 days
+29.0,12/06/2017,Sri Lanka,Sophia Gardens,10,1371,52.73,,0,,1,14,,,,22 years 240 days
+30.0,14/06/2017,England,Sophia Gardens,38*,1409,54.19,,0,,1,15,,,,22 years 242 days
+31.0,18/06/2017,India,Kennington Oval,46,1455,53.89,,0,,1,16,,,,22 years 246 days
+32.0,13/10/2017,Sri Lanka,Dubai International Cricket Stadium,103,1558,55.64,,0,,,16,,,,22 years 363 days
+33.0,16/10/2017,Sri Lanka,Sheikh Zayed Stadium,101,1659,57.21,,0,,2,18,,,,23 years 1 days
+34.0,18/10/2017,Sri Lanka,Sheikh Zayed Stadium,30,1689,56.30,,0,,,18,,,,23 years 3 days
+35.0,20/10/2017,Sri Lanka,Sharjah Cricket Stadium,69*,1758,58.60,,0,,2,20,,,,23 years 5 days
+36.0,23/10/2017,Sri Lanka,Sharjah Cricket Stadium,-,1758,58.60,,0,,,20,,,,23 years 8 days
+37.0,06/01/2018,New Zealand,Basin Reserve,0,1758,56.71,,0,,1,21,,,,23 years 83 days
+38.0,08/01/2018,New Zealand,Saxton Oval,10,1768,55.25,,0,,,21,,,,23 years 85 days
+39.0,13/01/2018,New Zealand,University Oval,8,1776,53.82,,0,,,21,,,,23 years 90 days
+40.0,16/01/2018,New Zealand,Seddon Park,3,1779,52.32,,0,,1,22,,,,23 years 93 days
+41.0,18/01/2018,New Zealand,Basin Reserve,10,1789,51.11,,0,,,22,,,,23 years 95 days
+42.0,13/07/2018,Zimbabwe,Queens Sports Club,30,1819,50.53,,0,,1,23,,,,23 years 271 days
+43.0,16/07/2018,Zimbabwe,Queens Sports Club,29*,1848,51.33,,0,,,23,,,,23 years 274 days
+44.0,18/07/2018,Zimbabwe,Queens Sports Club,19*,1867,51.86,,0,,1,24,,,,23 years 276 days
+45.0,20/07/2018,Zimbabwe,Queens Sports Club,-,1867,51.86,,0,,1,25,,,,23 years 278 days
+46.0,22/07/2018,Zimbabwe,Queens Sports Club,106*,1973,54.81,,0,,,25,,,,23 years 280 days
+47.0,16/09/2018,Hong Kong,Dubai International Cricket Stadium,33,2006,54.22,,0,,,25,,,,23 years 336 days
+48.0,19/09/2018,India,Dubai International Cricket Stadium,47,2053,54.03,,0,,1,26,,,,23 years 339 days
+49.0,21/09/2018,Afghanistan,Sheikh Zayed Stadium,66,2119,54.33,,0,,,26,,,,23 years 341 days
+50.0,23/09/2018,India,Dubai International Cricket Stadium,9,2128,53.20,,0,,,26,,,,23 years 343 days
+51.0,26/09/2018,Bangladesh,Sheikh Zayed Stadium,1,2129,51.93,,0,,,26,,,,23 years 346 days
+52.0,07/11/2018,New Zealand,Sheikh Zayed Stadium,0,2129,50.69,,0,,1,27,,,,24 years 23 days
+53.0,09/11/2018,New Zealand,Sheikh Zayed Stadium,46,2175,50.58,,0,,,27,,,,24 years 25 days
+54.0,11/11/2018,New Zealand,Dubai International Cricket Stadium,92,2267,51.52,,0,,,27,,,,24 years 27 days
+55.0,19/01/2019,South Africa,St George's Park,49,2316,51.47,,0,,,27,,,,24 years 96 days
+56.0,22/01/2019,South Africa,Kingsmead,12,2328,50.61,,0,,,27,,,,24 years 99 days
+57.0,25/01/2019,South Africa,SuperSport Park,69,2397,51.00,,0,,1,28,,,,24 years 102 days
+58.0,27/01/2019,South Africa,Wanderers Stadium,41*,2438,51.87,,0,,1,29,,,,24 years 104 days
+59.0,30/01/2019,South Africa,Newlands,24,2462,51.29,,0,,,29,,,,24 years 107 days
+60.0,08/05/2019,England,Kennington Oval,16,2478,50.57,,0,,,29,,,,24 years 205 days
+61.0,11/05/2019,England,The Rose Bowl,51,2529,50.58,,0,,,29,,,,24 years 208 days
+62.0,14/05/2019,England,County Ground (Bristol),15,2544,49.88,,0,,1,30,,,,24 years 211 days
+63.0,17/05/2019,England,Trent Bridge,115,2659,51.13,,0,,,30,,,,24 years 214 days
+64.0,19/05/2019,England,Headingley,80,2739,51.68,,0,,1,31,,,,24 years 216 days
+65.0,31/05/2019,West Indies,Trent Bridge,22,2761,51.13,,0,,1,32,,,,24 years 228 days
+66.0,03/06/2019,England,Trent Bridge,63,2824,51.35,,0,,,32,,,,24 years 231 days
+67.0,12/06/2019,Australia,The Cooper Associates County Ground,30,2854,50.96,,0,,,32,,,,24 years 240 days
+68.0,16/06/2019,India,Old Trafford,48,2902,50.91,,0,,2,34,,,,24 years 244 days
+69.0,23/06/2019,South Africa,Lord's,69,2971,51.22,,0,,,34,,,,24 years 251 days
+70.0,26/06/2019,New Zealand,Edgbaston,101*,3072,52.97,,0,,,34,,,,24 years 254 days
+71.0,29/06/2019,Afghanistan,Headingley,45,3117,52.83,,0,,1,35,,,,24 years 257 days
+72.0,05/07/2019,Bangladesh,Lord's,96,3213,53.55,,0,,1,36,,,,24 years 263 days
+73.0,30/09/2019,Sri Lanka,National Stadium (Karachi),115,3328,54.56,,0,,,36,,,,24 years 350 days
+74.0,02/10/2019,Sri Lanka,National Stadium (Karachi),31,3359,54.18,,0,,,36,,,,24 years 352 days

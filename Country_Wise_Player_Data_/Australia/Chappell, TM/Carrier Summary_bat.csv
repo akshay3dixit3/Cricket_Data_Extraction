@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,23/11/1980,New Zealand,Adelaide Oval,12,12,12.00,0/21,0,,1,1,,,,28 years 33 days
+2.0,25/11/1980,New Zealand,Sydney Cricket Ground,-,12,12.00,,0,,,1,,,,28 years 35 days
+3.0,06/12/1980,India,Melbourne Cricket Ground,14,26,13.00,1/14,1,35.00,,1,,,,28 years 46 days
+4.0,07/12/1980,New Zealand,Melbourne Cricket Ground,6,32,10.67,0/27,1,62.00,1,2,,,,28 years 47 days
+5.0,18/12/1980,India,Sydney Cricket Ground,-,32,10.67,1/40,2,51.00,,2,,,,28 years 58 days
+6.0,08/01/1981,India,Sydney Cricket Ground,-,32,10.67,,2,51.00,,2,,,,28 years 79 days
+7.0,11/01/1981,India,Melbourne Cricket Ground,-,32,10.67,2/41,4,35.75,1,3,,,,28 years 82 days
+8.0,13/01/1981,New Zealand,Sydney Cricket Ground,0,32,8.00,1/21,5,32.80,1,4,,,,28 years 84 days
+9.0,15/01/1981,India,Sydney Cricket Ground,14,46,9.20,,5,32.80,,4,,,,28 years 86 days
+10.0,21/01/1981,New Zealand,Sydney Cricket Ground,14,60,10.00,,5,32.80,,4,,,,28 years 92 days
+11.0,31/01/1981,New Zealand,Melbourne Cricket Ground,-,60,10.00,2/28,7,27.43,1,5,,,,28 years 102 days
+12.0,01/02/1981,New Zealand,Melbourne Cricket Ground,-,60,10.00,2/57,9,27.67,2,7,,,,28 years 103 days
+13.0,03/02/1981,New Zealand,Sydney Cricket Ground,-,60,10.00,1/41,10,29.00,,7,,,,28 years 105 days
+14.0,04/06/1981,England,Lord's,16,76,10.86,1/50,11,30.91,,7,,,,28 years 226 days
+15.0,06/06/1981,England,Edgbaston,0,76,9.50,1/69,12,34.08,,7,,,,28 years 228 days
+16.0,08/06/1981,England,Headingley,14,90,10.00,3/31,15,29.33,,7,,,,28 years 230 days
+17.0,13/06/1983,India,Trent Bridge,110,200,20.00,,15,29.33,,7,,,,30 years 234 days
+18.0,16/06/1983,Zimbabwe,County Ground (Southampton),22,222,20.18,3/47,18,27.06,,7,,,,30 years 237 days
+19.0,18/06/1983,West Indies,Lord's,5,227,18.92,1/51,19,28.32,,7,,,,30 years 239 days
+20.0,20/06/1983,India,County Ground (Chelmsford),2,229,17.62,,19,28.32,1,8,,,,30 years 241 days

@@ -1,0 +1,27 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,05/01/1971,Australia,Melbourne Cricket Ground,24,24,24.00,,0,,,0,,,,26 years 229 days
+2.0,24/08/1972,Australia,Old Trafford,60,84,42.00,,0,,,0,,,,28 years 96 days
+3.0,26/08/1972,Australia,Lord's,20,104,34.67,,0,,,0,,,,28 years 98 days
+4.0,28/08/1972,Australia,Edgbaston,34,138,34.50,,0,,,0,,,,28 years 100 days
+5.0,18/07/1973,New Zealand,St Helen's,16*,154,38.50,,0,,,0,,,,29 years 58 days
+6.0,20/07/1973,New Zealand,Old Trafford,25,179,35.80,,0,,,0,,,,29 years 60 days
+7.0,05/09/1973,West Indies,Headingley,2,181,30.17,,0,,,0,,,,29 years 107 days
+8.0,07/09/1973,West Indies,Kennington Oval,63,244,34.86,,0,,,0,,,,29 years 109 days
+9.0,13/07/1974,India,Headingley,39,283,35.38,,0,,1,1,,,,30 years 53 days
+10.0,15/07/1974,India,Kennington Oval,55*,338,42.25,,0,,,1,,,,30 years 55 days
+11.0,31/08/1974,Pakistan,Trent Bridge,-,338,42.25,,0,,,1,,,,30 years 102 days
+12.0,03/09/1974,Pakistan,Edgbaston,2,340,37.78,,0,,,1,,,,30 years 105 days
+13.0,01/01/1975,Australia,Melbourne Cricket Ground,31,371,37.10,,0,,1,2,,,,30 years 225 days
+14.0,08/03/1975,New Zealand,Carisbrook,11,382,34.73,,0,,,2,,,,30 years 291 days
+15.0,09/03/1975,New Zealand,Basin Reserve,18*,400,36.36,,0,,,2,,,,30 years 292 days
+16.0,07/06/1975,India,Lord's,68,468,39.00,,0,,1,3,,,,31 years 17 days
+17.0,11/06/1975,New Zealand,Trent Bridge,131,599,46.08,,0,,,3,,,,31 years 21 days
+18.0,14/06/1975,East Africa,Edgbaston,-,599,46.08,,0,,,3,,,,31 years 24 days
+19.0,18/06/1975,Australia,Headingley,8,607,43.36,,0,,,3,,,,31 years 28 days
+20.0,25/11/1981,India,Sardar Vallabhai Patel Stadium,26,633,42.20,,0,,,3,,,,37 years 188 days
+21.0,20/12/1981,India,Gandhi Stadium,5,638,39.88,,0,,,3,,,,37 years 213 days
+22.0,27/01/1982,India,Barabati Stadium,69,707,41.59,,0,,,3,,,,37 years 251 days
+23.0,13/02/1982,Sri Lanka,Sinhalese Sports Club Ground,12,719,39.94,,0,,,3,,,,37 years 268 days
+24.0,14/02/1982,Sri Lanka,Sinhalese Sports Club Ground,38,757,39.84,,0,,,3,,,,37 years 269 days

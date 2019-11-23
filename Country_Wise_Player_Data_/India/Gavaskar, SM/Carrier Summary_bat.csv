@@ -1,0 +1,111 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,13/07/1974,England,Headingley,28,28,28.00,,0,,,0,,,,25 years 2 days
+2.0,15/07/1974,England,Kennington Oval,20,48,24.00,,0,,,0,,,,25 years 4 days
+3.0,07/06/1975,England,Lord's,36*,84,42.00,,0,,,0,,,,25 years 331 days
+4.0,11/06/1975,East Africa,Headingley,65*,149,74.50,,0,,,0,,,,25 years 335 days
+5.0,14/06/1975,New Zealand,Old Trafford,12,161,53.67,,0,,,0,,,,25 years 338 days
+6.0,13/10/1978,Pakistan,Jinnah Stadium (Sialkot),4,165,41.25,1/10,1,10.00,,0,,,,29 years 94 days
+7.0,09/06/1979,West Indies,Edgbaston,8,173,34.60,,1,10.00,,0,,,,29 years 333 days
+8.0,13/06/1979,New Zealand,Headingley,55,228,38.00,,1,10.00,,0,,,,29 years 337 days
+9.0,16/06/1979,Sri Lanka,Old Trafford,26,254,36.29,,1,10.00,,0,,,,29 years 340 days
+10.0,06/12/1980,Australia,Melbourne Cricket Ground,4,258,32.25,,1,10.00,1,1,,,,31 years 149 days
+11.0,09/12/1980,New Zealand,WACA Ground,0,258,28.67,,1,10.00,,1,,,,31 years 152 days
+12.0,18/12/1980,Australia,Sydney Cricket Ground,22,280,28.00,0/7,1,17.00,,1,,,,31 years 161 days
+13.0,21/12/1980,New Zealand,Brisbane Cricket Ground,1,281,25.55,,1,17.00,,1,,,,31 years 164 days
+14.0,23/12/1980,New Zealand,Adelaide Oval,17,298,24.83,,1,17.00,2,3,,,,31 years 166 days
+15.0,08/01/1981,Australia,Sydney Cricket Ground,1,299,23.00,,1,17.00,,3,,,,31 years 182 days
+16.0,10/01/1981,New Zealand,Melbourne Cricket Ground,8,307,21.93,,1,17.00,,3,,,,31 years 184 days
+17.0,11/01/1981,Australia,Melbourne Cricket Ground,80,387,25.80,,1,17.00,,3,,,,31 years 185 days
+18.0,15/01/1981,Australia,Sydney Cricket Ground,1,388,24.25,,1,17.00,,3,,,,31 years 189 days
+19.0,18/01/1981,New Zealand,Brisbane Cricket Ground,9,397,23.35,,1,17.00,,3,,,,31 years 192 days
+20.0,14/02/1981,New Zealand,Eden Park,14,411,22.83,,1,17.00,,3,,,,31 years 219 days
+21.0,25/11/1981,England,Sardar Vallabhai Patel Stadium,0,411,21.63,,1,17.00,,3,,,,32 years 138 days
+22.0,20/12/1981,England,Gandhi Stadium,-,411,21.63,,1,17.00,,3,,,,32 years 163 days
+23.0,27/01/1982,England,Barabati Stadium,71,482,24.10,,1,17.00,,3,,,,32 years 201 days
+24.0,02/06/1982,England,Headingley,38,520,24.76,,1,17.00,,3,,,,32 years 327 days
+25.0,04/06/1982,England,Kennington Oval,15,535,24.32,,1,17.00,,3,,,,32 years 329 days
+26.0,03/12/1982,Pakistan,Jinnah Stadium (Gujwranwala),1,536,23.30,,1,17.00,,3,,,,33 years 145 days
+27.0,31/12/1982,Pakistan,Gaddafi Stadium,69,605,25.21,,1,17.00,,3,,,,33 years 173 days
+28.0,21/01/1983,Pakistan,National Stadium (Karachi),23,628,25.12,0/4,1,21.00,,3,,,,33 years 194 days
+29.0,09/03/1983,West Indies,Queen's Park Oval,25,653,25.12,,1,21.00,,3,,,,33 years 241 days
+30.0,29/03/1983,West Indies,Albion Sports Complex,90,743,27.52,,1,21.00,,3,,,,33 years 261 days
+31.0,07/04/1983,West Indies,Queen's Park (Old),3,746,26.64,,1,21.00,,3,,,,33 years 270 days
+32.0,09/06/1983,West Indies,Old Trafford,19,765,26.38,,1,21.00,,3,,,,33 years 333 days
+33.0,11/06/1983,Zimbabwe,Grace Road,4,769,25.63,,1,21.00,,3,,,,33 years 335 days
+34.0,18/06/1983,Zimbabwe,Nevill Ground,0,769,24.81,,1,21.00,,3,,,,33 years 342 days
+35.0,20/06/1983,Australia,County Ground (Chelmsford),9,778,24.31,,1,21.00,1,4,,,,33 years 344 days
+36.0,22/06/1983,England,Old Trafford,25,803,24.33,,1,21.00,,4,,,,33 years 346 days
+37.0,25/06/1983,West Indies,Lord's,2,805,23.68,,1,21.00,2,6,,,,33 years 349 days
+38.0,10/09/1983,Pakistan,Lal Bahadur Shastri Stadium,33,838,23.94,,1,21.00,,6,,,,34 years 61 days
+39.0,02/10/1983,Pakistan,Sawai Mansingh Stadium,41,879,24.42,,1,21.00,,6,,,,34 years 83 days
+40.0,13/10/1983,West Indies,Sher-I-Kashmir Stadium,11,890,24.05,,1,21.00,,6,,,,34 years 94 days
+41.0,01/12/1983,West Indies,Nehru Stadium (Indore),15,905,23.82,,1,21.00,,6,,,,34 years 143 days
+42.0,07/12/1983,West Indies,Keenan Stadium,83,988,25.33,,1,21.00,,6,,,,34 years 149 days
+43.0,08/04/1984,Sri Lanka,Sharjah Cricket Stadium,-,988,25.33,,1,21.00,1,7,,,,34 years 272 days
+44.0,13/04/1984,Pakistan,Sharjah Cricket Stadium,36*,1024,26.26,,1,21.00,,7,,,,34 years 277 days
+45.0,28/09/1984,Australia,Jawaharlal Nehru Stadium (Delhi),25,1049,26.23,,1,21.00,,7,,,,35 years 80 days
+46.0,01/10/1984,Australia,University Stadium,14,1063,25.93,,1,21.00,,7,,,,35 years 83 days
+47.0,03/10/1984,Australia,Keenan Stadium,-,1063,25.93,,1,21.00,,7,,,,35 years 85 days
+48.0,05/10/1984,Australia,Sardar Patel Stadium,4,1067,25.40,,1,21.00,,7,,,,35 years 87 days
+49.0,06/10/1984,Australia,Nehru Stadium (Indore),40,1107,25.74,0/4,1,25.00,,7,,,,35 years 88 days
+50.0,12/10/1984,Pakistan,Ayub National Stadium,25,1132,25.73,,1,25.00,,7,,,,35 years 94 days
+51.0,05/12/1984,England,Nehru Stadium (Pune),0,1132,25.16,,1,25.00,,7,,,,35 years 148 days
+52.0,27/12/1984,England,Barabati Stadium,6*,1138,25.29,,1,25.00,,7,,,,35 years 170 days
+53.0,20/01/1985,England,M Chinnaswamy Stadium,40,1178,25.61,,1,25.00,1,8,,,,35 years 194 days
+54.0,23/01/1985,England,Vidarbha Cricket Association Ground,52,1230,26.17,,1,25.00,,8,,,,35 years 197 days
+55.0,27/01/1985,England,Sector 16 Stadium,2*,1232,26.21,,1,25.00,,8,,,,35 years 201 days
+56.0,20/02/1985,Pakistan,Melbourne Cricket Ground,54,1286,26.79,,1,25.00,,8,,,,35 years 225 days
+57.0,26/02/1985,England,Sydney Cricket Ground,30*,1316,27.42,,1,25.00,,8,,,,35 years 231 days
+58.0,03/03/1985,Australia,Melbourne Cricket Ground,-,1316,27.42,,1,25.00,,8,,,,35 years 236 days
+59.0,05/03/1985,New Zealand,Sydney Cricket Ground,-,1316,27.42,,1,25.00,,8,,,,35 years 238 days
+60.0,10/03/1985,Pakistan,Melbourne Cricket Ground,-,1316,27.42,,1,25.00,,8,,,,35 years 243 days
+61.0,22/03/1985,Pakistan,Sharjah Cricket Stadium,2,1318,26.90,,1,25.00,4,12,,,,35 years 255 days
+62.0,29/03/1985,Australia,Sharjah Cricket Stadium,20,1338,26.76,,1,25.00,1,13,,,,35 years 262 days
+63.0,25/08/1985,Sri Lanka,Sinhalese Sports Club Ground,0,1338,26.24,,1,25.00,,13,,,,36 years 46 days
+64.0,21/09/1985,Sri Lanka,P Sara Oval,36*,1374,26.94,,1,25.00,,13,,,,36 years 73 days
+65.0,22/09/1985,Sri Lanka,P Sara Oval,39*,1413,27.71,,1,25.00,,13,,,,36 years 74 days
+66.0,17/11/1985,Pakistan,Sharjah Cricket Stadium,63,1476,28.38,,1,25.00,1,14,,,,36 years 130 days
+67.0,22/11/1985,West Indies,Sharjah Cricket Stadium,76*,1552,29.85,,1,25.00,,14,,,,36 years 135 days
+68.0,11/01/1986,New Zealand,Brisbane Cricket Ground,27,1579,29.79,,1,25.00,,14,,,,36 years 185 days
+69.0,12/01/1986,Australia,Brisbane Cricket Ground,5,1584,29.33,,1,25.00,1,15,,,,36 years 186 days
+70.0,16/01/1986,Australia,Melbourne Cricket Ground,59,1643,29.87,,1,25.00,,15,,,,36 years 190 days
+71.0,18/01/1986,New Zealand,WACA Ground,9,1652,29.50,,1,25.00,3,18,,,,36 years 192 days
+72.0,21/01/1986,Australia,Sydney Cricket Ground,92*,1744,31.14,,1,25.00,,18,,,,36 years 195 days
+73.0,26/01/1986,Australia,Adelaide Oval,77,1821,31.95,,1,25.00,,18,,,,36 years 200 days
+74.0,31/01/1986,Australia,Melbourne Cricket Ground,72,1893,32.64,,1,25.00,1,19,,,,36 years 205 days
+75.0,02/02/1986,New Zealand,North Tasmania Cricket Association Ground,1,1894,32.10,,1,25.00,,19,,,,36 years 207 days
+76.0,05/02/1986,Australia,Sydney Cricket Ground,32,1926,32.10,,1,25.00,,19,,,,36 years 210 days
+77.0,09/02/1986,Australia,Melbourne Cricket Ground,11,1937,31.75,,1,25.00,,19,,,,36 years 214 days
+78.0,10/04/1986,New Zealand,Sharjah Cricket Stadium,0,1937,31.24,,1,25.00,,19,,,,36 years 274 days
+79.0,13/04/1986,Sri Lanka,Sharjah Cricket Stadium,71,2008,31.87,,1,25.00,,19,,,,36 years 277 days
+80.0,18/04/1986,Pakistan,Sharjah Cricket Stadium,92,2100,32.81,,1,25.00,,19,,,,36 years 282 days
+81.0,24/05/1986,England,Kennington Oval,65*,2165,33.83,,1,25.00,,19,,,,36 years 318 days
+82.0,26/05/1986,England,Old Trafford,4,2169,33.37,,1,25.00,,19,,,,36 years 320 days
+83.0,07/09/1986,Australia,Sawai Mansingh Stadium,26,2195,33.26,,1,25.00,,19,,,,37 years 58 days
+84.0,09/09/1986,Australia,Sher-I-Kashmir Stadium,52,2247,33.54,,1,25.00,,19,,,,37 years 60 days
+85.0,02/10/1986,Australia,Arun Jaitley Stadium,6,2253,33.13,,1,25.00,,19,,,,37 years 83 days
+86.0,05/10/1986,Australia,Sardar Patel Stadium,12,2265,32.83,,1,25.00,,19,,,,37 years 86 days
+87.0,27/11/1986,Sri Lanka,Sharjah Cricket Stadium,27,2292,32.74,,1,25.00,,19,,,,37 years 139 days
+88.0,30/11/1986,West Indies,Sharjah Cricket Stadium,63,2355,33.17,,1,25.00,,19,,,,37 years 142 days
+89.0,05/12/1986,Pakistan,Sharjah Cricket Stadium,0,2355,32.71,,1,25.00,2,21,,,,37 years 147 days
+90.0,24/12/1986,Sri Lanka,Green Park,2,2357,32.29,,1,25.00,,21,,,,37 years 166 days
+91.0,11/01/1987,Sri Lanka,Nehru Stadium (Guwahati),70*,2427,33.25,,1,25.00,,21,,,,37 years 184 days
+92.0,13/01/1987,Sri Lanka,Arun Jaitley Stadium,36,2463,33.28,,1,25.00,,21,,,,37 years 186 days
+93.0,15/01/1987,Sri Lanka,Moti Bagh Stadium,69,2532,33.76,,1,25.00,,21,,,,37 years 188 days
+94.0,17/01/1987,Sri Lanka,Wankhede Stadium,25,2557,33.64,,1,25.00,,21,,,,37 years 190 days
+95.0,27/01/1987,Pakistan,Nehru Stadium (Indore),10,2567,33.34,,1,25.00,,21,,,,37 years 200 days
+96.0,20/03/1987,Pakistan,Lal Bahadur Shastri Stadium,1,2568,32.92,,1,25.00,,21,,,,37 years 252 days
+97.0,22/03/1987,Pakistan,Nehru Stadium (Pune),7,2575,32.59,,1,25.00,,21,,,,37 years 254 days
+98.0,24/03/1987,Pakistan,Vidarbha Cricket Association Ground,70,2645,33.06,,1,25.00,,21,,,,37 years 256 days
+99.0,26/03/1987,Pakistan,Keenan Stadium,69,2714,33.51,,1,25.00,,21,,,,37 years 258 days
+100.0,05/04/1987,Australia,Sharjah Cricket Stadium,78*,2792,34.47,,1,25.00,1,22,,,,37 years 268 days
+101.0,10/04/1987,Pakistan,Sharjah Cricket Stadium,0,2792,34.05,,1,25.00,,22,,,,37 years 273 days
+102.0,09/10/1987,Australia,MA Chidambaram Stadium,37,2829,34.08,,1,25.00,,22,,,,38 years 90 days
+103.0,14/10/1987,New Zealand,M Chinnaswamy Stadium,2,2831,33.70,,1,25.00,,22,,,,38 years 95 days
+104.0,17/10/1987,Zimbabwe,Wankhede Stadium,43,2874,33.81,,1,25.00,1,23,,,,38 years 98 days
+105.0,22/10/1987,Australia,Arun Jaitley Stadium,61,2935,34.13,,1,25.00,,23,,,,38 years 103 days
+106.0,26/10/1987,Zimbabwe,Sardar Patel Stadium,50,2985,34.31,,1,25.00,,23,,,,38 years 107 days
+107.0,31/10/1987,New Zealand,Vidarbha Cricket Association Ground,103*,3088,35.49,,1,25.00,,23,,,,38 years 112 days
+108.0,05/11/1987,England,Wankhede Stadium,4,3092,35.14,,1,25.00,,23,,,,38 years 117 days

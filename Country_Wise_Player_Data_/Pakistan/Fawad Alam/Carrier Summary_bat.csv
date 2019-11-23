@@ -1,0 +1,41 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,22/05/2007,Sri Lanka,Sheikh Zayed Stadium,0,0,0.00,,0,,,0,,,,21 years 225 days
+2.0,18/11/2007,India,Sawai Mansingh Stadium,32*,32,32.00,0/56,0,,,0,,,,22 years 40 days
+3.0,30/01/2008,Zimbabwe,Iqbal Stadium,12*,44,44.00,1/45,1,101.00,,0,,,,22 years 113 days
+4.0,02/02/2008,Zimbabwe,Sheikhupura Stadium,14*,58,58.00,1/28,2,64.50,,0,,,,22 years 116 days
+5.0,13/04/2008,Bangladesh,Gaddafi Stadium,2*,60,60.00,0/32,2,80.50,,0,,,,22 years 187 days
+6.0,16/04/2008,Bangladesh,Multan Cricket Stadium,5*,65,65.00,0/26,2,93.50,2,2,,,,22 years 190 days
+7.0,08/06/2008,Bangladesh,Shere Bangla National Stadium,2,67,33.50,0/34,2,110.50,,2,,,,22 years 243 days
+8.0,14/06/2008,India,Shere Bangla National Stadium,-,67,33.50,1/24,3,81.67,,2,,,,22 years 249 days
+9.0,24/06/2008,Hong Kong,National Stadium (Karachi),63*,130,65.00,1/8,4,63.25,,2,,,,22 years 259 days
+10.0,26/06/2008,India,National Stadium (Karachi),-,130,65.00,0/64,4,79.25,1,3,,,,22 years 261 days
+11.0,12/11/2008,West Indies,Sheikh Zayed Stadium,26*,156,78.00,0/15,4,83.00,,3,,,,23 years 35 days
+12.0,30/07/2009,Sri Lanka,Rangiri Dambulla International Stadium,31,187,62.33,,4,83.00,,3,,,,23 years 295 days
+13.0,31/07/2009,Sri Lanka,Rangiri Dambulla International Stadium,10,197,49.25,,4,83.00,,3,,,,23 years 296 days
+14.0,03/08/2009,Sri Lanka,Rangiri Dambulla International Stadium,13,210,42.00,,4,83.00,1,4,,,,23 years 299 days
+15.0,26/01/2010,Australia,Adelaide Oval,33,243,40.50,,4,83.00,,4,,,,24 years 110 days
+16.0,29/01/2010,Australia,WACA Ground,21,264,37.71,,4,83.00,,4,,,,24 years 113 days
+17.0,31/01/2010,Australia,WACA Ground,63,327,40.88,,4,83.00,1,5,,,,24 years 115 days
+18.0,10/09/2010,England,Riverside Ground,39,366,40.67,,4,83.00,1,6,,,,24 years 337 days
+19.0,12/09/2010,England,Headingley,20*,386,42.89,,4,83.00,,6,,,,24 years 339 days
+20.0,17/09/2010,England,Kennington Oval,64,450,45.00,,4,83.00,,6,,,,24 years 344 days
+21.0,20/09/2010,England,Lord's,29,479,43.55,,4,83.00,1,7,,,,24 years 347 days
+22.0,22/09/2010,England,The Rose Bowl,1,480,40.00,,4,83.00,,7,,,,24 years 349 days
+23.0,29/10/2010,South Africa,Sheikh Zayed Stadium,9,489,37.62,,4,83.00,,7,,,,25 years 20 days
+24.0,31/10/2010,South Africa,Sheikh Zayed Stadium,48,537,38.36,,4,83.00,1,8,,,,25 years 22 days
+25.0,02/11/2010,South Africa,Dubai International Cricket Stadium,59*,596,42.57,,4,83.00,1,9,,,,25 years 24 days
+26.0,05/11/2010,South Africa,Dubai International Cricket Stadium,6,602,40.13,,4,83.00,,9,,,,25 years 27 days
+27.0,08/11/2010,South Africa,Dubai International Cricket Stadium,1,603,37.69,,4,83.00,,9,,,,25 years 30 days
+28.0,04/03/2014,Bangladesh,Shere Bangla National Stadium,74,677,39.82,0/12,4,86.00,,9,,,,28 years 147 days
+29.0,08/03/2014,Sri Lanka,Shere Bangla National Stadium,114*,791,46.53,,4,86.00,,9,,,,28 years 151 days
+30.0,23/08/2014,Sri Lanka,Mahinda Rajapaksha International Cricket Stadium,62,853,47.39,0/10,4,88.50,,9,,,,28 years 319 days
+31.0,26/08/2014,Sri Lanka,Mahinda Rajapaksha International Cricket Stadium,30,883,46.47,,4,88.50,,9,,,,28 years 322 days
+32.0,30/08/2014,Sri Lanka,Rangiri Dambulla International Stadium,38*,921,48.47,,4,88.50,,9,,,,28 years 326 days
+33.0,07/10/2014,Australia,Sharjah Cricket Stadium,7,928,46.40,1/23,5,75.40,,9,,,,28 years 364 days
+34.0,10/10/2014,Australia,Dubai International Cricket Stadium,20*,948,47.40,,5,75.40,,9,,,,29 years 1 days
+35.0,12/10/2014,Australia,Sheikh Zayed Stadium,0,948,45.14,,5,75.40,,9,,,,29 years 3 days
+36.0,17/04/2015,Bangladesh,Shere Bangla National Stadium,14,962,43.73,,5,75.40,,9,,,,29 years 190 days
+37.0,19/04/2015,Bangladesh,Shere Bangla National Stadium,0,962,41.83,,5,75.40,1,10,,,,29 years 192 days
+38.0,22/04/2015,Bangladesh,Shere Bangla National Stadium,4,966,40.25,,5,75.40,,10,,,,29 years 195 days

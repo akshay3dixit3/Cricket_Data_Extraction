@@ -1,0 +1,32 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,16/03/1999,Pakistan,Bangabandhu National Stadium,17,17,17.00,,0,,,0,,,,20 years 327 days
+2.0,20/03/1999,Kenya,Bangabandhu National Stadium,8,25,12.50,,0,,,0,,,,20 years 331 days
+3.0,08/10/1999,West Indies,Bangabandhu National Stadium,62*,87,43.50,,0,,,0,,,,21 years 167 days
+4.0,09/10/1999,West Indies,Bangabandhu National Stadium,12,99,33.00,,0,,,0,,,,21 years 168 days
+5.0,05/10/2000,England,Gymkhana Club Ground,13,112,28.00,,0,,,0,,,,22 years 165 days
+6.0,07/04/2001,Zimbabwe,Harare Sports Club,7,119,23.80,,0,,,0,,,,22 years 349 days
+7.0,08/04/2001,Zimbabwe,Harare Sports Club,0,119,19.83,,0,,1,1,,,,22 years 350 days
+8.0,23/11/2001,Zimbabwe,MA Aziz Stadium,13,132,18.86,,0,,,1,,,,23 years 214 days
+9.0,25/11/2001,Zimbabwe,Bangabandhu National Stadium,15,147,18.38,,0,,1,2,,,,23 years 216 days
+10.0,26/11/2001,Zimbabwe,Bangabandhu National Stadium,59,206,22.89,,0,,,2,,,,23 years 217 days
+11.0,22/01/2002,Pakistan,MA Aziz Stadium,6,212,21.20,,0,,,2,,,,23 years 274 days
+12.0,24/01/2002,Pakistan,Bangabandhu National Stadium,41,253,23.00,,0,,,2,,,,23 years 276 days
+13.0,25/01/2002,Pakistan,Bangabandhu National Stadium,6,259,21.58,,0,,,2,,,,23 years 277 days
+14.0,04/08/2002,Sri Lanka,Sinhalese Sports Club Ground,25,284,21.85,,0,,,2,,,,24 years 103 days
+15.0,05/08/2002,Sri Lanka,Sinhalese Sports Club Ground,5,289,20.64,,0,,,2,,,,24 years 104 days
+16.0,07/08/2002,Sri Lanka,R Premadasa Stadium,20,309,20.60,,0,,,2,,,,24 years 106 days
+17.0,19/09/2002,Australia,Sinhalese Sports Club Ground,0,309,19.31,,0,,,2,,,,24 years 149 days
+18.0,23/09/2002,New Zealand,Sinhalese Sports Club Ground,0,309,18.18,,0,,,2,,,,24 years 153 days
+19.0,03/10/2002,South Africa,Senwes Park,1,310,17.22,,0,,2,4,,,,24 years 163 days
+20.0,06/10/2002,South Africa,Willowmoore Park,0,310,16.32,,0,,,4,,,,24 years 166 days
+21.0,29/11/2002,West Indies,MA Aziz Stadium,10,320,16.00,,0,,1,5,,,,24 years 220 days
+22.0,02/12/2002,West Indies,Bangabandhu National Stadium,0,320,15.24,,0,,,5,,,,24 years 223 days
+23.0,11/02/2003,Canada,Kingsmead,9,329,14.95,,0,,,5,,,,24 years 294 days
+24.0,14/02/2003,Sri Lanka,City Oval,10,339,14.74,,0,,,5,,,,24 years 297 days
+25.0,18/02/2003,West Indies,Willowmoore Park,5,344,14.33,,0,,2,7,,,,24 years 301 days
+26.0,22/02/2003,South Africa,Mangaung Oval,0,344,13.76,,0,,,7,,,,24 years 305 days
+27.0,01/03/2003,Kenya,Wanderers Stadium,14,358,13.77,,0,,,7,,,,24 years 312 days
+28.0,02/08/2003,Australia,Cazaly's Stadium,8,366,13.56,,0,,,7,,,,25 years 100 days
+29.0,03/08/2003,Australia,Cazaly's Stadium,8,374,13.36,,0,,,7,,,,25 years 101 days

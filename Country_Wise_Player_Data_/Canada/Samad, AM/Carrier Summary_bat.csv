@@ -1,0 +1,30 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,03/03/2003,New Zealand,Willowmoore Park,12,12,12.00,,0,,,0,,,,23 years 304 days
+2.0,19/08/2006,Bermuda,"Cricket, Skating & Curling Club",28,40,20.00,1/8,1,8.00,,0,,,,27 years 108 days
+3.0,21/08/2006,Bermuda,"Cricket, Skating & Curling Club",33,73,24.33,1/36,2,22.00,1,1,,,,27 years 110 days
+4.0,26/11/2006,Netherlands,Senwes Park,0,73,18.25,0/25,2,34.50,,1,,,,27 years 207 days
+5.0,27/11/2006,Bermuda,Senwes Park,21,94,18.80,,2,34.50,,1,,,,27 years 208 days
+6.0,30/11/2006,Bermuda,Willowmoore Park,39,133,22.17,,2,34.50,,1,,,,27 years 211 days
+7.0,01/12/2006,Netherlands,Willowmoore Park,44,177,25.29,0/18,2,43.50,2,3,,,,27 years 212 days
+8.0,23/01/2007,Scotland,Mombasa Sports Ground,21,198,24.75,,2,43.50,1,4,,,,27 years 265 days
+9.0,24/01/2007,Kenya,Mombasa Sports Ground,50,248,27.56,,2,43.50,,4,,,,27 years 266 days
+10.0,30/01/2007,Netherlands,Ruaraka Sports Club Ground,0,248,24.80,0/5,2,46.00,,4,,,,27 years 272 days
+11.0,31/01/2007,Scotland,Ruaraka Sports Club Ground,32,280,25.45,,2,46.00,,4,,,,27 years 273 days
+12.0,02/02/2007,Bermuda,Gymkhana Club Ground,8,288,24.00,,2,46.00,,4,,,,27 years 275 days
+13.0,04/02/2007,Ireland,Jaffrey Sports Club Ground,42,330,25.38,,2,46.00,1,5,,,,27 years 277 days
+14.0,05/02/2007,Kenya,Jaffrey Sports Club Ground,14,344,24.57,,2,46.00,,5,,,,27 years 278 days
+15.0,26/02/2007,Bermuda,Antigua Recreation Ground,83,427,28.47,,2,46.00,,5,,,,27 years 299 days
+16.0,28/02/2007,Bangladesh,Antigua Recreation Ground,5*,432,28.80,1/21,3,37.67,,5,,,,27 years 301 days
+17.0,14/03/2007,Kenya,Darren Sammy National Cricket Stadium,15,447,27.94,0/23,3,45.33,,5,,,,27 years 315 days
+18.0,18/03/2007,England,Darren Sammy National Cricket Stadium,36,483,28.41,1/31,4,41.75,,5,,,,27 years 319 days
+19.0,22/03/2007,New Zealand,Darren Sammy National Cricket Stadium,9,492,27.33,1/31,5,39.60,1,6,,,,27 years 323 days
+20.0,28/06/2008,Bermuda,Maple Leaf North - West Ground,26,518,27.26,1/28,6,37.67,,6,,,,29 years 56 days
+21.0,29/06/2008,Bermuda,Maple Leaf North - West Ground,13,531,26.55,0/10,6,39.33,1,7,,,,29 years 57 days
+22.0,01/07/2008,Bermuda,Maple Leaf North - West Ground,130,661,31.48,,6,39.33,,7,,,,29 years 59 days
+23.0,18/08/2008,Bermuda,Maple Leaf North - West Ground,16,677,30.77,1/8,7,34.86,,7,,,,29 years 107 days
+24.0,22/08/2008,West Indies,Maple Leaf North - West Ground,25,702,30.52,0/33,7,39.57,2,9,,,,29 years 111 days
+25.0,24/08/2008,West Indies,Maple Leaf North - West Ground,4,706,29.42,0/4,7,40.14,,9,,,,29 years 113 days
+26.0,19/08/2009,Kenya,Maple Leaf North - West Ground,30*,736,30.67,,7,40.14,,9,,,,30 years 108 days
+27.0,22/08/2009,Kenya,Maple Leaf North - West Ground,2,738,29.52,,7,40.14,,9,,,,30 years 111 days

@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,05/02/2012,India,Melbourne Cricket Ground,17*,17,,1/21,1,21.00,,0,,,,28 years 277 days
+2.0,10/02/2012,Sri Lanka,WACA Ground,33,50,50.00,2/47,3,22.67,1,1,,,,28 years 282 days
+3.0,12/02/2012,India,Adelaide Oval,39,89,44.50,0/45,3,37.67,,1,,,,28 years 284 days
+4.0,17/02/2012,Sri Lanka,Sydney Cricket Ground,6,95,31.67,0/32,3,48.33,,1,,,,28 years 289 days
+5.0,19/02/2012,India,Brisbane Cricket Ground,30*,125,41.67,1/27,4,43.00,1,2,,,,28 years 291 days
+6.0,24/02/2012,Sri Lanka,Bellerive Oval,6,131,32.75,3/53,7,32.14,,2,,,,28 years 296 days
+7.0,26/02/2012,India,Sydney Cricket Ground,24,155,31.00,1/8,8,29.13,1,3,,,,28 years 298 days
+8.0,02/03/2012,Sri Lanka,Melbourne Cricket Ground,3,158,26.33,5/31,13,20.31,,3,,,,28 years 303 days
+9.0,04/03/2012,Sri Lanka,Brisbane Cricket Ground,10,168,24.00,0/33,13,22.85,1,4,,,,28 years 305 days
+10.0,06/03/2012,Sri Lanka,Adelaide Oval,4*,172,24.57,0/29,13,25.08,,4,,,,28 years 307 days
+11.0,08/03/2012,Sri Lanka,Adelaide Oval,19,191,23.88,0/21,13,26.69,,4,,,,28 years 309 days
+12.0,16/03/2012,West Indies,Arnos Vale Ground,18*,209,26.13,2/12,15,23.93,1,5,,,,28 years 317 days
+13.0,18/03/2012,West Indies,Arnos Vale Ground,6,215,23.89,0/26,15,25.67,,5,,,,28 years 319 days
+14.0,20/03/2012,West Indies,Arnos Vale Ground,12,227,22.70,0/11,15,26.40,2,7,,,,28 years 321 days
+15.0,28/08/2012,Pakistan,Sharjah Cricket Stadium,3*,230,23.00,1/37,16,27.06,,7,,,,29 years 116 days
+16.0,31/08/2012,Pakistan,Sheikh Zayed Stadium,18,248,22.55,1/40,17,27.82,,7,,,,29 years 119 days
+17.0,03/09/2012,Pakistan,Sharjah Cricket Stadium,2,250,20.83,0/55,17,31.06,,7,,,,29 years 122 days
+18.0,19/01/2014,England,Sydney Cricket Ground,-,250,20.83,2/52,19,30.53,2,9,,,,30 years 260 days
+19.0,24/01/2014,England,WACA Ground,23,273,21.00,1/15,20,29.75,1,10,,,,30 years 265 days

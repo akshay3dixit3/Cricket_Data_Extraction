@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,13/06/2006,England,Civil Service Cricket Club,12,12,12.00,3/63,3,21.00,,0,,,,29 years 187 days
+2.0,05/08/2006,Scotland,Cambusdoon New Ground,-,12,12.00,3/32,6,15.83,,0,,,,29 years 240 days
+3.0,08/08/2006,Netherlands,Cambusdoon New Ground,3,15,7.50,3/41,9,15.11,,0,,,,29 years 243 days
+4.0,30/01/2007,Scotland,Gymkhana Club Ground,-,15,7.50,0/46,9,20.22,,0,,,,30 years 53 days
+5.0,02/02/2007,Kenya,Ruaraka Sports Club Ground,-,15,7.50,1/60,10,24.20,1,1,,,,30 years 56 days
+6.0,04/02/2007,Canada,Jaffrey Sports Club Ground,0,15,5.00,0/40,10,28.20,,1,,,,30 years 58 days
+7.0,05/02/2007,Netherlands,Gymkhana Club Ground,0,15,3.75,0/32,10,31.40,,1,,,,30 years 59 days
+8.0,15/03/2007,Zimbabwe,Sabina Park,15,30,6.00,0/34,10,34.80,1,2,,,,30 years 97 days
+9.0,17/03/2007,Pakistan,Sabina Park,-,30,6.00,1/31,11,34.45,,2,,,,30 years 99 days
+10.0,23/03/2007,West Indies,Queen's Park Oval,8*,38,7.60,1/33,12,34.33,,2,,,,30 years 105 days
+11.0,30/03/2007,England,Providence Stadium,1,39,6.50,0/38,12,37.50,,2,,,,30 years 112 days
+12.0,03/04/2007,South Africa,Providence Stadium,17*,56,9.33,0/31,12,40.08,,2,,,,30 years 116 days
+13.0,09/04/2007,New Zealand,Providence Stadium,0*,56,9.33,2/41,14,37.29,,2,,,,30 years 122 days
+14.0,13/04/2007,Australia,Kensington Oval,2,58,8.29,0/27,14,39.21,,2,,,,30 years 126 days
+15.0,15/04/2007,Bangladesh,Kensington Oval,6*,64,9.14,2/27,16,36.00,2,4,,,,30 years 128 days
+16.0,18/04/2007,Sri Lanka,National Cricket Stadium (Grenada),18,82,10.25,1/29,17,35.59,,4,,,,30 years 131 days
+17.0,11/07/2007,Netherlands,Civil Service Cricket Club,31*,113,14.13,0/22,17,36.88,,4,,,,30 years 215 days
+18.0,14/07/2007,West Indies,Castle Avenue,-,113,14.13,,17,36.88,,4,,,,30 years 218 days
+19.0,15/07/2007,Scotland,Civil Service Cricket Club,9*,122,15.25,1/25,18,36.22,1,5,,,,30 years 219 days
+20.0,18/03/2008,Bangladesh,Shere Bangla National Stadium,3*,125,15.63,1/49,19,36.89,,5,,,,31 years 101 days
+21.0,20/03/2008,Bangladesh,Shere Bangla National Stadium,4,129,14.33,3/43,22,33.82,,5,,,,31 years 103 days
+22.0,22/03/2008,Bangladesh,Shere Bangla National Stadium,13*,142,15.78,3/53,25,31.88,,5,,,,31 years 105 days

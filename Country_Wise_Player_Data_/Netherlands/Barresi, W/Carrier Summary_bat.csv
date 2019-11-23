@@ -1,0 +1,35 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,01/07/2010,Scotland,VRA Ground,35,35,35.00,,0,,,0,,,,26 years 58 days
+2.0,03/07/2010,Kenya,Sportpark Westvliet,24,59,29.50,,0,,,0,,,,26 years 60 days
+3.0,05/07/2010,Canada,Hazelaarweg,0,59,19.67,0/20,0,,,0,,,,26 years 62 days
+4.0,07/07/2010,Afghanistan,Sportpark Westvliet,0,59,14.75,,0,,,0,,,,26 years 64 days
+5.0,09/07/2010,Ireland,VRA Ground,19,78,15.60,,0,,,0,,,,26 years 66 days
+6.0,10/07/2010,Afghanistan,Hazelaarweg,51*,129,25.80,,0,,,0,,,,26 years 67 days
+7.0,20/07/2010,Bangladesh,Titwood,64*,193,38.60,,0,,,0,,,,26 years 77 days
+8.0,16/08/2010,Ireland,Castle Avenue,9,202,33.67,,0,,,0,,,,26 years 104 days
+9.0,18/08/2010,Ireland,Castle Avenue,6,208,29.71,,0,,,0,,,,26 years 106 days
+10.0,22/02/2011,England,Vidarbha Cricket Association Stadium,29,237,29.63,,0,,,0,,1,1,26 years 294 days
+11.0,28/02/2011,West Indies,Arun Jaitley Stadium,0,237,26.33,,0,,,0,1,,2,26 years 300 days
+12.0,03/03/2011,South Africa,Punjab Cricket Association IS Bindra Stadium,44,281,28.10,,0,,,0,1,,3,26 years 303 days
+13.0,09/03/2011,India,Arun Jaitley Stadium,26,307,27.91,,0,,,0,,,3,26 years 309 days
+14.0,14/03/2011,Bangladesh,Zahur Ahmed Chowdhury Stadium,10,317,26.42,,0,,,0,,,3,26 years 314 days
+15.0,18/03/2011,Ireland,Eden Gardens,44,361,27.77,,0,,,0,,,3,26 years 318 days
+16.0,28/06/2011,Scotland,Mannofield Park,7,368,26.29,,0,,,0,1,1,5,27 years 55 days
+17.0,29/06/2011,Scotland,Mannofield Park,9,377,25.13,,0,,,0,1,,6,27 years 56 days
+18.0,12/09/2011,Kenya,Sportpark Westvliet,13,390,24.38,,0,,,0,1,1,8,27 years 131 days
+19.0,13/09/2011,Kenya,Sportpark Westvliet,67,457,26.88,,0,,,0,1,1,10,27 years 132 days
+20.0,29/03/2012,Afghanistan,Sharjah Cricket Stadium,-,457,26.88,,0,,,0,2,1,13,27 years 330 days
+21.0,31/03/2012,Afghanistan,Sharjah Cricket Stadium,51,508,28.22,,0,,,0,1,1,15,27 years 332 days
+22.0,31/05/2013,South Africa,VRA Ground,0,508,26.74,,0,,,0,1,,16,29 years 27 days
+23.0,07/07/2013,Ireland,VRA Ground,55,563,28.15,,0,,,0,,2,18,29 years 64 days
+24.0,09/07/2013,Ireland,VRA Ground,46,609,29.00,,0,,,0,,,18,29 years 66 days
+25.0,27/08/2013,Canada,Maple Leaf North - West Ground,1,610,27.73,,0,,,0,,,18,29 years 115 days
+26.0,29/08/2013,Canada,Maple Leaf North - West Ground,8*,618,28.09,,0,,,0,3,,21,29 years 117 days
+27.0,23/01/2014,Kenya,Bert Sutcliffe Oval,137*,755,34.32,,0,,,0,,,21,29 years 264 days
+28.0,28/01/2014,Canada,Bay Oval,28,783,34.04,,0,,,0,,,21,29 years 269 days
+29.0,01/08/2018,Nepal,VRA Ground,12,795,33.13,0/4,0,,2,2,,,21,34 years 89 days
+30.0,03/08/2018,Nepal,VRA Ground,71,866,34.64,,0,,1,3,,,21,34 years 91 days
+31.0,19/06/2019,Zimbabwe,Sportspark Het Schootsveld,39*,905,36.20,,0,,,3,,,21,35 years 46 days
+32.0,21/06/2019,Zimbabwe,Sportspark Het Schootsveld,22,927,35.65,0/13,0,,1,4,,,21,35 years 48 days

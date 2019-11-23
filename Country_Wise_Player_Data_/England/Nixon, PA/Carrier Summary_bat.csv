@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,12/01/2007,Australia,Melbourne Cricket Ground,0,0,0.00,,0,,,0,2,,2,36 years 83 days
+2.0,16/01/2007,New Zealand,Bellerive Oval,15,15,7.50,,0,,,0,,,2,36 years 87 days
+3.0,19/01/2007,Australia,Brisbane Cricket Ground,9,24,8.00,,0,,,0,2,,4,36 years 90 days
+4.0,23/01/2007,New Zealand,Adelaide Oval,6,30,7.50,,0,,,0,2,,6,36 years 94 days
+5.0,26/01/2007,Australia,Adelaide Oval,4,34,6.80,,0,,,0,,,6,36 years 97 days
+6.0,30/01/2007,New Zealand,WACA Ground,49,83,13.83,,0,,,0,1,1,8,36 years 101 days
+7.0,02/02/2007,Australia,Sydney Cricket Ground,4,87,12.43,,0,,,0,2,,10,36 years 104 days
+8.0,06/02/2007,New Zealand,Brisbane Cricket Ground,0,87,10.88,,0,,,0,2,,12,36 years 108 days
+9.0,09/02/2007,Australia,Melbourne Cricket Ground,11*,98,12.25,,0,,,0,1,,13,36 years 111 days
+10.0,11/02/2007,Australia,Sydney Cricket Ground,6,104,11.56,,0,,,0,1,,14,36 years 113 days
+11.0,16/03/2007,New Zealand,Darren Sammy National Cricket Stadium,42*,146,16.22,,0,,,0,1,,15,36 years 146 days
+12.0,18/03/2007,Canada,Darren Sammy National Cricket Stadium,23*,169,18.78,,0,,,0,,1,16,36 years 148 days
+13.0,24/03/2007,Kenya,Darren Sammy National Cricket Stadium,-,169,18.78,,0,,,0,,,16,36 years 154 days
+14.0,30/03/2007,Ireland,Providence Stadium,19,188,18.80,,0,,,0,1,1,18,36 years 160 days
+15.0,04/04/2007,Sri Lanka,Sir Vivian Richards Stadium,42,230,20.91,,0,,,0,1,,19,36 years 165 days
+16.0,08/04/2007,Australia,Sir Vivian Richards Stadium,8,238,19.83,,0,,,0,,,19,36 years 169 days
+17.0,11/04/2007,Bangladesh,Kensington Oval,20*,258,21.50,,0,,,0,2,,21,36 years 172 days
+18.0,17/04/2007,South Africa,Kensington Oval,1,259,19.92,,0,,,0,1,,22,36 years 178 days
+19.0,21/04/2007,West Indies,Kensington Oval,38,297,21.21,,0,,,0,1,,23,36 years 182 days

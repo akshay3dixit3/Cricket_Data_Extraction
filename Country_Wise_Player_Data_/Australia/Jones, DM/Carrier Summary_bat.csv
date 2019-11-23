@@ -1,0 +1,167 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,30/01/1984,Pakistan,Adelaide Oval,40*,40,,,0,,,0,,,,22 years 311 days
+2.0,05/02/1984,West Indies,WACA Ground,23,63,63.00,,0,,,0,,,,22 years 317 days
+3.0,08/02/1984,West Indies,Sydney Cricket Ground,17,80,40.00,,0,,,0,,,,22 years 320 days
+4.0,11/02/1984,West Indies,Melbourne Cricket Ground,12,92,30.67,,0,,,0,,,,22 years 323 days
+5.0,12/02/1984,West Indies,Melbourne Cricket Ground,3,95,23.75,,0,,,0,,,,22 years 324 days
+6.0,29/02/1984,West Indies,Albion Sports Complex,43*,138,34.50,,0,,1,1,,,,22 years 341 days
+7.0,14/03/1984,West Indies,Queen's Park Oval,3,141,28.20,,0,,,1,,,,22 years 355 days
+8.0,19/04/1984,West Indies,Mindoo Philip Park,0,141,23.50,0/4,0,,,1,,,,23 years 26 days
+9.0,20/01/1985,West Indies,Melbourne Cricket Ground,0,141,20.14,,0,,,1,,,,23 years 302 days
+10.0,23/01/1985,Sri Lanka,Sydney Cricket Ground,62*,203,29.00,,0,,,1,,,,23 years 305 days
+11.0,27/01/1985,West Indies,Adelaide Oval,11,214,26.75,,0,,,1,,,,23 years 309 days
+12.0,28/01/1985,Sri Lanka,Adelaide Oval,99*,313,39.13,,0,,1,2,,,,23 years 310 days
+13.0,03/02/1985,Sri Lanka,WACA Ground,-,313,39.13,,0,,,2,,,,23 years 316 days
+14.0,06/02/1985,West Indies,Sydney Cricket Ground,3,316,35.11,,0,,,2,,,,23 years 319 days
+15.0,10/02/1985,West Indies,Melbourne Cricket Ground,13*,329,36.56,,0,,,2,,,,23 years 323 days
+16.0,12/02/1985,West Indies,Sydney Cricket Ground,16,345,34.50,,0,,,2,,,,23 years 325 days
+17.0,17/02/1985,England,Melbourne Cricket Ground,78*,423,42.30,,0,,,2,,,,23 years 330 days
+18.0,24/02/1985,Pakistan,Melbourne Cricket Ground,11,434,39.45,,0,,,2,,,,23 years 337 days
+19.0,03/03/1985,India,Melbourne Cricket Ground,12,446,37.17,,0,,,2,,,,23 years 344 days
+20.0,24/03/1985,England,Sharjah Cricket Stadium,27,473,36.38,,0,,,2,,,,24 years 0 days
+21.0,29/03/1985,India,Sharjah Cricket Stadium,8,481,34.36,,0,,1,3,,,,24 years 5 days
+22.0,29/01/1986,New Zealand,Sydney Cricket Ground,53,534,35.60,,0,,,3,,,,24 years 311 days
+23.0,31/01/1986,India,Melbourne Cricket Ground,33,567,35.44,,0,,1,4,,,,24 years 313 days
+24.0,05/02/1986,India,Sydney Cricket Ground,30*,597,37.31,,0,,2,6,,,,24 years 318 days
+25.0,09/02/1986,India,Melbourne Cricket Ground,19*,616,38.50,,0,,,6,,,,24 years 322 days
+26.0,11/04/1986,Pakistan,Sharjah Cricket Stadium,8,624,36.71,,0,,,6,,,,25 years 17 days
+27.0,07/09/1986,India,Sawai Mansingh Stadium,17*,641,37.71,,0,,1,7,,,,25 years 166 days
+28.0,09/09/1986,India,Sher-I-Kashmir Stadium,12,653,36.28,,0,,,7,,,,25 years 168 days
+29.0,24/09/1986,India,Lal Bahadur Shastri Stadium,48,701,36.89,,0,,,7,,,,25 years 183 days
+30.0,02/10/1986,India,Arun Jaitley Stadium,43,744,37.20,,0,,,7,,,,25 years 191 days
+31.0,05/10/1986,India,Sardar Patel Stadium,2,746,35.52,,0,,1,8,,,,25 years 194 days
+32.0,07/10/1986,India,Madhavrao Scindia Cricket Ground,55,801,36.41,,0,,,8,,,,25 years 196 days
+33.0,01/01/1987,England,WACA Ground,104,905,39.35,,0,,,8,,,,25 years 282 days
+34.0,02/01/1987,Pakistan,WACA Ground,121,1026,42.75,,0,,,8,,,,25 years 283 days
+35.0,04/01/1987,West Indies,WACA Ground,2,1028,41.12,,0,,,8,,,,25 years 285 days
+36.0,18/01/1987,England,Brisbane Cricket Ground,101,1129,43.42,,0,,,8,,,,25 years 299 days
+37.0,20/01/1987,West Indies,Melbourne Cricket Ground,11,1140,42.22,,0,,,8,,,,25 years 301 days
+38.0,22/01/1987,England,Sydney Cricket Ground,34,1174,41.93,,0,,,8,,,,25 years 303 days
+39.0,25/01/1987,West Indies,Adelaide Oval,40,1214,41.86,,0,,,8,,,,25 years 306 days
+40.0,26/01/1987,England,Adelaide Oval,8,1222,40.73,,0,,1,9,,,,25 years 307 days
+41.0,28/01/1987,West Indies,Sydney Cricket Ground,22,1244,40.13,,0,,,9,,,,25 years 309 days
+42.0,01/02/1987,England,Melbourne Cricket Ground,93,1337,41.78,1/4,1,8.00,,9,,,,25 years 313 days
+43.0,06/02/1987,West Indies,Sydney Cricket Ground,7,1344,40.73,,1,8.00,,9,,,,25 years 318 days
+44.0,08/02/1987,England,Melbourne Cricket Ground,67,1411,41.50,0/4,1,12.00,1,10,,,,25 years 320 days
+45.0,11/02/1987,England,Sydney Cricket Ground,13,1424,40.69,,1,12.00,1,11,,,,25 years 323 days
+46.0,09/10/1987,India,MA Chidambaram Stadium,39,1463,40.64,,1,12.00,1,12,,,,26 years 198 days
+47.0,13/10/1987,Zimbabwe,MA Chidambaram Stadium,2,1465,39.59,,1,12.00,1,13,,,,26 years 202 days
+48.0,18/10/1987,New Zealand,Nehru Stadium (Indore),52,1517,39.92,,1,12.00,,13,,,,26 years 207 days
+49.0,22/10/1987,India,Arun Jaitley Stadium,36,1553,39.82,,1,12.00,,13,,,,26 years 211 days
+50.0,27/10/1987,New Zealand,Sector 16 Stadium,56,1609,40.23,,1,12.00,1,14,,,,26 years 216 days
+51.0,30/10/1987,Zimbabwe,Barabati Stadium,58*,1667,41.68,0/5,1,17.00,,14,,,,26 years 219 days
+52.0,04/11/1987,Pakistan,Gaddafi Stadium,38,1705,41.59,,1,17.00,1,15,,,,26 years 224 days
+53.0,08/11/1987,England,Eden Gardens,33,1738,41.38,,1,17.00,,15,,,,26 years 228 days
+54.0,02/01/1988,Sri Lanka,WACA Ground,55,1793,41.70,0/16,1,33.00,1,16,,,,26 years 283 days
+55.0,03/01/1988,New Zealand,WACA Ground,92,1885,42.84,,1,33.00,,16,,,,26 years 284 days
+56.0,07/01/1988,New Zealand,Melbourne Cricket Ground,48,1933,42.96,,1,33.00,,16,,,,26 years 288 days
+57.0,10/01/1988,Sri Lanka,Adelaide Oval,69,2002,43.52,,1,33.00,,16,,,,26 years 291 days
+58.0,14/01/1988,Sri Lanka,Melbourne Cricket Ground,31,2033,43.26,,1,33.00,,16,,,,26 years 295 days
+59.0,17/01/1988,New Zealand,Brisbane Cricket Ground,31,2064,43.00,,1,33.00,,16,,,,26 years 298 days
+60.0,19/01/1988,Sri Lanka,Sydney Cricket Ground,9,2073,42.31,,1,33.00,1,17,,,,26 years 300 days
+61.0,20/01/1988,New Zealand,Sydney Cricket Ground,15,2088,41.76,,1,33.00,1,18,,,,26 years 301 days
+62.0,22/01/1988,New Zealand,Melbourne Cricket Ground,58*,2146,42.92,,1,33.00,,18,,,,26 years 303 days
+63.0,24/01/1988,New Zealand,Sydney Cricket Ground,53*,2199,43.98,,1,33.00,1,19,,,,26 years 305 days
+64.0,04/02/1988,England,Melbourne Cricket Ground,30,2229,43.71,,1,33.00,,19,,,,26 years 316 days
+65.0,11/12/1988,Pakistan,Adelaide Oval,55*,2284,44.78,,1,33.00,,19,,,,27 years 262 days
+66.0,13/12/1988,West Indies,Sydney Cricket Ground,1,2285,43.94,,1,33.00,,19,,,,27 years 264 days
+67.0,15/12/1988,West Indies,Melbourne Cricket Ground,43,2328,43.92,,1,33.00,,19,,,,27 years 266 days
+68.0,02/01/1989,Pakistan,WACA Ground,13,2341,43.35,,1,33.00,,19,,,,27 years 284 days
+69.0,05/01/1989,West Indies,Melbourne Cricket Ground,43,2384,43.35,,1,33.00,,19,,,,27 years 287 days
+70.0,08/01/1989,Pakistan,Brisbane Cricket Ground,16,2400,42.86,,1,33.00,,19,,,,27 years 290 days
+71.0,12/01/1989,West Indies,Sydney Cricket Ground,77,2477,43.46,0/8,1,41.00,,19,,,,27 years 294 days
+72.0,14/01/1989,West Indies,Melbourne Cricket Ground,36,2513,43.33,,1,41.00,2,21,,,,27 years 296 days
+73.0,16/01/1989,West Indies,Sydney Cricket Ground,27,2540,43.05,,1,41.00,1,22,,,,27 years 298 days
+74.0,18/01/1989,West Indies,Sydney Cricket Ground,93*,2633,44.63,,1,41.00,,22,,,,27 years 300 days
+75.0,25/05/1989,England,Old Trafford,4,2637,43.95,,1,41.00,1,23,,,,28 years 62 days
+76.0,27/05/1989,England,Trent Bridge,29,2666,43.70,,1,41.00,1,24,,,,28 years 64 days
+77.0,29/05/1989,England,Lord's,27,2693,43.44,,1,41.00,,24,,,,28 years 66 days
+78.0,19/10/1989,England,Lal Bahadur Shastri Stadium,50,2743,43.54,,1,41.00,,24,,,,28 years 209 days
+79.0,21/10/1989,West Indies,MA Chidambaram Stadium,20,2763,43.17,2/34,3,25.00,1,25,,,,28 years 211 days
+80.0,23/10/1989,Pakistan,Brabourne Stadium,58,2821,43.40,,3,25.00,1,26,,,,28 years 213 days
+81.0,25/10/1989,Sri Lanka,Nehru Stadium (Margao),85,2906,44.03,,3,25.00,,26,,,,28 years 215 days
+82.0,27/10/1989,India,M Chinnaswamy Stadium,53,2959,44.16,,3,25.00,,26,,,,28 years 217 days
+83.0,26/12/1989,Sri Lanka,Melbourne Cricket Ground,85*,3044,45.43,,3,25.00,,26,,,,28 years 277 days
+84.0,30/12/1989,Sri Lanka,WACA Ground,-,3044,45.43,,3,25.00,1,27,,,,28 years 281 days
+85.0,03/01/1990,Pakistan,Melbourne Cricket Ground,2,3046,44.79,,3,25.00,,27,,,,28 years 285 days
+86.0,04/01/1990,Sri Lanka,Melbourne Cricket Ground,69,3115,45.14,,3,25.00,,27,,,,28 years 286 days
+87.0,11/02/1990,Pakistan,Brisbane Cricket Ground,32,3147,44.96,,3,25.00,1,28,,,,28 years 324 days
+88.0,13/02/1990,Pakistan,Sydney Cricket Ground,54,3201,45.08,,3,25.00,,28,,,,28 years 326 days
+89.0,18/02/1990,Sri Lanka,Adelaide Oval,80*,3281,46.21,,3,25.00,,28,,,,28 years 331 days
+90.0,20/02/1990,Pakistan,Sydney Cricket Ground,10,3291,45.71,,3,25.00,,28,,,,28 years 333 days
+91.0,23/02/1990,Pakistan,Melbourne Cricket Ground,83*,3374,46.86,,3,25.00,,28,,,,28 years 336 days
+92.0,25/02/1990,Pakistan,Sydney Cricket Ground,46,3420,46.85,,3,25.00,,28,,,,28 years 338 days
+93.0,03/03/1990,India,AMI Stadium,32,3452,46.65,,3,25.00,2,30,,,,28 years 344 days
+94.0,04/03/1990,New Zealand,AMI Stadium,107,3559,47.45,,3,25.00,1,31,,,,28 years 345 days
+95.0,10/03/1990,New Zealand,Eden Park,59,3618,47.61,,3,25.00,,31,,,,28 years 351 days
+96.0,11/03/1990,New Zealand,Eden Park,102*,3720,48.95,,3,25.00,2,33,,,,28 years 352 days
+97.0,26/04/1990,New Zealand,Sharjah Cricket Stadium,1,3721,48.32,,3,25.00,,33,,,,29 years 32 days
+98.0,30/04/1990,Bangladesh,Sharjah Cricket Stadium,19,3740,47.95,,3,25.00,1,34,,,,29 years 36 days
+99.0,02/05/1990,Sri Lanka,Sharjah Cricket Stadium,117*,3857,49.45,,3,25.00,,34,,,,29 years 38 days
+100.0,04/05/1990,Pakistan,Sharjah Cricket Stadium,0,3857,48.82,,3,25.00,,34,,,,29 years 40 days
+101.0,29/11/1990,New Zealand,Sydney Cricket Ground,36,3893,48.66,,3,25.00,1,35,,,,29 years 249 days
+102.0,02/12/1990,New Zealand,Adelaide Oval,38,3931,48.53,,3,25.00,1,36,,,,29 years 252 days
+103.0,09/12/1990,England,WACA Ground,63*,3994,49.31,,3,25.00,,36,,,,29 years 259 days
+104.0,11/12/1990,New Zealand,Melbourne Cricket Ground,54,4048,49.37,,3,25.00,,36,,,,29 years 261 days
+105.0,16/12/1990,England,Brisbane Cricket Ground,145,4193,50.52,0/6,3,27.00,,36,,,,29 years 266 days
+106.0,18/12/1990,New Zealand,Bellerive Oval,25,4218,50.21,,3,27.00,1,37,,,,29 years 268 days
+107.0,01/01/1991,England,Sydney Cricket Ground,25,4243,49.92,,3,27.00,,37,,,,29 years 282 days
+108.0,10/01/1991,England,Melbourne Cricket Ground,2,4245,49.36,,3,27.00,,37,,,,29 years 291 days
+109.0,13/01/1991,New Zealand,Sydney Cricket Ground,49,4294,49.36,,3,27.00,,37,,,,29 years 294 days
+110.0,15/01/1991,New Zealand,Melbourne Cricket Ground,76,4370,49.66,,3,27.00,2,39,,,,29 years 296 days
+111.0,26/02/1991,West Indies,Sabina Park,88*,4458,50.66,,3,27.00,1,40,,,,29 years 338 days
+112.0,09/03/1991,West Indies,Queen's Park Oval,64,4522,50.81,,3,27.00,,40,,,,29 years 349 days
+113.0,10/03/1991,West Indies,Queen's Park Oval,36,4558,50.64,,3,27.00,,40,,,,29 years 350 days
+114.0,13/03/1991,West Indies,Kensington Oval,7,4565,50.16,,3,27.00,,40,,,,29 years 353 days
+115.0,20/03/1991,West Indies,Bourda,11,4576,49.74,,3,27.00,,40,,,,29 years 360 days
+116.0,08/12/1991,India,WACA Ground,1,4577,49.22,,3,27.00,2,42,,,,30 years 258 days
+117.0,10/12/1991,India,Bellerive Oval,48,4625,49.20,,3,27.00,1,43,,,,30 years 260 days
+118.0,12/12/1991,West Indies,Melbourne Cricket Ground,0,4625,48.68,,3,27.00,,43,,,,30 years 262 days
+119.0,15/12/1991,India,Adelaide Oval,63*,4688,49.35,,3,27.00,1,44,,,,30 years 265 days
+120.0,18/12/1991,West Indies,Sydney Cricket Ground,2,4690,48.85,,3,27.00,,44,,,,30 years 268 days
+121.0,09/01/1992,West Indies,Melbourne Cricket Ground,-,4690,48.85,,3,27.00,,44,,,,30 years 290 days
+122.0,12/01/1992,West Indies,Brisbane Cricket Ground,0,4690,48.35,,3,27.00,,44,,,,30 years 293 days
+123.0,18/01/1992,India,Melbourne Cricket Ground,73,4763,48.60,,3,27.00,,44,,,,30 years 299 days
+124.0,20/01/1992,India,Sydney Cricket Ground,9,4772,48.20,,3,27.00,1,45,,,,30 years 301 days
+125.0,22/02/1992,New Zealand,Eden Park,21,4793,47.93,,3,27.00,,45,,,,30 years 334 days
+126.0,26/02/1992,South Africa,Sydney Cricket Ground,24,4817,47.69,,3,27.00,,45,,,,30 years 338 days
+127.0,01/03/1992,India,Brisbane Cricket Ground,90,4907,48.11,,3,27.00,,45,,,,30 years 342 days
+128.0,05/03/1992,England,Sydney Cricket Ground,22,4929,47.85,,3,27.00,,45,,,,30 years 346 days
+129.0,07/03/1992,Sri Lanka,Adelaide Oval,12*,4941,47.97,,3,27.00,1,46,,,,30 years 348 days
+130.0,11/03/1992,Pakistan,WACA Ground,47,4988,47.96,,3,27.00,,46,,,,30 years 352 days
+131.0,14/03/1992,Zimbabwe,Bellerive Oval,54,5042,48.02,,3,27.00,,46,,,,30 years 355 days
+132.0,18/03/1992,West Indies,Melbourne Cricket Ground,6,5048,47.62,,3,27.00,1,47,,,,30 years 359 days
+133.0,15/08/1992,Sri Lanka,P Sara Oval,30,5078,47.46,,3,27.00,,47,,,,31 years 144 days
+134.0,04/09/1992,Sri Lanka,R Premadasa Stadium,59*,5137,48.01,,3,27.00,,47,,,,31 years 164 days
+135.0,05/09/1992,Sri Lanka,R Premadasa Stadium,17,5154,47.72,,3,27.00,,47,,,,31 years 165 days
+136.0,06/12/1992,West Indies,WACA Ground,14,5168,47.41,,3,27.00,,47,,,,31 years 257 days
+137.0,08/12/1992,West Indies,Sydney Cricket Ground,21,5189,47.17,,3,27.00,,47,,,,31 years 259 days
+138.0,10/12/1992,Pakistan,Bellerive Oval,53,5242,47.23,,3,27.00,,47,,,,31 years 261 days
+139.0,13/12/1992,Pakistan,Adelaide Oval,48*,5290,47.66,,3,27.00,,47,,,,31 years 264 days
+140.0,15/12/1992,West Indies,Melbourne Cricket Ground,22,5312,47.43,,3,27.00,1,48,,,,31 years 266 days
+141.0,10/01/1993,West Indies,Brisbane Cricket Ground,0,5312,47.01,,3,27.00,,48,,,,31 years 292 days
+142.0,12/01/1993,Pakistan,Melbourne Cricket Ground,84,5396,47.33,,3,27.00,,48,,,,31 years 294 days
+143.0,14/01/1993,Pakistan,Sydney Cricket Ground,13,5409,47.03,,3,27.00,,48,,,,31 years 296 days
+144.0,16/01/1993,West Indies,Sydney Cricket Ground,13,5422,46.74,,3,27.00,,48,,,,31 years 298 days
+145.0,18/01/1993,West Indies,Melbourne Cricket Ground,5,5427,46.38,,3,27.00,,48,,,,31 years 300 days
+146.0,19/03/1993,New Zealand,Carisbrook,52,5479,46.43,,3,27.00,1,49,,,,31 years 360 days
+147.0,21/03/1993,New Zealand,AMI Stadium,6,5485,46.09,,3,27.00,2,51,,,,31 years 362 days
+148.0,24/03/1993,New Zealand,Basin Reserve,25,5510,45.92,,3,27.00,,51,,,,32 years 0 days
+149.0,27/03/1993,New Zealand,Seddon Park,64,5574,46.07,,3,27.00,,51,,,,32 years 3 days
+150.0,28/03/1993,New Zealand,Eden Park,25,5599,45.89,,3,27.00,,51,,,,32 years 4 days
+151.0,09/01/1994,South Africa,Brisbane Cricket Ground,98,5697,46.32,,3,27.00,,51,,,,32 years 291 days
+152.0,11/01/1994,New Zealand,Sydney Cricket Ground,21,5718,46.11,,3,27.00,,51,,,,32 years 293 days
+153.0,16/01/1994,South Africa,WACA Ground,10,5728,45.82,,3,27.00,,51,,,,32 years 298 days
+154.0,19/01/1994,New Zealand,Melbourne Cricket Ground,82,5810,46.11,,3,27.00,,51,,,,32 years 301 days
+155.0,21/01/1994,South Africa,Melbourne Cricket Ground,3,5813,45.77,,3,27.00,2,53,,,,32 years 303 days
+156.0,23/01/1994,South Africa,Sydney Cricket Ground,79,5892,46.03,,3,27.00,,53,,,,32 years 305 days
+157.0,25/01/1994,South Africa,Sydney Cricket Ground,25,5917,45.87,,3,27.00,,53,,,,32 years 307 days
+158.0,19/02/1994,South Africa,Wanderers Stadium,42,5959,45.84,,3,27.00,,53,,,,32 years 332 days
+159.0,20/02/1994,South Africa,SuperSport Park,5,5964,45.53,,3,27.00,,53,,,,32 years 333 days
+160.0,22/02/1994,South Africa,St George's Park,67,6031,45.69,,3,27.00,,53,,,,32 years 335 days
+161.0,24/02/1994,South Africa,Kingsmead,8,6039,45.41,,3,27.00,,53,,,,32 years 337 days
+162.0,02/04/1994,South Africa,Buffalo Park,8,6047,45.13,,3,27.00,,53,,,,33 years 8 days
+163.0,04/04/1994,South Africa,St George's Park,13,6060,44.89,,3,27.00,1,54,,,,33 years 10 days
+164.0,06/04/1994,South Africa,Newlands,8,6068,44.62,,3,27.00,,54,,,,33 years 12 days

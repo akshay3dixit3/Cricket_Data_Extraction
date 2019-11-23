@@ -1,0 +1,58 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,24/07/2013,Zimbabwe,Harare Sports Club,63*,63,,,0,,,0,,,,27 years 304 days
+2.0,26/07/2013,Zimbabwe,Harare Sports Club,5,68,68.00,,0,,,0,,,,27 years 306 days
+3.0,28/07/2013,Zimbabwe,Harare Sports Club,33,101,50.50,,0,,,0,,,,27 years 308 days
+4.0,01/08/2013,Zimbabwe,Queens Sports Club,-,101,50.50,,0,,,0,,,,27 years 312 days
+5.0,28/01/2014,New Zealand,Seddon Park,37,138,46.00,0/23,0,,,0,,,,28 years 127 days
+6.0,31/01/2014,New Zealand,Westpac Stadium,20,158,39.50,,0,,,0,,,,28 years 130 days
+7.0,26/02/2014,Bangladesh,Khan Shaheb Osman Ali Stadium,9*,167,41.75,0/17,0,,,0,,,,28 years 156 days
+8.0,28/02/2014,Sri Lanka,Khan Shaheb Osman Ali Stadium,18,185,37.00,0/9,0,,,0,,,,28 years 158 days
+9.0,01/03/2014,Pakistan,Shere Bangla National Stadium,58,243,40.50,,0,,,0,,,,28 years 159 days
+10.0,05/03/2014,Afghanistan,Shere Bangla National Stadium,-,243,40.50,,0,,,0,,,,28 years 163 days
+11.0,15/06/2014,Bangladesh,Shere Bangla National Stadium,16*,259,43.17,,0,,1,1,,,,28 years 265 days
+12.0,17/06/2014,Bangladesh,Shere Bangla National Stadium,1,260,37.14,,0,,1,2,,,,28 years 267 days
+13.0,19/06/2014,Bangladesh,Shere Bangla National Stadium,1,261,32.63,,0,,,2,,,,28 years 269 days
+14.0,30/08/2014,England,Trent Bridge,64*,325,40.63,1/8,1,57.00,,2,,,,28 years 341 days
+15.0,02/09/2014,England,Edgbaston,-,325,40.63,,1,57.00,,2,,,,28 years 344 days
+16.0,05/09/2014,England,Headingley,53,378,42.00,,1,57.00,,2,,,,28 years 347 days
+17.0,08/10/2014,West Indies,Nehru Stadium (Kochi),13,391,39.10,,1,57.00,,2,,,,29 years 14 days
+18.0,11/10/2014,West Indies,Arun Jaitley Stadium,32,423,38.45,,1,57.00,,2,,,,29 years 17 days
+19.0,17/10/2014,West Indies,Himachal Pradesh Cricket Association Stadium,12*,435,39.55,,1,57.00,,2,,,,29 years 23 days
+20.0,02/11/2014,Sri Lanka,Barabati Stadium,27,462,38.50,,1,57.00,,2,,,,29 years 39 days
+21.0,06/11/2014,Sri Lanka,Sardar Patel Stadium,121*,583,48.58,,1,57.00,2,4,,,,29 years 43 days
+22.0,09/11/2014,Sri Lanka,Rajiv Gandhi International Stadium,35,618,47.54,1/16,2,36.50,,4,,,,29 years 46 days
+23.0,13/11/2014,Sri Lanka,Eden Gardens,8,626,44.71,,2,36.50,1,5,,,,29 years 50 days
+24.0,16/11/2014,Sri Lanka,JSCA International Stadium Complex,59,685,45.67,0/33,2,53.00,2,7,,,,29 years 53 days
+25.0,20/01/2015,England,Brisbane Cricket Ground,23,708,44.25,,2,53.00,,7,,,,29 years 118 days
+26.0,26/01/2015,Australia,Sydney Cricket Ground,23,731,43.00,,2,53.00,,7,,,,29 years 124 days
+27.0,30/01/2015,England,WACA Ground,12,743,41.28,,2,53.00,2,9,,,,29 years 128 days
+28.0,21/06/2015,Bangladesh,Shere Bangla National Stadium,0,743,39.11,,2,53.00,,9,,,,29 years 270 days
+29.0,24/06/2015,Bangladesh,Shere Bangla National Stadium,44,787,39.35,1/5,3,37.00,1,10,,,,29 years 273 days
+30.0,10/07/2015,Zimbabwe,Harare Sports Club,124*,911,45.55,,3,37.00,,10,,,,29 years 289 days
+31.0,12/07/2015,Zimbabwe,Harare Sports Club,41,952,45.33,,3,37.00,,10,,,,29 years 291 days
+32.0,11/06/2016,Zimbabwe,Harare Sports Club,62*,1014,48.29,,3,37.00,1,11,,,,30 years 261 days
+33.0,13/06/2016,Zimbabwe,Harare Sports Club,41*,1055,50.24,,3,37.00,,11,,,,30 years 263 days
+34.0,15/06/2016,Zimbabwe,Harare Sports Club,-,1055,50.24,,3,37.00,,11,,,,30 years 265 days
+35.0,18/09/2018,Hong Kong,Dubai International Cricket Stadium,60,1115,50.68,,3,37.00,,11,,,,32 years 360 days
+36.0,19/09/2018,Pakistan,Dubai International Cricket Stadium,31*,1146,52.09,0/0,3,37.00,,11,,,,32 years 361 days
+37.0,21/09/2018,Bangladesh,Dubai International Cricket Stadium,13,1159,50.39,,3,37.00,,11,,,,32 years 363 days
+38.0,23/09/2018,Pakistan,Dubai International Cricket Stadium,12*,1171,50.91,,3,37.00,,11,,,,33 years 365 days
+39.0,25/09/2018,Afghanistan,Dubai International Cricket Stadium,57,1228,51.17,,3,37.00,,11,,,,33 years 1 days
+40.0,28/09/2018,Bangladesh,Dubai International Cricket Stadium,2,1230,49.20,,3,37.00,1,12,,,,33 years 4 days
+41.0,21/10/2018,West Indies,Barsapara Cricket Stadium,22*,1252,50.08,,3,37.00,,12,,,,33 years 27 days
+42.0,24/10/2018,West Indies,Dr YS Rajasekhara Reddy Cricket Stadium,73,1325,50.96,,3,37.00,1,13,,,,33 years 30 days
+43.0,27/10/2018,West Indies,Maharashtra Cricket Association Stadium,22,1347,49.89,,3,37.00,,13,,,,33 years 33 days
+44.0,29/10/2018,West Indies,Brabourne Stadium,100,1447,51.68,,3,37.00,1,14,,,,33 years 35 days
+45.0,01/11/2018,West Indies,Greenfield International Stadium,-,1447,51.68,,3,37.00,1,15,,,,33 years 38 days
+46.0,12/01/2019,Australia,Sydney Cricket Ground,0,1447,49.90,0/13,3,41.33,,15,,,,33 years 110 days
+47.0,15/01/2019,Australia,Adelaide Oval,24,1471,49.03,,3,41.33,,15,,,,33 years 113 days
+48.0,23/01/2019,New Zealand,McLean Park,13*,1484,49.47,,3,41.33,,15,,,,33 years 121 days
+49.0,26/01/2019,New Zealand,Bay Oval,47,1531,49.39,,3,41.33,1,16,,,,33 years 124 days
+50.0,28/01/2019,New Zealand,Bay Oval,40*,1571,50.68,,3,41.33,1,17,,,,33 years 126 days
+51.0,31/01/2019,New Zealand,Seddon Park,0,1571,49.09,,3,41.33,,17,,,,33 years 129 days
+52.0,03/02/2019,New Zealand,Westpac Stadium,90,1661,50.33,,3,41.33,,17,,,,33 years 132 days
+53.0,02/03/2019,Australia,Rajiv Gandhi International Stadium,13,1674,49.24,,3,41.33,,17,,,,33 years 159 days
+54.0,05/03/2019,Australia,Vidarbha Cricket Association Stadium,18,1692,48.34,,3,41.33,,17,,,,33 years 162 days
+55.0,08/03/2019,Australia,JSCA International Stadium Complex,2,1694,47.06,,3,41.33,,17,,,,33 years 165 days

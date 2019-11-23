@@ -1,0 +1,19 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,31/01/1983,New Zealand,Adelaide Oval,3,3,3.00,1/39,1,39.00,1,1,,,,23 years 304 days
+2.0,13/02/1983,New Zealand,Melbourne Cricket Ground,10,13,6.50,1/56,2,47.50,,1,,,,23 years 317 days
+3.0,17/03/1983,New Zealand,Sydney Cricket Ground,41,54,18.00,1/42,3,45.67,,1,,,,23 years 349 days
+4.0,11/06/1983,West Indies,Headingley,1,55,13.75,1/31,4,42.00,,1,,,,24 years 70 days
+5.0,13/06/1983,India,Trent Bridge,4,59,11.80,6/39,10,20.70,1,2,,,,24 years 72 days
+6.0,16/06/1983,Zimbabwe,County Ground (Southampton),9,68,11.33,0/45,10,25.20,,2,,,,24 years 75 days
+7.0,20/06/1983,India,County Ground (Chelmsford),5,73,10.43,1/48,11,27.27,,2,,,,24 years 79 days
+8.0,15/01/1984,Pakistan,Brisbane Cricket Ground,-,73,10.43,0/39,11,30.82,,2,,,,24 years 288 days
+9.0,17/01/1984,West Indies,Sydney Cricket Ground,15,88,11.00,0/47,11,35.09,,2,,,,24 years 290 days
+10.0,01/01/1987,England,WACA Ground,21,109,12.11,0/51,11,39.73,,2,,,,27 years 274 days
+11.0,02/01/1987,Pakistan,WACA Ground,1*,110,12.22,2/36,13,36.38,,2,,,,27 years 275 days
+12.0,04/01/1987,West Indies,WACA Ground,5,115,11.50,1/29,14,35.86,,2,,,,27 years 277 days
+13.0,18/01/1987,England,Brisbane Cricket Ground,-,115,11.50,0/39,14,38.64,,2,,,,27 years 291 days
+14.0,20/01/1987,West Indies,Melbourne Cricket Ground,12*,127,12.70,0/20,14,40.07,,2,,,,27 years 293 days
+15.0,22/01/1987,England,Sydney Cricket Ground,12,139,12.64,0/22,14,41.64,,2,,,,27 years 295 days
+16.0,26/01/1987,England,Adelaide Oval,-,139,12.64,1/43,15,41.73,,2,,,,27 years 299 days

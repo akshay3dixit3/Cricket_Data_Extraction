@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,12/09/2015,Australia,Old Trafford,6,6,6.00,0/33,0,,,0,,,,21 years 202 days
+2.0,11/11/2015,Pakistan,Sheikh Zayed Stadium,0*,6,6.00,3/26,3,19.67,,0,,,,21 years 262 days
+3.0,13/11/2015,Pakistan,Sheikh Zayed Stadium,-,6,6.00,1/33,4,23.00,,0,,,,21 years 264 days
+4.0,17/11/2015,Pakistan,Sharjah Cricket Stadium,-,6,6.00,1/41,5,26.60,,0,,,,21 years 268 days
+5.0,20/11/2015,Pakistan,Dubai International Cricket Stadium,-,6,6.00,1/58,6,31.83,,0,,,,21 years 271 days
+6.0,03/02/2016,South Africa,Mangaung Oval,0*,6,6.00,1/43,7,33.43,1,1,,,,21 years 346 days
+7.0,06/02/2016,South Africa,St George's Park,-,6,6.00,4/50,11,25.82,,1,,,,21 years 349 days
+8.0,09/02/2016,South Africa,SuperSport Park,-,6,6.00,0/46,11,30.00,,1,,,,21 years 352 days
+9.0,12/02/2016,South Africa,Wanderers Stadium,0*,6,6.00,2/39,13,28.38,1,2,,,,21 years 355 days
+10.0,14/02/2016,South Africa,Newlands,1*,7,7.00,3/41,16,25.63,,2,,,,21 years 357 days

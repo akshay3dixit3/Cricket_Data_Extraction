@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,15/10/2017,South Africa,Diamond Oval,16,16,16.00,0/46,0,,,0,,,,20 years 348 days
+2.0,19/01/2018,Sri Lanka,Shere Bangla National Stadium,6*,22,22.00,0/14,0,,1,1,,,,21 years 78 days
+3.0,27/01/2018,Sri Lanka,Shere Bangla National Stadium,8,30,15.00,1/15,1,75.00,,1,,,,21 years 86 days
+4.0,21/10/2018,Zimbabwe,Shere Bangla National Stadium,50,80,26.67,0/29,1,104.00,,1,,,,21 years 353 days
+5.0,24/10/2018,Zimbabwe,Zahur Ahmed Chowdhury Stadium,-,80,26.67,3/45,4,37.25,,1,,,,21 years 356 days
+6.0,26/10/2018,Zimbabwe,Zahur Ahmed Chowdhury Stadium,-,80,26.67,1/51,5,40.00,,1,,,,21 years 358 days
+7.0,14/12/2018,West Indies,Sylhet Stadium,-,80,26.67,1/38,6,39.67,,1,,,,22 years 42 days
+8.0,13/02/2019,New Zealand,McLean Park,41,121,30.25,0/43,6,46.83,,1,,,,22 years 103 days
+9.0,16/02/2019,New Zealand,Hagley Oval,10,131,26.20,0/44,6,54.17,,1,,,,22 years 106 days
+10.0,20/02/2019,New Zealand,University Oval,44,175,29.17,1/48,7,53.29,,1,,,,22 years 110 days
+11.0,07/05/2019,West Indies,Castle Avenue,-,175,29.17,2/47,9,46.67,,1,,,,22 years 186 days
+12.0,15/05/2019,Ireland,Castle Avenue,-,175,29.17,2/43,11,42.09,,1,,,,22 years 194 days
+13.0,17/05/2019,West Indies,The Village,-,175,29.17,0/29,11,44.73,,1,,,,22 years 196 days
+14.0,02/06/2019,South Africa,Kennington Oval,-,175,29.17,2/57,13,42.23,,1,,,,22 years 212 days
+15.0,05/06/2019,New Zealand,Kennington Oval,29,204,29.14,2/41,15,39.33,1,2,,,,22 years 215 days
+16.0,08/06/2019,England,Sophia Gardens,5,209,26.13,2/78,17,39.29,,2,,,,22 years 218 days
+17.0,17/06/2019,West Indies,The Cooper Associates County Ground,-,209,26.13,3/72,20,37.00,,2,,,,22 years 227 days
+18.0,24/06/2019,Afghanistan,The Rose Bowl,2*,211,26.38,1/33,21,36.81,,2,,,,22 years 234 days
+19.0,02/07/2019,India,Edgbaston,51*,262,32.75,0/59,21,39.62,,2,,,,22 years 242 days
+20.0,05/07/2019,Pakistan,Lord's,0,262,29.11,3/77,24,37.88,,2,,,,22 years 245 days

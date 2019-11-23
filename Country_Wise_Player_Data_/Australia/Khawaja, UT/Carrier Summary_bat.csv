@@ -1,0 +1,43 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,11/01/2013,Sri Lanka,Melbourne Cricket Ground,3,3,3.00,,0,,,0,,,,26 years 24 days
+2.0,01/02/2013,West Indies,WACA Ground,8*,11,11.00,,0,,,0,,,,26 years 45 days
+3.0,03/02/2013,West Indies,WACA Ground,3,14,7.00,,0,,,0,,,,26 years 47 days
+4.0,06/02/2016,New Zealand,Westpac Stadium,50,64,21.33,,0,,1,1,,,,29 years 49 days
+5.0,08/02/2016,New Zealand,Seddon Park,44,108,27.00,,0,,1,2,,,,29 years 51 days
+6.0,05/06/2016,West Indies,Providence Stadium,27,135,27.00,,0,,,2,,,,29 years 169 days
+7.0,07/06/2016,South Africa,Providence Stadium,2,137,22.83,,0,,,2,,,,29 years 171 days
+8.0,11/06/2016,South Africa,Warner Park,59,196,28.00,,0,,,2,,,,29 years 175 days
+9.0,13/06/2016,West Indies,Warner Park,98,294,36.75,,0,,,2,,,,29 years 177 days
+10.0,19/06/2016,South Africa,Kensington Oval,-,294,36.75,,0,,,2,,,,29 years 183 days
+11.0,21/06/2016,West Indies,Kensington Oval,17,311,34.56,,0,,,2,,,,29 years 185 days
+12.0,26/06/2016,West Indies,Kensington Oval,14,325,32.50,,0,,,2,,,,29 years 190 days
+13.0,31/08/2016,Sri Lanka,Rangiri Dambulla International Stadium,0,325,29.55,,0,,,2,,,,29 years 256 days
+14.0,04/09/2016,Sri Lanka,Pallekele International Cricket Stadium,6,331,27.58,,0,,,2,,,,29 years 260 days
+15.0,27/09/2016,Ireland,Willowmoore Park,82*,413,34.42,,0,,,2,,,,29 years 283 days
+16.0,15/01/2017,Pakistan,Melbourne Cricket Ground,17,430,33.08,,0,,,2,,,,30 years 28 days
+17.0,19/01/2017,Pakistan,WACA Ground,9,439,31.36,,0,,1,3,,,,30 years 32 days
+18.0,22/01/2017,Pakistan,Sydney Cricket Ground,30,469,31.27,,0,,,3,,,,30 years 35 days
+19.0,12/01/2019,India,Sydney Cricket Ground,59,528,33.00,,0,,1,4,,,,32 years 25 days
+20.0,15/01/2019,India,Adelaide Oval,21,549,32.29,,0,,1,5,,,,32 years 28 days
+21.0,18/01/2019,India,Melbourne Cricket Ground,34,583,32.39,,0,,,5,,,,32 years 31 days
+22.0,02/03/2019,India,Rajiv Gandhi International Stadium,50,633,33.32,,0,,,5,,,,32 years 74 days
+23.0,05/03/2019,India,Vidarbha Cricket Association Stadium,38,671,33.55,,0,,2,7,,,,32 years 77 days
+24.0,08/03/2019,India,JSCA International Stadium Complex,104,775,36.90,,0,,,7,,,,32 years 80 days
+25.0,10/03/2019,India,Punjab Cricket Association IS Bindra Stadium,91,866,39.36,,0,,,7,,,,32 years 82 days
+26.0,13/03/2019,India,Arun Jaitley Stadium,100,966,42.00,,0,,1,8,,,,32 years 85 days
+27.0,22/03/2019,Pakistan,Sharjah Cricket Stadium,24,990,41.25,,0,,,8,,,,32 years 94 days
+28.0,23/03/2019,Pakistan,Sharjah Cricket Stadium,88,1078,43.12,,0,,,8,,,,32 years 95 days
+29.0,27/03/2019,Pakistan,Sheikh Zayed Stadium,0,1078,41.46,,0,,,8,,,,32 years 99 days
+30.0,29/03/2019,Pakistan,Dubai International Cricket Stadium,62,1140,42.22,,0,,,8,,,,32 years 101 days
+31.0,31/03/2019,Pakistan,Dubai International Cricket Stadium,98,1238,44.21,,0,,,8,,,,32 years 103 days
+32.0,01/06/2019,Afghanistan,Sophia Gardens,15,1253,43.21,,0,,,8,,,,32 years 165 days
+33.0,06/06/2019,West Indies,Trent Bridge,13,1266,42.20,,0,,1,9,,,,32 years 170 days
+34.0,09/06/2019,India,Kennington Oval,42,1308,42.19,,0,,,9,,,,32 years 173 days
+35.0,12/06/2019,Pakistan,The Cooper Associates County Ground,18,1326,41.44,,0,,1,10,,,,32 years 176 days
+36.0,15/06/2019,Sri Lanka,Kennington Oval,10,1336,40.48,,0,,1,11,,,,32 years 179 days
+37.0,20/06/2019,Bangladesh,Trent Bridge,89,1425,41.91,,0,,,11,,,,32 years 184 days
+38.0,25/06/2019,England,Lord's,23,1448,41.37,,0,,1,12,,,,32 years 189 days
+39.0,29/06/2019,New Zealand,Lord's,88,1536,42.67,,0,,1,13,,,,32 years 193 days
+40.0,06/07/2019,South Africa,Old Trafford,18,1554,42.00,,0,,,13,,,,32 years 200 days

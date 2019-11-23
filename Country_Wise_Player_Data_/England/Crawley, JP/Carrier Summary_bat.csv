@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,15/12/1994,Zimbabwe,Sydney Cricket Ground,18,18,18.00,,0,,,0,,,,23 years 85 days
+2.0,07/01/1995,Zimbabwe,Brisbane Cricket Ground,14,32,16.00,,0,,,0,,,,23 years 108 days
+3.0,10/01/1995,Australia,Melbourne Cricket Ground,2,34,11.33,,0,,,0,,,,23 years 111 days
+4.0,15/12/1996,Zimbabwe,Queens Sports Club,10,44,11.00,,0,,1,1,,,,25 years 85 days
+5.0,01/01/1997,Zimbabwe,Harare Sports Club,73,117,23.40,,0,,,1,,,,25 years 102 days
+6.0,03/01/1997,Zimbabwe,Harare Sports Club,0,117,19.50,,0,,,1,,,,25 years 104 days
+7.0,20/02/1997,New Zealand,AMI Stadium,0,117,16.71,,0,,,1,,,,25 years 152 days
+8.0,23/02/1997,New Zealand,Eden Park,-,117,16.71,,0,,,1,,,,25 years 155 days
+9.0,04/03/1997,New Zealand,Basin Reserve,11,128,16.00,,0,,,1,,,,25 years 164 days
+10.0,25/05/1997,Australia,Lord's,52,180,20.00,,0,,,1,,,,25 years 246 days
+11.0,19/01/1999,Sri Lanka,Melbourne Cricket Ground,31*,211,23.44,,0,,,1,,,,27 years 120 days
+12.0,26/01/1999,Australia,Adelaide Oval,11,222,22.20,,0,,,1,,,,27 years 127 days
+13.0,03/02/1999,Sri Lanka,Sydney Cricket Ground,13,235,21.36,,0,,,1,,1,1,27 years 135 days

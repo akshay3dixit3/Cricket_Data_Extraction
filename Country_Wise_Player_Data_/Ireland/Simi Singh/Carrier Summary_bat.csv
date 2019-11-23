@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,14/05/2017,New Zealand,The Village,9,9,9.00,,0,,1,1,,,,30 years 99 days
+2.0,21/05/2017,New Zealand,The Village,0,9,4.50,0/38,0,,1,2,,,,30 years 106 days
+3.0,05/12/2017,Afghanistan,Sharjah Cricket Stadium,5,14,4.67,0/36,0,,,2,,,,30 years 304 days
+4.0,18/01/2018,Scotland,ICC Global Cricket Academy,45,59,14.75,0/16,0,,,2,,,,30 years 348 days
+5.0,12/03/2018,United Arab Emirates,Old Hararians Sports Club,1,60,12.00,3/15,3,35.00,,2,,,,31 years 36 days
+6.0,18/03/2018,Scotland,Harare Sports Club,7,67,11.17,2/33,5,27.60,,2,,,,31 years 42 days
+7.0,23/03/2018,Afghanistan,Harare Sports Club,15,82,11.71,3/30,8,21.00,,2,,,,31 years 47 days
+8.0,27/08/2018,Afghanistan,Civil Service Cricket Club,16,98,12.25,0/50,8,27.25,2,4,,,,31 years 204 days
+9.0,29/08/2018,Afghanistan,Civil Service Cricket Club,36*,134,16.75,1/17,9,26.11,1,5,,,,31 years 206 days
+10.0,31/08/2018,Afghanistan,Civil Service Cricket Club,17,151,16.78,,9,26.11,,5,,,,31 years 208 days
+11.0,28/02/2019,Afghanistan,Rajiv Gandhi International Cricket Stadium,8,159,15.90,1/19,10,25.40,1,6,,,,32 years 24 days
+12.0,02/03/2019,Afghanistan,Rajiv Gandhi International Cricket Stadium,-,159,15.90,1/33,11,26.09,1,7,,,,32 years 26 days
+13.0,05/03/2019,Afghanistan,Rajiv Gandhi International Cricket Stadium,1,160,14.55,0/46,11,30.27,1,8,,,,32 years 29 days
+14.0,08/03/2019,Afghanistan,Rajiv Gandhi International Cricket Stadium,20,180,15.00,,11,30.27,1,9,,,,32 years 32 days
+15.0,10/03/2019,Afghanistan,Rajiv Gandhi International Cricket Stadium,13,193,14.85,1/45,12,31.50,,9,,,,32 years 34 days

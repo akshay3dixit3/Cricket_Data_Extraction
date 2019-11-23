@@ -1,0 +1,38 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,31/08/1996,Pakistan,Edgbaston,15,15,15.00,4/23,4,5.75,,0,,,,24 years 361 days
+2.0,01/09/1996,Pakistan,Trent Bridge,13,28,14.00,4/45,8,8.50,,0,,,,24 years 362 days
+3.0,22/05/1997,Australia,Headingley,66*,94,47.00,2/22,10,9.00,,0,,,,25 years 259 days
+4.0,24/05/1997,Australia,Kennington Oval,53*,147,73.50,1/25,11,10.45,,0,,,,25 years 261 days
+5.0,25/05/1997,Australia,Lord's,4*,151,75.50,1/35,12,12.50,1,1,,,,25 years 262 days
+6.0,11/12/1997,India,Sharjah Cricket Stadium,4,155,51.67,1/38,13,14.46,1,2,,,,26 years 97 days
+7.0,13/12/1997,West Indies,Sharjah Cricket Stadium,9,164,41.00,1/41,14,16.36,,2,,,,26 years 99 days
+8.0,15/12/1997,Pakistan,Sharjah Cricket Stadium,17,181,36.20,2/35,16,16.50,,2,,,,26 years 101 days
+9.0,19/12/1997,West Indies,Sharjah Cricket Stadium,16,197,32.83,0/50,16,19.63,,2,,,,26 years 105 days
+10.0,29/03/1998,West Indies,Kensington Oval,18*,215,35.83,1/47,17,21.24,1,3,,,,26 years 205 days
+11.0,01/04/1998,West Indies,Kensington Oval,11,226,32.29,2/43,19,21.26,3,6,,,,26 years 208 days
+12.0,04/04/1998,West Indies,Arnos Vale Ground,31,257,32.13,0/27,19,22.68,1,7,,,,26 years 211 days
+13.0,05/04/1998,West Indies,Arnos Vale Ground,23,280,31.11,1/12,20,22.15,,7,,,,26 years 212 days
+14.0,08/04/1998,West Indies,Queen's Park Oval,2,282,28.20,0/33,20,23.80,,7,,,,26 years 215 days
+15.0,21/05/1998,South Africa,Kennington Oval,32,314,28.55,0/8,20,24.20,1,8,,,,26 years 258 days
+16.0,23/05/1998,South Africa,Old Trafford,46,360,30.00,0/13,20,24.85,,8,,,,26 years 260 days
+17.0,24/05/1998,South Africa,Headingley,-,360,30.00,,20,24.85,,8,,,,26 years 261 days
+18.0,16/08/1998,Sri Lanka,Lord's,3,363,27.92,1/18,21,24.52,,8,,,,26 years 345 days
+19.0,18/08/1998,South Africa,Edgbaston,10,373,26.64,0/22,21,25.57,,8,,,,26 years 347 days
+20.0,25/10/1998,South Africa,Bangabandhu National Stadium,83*,456,32.57,1/41,22,26.27,,8,,,,27 years 50 days
+21.0,10/01/1999,Australia,Brisbane Cricket Ground,5,461,30.73,0/31,22,27.68,1,9,,,,27 years 127 days
+22.0,11/01/1999,Sri Lanka,Brisbane Cricket Ground,1,462,28.88,3/32,25,25.64,1,10,,,,27 years 128 days
+23.0,15/01/1999,Australia,Melbourne Cricket Ground,13,475,27.94,0/14,25,26.20,,10,,,,27 years 132 days
+24.0,17/01/1999,Australia,Sydney Cricket Ground,22*,497,29.24,2/48,27,26.04,,10,,,,27 years 134 days
+25.0,19/01/1999,Sri Lanka,Melbourne Cricket Ground,-,497,29.24,2/46,29,25.83,,10,,,,27 years 136 days
+26.0,23/01/1999,Sri Lanka,Adelaide Oval,-,497,29.24,0/45,29,27.38,,10,,,,27 years 140 days
+27.0,29/01/1999,Sri Lanka,WACA Ground,46,543,30.17,,29,27.38,2,12,,,,27 years 146 days
+28.0,03/02/1999,Sri Lanka,Sydney Cricket Ground,13,556,29.26,,29,27.38,,12,,,,27 years 151 days
+29.0,05/02/1999,Australia,Sydney Cricket Ground,19,575,28.75,1/28,30,27.40,,12,,,,27 years 153 days
+30.0,10/02/1999,Australia,Sydney Cricket Ground,0,575,27.38,0/38,30,28.67,,12,,,,27 years 158 days
+31.0,13/02/1999,Australia,Melbourne Cricket Ground,7,582,26.45,1/39,31,29.00,,12,,,,27 years 161 days
+32.0,07/04/1999,Pakistan,Sharjah Cricket Stadium,18,600,26.09,0/30,31,29.97,1,13,,,,27 years 214 days
+33.0,14/05/1999,Sri Lanka,Lord's,-,600,26.09,1/21,32,29.69,,13,,,,27 years 251 days
+34.0,25/05/1999,Zimbabwe,Trent Bridge,-,600,26.09,0/35,32,30.78,,13,,,,27 years 262 days
+35.0,29/05/1999,India,Edgbaston,6,606,25.25,0/34,32,31.84,,13,,,,27 years 266 days

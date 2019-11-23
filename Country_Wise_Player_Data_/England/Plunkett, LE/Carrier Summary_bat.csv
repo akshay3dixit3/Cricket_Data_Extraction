@@ -1,0 +1,92 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,10/12/2005,Pakistan,Gaddafi Stadium,-,0,,3/51,3,17.00,,0,,,,20 years 248 days
+2.0,12/12/2005,Pakistan,Gaddafi Stadium,56,56,56.00,0/63,3,38.00,,0,,,,20 years 250 days
+3.0,15/12/2005,Pakistan,National Stadium (Karachi),7,63,31.50,2/61,5,35.00,1,1,,,,20 years 253 days
+4.0,19/12/2005,Pakistan,Rawalpindi Cricket Stadium,7,70,23.33,2/45,7,31.43,,1,,,,20 years 257 days
+5.0,21/12/2005,Pakistan,Rawalpindi Cricket Stadium,24*,94,31.33,0/45,7,37.86,,1,,,,20 years 259 days
+6.0,28/03/2006,India,Arun Jaitley Stadium,14,108,27.00,2/42,9,34.11,2,3,,,,20 years 356 days
+7.0,31/03/2006,India,Nahar Singh Stadium,4,112,22.40,1/29,10,33.60,,3,,,,20 years 359 days
+8.0,03/04/2006,India,Nehru Stadium (Margao),18,130,21.67,1/39,11,34.09,,3,,,,20 years 362 days
+9.0,12/04/2006,India,Keenan Stadium,0,130,18.57,2/22,13,30.54,,3,,,,21 years 5 days
+10.0,15/04/2006,India,Holkar Cricket Stadium,6,136,17.00,0/40,13,33.62,,3,,,,21 years 8 days
+11.0,13/06/2006,Ireland,Civil Service Cricket Club,3*,139,17.38,0/48,13,37.31,1,4,,,,21 years 67 days
+12.0,17/06/2006,Sri Lanka,Lord's,14*,153,19.13,1/32,14,36.93,,4,,,,21 years 71 days
+13.0,20/06/2006,Sri Lanka,Kennington Oval,3,156,17.33,0/58,14,41.07,,4,,,,21 years 74 days
+14.0,24/06/2006,Sri Lanka,Riverside Ground,6*,162,18.00,0/46,14,44.36,,4,,,,21 years 78 days
+15.0,28/06/2006,Sri Lanka,Old Trafford,29,191,19.10,2/60,16,42.56,,4,,,,21 years 82 days
+16.0,01/07/2006,Sri Lanka,Headingley,9*,200,20.00,0/46,16,45.44,,4,,,,21 years 85 days
+17.0,26/01/2007,Australia,Adelaide Oval,0,200,18.18,0/39,16,47.88,,4,,,,21 years 294 days
+18.0,30/01/2007,New Zealand,WACA Ground,25*,225,20.45,3/54,19,43.16,1,5,,,,21 years 298 days
+19.0,02/02/2007,Australia,Sydney Cricket Ground,10*,235,21.36,3/24,22,38.36,,5,,,,21 years 301 days
+20.0,06/02/2007,New Zealand,Brisbane Cricket Ground,15*,250,22.73,3/60,25,36.16,,5,,,,21 years 305 days
+21.0,09/02/2007,Australia,Melbourne Cricket Ground,-,250,22.73,0/56,25,38.40,,5,,,,21 years 308 days
+22.0,11/02/2007,Australia,Sydney Cricket Ground,8*,258,23.45,3/43,28,35.82,,5,,,,21 years 310 days
+23.0,16/03/2007,New Zealand,Darren Sammy National Cricket Stadium,29*,287,26.09,1/43,29,36.07,,5,,,,21 years 343 days
+24.0,18/03/2007,Canada,Darren Sammy National Cricket Stadium,-,287,26.09,2/46,31,35.23,,5,,,,21 years 345 days
+25.0,21/04/2007,West Indies,Kensington Oval,2,289,24.08,1/71,32,36.34,1,6,,,,22 years 14 days
+26.0,01/07/2007,West Indies,Lord's,4,293,22.54,2/38,34,35.32,,6,,,,22 years 85 days
+27.0,07/07/2007,West Indies,Trent Bridge,2,295,21.07,3/59,37,34.05,1,7,,,,22 years 91 days
+28.0,05/03/2010,Bangladesh,Zahur Ahmed Chowdhury Stadium,-,295,21.07,0/12,37,34.38,,7,,,,24 years 333 days
+29.0,06/02/2011,Australia,WACA Ground,20,315,21.00,2/49,39,33.87,,7,,,,25 years 305 days
+30.0,09/06/2015,New Zealand,Edgbaston,13*,328,21.87,0/37,39,34.82,,7,,,,30 years 63 days
+31.0,12/06/2015,New Zealand,Kennington Oval,44,372,23.25,1/71,40,35.73,1,8,,,,30 years 66 days
+32.0,05/09/2015,Australia,Lord's,24,396,23.29,0/42,40,36.78,1,9,,,,30 years 151 days
+33.0,08/09/2015,Australia,Old Trafford,1,397,22.06,3/60,43,35.60,,9,,,,30 years 154 days
+34.0,11/09/2015,Australia,Headingley,17,414,21.79,2/47,45,35.07,1,10,,,,30 years 157 days
+35.0,21/06/2016,Sri Lanka,Trent Bridge,22*,436,22.95,2/67,47,35.00,,10,,,,31 years 76 days
+36.0,24/06/2016,Sri Lanka,Edgbaston,-,436,22.95,2/49,49,34.57,1,11,,,,31 years 79 days
+37.0,26/06/2016,Sri Lanka,County Ground (Bristol),-,436,22.95,3/46,52,33.46,,11,,,,31 years 81 days
+38.0,29/06/2016,Sri Lanka,Kennington Oval,-,436,22.95,0/65,52,34.71,1,12,,,,31 years 84 days
+39.0,02/07/2016,Sri Lanka,Sophia Gardens,9,445,22.25,3/44,55,33.62,,12,,,,31 years 87 days
+40.0,24/08/2016,Pakistan,The Rose Bowl,-,445,22.25,1/52,56,33.95,,12,,,,31 years 140 days
+41.0,27/08/2016,Pakistan,Lord's,-,445,22.25,2/50,58,33.64,1,13,,,,31 years 143 days
+42.0,30/08/2016,Pakistan,Trent Bridge,-,445,22.25,1/30,59,33.58,,13,,,,31 years 146 days
+43.0,01/09/2016,Pakistan,Headingley,-,445,22.25,1/61,60,34.03,2,15,,,,31 years 148 days
+44.0,12/10/2016,Bangladesh,Zahur Ahmed Chowdhury Stadium,-,445,22.25,0/51,60,34.88,,15,,,,31 years 189 days
+45.0,19/01/2017,India,Barabati Stadium,26*,471,23.55,2/91,62,35.23,,15,,,,31 years 288 days
+46.0,22/01/2017,India,Eden Gardens,1,472,22.48,1/65,63,35.70,,15,,,,31 years 291 days
+47.0,03/03/2017,West Indies,Sir Vivian Richards Stadium,-,472,22.48,4/40,67,34.16,,15,,,,31 years 331 days
+48.0,05/03/2017,West Indies,Sir Vivian Richards Stadium,-,472,22.48,3/32,70,33.16,,15,,,,31 years 333 days
+49.0,09/03/2017,West Indies,Kensington Oval,11,483,21.95,3/27,73,32.16,1,16,,,,31 years 337 days
+50.0,05/05/2017,Ireland,County Ground (Bristol),-,483,21.95,0/14,73,32.36,1,17,,,,32 years 29 days
+51.0,07/05/2017,Ireland,Lord's,-,483,21.95,3/23,76,31.38,,17,,,,32 years 31 days
+52.0,24/05/2017,South Africa,Headingley,-,483,21.95,1/42,77,31.52,1,18,,,,32 years 48 days
+53.0,27/05/2017,South Africa,The Rose Bowl,-,483,21.95,3/64,80,31.14,,18,,,,32 years 51 days
+54.0,01/06/2017,Bangladesh,Kennington Oval,-,483,21.95,4/59,84,30.36,,18,,,,32 years 56 days
+55.0,06/06/2017,New Zealand,Sophia Gardens,15,498,21.65,4/55,88,29.60,,18,,,,32 years 61 days
+56.0,10/06/2017,Australia,Edgbaston,-,498,21.65,0/49,88,30.16,2,20,,,,32 years 65 days
+57.0,14/06/2017,Pakistan,Sophia Gardens,9,507,21.13,0/33,88,30.53,,20,,,,32 years 69 days
+58.0,19/09/2017,West Indies,Old Trafford,-,507,21.13,0/42,88,31.01,,20,,,,32 years 166 days
+59.0,21/09/2017,West Indies,Trent Bridge,-,507,21.13,,88,31.01,,20,,,,32 years 168 days
+60.0,24/09/2017,West Indies,County Ground (Bristol),9,516,20.64,5/52,93,29.90,,20,,,,32 years 171 days
+61.0,27/09/2017,West Indies,Kennington Oval,-,516,20.64,1/67,94,30.30,,20,,,,32 years 174 days
+62.0,29/09/2017,West Indies,The Rose Bowl,-,516,20.64,2/54,96,30.23,2,22,,,,32 years 176 days
+63.0,14/01/2018,Australia,Melbourne Cricket Ground,-,516,20.64,3/71,99,30.03,,22,,,,32 years 283 days
+64.0,18/01/2018,Australia,Brisbane Cricket Ground,-,516,20.64,1/43,100,30.16,,22,,,,32 years 287 days
+65.0,21/01/2018,Australia,Sydney Cricket Ground,-,516,20.64,0/6,100,30.22,,22,,,,32 years 290 days
+66.0,10/06/2018,Scotland,Grange Cricket Club,47*,563,22.52,2/85,102,30.46,,22,,,,33 years 64 days
+67.0,13/06/2018,Australia,Kennington Oval,3*,566,22.64,3/42,105,29.99,,22,,,,33 years 67 days
+68.0,16/06/2018,Australia,Sophia Gardens,1,567,21.81,4/53,109,29.38,,22,,,,33 years 70 days
+69.0,19/06/2018,Australia,Trent Bridge,-,567,21.81,0/41,109,29.75,2,24,,,,33 years 73 days
+70.0,24/06/2018,Australia,Old Trafford,0,567,21.00,1/19,110,29.65,,24,,,,33 years 78 days
+71.0,12/07/2018,India,Trent Bridge,10,577,20.61,0/31,110,29.94,,24,,,,33 years 96 days
+72.0,14/07/2018,India,Lord's,-,577,20.61,4/46,114,29.29,,24,,,,33 years 98 days
+73.0,17/07/2018,India,Headingley,-,577,20.61,0/41,114,29.65,,24,,,,33 years 101 days
+74.0,23/10/2018,Sri Lanka,R Premadasa Stadium,5,582,20.07,1/44,115,29.77,,24,,,,33 years 199 days
+75.0,20/02/2019,West Indies,Kensington Oval,-,582,20.07,0/54,115,30.24,,24,,,,33 years 319 days
+76.0,22/02/2019,West Indies,Kensington Oval,2,584,19.47,1/39,116,30.32,,24,,,,33 years 321 days
+77.0,25/02/2019,West Indies,National Cricket Stadium (Grenada),-,584,19.47,,116,30.32,,24,,,,33 years 324 days
+78.0,27/02/2019,West Indies,National Cricket Stadium (Grenada),-,584,19.47,0/40,116,30.66,1,25,,,,33 years 326 days
+79.0,03/05/2019,Ireland,The Village,-,584,19.47,4/35,120,29.93,,25,,,,34 years 26 days
+80.0,08/05/2019,Pakistan,Kennington Oval,-,584,19.47,1/27,121,29.91,,25,,,,34 years 31 days
+81.0,11/05/2019,Pakistan,The Rose Bowl,-,584,19.47,2/64,123,29.94,,25,,,,34 years 34 days
+82.0,14/05/2019,Pakistan,County Ground (Bristol),-,584,19.47,1/55,124,30.15,,25,,,,34 years 37 days
+83.0,30/05/2019,South Africa,Kennington Oval,9*,593,19.77,2/37,126,29.96,1,26,,,,34 years 53 days
+84.0,08/06/2019,Bangladesh,Sophia Gardens,27*,620,20.67,1/36,127,30.01,,26,,,,34 years 62 days
+85.0,14/06/2019,West Indies,The Rose Bowl,-,620,20.67,1/30,128,30.01,,26,,,,34 years 68 days
+86.0,30/06/2019,India,Edgbaston,1*,621,20.70,3/55,131,29.74,,26,,,,34 years 84 days
+87.0,03/07/2019,New Zealand,Riverside Ground,15*,636,21.20,1/28,132,29.73,,26,,,,34 years 87 days
+88.0,11/07/2019,Australia,Edgbaston,-,636,21.20,0/44,132,30.06,,26,,,,34 years 95 days
+89.0,14/07/2019,New Zealand,Lord's,10,646,20.84,3/42,135,29.70,,26,,,,34 years 98 days

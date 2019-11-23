@@ -1,0 +1,41 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,25/03/2017,Sri Lanka,Rangiri Dambulla International Stadium,-,0,,2/43,2,21.50,,0,,,,19 years 151 days
+2.0,28/03/2017,Sri Lanka,Rangiri Dambulla International Stadium,-,0,,1/50,3,31.00,,0,,,,19 years 154 days
+3.0,01/04/2017,Sri Lanka,Sinhalese Sports Club Ground,51,51,51.00,1/49,4,35.50,,0,,,,19 years 158 days
+4.0,12/05/2017,Ireland,The Village,-,51,51.00,,4,35.50,,0,,,,19 years 199 days
+5.0,17/05/2017,New Zealand,Castle Avenue,6,57,28.50,0/45,4,46.75,,0,,,,19 years 204 days
+6.0,05/06/2017,Australia,Kennington Oval,14,71,23.67,0/4,4,47.75,,0,,,,19 years 223 days
+7.0,22/10/2017,South Africa,Buffalo Park,15,86,21.50,2/59,6,41.67,1,1,,,,19 years 362 days
+8.0,27/01/2018,Sri Lanka,Shere Bangla National Stadium,5,91,18.20,1/53,7,43.29,,1,,,,20 years 94 days
+9.0,22/07/2018,West Indies,Providence Stadium,-,91,18.20,1/37,8,42.50,,1,,,,20 years 270 days
+10.0,25/07/2018,West Indies,Providence Stadium,-,91,18.20,1/40,9,42.22,,1,,,,20 years 273 days
+11.0,28/07/2018,West Indies,Warner Park,-,91,18.20,1/45,10,42.50,1,2,,,,20 years 276 days
+12.0,15/09/2018,Sri Lanka,Dubai International Cricket Stadium,15,106,17.67,2/21,12,37.17,,2,,,,20 years 325 days
+13.0,20/09/2018,Afghanistan,Sheikh Zayed Stadium,4,110,15.71,0/21,12,38.92,,2,,,,20 years 330 days
+14.0,21/09/2018,India,Dubai International Cricket Stadium,42,152,19.00,0/38,12,42.08,,2,,,,20 years 331 days
+15.0,23/09/2018,Afghanistan,Sheikh Zayed Stadium,5*,157,19.63,0/36,12,45.08,,2,,,,20 years 333 days
+16.0,26/09/2018,Pakistan,Sheikh Zayed Stadium,12,169,18.78,2/28,14,40.64,,2,,,,20 years 336 days
+17.0,28/09/2018,India,Dubai International Cricket Stadium,32,201,20.10,0/27,14,42.57,,2,,,,20 years 338 days
+18.0,21/10/2018,Zimbabwe,Shere Bangla National Stadium,1,202,18.36,3/46,17,37.76,1,3,,,,20 years 361 days
+19.0,24/10/2018,Zimbabwe,Zahur Ahmed Chowdhury Stadium,-,202,18.36,1/45,18,38.17,1,4,,,,20 years 364 days
+20.0,09/12/2018,West Indies,Shere Bangla National Stadium,-,202,18.36,1/30,19,37.74,3,7,,,,21 years 44 days
+21.0,11/12/2018,West Indies,Shere Bangla National Stadium,10*,212,19.27,1/39,20,37.80,,7,,,,21 years 46 days
+22.0,14/12/2018,West Indies,Sylhet Stadium,-,212,19.27,4/29,24,32.71,,7,,,,21 years 49 days
+23.0,13/02/2019,New Zealand,McLean Park,26,238,19.83,1/42,25,33.08,,7,,,,21 years 110 days
+24.0,16/02/2019,New Zealand,Hagley Oval,16,254,19.54,0/42,25,34.76,,7,,,,21 years 113 days
+25.0,20/02/2019,New Zealand,University Oval,37,291,20.79,1/43,26,35.08,,7,,,,21 years 117 days
+26.0,07/05/2019,West Indies,Castle Avenue,-,291,20.79,1/38,27,35.19,,7,,,,21 years 193 days
+27.0,13/05/2019,West Indies,The Village,-,291,20.79,1/41,28,35.39,,7,,,,21 years 199 days
+28.0,17/05/2019,West Indies,The Village,-,291,20.79,1/22,29,34.93,,7,,,,21 years 203 days
+29.0,02/06/2019,South Africa,Kennington Oval,5*,296,21.14,1/44,30,35.23,1,8,,,,21 years 219 days
+30.0,05/06/2019,New Zealand,Kennington Oval,7,303,20.20,2/47,32,34.50,1,9,,,,21 years 222 days
+31.0,08/06/2019,England,Sophia Gardens,12,315,19.69,2/67,34,34.44,1,10,,,,21 years 225 days
+32.0,17/06/2019,West Indies,The Cooper Associates County Ground,-,315,19.69,0/57,34,36.12,,10,,,,21 years 234 days
+33.0,20/06/2019,Australia,Trent Bridge,6,321,18.88,0/59,34,37.85,,10,,,,21 years 237 days
+34.0,24/06/2019,Afghanistan,The Rose Bowl,-,321,18.88,0/37,34,38.94,,10,,,,21 years 241 days
+35.0,05/07/2019,Pakistan,Lord's,7*,328,19.29,1/30,35,38.69,1,11,,,,21 years 252 days
+36.0,26/07/2019,Sri Lanka,R Premadasa Stadium,2,330,18.33,1/56,36,39.17,,11,,,,21 years 273 days
+37.0,28/07/2019,Sri Lanka,R Premadasa Stadium,43,373,19.63,1/51,37,39.49,,11,,,,21 years 275 days
+38.0,31/07/2019,Sri Lanka,R Premadasa Stadium,8,381,19.05,0/59,37,41.08,,11,,,,21 years 278 days

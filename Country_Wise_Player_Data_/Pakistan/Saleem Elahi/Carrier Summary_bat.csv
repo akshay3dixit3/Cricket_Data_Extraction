@@ -1,0 +1,51 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,29/09/1995,Sri Lanka,Jinnah Stadium (Gujwranwala),102*,102,,,0,,,0,,,,18 years 311 days
+2.0,01/10/1995,Sri Lanka,Iqbal Stadium,47,149,149.00,,0,,,0,,,,18 years 313 days
+3.0,03/10/1995,Sri Lanka,Rawalpindi Cricket Stadium,30,179,89.50,,0,,,0,,,,18 years 315 days
+4.0,12/10/1995,Sri Lanka,Sharjah Cricket Stadium,50,229,76.33,,0,,,0,,,,18 years 324 days
+5.0,13/10/1995,West Indies,Sharjah Cricket Stadium,9,238,59.50,,0,,1,1,,,,18 years 325 days
+6.0,15/10/1995,West Indies,Sharjah Cricket Stadium,66,304,60.80,,0,,,1,,,,18 years 327 days
+7.0,17/10/1995,Sri Lanka,Sharjah Cricket Stadium,0,304,50.67,,0,,1,2,,,,18 years 329 days
+8.0,23/12/1995,New Zealand,Eden Park,7,311,44.43,,0,,,2,,,,19 years 31 days
+9.0,18/09/1996,India,"Cricket, Skating & Curling Club",4,315,39.38,,0,,1,3,,,,19 years 301 days
+10.0,21/09/1996,India,"Cricket, Skating & Curling Club",1,316,35.11,,0,,1,4,,,,19 years 304 days
+11.0,29/09/1996,South Africa,Gymkhana Club Ground,54,370,37.00,,0,,,4,,,,19 years 312 days
+12.0,02/10/1996,Kenya,Aga Khan Sports Club Ground,14,384,34.91,,0,,,4,,,,19 years 315 days
+13.0,04/10/1996,Sri Lanka,Gymkhana Club Ground,23,407,33.92,,0,,,4,,,,19 years 317 days
+14.0,06/10/1996,South Africa,Gymkhana Club Ground,30,437,33.62,,0,,,4,,,,19 years 319 days
+15.0,28/09/1997,India,Niaz Stadium,8,445,31.79,,0,,,4,,,,20 years 311 days
+16.0,30/09/1997,India,National Stadium (Karachi),18,463,30.87,,0,,,4,,,,20 years 313 days
+17.0,29/10/1998,West Indies,Bangabandhu National Stadium,46,509,31.81,,0,,,4,,,,21 years 341 days
+18.0,06/11/1998,Australia,National Stadium (Karachi),0,509,29.94,,0,,,4,,,,21 years 349 days
+19.0,27/08/2000,South Africa,Kallang Ground,26,535,29.72,,0,,1,5,,,,23 years 279 days
+20.0,24/10/2000,England,National Stadium (Karachi),28,563,29.63,,0,,,5,,,,23 years 337 days
+21.0,27/10/2000,England,Gaddafi Stadium,58*,621,32.68,,0,,,5,,,,23 years 340 days
+22.0,30/10/2000,England,Rawalpindi Cricket Stadium,23,644,32.20,,0,,,5,,,,23 years 343 days
+23.0,22/02/2001,New Zealand,Westpac Stadium,30,674,32.10,,0,,1,6,,,,24 years 93 days
+24.0,25/02/2001,New Zealand,AMI Stadium,13,687,31.23,,0,,,6,,,,24 years 96 days
+25.0,28/02/2001,New Zealand,Carisbrook,14,701,30.48,,0,,2,8,,,,24 years 99 days
+26.0,12/06/2001,England,Lord's,15,716,29.83,,0,,,8,,,,24 years 203 days
+27.0,19/06/2001,Australia,Trent Bridge,79,795,31.80,,0,,,8,,,,24 years 210 days
+28.0,23/06/2001,Australia,Lord's,10,805,30.96,,0,,,8,,,,24 years 214 days
+29.0,23/11/2002,Zimbabwe,Queens Sports Club,53,858,31.78,,0,,,8,,,,26 years 1 days
+30.0,24/11/2002,Zimbabwe,Queens Sports Club,107,965,34.46,,0,,,8,,,,26 years 2 days
+31.0,27/11/2002,Zimbabwe,Harare Sports Club,108,1073,37.00,,0,,,8,,,,26 years 5 days
+32.0,08/12/2002,South Africa,Kingsmead,31,1104,36.80,,0,,,8,,,,26 years 16 days
+33.0,11/12/2002,South Africa,St George's Park,135,1239,39.97,,0,,,8,,,,26 years 19 days
+34.0,13/12/2002,South Africa,Buffalo Park,6,1245,38.91,,0,,,8,,,,26 years 21 days
+35.0,16/12/2002,South Africa,Boland Park,26,1271,38.52,,0,,,8,,,,26 years 24 days
+36.0,18/12/2002,South Africa,Newlands,0,1271,37.38,,0,,1,9,,,,26 years 26 days
+37.0,11/02/2003,Australia,Wanderers Stadium,30,1301,37.17,,0,,,9,,,,26 years 81 days
+38.0,16/02/2003,Namibia,Diamond Oval,63,1364,37.89,,0,,,9,,,,26 years 86 days
+39.0,25/02/2003,Netherlands,Boland Park,5,1369,37.00,,0,,,9,,,,26 years 95 days
+40.0,04/03/2003,Zimbabwe,Queens Sports Club,4,1373,36.13,,0,,,9,,,,26 years 102 days
+41.0,01/12/2003,New Zealand,Gaddafi Stadium,70,1443,37.00,,0,,,9,,,,27 years 9 days
+42.0,03/12/2003,New Zealand,Iqbal Stadium,4*,1447,37.10,0/10,0,,,9,,,,27 years 11 days
+43.0,05/12/2003,New Zealand,Rawalpindi Cricket Stadium,7*,1454,37.28,,0,,1,10,,,,27 years 13 days
+44.0,07/12/2003,New Zealand,Rawalpindi Cricket Stadium,-,1454,37.28,,0,,,10,,,,27 years 15 days
+45.0,03/01/2004,New Zealand,Eden Park,20,1474,36.85,,0,,,10,,,,27 years 42 days
+46.0,07/01/2004,New Zealand,Queenstown Events Centre,14,1488,36.29,,0,,,10,,,,27 years 46 days
+47.0,10/01/2004,New Zealand,AMI Stadium,80,1568,37.33,,0,,,10,,,,27 years 49 days
+48.0,14/01/2004,New Zealand,McLean Park,11,1579,36.72,,0,,,10,,,,27 years 53 days

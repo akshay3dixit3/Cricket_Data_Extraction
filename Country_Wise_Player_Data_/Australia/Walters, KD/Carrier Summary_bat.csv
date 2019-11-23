@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,05/01/1971,England,Melbourne Cricket Ground,41,41,41.00,,0,,1,1,,,,25 years 14 days
+2.0,24/08/1972,England,Old Trafford,2,43,21.50,0/16,0,,,1,,,,26 years 246 days
+3.0,28/08/1972,England,Edgbaston,15,58,19.33,2/24,2,20.00,,1,,,,26 years 250 days
+4.0,30/03/1974,New Zealand,Carisbrook,-,58,19.33,,2,20.00,3,4,,,,28 years 99 days
+5.0,31/03/1974,New Zealand,AMI Stadium,19,77,19.25,1/58,3,32.67,1,5,,,,28 years 100 days
+6.0,01/01/1975,England,Melbourne Cricket Ground,18,95,19.00,0/32,3,43.33,,5,,,,29 years 10 days
+7.0,07/06/1975,Pakistan,Headingley,2,97,16.17,1/29,4,39.75,,5,,,,29 years 167 days
+8.0,11/06/1975,Sri Lanka,Kennington Oval,59,156,22.29,0/33,4,48.00,,5,,,,29 years 171 days
+9.0,14/06/1975,West Indies,Kennington Oval,7,163,20.38,,4,48.00,,5,,,,29 years 174 days
+10.0,18/06/1975,England,Headingley,20*,183,22.88,,4,48.00,,5,,,,29 years 178 days
+11.0,21/06/1975,West Indies,Lord's,35,218,24.22,0/23,4,53.75,,5,,,,29 years 181 days
+12.0,02/06/1977,England,Old Trafford,0,218,21.80,,4,53.75,1,6,,,,31 years 163 days
+13.0,06/06/1977,England,Kennington Oval,12,230,20.91,,4,53.75,,6,,,,31 years 167 days
+14.0,08/12/1979,England,Melbourne Cricket Ground,12,242,20.17,0/12,4,56.75,1,7,,,,33 years 351 days
+15.0,11/12/1979,England,Sydney Cricket Ground,34,276,21.23,0/24,4,62.75,1,8,,,,33 years 354 days
+16.0,25/11/1980,New Zealand,Sydney Cricket Ground,26*,302,23.23,,4,62.75,,8,,,,34 years 339 days
+17.0,06/12/1980,India,Melbourne Cricket Ground,27,329,23.50,,4,62.75,,8,,,,34 years 350 days
+18.0,07/12/1980,New Zealand,Melbourne Cricket Ground,7,336,22.40,0/22,4,68.25,,8,,,,34 years 351 days
+19.0,18/12/1980,India,Sydney Cricket Ground,-,336,22.40,,4,68.25,,8,,,,34 years 362 days
+20.0,08/01/1981,India,Sydney Cricket Ground,-,336,22.40,,4,68.25,,8,,,,35 years 18 days
+21.0,11/01/1981,India,Melbourne Cricket Ground,43*,379,25.27,,4,68.25,,8,,,,35 years 21 days
+22.0,13/01/1981,New Zealand,Sydney Cricket Ground,50*,429,28.60,,4,68.25,1,9,,,,35 years 23 days
+23.0,15/01/1981,India,Sydney Cricket Ground,38,467,29.19,,4,68.25,,9,,,,35 years 25 days
+24.0,21/01/1981,New Zealand,Sydney Cricket Ground,16,483,28.41,,4,68.25,,9,,,,35 years 31 days
+25.0,29/01/1981,New Zealand,Sydney Cricket Ground,20,503,27.94,,4,68.25,1,10,,,,35 years 39 days
+26.0,31/01/1981,New Zealand,Melbourne Cricket Ground,4*,507,28.17,,4,68.25,,10,,,,35 years 41 days
+27.0,01/02/1981,New Zealand,Melbourne Cricket Ground,6*,513,28.50,,4,68.25,,10,,,,35 years 42 days
+28.0,03/02/1981,New Zealand,Sydney Cricket Ground,-,513,28.50,,4,68.25,,10,,,,35 years 44 days

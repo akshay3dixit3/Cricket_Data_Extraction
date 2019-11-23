@@ -1,0 +1,62 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,04/01/2010,Sri Lanka,Shere Bangla National Stadium,-,0,,1/39,1,39.00,,0,,,,20 years 90 days
+2.0,11/01/2010,India,Shere Bangla National Stadium,-,0,,1/63,2,51.00,,0,,,,20 years 97 days
+3.0,05/02/2010,New Zealand,McLean Park,11,11,11.00,4/68,6,28.33,,0,,,,20 years 122 days
+4.0,08/02/2010,New Zealand,University Oval,1*,12,12.00,3/49,9,24.33,,0,,,,20 years 125 days
+5.0,11/02/2010,New Zealand,AMI Stadium,2*,14,14.00,0/46,9,29.44,,0,,,,20 years 128 days
+6.0,28/02/2010,England,Shere Bangla National Stadium,11*,25,25.00,0/11,9,30.67,,0,,,,20 years 145 days
+7.0,02/03/2010,England,Shere Bangla National Stadium,-,25,25.00,1/55,10,33.10,,0,,,,20 years 147 days
+8.0,05/03/2010,England,Zahur Ahmed Chowdhury Stadium,0,25,12.50,1/35,11,33.27,,0,,,,20 years 150 days
+9.0,16/06/2010,India,Rangiri Dambulla International Stadium,0,25,8.33,0/26,11,35.64,,0,,,,20 years 253 days
+10.0,18/06/2010,Sri Lanka,Rangiri Dambulla International Stadium,2,27,6.75,2/59,13,34.69,,0,,,,20 years 255 days
+11.0,21/06/2010,Pakistan,Rangiri Dambulla International Stadium,-,27,6.75,3/95,16,34.13,,0,,,,20 years 258 days
+12.0,08/07/2010,England,Trent Bridge,-,27,6.75,0/46,16,37.00,1,1,,,,20 years 275 days
+13.0,10/07/2010,England,County Ground (Bristol),-,27,6.75,2/38,18,35.00,,1,,,,20 years 277 days
+14.0,12/07/2010,England,Edgbaston,16,43,8.60,2/97,20,36.35,,1,,,,20 years 279 days
+15.0,16/07/2010,Ireland,Civil Service Cricket Club,-,43,8.60,4/59,24,32.75,1,2,,,,20 years 283 days
+16.0,20/07/2010,Netherlands,Titwood,-,43,8.60,0/38,24,34.33,,2,,,,20 years 287 days
+17.0,11/10/2010,New Zealand,Shere Bangla National Stadium,-,43,8.60,1/22,25,33.84,,2,,,,21 years 4 days
+18.0,14/10/2010,New Zealand,Shere Bangla National Stadium,1,44,7.33,2/39,27,32.78,2,4,,,,21 years 7 days
+19.0,17/10/2010,New Zealand,Shere Bangla National Stadium,5*,49,8.17,0/23,27,33.63,1,5,,,,21 years 10 days
+20.0,01/12/2010,Zimbabwe,Shere Bangla National Stadium,3,52,7.43,0/21,27,34.41,,5,,,,21 years 55 days
+21.0,03/12/2010,Zimbabwe,Shere Bangla National Stadium,-,52,7.43,1/28,28,34.18,,5,,,,21 years 57 days
+22.0,06/12/2010,Zimbabwe,Shere Bangla National Stadium,-,52,7.43,4/43,32,31.25,,5,,,,21 years 60 days
+23.0,12/12/2010,Zimbabwe,Zahur Ahmed Chowdhury Stadium,-,52,7.43,0/10,32,31.56,,5,,,,21 years 66 days
+24.0,19/02/2011,India,Shere Bangla National Stadium,0,52,6.50,1/69,33,32.70,,5,,,,21 years 135 days
+25.0,25/02/2011,Ireland,Shere Bangla National Stadium,2,54,6.00,4/21,37,29.73,,5,,,,21 years 141 days
+26.0,04/03/2011,West Indies,Shere Bangla National Stadium,0,54,5.40,0/11,37,30.03,,5,,,,21 years 148 days
+27.0,11/03/2011,England,Zahur Ahmed Chowdhury Stadium,24*,78,7.80,1/43,38,30.37,1,6,,,,21 years 155 days
+28.0,14/03/2011,Netherlands,Zahur Ahmed Chowdhury Stadium,-,78,7.80,0/15,38,30.76,,6,,,,21 years 158 days
+29.0,19/03/2011,South Africa,Shere Bangla National Stadium,0,78,7.09,0/44,38,31.92,,6,,,,21 years 163 days
+30.0,09/04/2011,Australia,Shere Bangla National Stadium,-,78,7.09,0/55,38,33.37,,6,,,,21 years 184 days
+31.0,11/04/2011,Australia,Shere Bangla National Stadium,9*,87,7.91,0/27,38,34.08,,6,,,,21 years 186 days
+32.0,13/04/2011,Australia,Shere Bangla National Stadium,-,87,7.91,1/77,39,35.18,,6,,,,21 years 188 days
+33.0,12/08/2011,Zimbabwe,Harare Sports Club,8,95,7.92,0/13,39,35.51,,6,,,,21 years 309 days
+34.0,14/08/2011,Zimbabwe,Harare Sports Club,3*,98,8.17,1/32,40,35.43,,6,,,,21 years 311 days
+35.0,16/08/2011,Zimbabwe,Harare Sports Club,0,98,7.54,1/40,41,35.54,,6,,,,21 years 313 days
+36.0,19/08/2011,Zimbabwe,Queens Sports Club,-,98,7.54,2/47,43,34.98,,6,,,,21 years 316 days
+37.0,21/08/2011,Zimbabwe,Queens Sports Club,-,98,7.54,1/26,44,34.77,,6,,,,21 years 318 days
+38.0,13/10/2011,West Indies,Shere Bangla National Stadium,-,98,7.54,1/67,45,35.49,,6,,,,22 years 6 days
+39.0,15/10/2011,West Indies,Shere Bangla National Stadium,4,102,7.29,0/53,45,36.67,,6,,,,22 years 8 days
+40.0,18/10/2011,West Indies,Zahur Ahmed Chowdhury Stadium,-,102,7.29,2/21,47,35.55,,6,,,,22 years 11 days
+41.0,01/12/2011,Pakistan,Shere Bangla National Stadium,0,102,6.80,0/8,47,35.72,,6,,,,22 years 55 days
+42.0,03/12/2011,Pakistan,Shere Bangla National Stadium,-,102,6.80,2/50,49,35.29,1,7,,,,22 years 57 days
+43.0,06/12/2011,Pakistan,Zahur Ahmed Chowdhury Stadium,0,102,6.38,1/32,50,35.22,,7,,,,22 years 60 days
+44.0,11/03/2012,Pakistan,Shere Bangla National Stadium,1,103,6.06,0/49,50,36.20,1,8,,,,22 years 156 days
+45.0,16/03/2012,India,Shere Bangla National Stadium,-,103,6.06,1/24,51,35.96,,8,,,,22 years 161 days
+46.0,08/12/2012,West Indies,Shere Bangla National Stadium,-,103,6.06,3/31,54,34.54,,8,,,,23 years 63 days
+47.0,03/05/2013,Zimbabwe,Queens Sports Club,1*,104,6.12,2/39,56,34.00,,8,,,,23 years 209 days
+48.0,05/05/2013,Zimbabwe,Queens Sports Club,4,108,6.00,2/51,58,33.71,,8,,,,23 years 211 days
+49.0,08/05/2013,Zimbabwe,Queens Sports Club,1,109,5.74,0/58,58,34.71,,8,,,,23 years 214 days
+50.0,22/02/2014,Sri Lanka,Shere Bangla National Stadium,15*,124,6.53,0/27,58,35.17,,8,,,,24 years 139 days
+51.0,04/03/2014,Pakistan,Shere Bangla National Stadium,-,124,6.53,0/49,58,36.02,,8,,,,24 years 149 days
+52.0,26/11/2014,Zimbabwe,Shere Bangla National Stadium,-,124,6.53,0/20,58,36.36,,8,,,,25 years 50 days
+53.0,01/10/2016,Afghanistan,Shere Bangla National Stadium,2*,126,6.63,1/28,59,36.22,,8,,,,26 years 360 days
+54.0,07/10/2016,England,Shere Bangla National Stadium,0,126,6.30,2/59,61,36.00,,8,,,,27 years 1 days
+55.0,09/10/2016,England,Shere Bangla National Stadium,0*,126,6.30,0/37,61,36.61,,8,,,,27 years 3 days
+56.0,12/10/2016,England,Zahur Ahmed Chowdhury Stadium,-,126,6.30,2/61,63,36.41,,8,,,,27 years 6 days
+57.0,26/07/2019,Sri Lanka,R Premadasa Stadium,2,128,6.10,3/62,66,35.70,,8,,,,29 years 292 days
+58.0,28/07/2019,Sri Lanka,R Premadasa Stadium,-,128,6.10,0/29,66,36.14,,8,,,,29 years 294 days
+59.0,31/07/2019,Sri Lanka,R Premadasa Stadium,1,129,5.86,3/68,69,35.55,,8,,,,29 years 297 days

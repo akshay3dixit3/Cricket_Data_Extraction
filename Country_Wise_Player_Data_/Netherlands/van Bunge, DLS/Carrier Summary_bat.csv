@@ -1,0 +1,40 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,16/09/2002,Sri Lanka,R Premadasa Stadium,3,3,3.00,,0,,,0,,,,19 years 332 days
+2.0,21/09/2002,Pakistan,Sinhalese Sports Club Ground,1,4,2.00,,0,,,0,,,,19 years 337 days
+3.0,12/02/2003,India,Boland Park,62,66,22.00,,0,,,0,,,,20 years 116 days
+4.0,16/02/2003,England,Buffalo Park,4,70,17.50,3/16,3,5.33,,0,,,,20 years 120 days
+5.0,20/02/2003,Australia,Senwes Park,1,71,14.20,0/20,3,12.00,1,1,,,,20 years 124 days
+6.0,25/02/2003,Pakistan,Boland Park,31,102,17.00,2/27,5,12.60,1,2,,,,20 years 129 days
+7.0,28/02/2003,Zimbabwe,Queens Sports Club,37,139,19.86,0/22,5,17.00,,2,,,,20 years 132 days
+8.0,03/03/2003,Namibia,Mangaung Oval,-,139,19.86,,5,17.00,,2,,,,20 years 135 days
+9.0,04/07/2006,Sri Lanka,VRA Ground,17,156,19.50,,5,17.00,,2,,,,23 years 258 days
+10.0,06/07/2006,Sri Lanka,VRA Ground,33,189,21.00,,5,17.00,,2,,,,23 years 260 days
+11.0,06/08/2006,Scotland,Cambusdoon New Ground,32,221,22.10,,5,17.00,1,3,,,,23 years 291 days
+12.0,08/08/2006,Ireland,Cambusdoon New Ground,0,221,20.09,,5,17.00,,3,,,,23 years 293 days
+13.0,26/11/2006,Canada,Senwes Park,29,250,20.83,2/46,7,18.71,2,5,,,,24 years 38 days
+14.0,28/11/2006,Bermuda,Senwes Park,-,250,20.83,2/12,9,15.89,,5,,,,24 years 40 days
+15.0,01/12/2006,Canada,Willowmoore Park,52,302,23.23,0/32,9,19.44,1,6,,,,24 years 43 days
+16.0,02/12/2006,Bermuda,Willowmoore Park,9,311,22.21,,9,19.44,,6,,,,24 years 44 days
+17.0,30/01/2007,Canada,Ruaraka Sports Club Ground,-,311,22.21,,9,19.44,,6,,,,24 years 103 days
+18.0,31/01/2007,Kenya,Gymkhana Club Ground,29,340,22.67,,9,19.44,,6,,,,24 years 104 days
+19.0,02/02/2007,Scotland,Jaffrey Sports Club Ground,6,346,21.63,,9,19.44,,6,,,,24 years 106 days
+20.0,04/02/2007,Bermuda,Ruaraka Sports Club Ground,5*,351,21.94,0/24,9,22.11,,6,,,,24 years 108 days
+21.0,05/02/2007,Ireland,Gymkhana Club Ground,4,355,20.88,,9,22.11,1,7,,,,24 years 109 days
+22.0,16/03/2007,South Africa,Warner Park,5,360,20.00,0/56,9,28.33,2,9,,,,24 years 148 days
+23.0,18/03/2007,Australia,Warner Park,33,393,20.68,,9,28.33,,9,,,,24 years 150 days
+24.0,22/03/2007,Scotland,Warner Park,-,393,20.68,1/4,10,25.90,,9,,,,24 years 154 days
+25.0,28/07/2008,Ireland,Castle Avenue,7,400,20.00,,10,25.90,,9,,,,25 years 282 days
+26.0,29/07/2008,Scotland,Castle Avenue,34,434,20.67,,10,25.90,,9,,,,25 years 283 days
+27.0,01/04/2009,Kenya,Senwes Park,-,434,20.67,,10,25.90,1,10,,,,26 years 164 days
+28.0,08/04/2009,Bermuda,Senwes Park,21,455,20.68,,10,25.90,,10,,,,26 years 171 days
+29.0,19/04/2009,Kenya,Senwes Park,80,535,23.26,0/18,10,27.70,,10,,,,26 years 182 days
+30.0,11/07/2009,Canada,VRA Ground,0,535,22.29,,10,27.70,1,11,,,,26 years 265 days
+31.0,30/08/2009,Afghanistan,VRA Ground,17,552,22.08,,10,27.70,1,12,,,,26 years 315 days
+32.0,01/09/2009,Afghanistan,VRA Ground,12,564,21.69,1/44,11,29.18,,12,,,,26 years 317 days
+33.0,31/05/2013,South Africa,VRA Ground,3,567,21.00,,11,29.18,,12,,,,30 years 224 days
+34.0,07/07/2013,Ireland,VRA Ground,11,578,20.64,,11,29.18,,12,,,,30 years 261 days
+35.0,09/07/2013,Ireland,VRA Ground,45,623,21.48,0/8,11,29.91,,12,,,,30 years 263 days
+36.0,27/08/2013,Canada,Maple Leaf North - West Ground,10,633,21.10,,11,29.91,,12,,,,30 years 312 days
+37.0,29/08/2013,Canada,Maple Leaf North - West Ground,-,633,21.10,,11,29.91,,12,,,,30 years 314 days

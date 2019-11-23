@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,23/11/1980,New Zealand,Adelaide Oval,0,0,0.00,1/40,1,40.00,,0,,,,23 years 188 days
+2.0,25/11/1980,New Zealand,Sydney Cricket Ground,-,0,0.00,2/40,3,26.67,,0,,,,23 years 190 days
+3.0,06/12/1980,India,Melbourne Cricket Ground,5,5,2.50,0/30,3,36.67,,0,,,,23 years 201 days
+4.0,07/12/1980,New Zealand,Melbourne Cricket Ground,-,5,2.50,0/15,3,41.67,,0,,,,23 years 202 days
+5.0,18/12/1980,India,Sydney Cricket Ground,-,5,2.50,2/23,5,29.60,,0,,,,23 years 213 days
+6.0,11/01/1981,India,Melbourne Cricket Ground,-,5,2.50,0/31,5,35.80,,0,,,,23 years 237 days
+7.0,13/01/1981,New Zealand,Sydney Cricket Ground,7,12,4.00,2/40,7,31.29,,0,,,,23 years 239 days
+8.0,15/01/1981,India,Sydney Cricket Ground,2,14,3.50,1/36,8,31.88,,0,,,,23 years 241 days
+9.0,21/01/1981,New Zealand,Sydney Cricket Ground,2,16,3.20,,8,31.88,,0,,,,23 years 247 days
+10.0,22/11/1981,Pakistan,Melbourne Cricket Ground,8,24,4.00,0/34,8,36.13,,0,,,,24 years 187 days
+11.0,24/11/1981,West Indies,Sydney Cricket Ground,-,24,4.00,0/56,8,43.13,1,1,,,,24 years 189 days

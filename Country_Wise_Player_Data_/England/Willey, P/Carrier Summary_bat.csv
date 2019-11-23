@@ -1,0 +1,29 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,02/06/1977,Australia,Old Trafford,1,1,1.00,0/29,0,,,0,,,,27 years 178 days
+2.0,04/06/1977,Australia,Edgbaston,6,7,3.50,,0,,,0,,,,27 years 180 days
+3.0,28/11/1979,West Indies,Sydney Cricket Ground,58*,65,32.50,0/29,0,,,0,,,,29 years 356 days
+4.0,08/12/1979,Australia,Melbourne Cricket Ground,37,102,34.00,3/33,3,30.33,1,1,,,,30 years 1 days
+5.0,11/12/1979,Australia,Sydney Cricket Ground,64,166,41.50,2/18,5,21.80,,1,,,,30 years 4 days
+6.0,23/12/1979,West Indies,Brisbane Cricket Ground,34,200,40.00,0/39,5,29.60,,1,,,,30 years 16 days
+7.0,26/12/1979,Australia,Sydney Cricket Ground,51,251,41.83,,5,29.60,,1,,,,30 years 19 days
+8.0,14/01/1980,Australia,Sydney Cricket Ground,0,251,35.86,1/35,6,30.50,,1,,,,30 years 38 days
+9.0,16/01/1980,West Indies,Adelaide Oval,5,256,32.00,1/37,7,31.43,,1,,,,30 years 40 days
+10.0,20/01/1980,West Indies,Melbourne Cricket Ground,51,307,34.11,0/48,7,38.29,,1,,,,30 years 44 days
+11.0,22/01/1980,West Indies,Sydney Cricket Ground,3,310,31.00,1/35,8,37.88,,1,,,,30 years 46 days
+12.0,28/05/1980,West Indies,Headingley,7,317,28.82,0/12,8,39.38,,1,,,,30 years 173 days
+13.0,30/05/1980,West Indies,Lord's,56,373,31.08,0/18,8,41.63,,1,,,,30 years 175 days
+14.0,20/08/1980,Australia,Kennington Oval,2,375,28.85,0/34,8,45.88,1,2,,,,30 years 257 days
+15.0,04/02/1981,West Indies,Arnos Vale Ground,0,375,26.79,1/29,9,44.00,1,3,,,,31 years 60 days
+16.0,26/02/1981,West Indies,Albion Sports Complex,21,396,26.40,0/23,9,46.56,,3,,,,31 years 82 days
+17.0,04/06/1981,Australia,Lord's,-,396,26.40,0/26,9,49.44,,3,,,,31 years 180 days
+18.0,06/06/1981,Australia,Edgbaston,37,433,27.06,0/36,9,53.44,,3,,,,31 years 182 days
+19.0,08/06/1981,Australia,Headingley,42,475,27.94,,9,53.44,,3,,,,31 years 184 days
+20.0,30/05/1985,Australia,Old Trafford,12,487,27.06,1/31,10,51.20,,3,,,,35 years 175 days
+21.0,01/06/1985,Australia,Edgbaston,0,487,25.63,1/38,11,50.00,1,4,,,,35 years 177 days
+22.0,03/06/1985,Australia,Lord's,-,487,25.63,1/44,12,49.50,,4,,,,35 years 179 days
+23.0,18/02/1986,West Indies,Sabina Park,26,513,25.65,1/25,13,47.62,,4,,,,36 years 74 days
+24.0,04/03/1986,West Indies,Queen's Park Oval,10,523,24.90,0/19,13,49.08,,4,,,,36 years 88 days
+25.0,19/03/1986,West Indies,Kensington Oval,9,532,24.18,0/21,13,50.69,,4,,,,36 years 103 days
+26.0,31/03/1986,West Indies,Queen's Park Oval,6,538,23.39,,13,50.69,,4,,,,36 years 115 days

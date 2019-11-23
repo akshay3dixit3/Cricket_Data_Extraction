@@ -1,0 +1,61 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,23/01/2016,Australia,Sydney Cricket Ground,-,0,,2/40,2,20.00,,0,,,,22 years 47 days
+2.0,11/06/2016,Zimbabwe,Harare Sports Club,-,0,,4/28,6,11.33,,0,,,,22 years 187 days
+3.0,13/06/2016,Zimbabwe,Harare Sports Club,-,0,,1/27,7,13.57,1,1,,,,22 years 189 days
+4.0,15/06/2016,Zimbabwe,Harare Sports Club,-,0,,4/22,11,10.64,1,2,,,,22 years 191 days
+5.0,16/10/2016,New Zealand,Himachal Pradesh Cricket Association Stadium,-,0,,0/29,11,13.27,,2,,,,22 years 314 days
+6.0,20/10/2016,New Zealand,Arun Jaitley Stadium,0,0,0.00,3/35,14,12.93,,2,,,,22 years 318 days
+7.0,23/10/2016,New Zealand,Punjab Cricket Association IS Bindra Stadium,-,0,0.00,2/52,16,14.56,,2,,,,22 years 321 days
+8.0,29/10/2016,New Zealand,Dr YS Rajasekhara Reddy Cricket Stadium,-,0,0.00,1/16,17,14.65,,2,,,,22 years 327 days
+9.0,15/01/2017,England,Maharashtra Cricket Association Stadium,-,0,0.00,2/79,19,17.26,,2,,,,23 years 40 days
+10.0,19/01/2017,England,Barabati Stadium,-,0,0.00,2/81,21,19.48,,2,,,,23 years 44 days
+11.0,22/01/2017,England,Eden Gardens,0*,0,0.00,1/68,22,21.68,2,4,,,,23 years 47 days
+12.0,04/06/2017,Pakistan,Edgbaston,-,0,0.00,0/23,22,22.73,,4,,,,23 years 180 days
+13.0,08/06/2017,Sri Lanka,Kennington Oval,-,0,0.00,0/52,22,25.09,,4,,,,23 years 184 days
+14.0,11/06/2017,South Africa,Kennington Oval,-,0,0.00,2/28,24,24.17,,4,,,,23 years 187 days
+15.0,15/06/2017,Bangladesh,Edgbaston,-,0,0.00,2/39,26,23.81,1,5,,,,23 years 191 days
+16.0,18/06/2017,Pakistan,Kennington Oval,1,1,0.50,0/68,26,26.42,,5,,,,23 years 194 days
+17.0,20/08/2017,Sri Lanka,Rangiri Dambulla International Stadium,-,1,0.50,2/22,28,25.32,,5,,,,23 years 257 days
+18.0,24/08/2017,Sri Lanka,Pallekele International Cricket Stadium,-,1,0.50,4/43,32,23.50,,5,,,,23 years 261 days
+19.0,27/08/2017,Sri Lanka,Pallekele International Cricket Stadium,-,1,0.50,5/27,37,21.05,1,6,,,,23 years 264 days
+20.0,31/08/2017,Sri Lanka,R Premadasa Stadium,-,1,0.50,2/32,39,20.79,,6,,,,23 years 268 days
+21.0,03/09/2017,Sri Lanka,R Premadasa Stadium,-,1,0.50,2/45,41,20.88,,6,,,,23 years 271 days
+22.0,17/09/2017,Australia,MA Chidambaram Stadium,-,1,0.50,1/20,42,20.86,2,8,,,,23 years 285 days
+23.0,21/09/2017,Australia,Eden Gardens,10*,11,5.50,0/39,42,21.79,,8,,,,23 years 289 days
+24.0,24/09/2017,Australia,Holkar Cricket Stadium,-,11,5.50,2/52,44,21.98,1,9,,,,23 years 292 days
+25.0,01/10/2017,Australia,Vidarbha Cricket Association Stadium,-,11,5.50,2/51,46,22.13,1,10,,,,23 years 299 days
+26.0,22/10/2017,New Zealand,Wankhede Stadium,-,11,5.50,1/56,47,22.85,,10,,,,23 years 320 days
+27.0,25/10/2017,New Zealand,Maharashtra Cricket Association Stadium,-,11,5.50,2/38,49,22.69,1,11,,,,23 years 323 days
+28.0,29/10/2017,New Zealand,Green Park,-,11,5.50,3/47,52,22.29,,11,,,,23 years 327 days
+29.0,10/12/2017,Sri Lanka,Himachal Pradesh Cricket Association Stadium,0,11,3.67,1/32,53,22.47,,11,,,,24 years 4 days
+30.0,13/12/2017,Sri Lanka,Punjab Cricket Association IS Bindra Stadium,-,11,3.67,2/43,55,22.44,,11,,,,24 years 7 days
+31.0,17/12/2017,Sri Lanka,Dr YS Rajasekhara Reddy Cricket Stadium,-,11,3.67,1/39,56,22.73,,11,,,,24 years 11 days
+32.0,01/02/2018,South Africa,Kingsmead,-,11,3.67,1/56,57,23.32,,11,,,,24 years 57 days
+33.0,04/02/2018,South Africa,SuperSport Park,-,11,3.67,1/12,58,23.12,,11,,,,24 years 60 days
+34.0,07/02/2018,South Africa,Newlands,-,11,3.67,2/32,60,22.88,,11,,,,24 years 63 days
+35.0,10/02/2018,South Africa,Wanderers Stadium,-,11,3.67,1/21,61,22.85,,11,,,,24 years 66 days
+36.0,13/02/2018,South Africa,St George's Park,-,11,3.67,1/22,62,22.84,,11,,,,24 years 69 days
+37.0,16/02/2018,South Africa,SuperSport Park,-,11,3.67,2/24,64,22.50,1,12,,,,24 years 72 days
+38.0,19/09/2018,Pakistan,Dubai International Cricket Stadium,-,11,3.67,2/23,66,22.17,,12,,,,24 years 287 days
+39.0,21/09/2018,Bangladesh,Dubai International Cricket Stadium,-,11,3.67,3/37,69,21.74,1,13,,,,24 years 289 days
+40.0,23/09/2018,Pakistan,Dubai International Cricket Stadium,-,11,3.67,2/29,71,21.54,,13,,,,24 years 291 days
+41.0,28/09/2018,Bangladesh,Dubai International Cricket Stadium,-,11,3.67,1/39,72,21.78,2,15,,,,24 years 296 days
+42.0,27/10/2018,West Indies,Maharashtra Cricket Association Stadium,0,11,2.75,4/35,76,21.09,,15,,,,24 years 325 days
+43.0,29/10/2018,West Indies,Brabourne Stadium,-,11,2.75,0/25,76,21.42,,15,,,,24 years 327 days
+44.0,01/11/2018,West Indies,Greenfield International Stadium,-,11,2.75,2/11,78,21.01,,15,,,,24 years 330 days
+45.0,02/03/2019,Australia,Rajiv Gandhi International Stadium,-,11,2.75,2/60,80,21.24,,15,,,,25 years 85 days
+46.0,05/03/2019,Australia,Vidarbha Cricket Association Stadium,0,11,2.20,2/29,82,21.07,,15,,,,25 years 88 days
+47.0,08/03/2019,Australia,JSCA International Stadium Complex,0*,11,2.20,0/53,82,21.72,1,16,,,,25 years 91 days
+48.0,10/03/2019,Australia,Punjab Cricket Association IS Bindra Stadium,6*,17,3.40,3/63,85,21.69,,16,,,,25 years 93 days
+49.0,13/03/2019,Australia,Arun Jaitley Stadium,1*,18,3.60,0/39,85,22.15,,16,,,,25 years 96 days
+50.0,05/06/2019,South Africa,The Rose Bowl,-,18,3.60,2/35,87,22.05,,16,,,,25 years 180 days
+51.0,09/06/2019,Australia,Kennington Oval,-,18,3.60,3/61,90,21.99,,16,,,,25 years 184 days
+52.0,16/06/2019,Pakistan,Old Trafford,-,18,3.60,0/52,90,22.57,,16,,,,25 years 191 days
+53.0,22/06/2019,Afghanistan,The Rose Bowl,1*,19,3.80,2/39,92,22.50,1,17,,,,25 years 197 days
+54.0,27/06/2019,West Indies,Old Trafford,-,19,3.80,2/9,94,22.12,,17,,,,25 years 202 days
+55.0,30/06/2019,England,Edgbaston,-,19,3.80,1/44,95,22.35,,17,,,,25 years 205 days
+56.0,02/07/2019,Bangladesh,Edgbaston,0*,19,3.80,4/55,99,22.00,,17,,,,25 years 207 days
+57.0,06/07/2019,Sri Lanka,Headingley,-,19,3.80,3/37,102,21.72,,17,,,,25 years 211 days
+58.0,09/07/2019,New Zealand,Old Trafford,0*,19,3.80,1/39,103,21.88,,17,,,,25 years 214 days

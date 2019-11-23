@@ -1,0 +1,12 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,10/01/1999,Australia,Brisbane Cricket Ground,10,10,10.00,,0,,,0,,,,33 years 156 days
+2.0,19/01/1999,Sri Lanka,Melbourne Cricket Ground,-,10,10.00,0/20,0,,1,1,,,,33 years 165 days
+3.0,23/01/1999,Sri Lanka,Adelaide Oval,-,10,10.00,2/30,2,25.00,1,2,,,,33 years 169 days
+4.0,03/02/1999,Sri Lanka,Sydney Cricket Ground,26,36,18.00,1/29,3,26.33,,2,,,,33 years 180 days
+5.0,05/02/1999,Australia,Sydney Cricket Ground,39,75,25.00,1/10,4,22.25,1,3,,,,33 years 182 days
+6.0,10/02/1999,Australia,Sydney Cricket Ground,33,108,27.00,3/30,7,17.00,,3,,,,33 years 187 days
+7.0,13/02/1999,Australia,Melbourne Cricket Ground,23,131,26.20,1/34,8,19.13,,3,,,,33 years 190 days
+8.0,11/04/1999,India,Sharjah Cricket Stadium,7,138,23.00,0/18,8,21.38,1,4,,,,33 years 247 days
+9.0,12/04/1999,Pakistan,Sharjah Cricket Stadium,3,141,20.14,0/18,8,23.63,3,7,,,,33 years 248 days
