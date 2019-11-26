@@ -1,0 +1,29 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,29/11/2003,Pakistan,Gaddafi Stadium,-,0,,1/61,1,61.00,,0,,,,29 years 93 days
+2.0,03/12/2003,Pakistan,Iqbal Stadium,-,0,,0/74,1,135.00,,0,,,,29 years 97 days
+3.0,05/12/2003,Pakistan,Rawalpindi Cricket Stadium,13*,13,,0/44,1,179.00,,0,,,,29 years 99 days
+4.0,25/02/2004,South Africa,Carisbrook,-,13,,1/46,2,112.50,,0,,,,29 years 181 days
+5.0,02/03/2004,South Africa,McLean Park,-,13,,2/35,4,65.00,,0,,,,29 years 187 days
+6.0,18/02/2006,West Indies,Westpac Stadium,-,13,,2/36,6,49.33,,0,,,,31 years 175 days
+7.0,22/02/2006,West Indies,Queenstown Events Centre,-,13,,2/32,8,41.00,,0,,,,31 years 179 days
+8.0,25/02/2006,West Indies,AMI Stadium,-,13,,2/63,10,39.10,,0,,,,31 years 182 days
+9.0,28/12/2006,Sri Lanka,McLean Park,-,13,,0/60,10,45.10,,0,,,,32 years 123 days
+10.0,31/12/2006,Sri Lanka,Queenstown Events Centre,4*,17,,2/50,12,41.75,,0,,,,32 years 126 days
+11.0,02/01/2007,Sri Lanka,AMI Stadium,-,17,,4/24,16,32.81,1,1,,,,32 years 128 days
+12.0,06/01/2007,Sri Lanka,Eden Park,1,18,18.00,0/62,16,36.69,1,2,,,,32 years 132 days
+13.0,09/01/2007,Sri Lanka,Seddon Park,-,18,18.00,,16,36.69,,2,,,,32 years 135 days
+14.0,21/01/2007,Australia,Sydney Cricket Ground,4,22,11.00,2/46,18,35.17,,2,,,,32 years 147 days
+15.0,20/03/2007,Kenya,Darren Sammy National Cricket Stadium,-,22,11.00,2/29,20,33.10,,2,,,,32 years 205 days
+16.0,22/03/2007,Canada,Darren Sammy National Cricket Stadium,-,22,11.00,1/60,21,34.38,1,3,,,,32 years 207 days
+17.0,29/03/2007,West Indies,Sir Vivian Richards Stadium,-,22,11.00,0/14,21,35.05,,3,,,,32 years 214 days
+18.0,02/04/2007,Bangladesh,Sir Vivian Richards Stadium,-,22,11.00,0/4,21,35.24,,3,,,,32 years 218 days
+19.0,20/04/2007,Australia,National Cricket Stadium (Grenada),0,22,7.33,0/27,21,36.52,1,4,,,,32 years 236 days
+20.0,31/12/2007,Bangladesh,Queenstown Events Centre,-,22,7.33,2/21,23,34.26,,4,,,,33 years 125 days
+21.0,12/02/2008,England,Seddon Park,-,22,7.33,2/29,25,32.68,,4,,,,33 years 168 days
+22.0,15/06/2008,England,Riverside Ground,0*,22,7.33,1/62,26,33.81,,4,,,,33 years 292 days
+23.0,18/06/2008,England,Edgbaston,-,22,7.33,1/24,27,33.44,,4,,,,33 years 295 days
+24.0,01/07/2008,Ireland,Mannofield Park,-,22,7.33,3/35,30,31.27,,4,,,,33 years 308 days
+25.0,03/07/2008,Scotland,Mannofield Park,-,22,7.33,0/18,30,31.87,,4,,,,33 years 310 days
+26.0,09/03/2010,Australia,Seddon Park,2*,24,8.00,1/68,31,33.03,,4,,,,35 years 194 days

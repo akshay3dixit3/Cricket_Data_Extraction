@@ -1,0 +1,12 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,01/03/1990,New Zealand,Carisbrook,16,16,16.00,3/45,3,15.00,,0,,,,21 years 342 days
+2.0,03/03/1990,Australia,AMI Stadium,4,20,10.00,0/36,3,27.00,,0,,,,21 years 344 days
+3.0,06/03/1990,New Zealand,Basin Reserve,4*,24,12.00,2/46,5,25.40,1,1,,,,21 years 347 days
+4.0,08/03/1990,Australia,Seddon Park,8*,32,16.00,0/12,5,27.80,,1,,,,21 years 349 days
+5.0,05/12/1990,Sri Lanka,Nehru Stadium (Pune),-,32,16.00,1/29,6,28.00,,1,,,,22 years 256 days
+6.0,08/12/1990,Sri Lanka,Nehru Stadium (Margao),0,32,10.67,0/11,6,29.83,,1,,,,22 years 259 days
+7.0,25/12/1990,Bangladesh,Sector 16 Stadium,-,32,10.67,1/41,7,31.43,1,2,,,,22 years 276 days
+8.0,28/12/1990,Sri Lanka,Barabati Stadium,1,33,8.25,3/28,10,24.80,,2,,,,22 years 279 days
+9.0,04/01/1991,Sri Lanka,Eden Gardens,-,33,8.25,1/35,11,25.73,,2,,,,22 years 286 days

@@ -1,0 +1,41 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,15/06/2014,Bangladesh,Shere Bangla National Stadium,-,0,,1/59,1,59.00,,0,,,,20 years 146 days
+2.0,17/06/2014,Bangladesh,Shere Bangla National Stadium,8,8,8.00,,1,59.00,2,2,,,,20 years 148 days
+3.0,19/06/2014,Bangladesh,Shere Bangla National Stadium,1,9,4.50,,1,59.00,,2,,,,20 years 150 days
+4.0,17/10/2014,West Indies,Himachal Pradesh Cricket Association Stadium,-,9,4.50,2/26,3,28.33,2,4,,,,20 years 270 days
+5.0,02/11/2014,Sri Lanka,Barabati Stadium,14*,23,11.50,2/24,5,21.80,1,5,,,,20 years 286 days
+6.0,06/11/2014,Sri Lanka,Sardar Patel Stadium,-,23,11.50,2/39,7,21.14,,5,,,,20 years 290 days
+7.0,09/11/2014,Sri Lanka,Rajiv Gandhi International Stadium,-,23,11.50,3/40,10,18.80,,5,,,,20 years 293 days
+8.0,13/11/2014,Sri Lanka,Eden Gardens,-,23,11.50,2/51,12,19.92,1,6,,,,20 years 297 days
+9.0,16/11/2014,Sri Lanka,JSCA International Stadium Complex,17*,40,20.00,2/45,14,20.29,1,7,,,,20 years 300 days
+10.0,18/01/2015,Australia,Melbourne Cricket Ground,0,40,13.33,1/45,15,21.93,,7,,,,20 years 363 days
+11.0,20/01/2015,England,Brisbane Cricket Ground,0,40,10.00,0/32,15,24.07,,7,,,,21 years 365 days
+12.0,26/01/2015,Australia,Sydney Cricket Ground,-,40,10.00,,15,24.07,,7,,,,21 years 5 days
+13.0,30/01/2015,England,WACA Ground,1,41,8.20,1/39,16,25.00,,7,,,,21 years 9 days
+14.0,21/06/2015,Bangladesh,Shere Bangla National Stadium,0,41,6.83,1/48,17,26.35,,7,,,,21 years 151 days
+15.0,24/06/2015,Bangladesh,Shere Bangla National Stadium,10*,51,8.50,1/44,18,27.33,1,8,,,,21 years 154 days
+16.0,10/07/2015,Zimbabwe,Harare Sports Club,2*,53,8.83,2/41,20,26.65,1,9,,,,21 years 170 days
+17.0,12/07/2015,Zimbabwe,Harare Sports Club,1,54,7.71,1/40,21,27.29,2,11,,,,21 years 172 days
+18.0,14/07/2015,Zimbabwe,Harare Sports Club,-,54,7.71,2/39,23,26.61,,11,,,,21 years 174 days
+19.0,14/10/2015,South Africa,Holkar Cricket Stadium,13,67,8.38,3/39,26,25.04,,11,,,,21 years 266 days
+20.0,18/10/2015,South Africa,Saurashtra Cricket Association Stadium,15*,82,10.25,1/51,27,26.00,,11,,,,21 years 270 days
+21.0,22/10/2015,South Africa,MA Chidambaram Stadium,4*,86,10.75,1/40,28,26.50,1,12,,,,21 years 274 days
+22.0,25/10/2015,South Africa,Wankhede Stadium,5,91,10.11,0/65,28,28.82,,12,,,,21 years 277 days
+23.0,11/06/2016,Zimbabwe,Harare Sports Club,-,91,10.11,1/26,29,28.72,,12,,,,22 years 142 days
+24.0,13/06/2016,Zimbabwe,Harare Sports Club,-,91,10.11,1/22,30,28.50,,12,,,,22 years 144 days
+25.0,15/06/2016,Zimbabwe,Harare Sports Club,-,91,10.11,1/16,31,28.10,,12,,,,22 years 146 days
+26.0,16/10/2016,New Zealand,Himachal Pradesh Cricket Association Stadium,-,91,10.11,0/41,31,29.42,,12,,,,22 years 269 days
+27.0,20/10/2016,New Zealand,Arun Jaitley Stadium,17,108,10.80,1/49,32,30.03,1,13,,,,22 years 273 days
+28.0,23/10/2016,New Zealand,Punjab Cricket Association IS Bindra Stadium,-,108,10.80,0/49,32,31.56,,13,,,,22 years 276 days
+29.0,26/10/2016,New Zealand,JSCA International Stadium Complex,38,146,13.27,1/38,33,31.76,,13,,,,22 years 279 days
+30.0,29/10/2016,New Zealand,Dr YS Rajasekhara Reddy Cricket Stadium,24,170,14.17,2/9,35,30.20,,13,,,,22 years 282 days
+31.0,20/08/2017,Sri Lanka,Rangiri Dambulla International Stadium,-,170,14.17,3/34,38,28.71,,13,,,,23 years 212 days
+32.0,24/08/2017,Sri Lanka,Pallekele International Cricket Stadium,6,176,13.54,1/30,39,28.74,1,14,,,,23 years 216 days
+33.0,27/08/2017,Sri Lanka,Pallekele International Cricket Stadium,-,176,13.54,1/35,40,28.90,,14,,,,23 years 219 days
+34.0,31/08/2017,Sri Lanka,R Premadasa Stadium,-,176,13.54,1/55,41,29.54,,14,,,,23 years 223 days
+35.0,28/09/2017,Australia,M Chinnaswamy Stadium,5,181,12.93,0/66,41,31.15,1,15,,,,23 years 251 days
+36.0,01/10/2017,Australia,Vidarbha Cricket Association Stadium,-,181,12.93,3/38,44,29.89,,15,,,,23 years 254 days
+37.0,25/10/2017,New Zealand,Maharashtra Cricket Association Stadium,-,181,12.93,1/54,45,30.42,,15,,,,23 years 278 days
+38.0,29/10/2017,New Zealand,Green Park,-,181,12.93,0/40,45,31.31,,15,,,,23 years 282 days

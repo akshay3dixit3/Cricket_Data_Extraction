@@ -1,0 +1,21 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,24/08/1972,Australia,Old Trafford,103,103,103.00,,0,,,0,,,,29 years 139 days
+2.0,26/08/1972,Australia,Lord's,25,128,64.00,,0,,,0,,,,29 years 141 days
+3.0,28/08/1972,Australia,Edgbaston,40,168,56.00,,0,,,0,,,,29 years 143 days
+4.0,18/07/1973,New Zealand,St Helen's,100,268,67.00,,0,,,0,,,,30 years 102 days
+5.0,20/07/1973,New Zealand,Old Trafford,34,302,60.40,,0,,,0,,,,30 years 104 days
+6.0,13/07/1974,India,Headingley,20,322,53.67,,0,,,0,,,,31 years 97 days
+7.0,01/01/1975,Australia,Melbourne Cricket Ground,47,369,52.71,,0,,,0,,,,31 years 269 days
+8.0,08/03/1975,New Zealand,Carisbrook,3,372,46.50,,0,,,0,,,,31 years 335 days
+9.0,07/06/1975,India,Lord's,137,509,56.56,,0,,,0,,,,32 years 61 days
+10.0,11/06/1975,New Zealand,Trent Bridge,16,525,52.50,,0,,,0,,,,32 years 65 days
+11.0,14/06/1975,East Africa,Edgbaston,88,613,55.73,,0,,1,1,,,,32 years 68 days
+12.0,18/06/1975,Australia,Headingley,2,615,51.25,,0,,,1,,,,32 years 72 days
+13.0,26/08/1976,West Indies,North Marine Road Ground,34,649,49.92,,0,,,1,,,,33 years 141 days
+14.0,28/08/1976,West Indies,Lord's,12,661,47.21,,0,,,1,,,,33 years 143 days
+15.0,30/08/1976,West Indies,Edgbaston,47,708,47.20,,0,,,1,,,,33 years 145 days
+16.0,02/06/1977,Australia,Old Trafford,8,716,44.75,,0,,1,2,,,,34 years 56 days
+17.0,04/06/1977,Australia,Edgbaston,35,751,44.18,,0,,,2,,,,34 years 58 days
+18.0,06/06/1977,Australia,Kennington Oval,108,859,47.72,,0,,,2,,,,34 years 60 days

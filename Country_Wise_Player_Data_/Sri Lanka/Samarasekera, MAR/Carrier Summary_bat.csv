@@ -1,0 +1,42 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,09/06/1983,Pakistan,St Helen's,0,0,0.00,0/33,0,,,0,,,,21 years 308 days
+2.0,18/06/1983,New Zealand,County Ground (Derby),5,5,2.50,0/38,0,,1,1,,,,21 years 317 days
+3.0,30/03/1986,Pakistan,P Sara Oval,5,10,3.33,0/19,0,,,1,,,,24 years 238 days
+4.0,09/01/1988,New Zealand,Adelaide Oval,3,13,3.25,0/26,0,,,1,,,,26 years 157 days
+5.0,16/01/1988,New Zealand,Brisbane Cricket Ground,8,21,4.20,0/18,0,,,1,,,,26 years 164 days
+6.0,04/09/1988,England,Kennington Oval,10,31,5.17,0/52,0,,,1,,,,27 years 31 days
+7.0,27/10/1988,Pakistan,Bangabandhu National Stadium,10,41,5.86,0/34,0,,,1,,,,27 years 84 days
+8.0,29/10/1988,India,Bangabandhu National Stadium,66,107,13.38,0/17,0,,,1,,,,27 years 86 days
+9.0,02/11/1988,Bangladesh,Bangabandhu National Stadium,38*,145,18.13,0/11,0,,,1,,,,27 years 90 days
+10.0,04/11/1988,India,Bangabandhu National Stadium,26,171,19.00,,0,,,1,,,,27 years 92 days
+11.0,23/03/1989,Pakistan,Sharjah Cricket Stadium,7,178,17.80,0/28,0,,,1,,,,27 years 231 days
+12.0,24/03/1989,Pakistan,Sharjah Cricket Stadium,15,193,17.55,0/15,0,,,1,,,,27 years 232 days
+13.0,15/10/1989,England,Arun Jaitley Stadium,24,217,18.08,,0,,,1,,,,28 years 72 days
+14.0,19/10/1989,West Indies,Madhavrao Scindia Cricket Ground,12*,229,19.08,,0,,,1,,,,28 years 76 days
+15.0,22/10/1989,India,Sardar Patel Stadium,22,251,19.31,,0,,,1,,,,28 years 79 days
+16.0,27/10/1989,Pakistan,"KD Singh ""Babu"" Stadium",3,254,18.14,,0,,,1,,,,28 years 84 days
+17.0,26/12/1989,Australia,Melbourne Cricket Ground,30,284,18.93,,0,,1,2,,,,28 years 144 days
+18.0,30/12/1989,Australia,WACA Ground,5,289,18.06,,0,,,2,,,,28 years 148 days
+19.0,31/12/1989,Pakistan,WACA Ground,60,349,20.53,,0,,1,3,,,,28 years 149 days
+20.0,04/01/1990,Australia,Melbourne Cricket Ground,6,355,19.72,,0,,,3,,,,28 years 153 days
+21.0,10/02/1990,Pakistan,Brisbane Cricket Ground,10,365,19.21,,0,,,3,,,,28 years 190 days
+22.0,15/02/1990,Pakistan,Bellerive Oval,7,372,18.60,,0,,,3,,,,28 years 195 days
+23.0,17/02/1990,Pakistan,Adelaide Oval,24,396,18.86,,0,,,3,,,,28 years 197 days
+24.0,18/02/1990,Australia,Adelaide Oval,1,397,18.05,,0,,,3,,,,28 years 198 days
+25.0,25/04/1990,India,Sharjah Cricket Stadium,14,411,17.87,,0,,2,5,,,,28 years 264 days
+26.0,29/04/1990,Pakistan,Sharjah Cricket Stadium,29,440,18.33,,0,,,5,,,,28 years 268 days
+27.0,02/05/1990,Australia,Sharjah Cricket Stadium,25,465,18.60,,0,,,5,,,,28 years 271 days
+28.0,01/12/1990,India,Vidarbha Cricket Association Ground,0,465,17.88,,0,,,5,,,,29 years 118 days
+29.0,15/01/1992,Pakistan,Niaz Stadium,43,508,18.81,,0,,,5,,,,30 years 163 days
+30.0,17/01/1992,Pakistan,Ibn-e-Qasim Bagh Stadium,76,584,20.86,,0,,,5,,,,30 years 165 days
+31.0,19/01/1992,Pakistan,Rawalpindi Cricket Stadium,13,597,20.59,,0,,,5,,,,30 years 167 days
+32.0,23/02/1992,Zimbabwe,Pukekura Park,75,672,22.40,,0,,,5,,,,30 years 202 days
+33.0,25/02/1992,New Zealand,Seddon Park,9,681,21.97,,0,,,5,,,,30 years 204 days
+34.0,07/03/1992,Australia,Adelaide Oval,34,715,22.34,,0,,,5,,,,30 years 215 days
+35.0,09/03/1992,England,Eastern Oval,23,738,22.36,,0,,,5,,,,30 years 217 days
+36.0,13/03/1992,West Indies,Berri Oval,40,778,22.88,,0,,,5,,,,30 years 221 days
+37.0,15/03/1992,Pakistan,WACA Ground,38,816,23.31,,0,,,5,,,,30 years 223 days
+38.0,14/04/1994,Australia,Sharjah Cricket Stadium,24,840,23.33,,0,,,5,,,,32 years 253 days
+39.0,18/04/1994,New Zealand,Sharjah Cricket Stadium,4,844,22.81,,0,,,5,,,,32 years 257 days

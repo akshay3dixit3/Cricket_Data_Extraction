@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,11/02/1973,New Zealand,AMI Stadium,37,37,37.00,,0,,,0,,,,27 years 284 days
+2.0,31/08/1974,England,Trent Bridge,41,78,39.00,,0,,1,1,,,,29 years 119 days
+3.0,03/09/1974,England,Edgbaston,12,90,30.00,,0,,,1,,,,29 years 122 days
+4.0,07/06/1975,Australia,Headingley,4,94,23.50,,0,,,1,,,,30 years 34 days
+5.0,11/06/1975,West Indies,Edgbaston,7,101,20.20,,0,,,1,,,,30 years 38 days
+6.0,14/06/1975,Sri Lanka,Trent Bridge,74,175,29.17,2/20,2,10.00,,1,,,,30 years 41 days
+7.0,16/10/1976,New Zealand,Jinnah Stadium (Sialkot),17,192,27.43,,2,10.00,,1,,,,31 years 166 days
+8.0,16/03/1977,West Indies,Albion Sports Complex,6,198,24.75,0/6,2,13.00,,1,,,,31 years 317 days
+9.0,23/12/1977,England,Zafar Ali (Sahiwal) Stadium,2,200,22.22,,2,13.00,,1,,,,32 years 234 days
+10.0,30/12/1977,England,Jinnah Stadium (Sialkot),13,213,21.30,,2,13.00,,1,,,,32 years 241 days
+11.0,24/05/1978,England,Old Trafford,3,216,19.64,,2,13.00,,1,,,,33 years 20 days
+12.0,26/05/1978,England,Kennington Oval,9,225,18.75,,2,13.00,,1,,,,33 years 22 days
+13.0,13/10/1978,India,Jinnah Stadium (Sialkot),1,226,17.38,,2,13.00,,1,,,,33 years 162 days
+14.0,09/06/1979,Canada,Headingley,57*,283,21.77,,2,13.00,,1,,,,34 years 36 days
+15.0,13/06/1979,Australia,Trent Bridge,27,310,22.14,,2,13.00,2,3,,,,34 years 40 days
+16.0,16/06/1979,England,Headingley,18,328,21.87,,2,13.00,1,4,,,,34 years 43 days
+17.0,20/06/1979,West Indies,Kennington Oval,2,330,20.63,,2,13.00,,4,,,,34 years 47 days
+18.0,21/11/1980,West Indies,National Stadium (Karachi),40,370,21.76,,2,13.00,1,5,,,,35 years 202 days
+19.0,05/12/1980,West Indies,Jinnah Stadium (Sialkot),13,383,21.28,,2,13.00,,5,,,,35 years 216 days

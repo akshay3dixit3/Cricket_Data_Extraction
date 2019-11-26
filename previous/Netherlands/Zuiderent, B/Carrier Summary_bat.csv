@@ -1,0 +1,60 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,17/02/1996,New Zealand,Reliance Stadium,1*,1,,,0,,2,2,,,,18 years 350 days
+2.0,22/02/1996,England,Arbab Niaz Stadium,54,55,55.00,,0,,,2,,,,18 years 355 days
+3.0,26/02/1996,Pakistan,Gaddafi Stadium,6,61,30.50,,0,,,2,,,,18 years 359 days
+4.0,01/03/1996,United Arab Emirates,Gaddafi Stadium,3,64,21.33,,0,,1,3,,,,18 years 363 days
+5.0,05/03/1996,South Africa,Rawalpindi Cricket Stadium,27,91,22.75,,0,,1,4,,,,19 years 2 days
+6.0,16/09/2002,Sri Lanka,R Premadasa Stadium,0,91,18.20,,0,,1,5,,,,25 years 196 days
+7.0,21/09/2002,Pakistan,Sinhalese Sports Club Ground,7,98,16.33,,0,,1,6,,,,25 years 201 days
+8.0,12/02/2003,India,Boland Park,0,98,14.00,,0,,1,7,,,,25 years 345 days
+9.0,16/02/2003,England,Buffalo Park,2,100,12.50,,0,,1,8,,,,25 years 349 days
+10.0,20/02/2003,Australia,Senwes Park,5,105,11.67,,0,,,8,,,,25 years 353 days
+11.0,25/02/2003,Pakistan,Boland Park,8,113,11.30,,0,,1,9,,,,25 years 358 days
+12.0,28/02/2003,Zimbabwe,Queens Sports Club,15,128,11.64,,0,,1,10,,,,25 years 361 days
+13.0,03/03/2003,Namibia,Mangaung Oval,5,133,11.08,,0,,1,11,,,,26 years 364 days
+14.0,04/07/2006,Sri Lanka,VRA Ground,2,135,10.38,,0,,,11,,,,29 years 122 days
+15.0,06/07/2006,Sri Lanka,VRA Ground,29,164,11.71,,0,,,11,,,,29 years 124 days
+16.0,06/08/2006,Scotland,Cambusdoon New Ground,8,172,11.47,,0,,,11,,,,29 years 155 days
+17.0,08/08/2006,Ireland,Cambusdoon New Ground,8,180,11.25,,0,,,11,,,,29 years 157 days
+18.0,26/11/2006,Canada,Senwes Park,44,224,13.18,,0,,,11,,,,29 years 267 days
+19.0,28/11/2006,Bermuda,Senwes Park,63*,287,16.88,,0,,,11,,,,29 years 269 days
+20.0,01/12/2006,Canada,Willowmoore Park,0,287,15.94,,0,,,11,,,,29 years 272 days
+21.0,02/12/2006,Bermuda,Willowmoore Park,7,294,15.47,,0,,1,12,,,,29 years 273 days
+22.0,30/01/2007,Canada,Ruaraka Sports Club Ground,77*,371,19.53,,0,,1,13,,,,29 years 332 days
+23.0,31/01/2007,Kenya,Gymkhana Club Ground,6,377,18.85,,0,,,13,,,,29 years 333 days
+24.0,02/02/2007,Scotland,Jaffrey Sports Club Ground,8,385,18.33,,0,,1,14,,,,29 years 335 days
+25.0,04/02/2007,Bermuda,Ruaraka Sports Club Ground,71,456,20.73,,0,,1,15,,,,29 years 337 days
+26.0,05/02/2007,Ireland,Gymkhana Club Ground,39,495,21.52,,0,,1,16,,,,29 years 338 days
+27.0,16/03/2007,South Africa,Warner Park,1,496,20.67,,0,,,16,,,,30 years 12 days
+28.0,18/03/2007,Australia,Warner Park,9,505,20.20,,0,,,16,,,,30 years 14 days
+29.0,22/03/2007,Scotland,Warner Park,43*,548,21.92,,0,,,16,,,,30 years 18 days
+30.0,10/07/2007,West Indies,Castle Avenue,10,558,21.46,,0,,,16,,,,30 years 128 days
+31.0,11/07/2007,Ireland,Civil Service Cricket Club,36,594,22.00,,0,,2,18,,,,30 years 129 days
+32.0,13/07/2007,Scotland,Civil Service Cricket Club,-,594,22.00,,0,,,18,,,,30 years 131 days
+33.0,18/08/2007,Bermuda,Hazelaarweg,1,595,21.25,,0,,,18,,,,30 years 167 days
+34.0,20/08/2007,Bermuda,Hazelaarweg,17,612,21.10,,0,,1,19,,,,30 years 169 days
+35.0,21/08/2008,Kenya,Hazelaarweg,41*,653,22.52,,0,,,19,,,,31 years 171 days
+36.0,01/04/2009,Kenya,Senwes Park,64*,717,24.72,,0,,1,20,,,,32 years 29 days
+37.0,08/04/2009,Bermuda,Senwes Park,1,718,23.93,,0,,1,21,,,,32 years 36 days
+38.0,19/04/2009,Kenya,Senwes Park,57*,775,25.83,,0,,2,23,,,,32 years 47 days
+39.0,11/07/2009,Canada,VRA Ground,17,792,25.55,,0,,,23,,,,32 years 130 days
+40.0,30/08/2009,Afghanistan,VRA Ground,0,792,24.75,,0,,,23,,,,32 years 180 days
+41.0,01/09/2009,Afghanistan,VRA Ground,0,792,24.00,,0,,1,24,,,,32 years 182 days
+42.0,16/02/2010,Kenya,Gymkhana Club Ground,21,813,23.91,,0,,,24,,,,32 years 350 days
+43.0,18/02/2010,Kenya,Gymkhana Club Ground,56,869,24.83,,0,,,24,,,,32 years 352 days
+44.0,15/06/2010,Scotland,Hazelaarweg,12,881,24.47,,0,,,24,,,,33 years 103 days
+45.0,01/07/2010,Scotland,VRA Ground,55*,936,26.00,,0,,,24,,,,33 years 119 days
+46.0,03/07/2010,Kenya,Sportpark Westvliet,3,939,25.38,,0,,,24,,,,33 years 121 days
+47.0,05/07/2010,Canada,Hazelaarweg,35*,974,26.32,,0,,,24,,,,33 years 123 days
+48.0,07/07/2010,Afghanistan,Sportpark Westvliet,19,993,26.13,,0,,1,25,,,,33 years 125 days
+49.0,09/07/2010,Ireland,VRA Ground,28,1021,26.18,,0,,1,26,,,,33 years 127 days
+50.0,10/07/2010,Afghanistan,Hazelaarweg,8,1029,25.73,,0,,,26,,,,33 years 128 days
+51.0,20/07/2010,Bangladesh,Titwood,35*,1064,26.60,,0,,,26,,,,33 years 138 days
+52.0,16/08/2010,Ireland,Castle Avenue,16,1080,26.34,,0,,,26,,,,33 years 165 days
+53.0,18/08/2010,Ireland,Castle Avenue,0,1080,25.71,,0,,,26,,,,33 years 167 days
+54.0,22/02/2011,England,Vidarbha Cricket Association Stadium,1,1081,25.14,,0,,,26,,,,33 years 355 days
+55.0,28/02/2011,West Indies,Arun Jaitley Stadium,1,1082,24.59,,0,,,26,,,,33 years 361 days
+56.0,03/03/2011,South Africa,Punjab Cricket Association IS Bindra Stadium,15,1097,24.38,,0,,,26,,,,34 years 364 days
+57.0,09/03/2011,India,Arun Jaitley Stadium,0,1097,23.85,,0,,,26,,,,34 years 5 days

@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,06/12/1994,New Zealand,Newlands,32,32,32.00,2/15,2,7.50,1,1,,,,31 years 300 days
+2.0,10/12/1994,Pakistan,Wanderers Stadium,13*,45,45.00,0/16,2,15.50,1,2,,,,31 years 304 days
+3.0,11/12/1994,New Zealand,SuperSport Park,1,46,23.00,1/34,3,21.67,1,3,,,,31 years 305 days
+4.0,15/12/1994,Sri Lanka,Mangaung Oval,8,54,18.00,0/24,3,29.67,1,4,,,,31 years 309 days
+5.0,17/12/1994,Pakistan,Kingsmead,10,64,16.00,,3,29.67,,4,,,,31 years 311 days
+6.0,10/01/1995,Pakistan,Newlands,31,95,19.00,,3,29.67,,4,,,,31 years 335 days
+7.0,12/01/1995,Pakistan,Wanderers Stadium,106,201,33.50,,3,29.67,,4,,,,31 years 337 days
+8.0,15/02/1995,Australia,Basin Reserve,14,215,30.71,,3,29.67,,4,,,,32 years 6 days
+9.0,03/04/1998,Pakistan,Kingsmead,17,232,29.00,,3,29.67,,4,,,,35 years 53 days
+10.0,05/04/1998,Sri Lanka,Wanderers Stadium,59,291,32.33,,3,29.67,2,6,,,,35 years 55 days
+11.0,11/04/1998,Pakistan,Buffalo Park,64,355,35.50,,3,29.67,,6,,,,35 years 61 days
+12.0,13/04/1998,Sri Lanka,St George's Park,35,390,35.45,,3,29.67,,6,,,,35 years 63 days
+13.0,17/04/1998,Pakistan,SuperSport Park,0,390,32.50,1/23,4,28.00,,6,,,,35 years 67 days
+14.0,23/04/1998,Pakistan,Newlands,20,410,31.54,,4,28.00,1,7,,,,35 years 73 days
+15.0,14/08/1998,Sri Lanka,Trent Bridge,18,428,30.57,0/12,4,31.00,,7,,,,35 years 186 days
+16.0,18/08/1998,England,Edgbaston,10,438,29.20,1/8,5,26.40,,7,,,,35 years 190 days
+17.0,25/10/1998,England,Bangabandhu National Stadium,41,479,29.94,1/37,6,28.17,,7,,,,35 years 258 days
+18.0,30/10/1998,Sri Lanka,Bangabandhu National Stadium,8,487,28.65,0/13,6,30.33,,7,,,,35 years 263 days
+19.0,01/11/1998,West Indies,Bangabandhu National Stadium,49,536,29.78,0/13,6,32.50,,7,,,,35 years 265 days
+20.0,24/01/1999,West Indies,Buffalo Park,2,538,28.32,0/28,6,37.17,1,8,,,,35 years 349 days
+21.0,05/02/1999,West Indies,Mangaung Oval,27,565,28.25,0/19,6,40.33,,8,,,,35 years 361 days
+22.0,07/02/1999,West Indies,SuperSport Park,10,575,27.38,,6,40.33,,8,,,,35 years 363 days

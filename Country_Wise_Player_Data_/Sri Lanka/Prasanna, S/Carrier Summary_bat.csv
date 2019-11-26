@@ -1,0 +1,43 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,20/08/2011,Australia,R Premadasa Stadium,0,0,0.00,3/32,3,10.67,1,1,,,,26 years 53 days
+2.0,22/08/2011,Australia,R Premadasa Stadium,-,0,0.00,1/37,4,17.25,,1,,,,26 years 55 days
+3.0,11/11/2011,Pakistan,Dubai International Cricket Stadium,5,5,2.50,0/23,4,23.00,,1,,,,26 years 136 days
+4.0,14/11/2011,Pakistan,Dubai International Cricket Stadium,-,5,2.50,0/38,4,32.50,,1,,,,26 years 139 days
+5.0,18/11/2011,Pakistan,Dubai International Cricket Stadium,5,10,3.33,2/39,6,28.17,,1,,,,26 years 143 days
+6.0,20/11/2011,Pakistan,Sharjah Cricket Stadium,0,10,2.50,2/55,8,28.00,,1,,,,26 years 145 days
+7.0,23/11/2011,Pakistan,Sheikh Zayed Stadium,8*,18,4.50,0/48,8,34.00,,1,,,,26 years 148 days
+8.0,13/03/2012,India,Shere Bangla National Stadium,8,26,5.20,0/45,8,39.63,,1,,,,26 years 259 days
+9.0,15/03/2012,Pakistan,Shere Bangla National Stadium,5*,31,6.20,1/49,9,40.67,,1,,,,26 years 261 days
+10.0,18/12/2013,Pakistan,Sharjah Cricket Stadium,42,73,12.17,1/39,10,40.50,,1,,,,28 years 174 days
+11.0,20/12/2013,Pakistan,Dubai International Cricket Stadium,6,79,11.29,1/45,11,40.91,,1,,,,28 years 176 days
+12.0,22/12/2013,Pakistan,Sharjah Cricket Stadium,22,101,12.63,0/46,11,45.09,,1,,,,28 years 178 days
+13.0,26/08/2014,Pakistan,Mahinda Rajapaksha International Cricket Stadium,1,102,11.33,2/36,13,40.92,,1,,,,29 years 59 days
+14.0,30/08/2014,Pakistan,Rangiri Dambulla International Stadium,-,102,11.33,1/8,14,38.57,,1,,,,29 years 63 days
+15.0,02/11/2014,India,Barabati Stadium,5,107,10.70,0/47,14,41.93,,1,,,,29 years 127 days
+16.0,06/11/2014,India,Sardar Patel Stadium,13,120,10.91,3/53,17,37.65,,1,,,,29 years 131 days
+17.0,09/11/2014,India,Rajiv Gandhi International Stadium,29,149,12.42,0/43,17,40.18,,1,,,,29 years 134 days
+18.0,13/11/2014,India,Eden Gardens,11,160,12.31,0/70,17,44.29,,1,,,,29 years 138 days
+19.0,16/11/2014,India,JSCA International Stadium Complex,0,160,11.43,0/42,17,46.76,,1,,,,29 years 141 days
+20.0,13/12/2014,England,Pallekele International Cricket Stadium,20,180,12.00,0/40,17,49.12,,1,,,,29 years 168 days
+21.0,16/12/2014,England,R Premadasa Stadium,0,180,11.25,3/35,20,43.50,1,2,,,,29 years 171 days
+22.0,28/01/2015,New Zealand,Westpac Stadium,1,181,10.65,1/30,21,42.86,,2,,,,29 years 214 days
+23.0,08/03/2015,Australia,Sydney Cricket Ground,9,190,10.56,1/77,22,44.41,1,3,,,,29 years 253 days
+24.0,11/03/2015,Scotland,Bellerive Oval,3,193,10.16,0/57,22,47.00,,3,,,,29 years 256 days
+25.0,11/07/2015,Pakistan,Rangiri Dambulla International Stadium,0,193,9.65,0/72,22,50.27,,3,,,,30 years 13 days
+26.0,16/06/2016,Ireland,The Village,0,193,9.19,1/44,23,50.00,,3,,,,30 years 354 days
+27.0,18/06/2016,Ireland,The Village,95,288,13.09,2/32,25,47.28,,3,,,,30 years 356 days
+28.0,21/06/2016,England,Trent Bridge,59,347,15.09,1/43,26,47.12,,3,,,,30 years 359 days
+29.0,24/06/2016,England,Edgbaston,2,349,14.54,0/78,26,50.12,,3,,,,30 years 362 days
+30.0,26/06/2016,England,County Ground (Bristol),2,351,14.04,,26,50.12,,3,,,,30 years 364 days
+31.0,29/06/2016,England,Kennington Oval,9,360,13.85,0/61,26,52.46,,3,,,,31 years 2 days
+32.0,02/07/2016,England,Sophia Gardens,5,365,13.52,0/52,26,54.46,,3,,,,31 years 5 days
+33.0,24/08/2016,Australia,R Premadasa Stadium,2*,367,13.59,1/48,27,54.22,,3,,,,31 years 58 days
+34.0,28/08/2016,Australia,Rangiri Dambulla International Stadium,3,370,13.21,1/39,28,53.68,1,4,,,,31 years 62 days
+35.0,01/04/2017,Bangladesh,Sinhalese Sports Club Ground,1,371,12.79,2/33,30,51.20,1,5,,,,31 years 278 days
+36.0,03/06/2017,South Africa,Kennington Oval,13,384,12.80,1/72,31,51.87,1,6,,,,31 years 341 days
+37.0,20/10/2017,Pakistan,Sharjah Cricket Stadium,5,389,12.55,1/44,32,51.63,,6,,,,32 years 115 days
+38.0,23/10/2017,Pakistan,Sharjah Cricket Stadium,16,405,12.66,0/21,32,52.28,,6,,,,32 years 118 days
+39.0,03/01/2019,New Zealand,Bay Oval,16,421,12.76,0/60,32,54.16,1,7,,,,33 years 189 days
+40.0,05/01/2019,New Zealand,Bay Oval,0,421,12.38,0/34,32,55.22,,7,,,,33 years 191 days

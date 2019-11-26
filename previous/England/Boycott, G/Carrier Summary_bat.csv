@@ -1,0 +1,39 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,05/01/1971,Australia,Melbourne Cricket Ground,8,8,8.00,,0,,,0,,,,30 years 75 days
+2.0,24/08/1972,Australia,Old Trafford,25,33,16.50,,0,,,0,,,,31 years 307 days
+3.0,26/08/1972,Australia,Lord's,8,41,13.67,,0,,,0,,,,31 years 309 days
+4.0,28/08/1972,Australia,Edgbaston,41,82,20.50,,0,,,0,,,,31 years 311 days
+5.0,18/07/1973,New Zealand,St Helen's,20,102,20.40,,0,,1,1,,,,32 years 270 days
+6.0,20/07/1973,New Zealand,Old Trafford,15,117,19.50,,0,,,1,,,,32 years 272 days
+7.0,05/09/1973,West Indies,Headingley,0,117,16.71,,0,,,1,,,,32 years 319 days
+8.0,30/12/1977,Pakistan,Jinnah Stadium (Sialkot),-,117,16.71,,0,,,1,,,,37 years 69 days
+9.0,13/01/1978,Pakistan,Gaddafi Stadium,6,123,15.38,,0,,3,4,,,,37 years 83 days
+10.0,24/05/1978,Pakistan,Old Trafford,3,126,14.00,,0,,,4,,,,37 years 214 days
+11.0,13/01/1979,Australia,Sydney Cricket Ground,-,126,14.00,,0,,,4,,,,38 years 83 days
+12.0,24/01/1979,Australia,Melbourne Cricket Ground,39*,165,18.33,,0,,,4,,,,38 years 94 days
+13.0,04/02/1979,Australia,Melbourne Cricket Ground,33,198,19.80,,0,,2,6,,,,38 years 105 days
+14.0,07/02/1979,Australia,Melbourne Cricket Ground,2,200,18.18,,0,,,6,,,,38 years 108 days
+15.0,09/06/1979,Australia,Lord's,1,201,16.75,2/15,2,7.50,,6,,,,38 years 230 days
+16.0,13/06/1979,Canada,Old Trafford,14*,215,17.92,0/3,2,9.00,,6,,,,38 years 234 days
+17.0,16/06/1979,Pakistan,Headingley,18,233,17.92,2/14,4,8.00,,6,,,,38 years 237 days
+18.0,20/06/1979,New Zealand,Old Trafford,2,235,16.79,1/24,5,11.20,,6,,,,38 years 241 days
+19.0,23/06/1979,West Indies,Lord's,57,292,19.47,0/38,5,18.80,,6,,,,38 years 244 days
+20.0,08/12/1979,Australia,Melbourne Cricket Ground,68,360,22.50,,5,18.80,,6,,,,39 years 47 days
+21.0,11/12/1979,Australia,Sydney Cricket Ground,105,465,27.35,,5,18.80,,6,,,,39 years 50 days
+22.0,23/12/1979,West Indies,Brisbane Cricket Ground,68,533,29.61,,5,18.80,,6,,,,39 years 62 days
+23.0,26/12/1979,Australia,Sydney Cricket Ground,86*,619,34.39,,5,18.80,,6,,,,39 years 65 days
+24.0,20/01/1980,West Indies,Melbourne Cricket Ground,35,654,34.42,,5,18.80,,6,,,,39 years 90 days
+25.0,22/01/1980,West Indies,Sydney Cricket Ground,63,717,35.85,,5,18.80,,6,,,,39 years 92 days
+26.0,28/05/1980,West Indies,Headingley,5,722,34.38,,5,18.80,,6,,,,39 years 219 days
+27.0,30/05/1980,West Indies,Lord's,70,792,36.00,,5,18.80,,6,,,,39 years 221 days
+28.0,20/08/1980,Australia,Kennington Oval,99,891,38.74,,5,18.80,,6,,,,39 years 303 days
+29.0,22/08/1980,Australia,Edgbaston,78,969,40.38,0/11,5,21.00,,6,,,,39 years 305 days
+30.0,04/02/1981,West Indies,Arnos Vale Ground,2,971,38.84,,5,21.00,,6,,,,40 years 106 days
+31.0,26/02/1981,West Indies,Albion Sports Complex,7,978,37.62,,5,21.00,,6,,,,40 years 128 days
+32.0,04/06/1981,Australia,Lord's,75*,1053,40.50,,5,21.00,,6,,,,40 years 226 days
+33.0,06/06/1981,Australia,Edgbaston,14,1067,39.52,,5,21.00,,6,,,,40 years 228 days
+34.0,08/06/1981,Australia,Headingley,4,1071,38.25,,5,21.00,,6,,,,40 years 230 days
+35.0,25/11/1981,India,Sardar Vallabhai Patel Stadium,5,1076,37.10,,5,21.00,,6,,,,41 years 34 days
+36.0,20/12/1981,India,Gandhi Stadium,6,1082,36.07,,5,21.00,,6,,,,41 years 59 days

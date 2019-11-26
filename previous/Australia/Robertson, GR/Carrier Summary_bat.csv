@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,13/09/1994,Sri Lanka,P Sara Oval,5*,5,,0/24,0,,,0,,,,28 years 108 days
+2.0,12/10/1994,South Africa,Gaddafi Stadium,1*,6,,0/41,0,,,0,,,,28 years 137 days
+3.0,14/10/1994,Pakistan,Ibn-e-Qasim Bagh Stadium,-,6,,0/24,0,,,0,,,,28 years 139 days
+4.0,10/01/1995,England,Melbourne Cricket Ground,1,7,7.00,0/38,0,,,0,,,,28 years 227 days
+5.0,08/02/1998,New Zealand,AMI Stadium,-,7,7.00,3/32,3,53.00,1,1,,,,31 years 256 days
+6.0,10/02/1998,New Zealand,Basin Reserve,-,7,7.00,1/40,4,49.75,1,2,,,,31 years 258 days
+7.0,12/02/1998,New Zealand,McLean Park,11*,18,18.00,0/38,4,59.25,,2,,,,31 years 260 days
+8.0,14/02/1998,New Zealand,Eden Park,7,25,12.50,3/29,7,38.00,1,3,,,,31 years 262 days
+9.0,03/04/1998,Zimbabwe,Sardar Patel Stadium,5*,30,15.00,0/28,7,42.00,,3,,,,31 years 310 days
+10.0,07/04/1998,India,Green Park,15,45,15.00,0/34,7,46.86,,3,,,,31 years 314 days
+11.0,11/04/1998,Zimbabwe,Arun Jaitley Stadium,-,45,15.00,0/31,7,51.29,,3,,,,31 years 318 days
+12.0,18/04/1998,New Zealand,Sharjah Cricket Stadium,-,45,15.00,1/30,8,48.63,,3,,,,31 years 325 days
+13.0,21/04/1998,New Zealand,Sharjah Cricket Stadium,-,45,15.00,0/41,8,53.75,,3,,,,31 years 328 days

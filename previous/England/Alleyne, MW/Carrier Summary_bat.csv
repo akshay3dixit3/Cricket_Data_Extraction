@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,10/01/1999,Australia,Brisbane Cricket Ground,2,2,2.00,0/7,0,,,0,,,,30 years 231 days
+2.0,11/01/1999,Sri Lanka,Brisbane Cricket Ground,18,20,10.00,,0,,,0,,,,30 years 232 days
+3.0,03/02/1999,Sri Lanka,Sydney Cricket Ground,18,38,12.67,3/27,3,11.33,,0,,,,30 years 255 days
+4.0,05/02/1999,Australia,Sydney Cricket Ground,38*,76,25.33,0/24,3,19.33,,0,,,,30 years 257 days
+5.0,26/01/2000,South Africa,Newlands,12,88,22.00,1/42,4,25.00,,0,,,,31 years 247 days
+6.0,28/01/2000,Zimbabwe,Newlands,4,92,18.40,1/30,5,26.00,1,1,,,,31 years 249 days
+7.0,30/01/2000,Zimbabwe,Diamond Oval,-,92,18.40,1/46,6,29.33,,1,,,,31 years 251 days
+8.0,04/02/2000,South Africa,Buffalo Park,53,145,24.17,3/55,9,25.67,1,2,,,,31 years 256 days
+9.0,13/02/2000,South Africa,Wanderers Stadium,6,151,21.57,1/23,10,25.40,,2,,,,31 years 265 days
+10.0,05/10/2000,Bangladesh,Gymkhana Club Ground,-,151,21.57,0/26,10,28.00,1,3,,,,32 years 135 days

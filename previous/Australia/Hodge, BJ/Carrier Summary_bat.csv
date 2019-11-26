@@ -1,0 +1,28 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,03/12/2005,New Zealand,Eden Park,13,13,13.00,,0,,,0,,,,30 years 339 days
+2.0,07/12/2005,New Zealand,Westpac Stadium,0,13,6.50,,0,,,0,,,,30 years 343 days
+3.0,10/12/2005,New Zealand,AMI Stadium,59,72,24.00,,0,,,0,,,,30 years 346 days
+4.0,26/01/2006,Sri Lanka,Adelaide Oval,5,77,19.25,0/16,0,,,0,,,,31 years 28 days
+5.0,29/01/2006,Sri Lanka,WACA Ground,2,79,15.80,,0,,1,1,,,,31 years 31 days
+6.0,19/01/2007,England,Brisbane Cricket Ground,0,79,13.17,,0,,2,3,,,,32 years 21 days
+7.0,02/02/2007,England,Sydney Cricket Ground,1,80,11.43,,0,,1,4,,,,32 years 35 days
+8.0,04/02/2007,New Zealand,Melbourne Cricket Ground,99*,179,25.57,,0,,1,5,,,,32 years 37 days
+9.0,09/02/2007,England,Melbourne Cricket Ground,5,184,23.00,,0,,,5,,,,32 years 42 days
+10.0,11/02/2007,England,Sydney Cricket Ground,49,233,25.89,,0,,2,7,,,,32 years 44 days
+11.0,16/02/2007,New Zealand,Westpac Stadium,22,255,25.50,,0,,,7,,,,32 years 49 days
+12.0,17/02/2007,New Zealand,Eden Park,97*,352,35.20,,0,,,7,,,,32 years 50 days
+13.0,20/02/2007,New Zealand,Seddon Park,12,364,33.09,,0,,1,8,,,,32 years 53 days
+14.0,14/03/2007,Scotland,Warner Park,29,393,32.75,1/17,1,33.00,,8,,,,32 years 75 days
+15.0,18/03/2007,Netherlands,Warner Park,123,516,39.69,,1,33.00,,8,,,,32 years 79 days
+16.0,08/04/2007,England,Sir Vivian Richards Stadium,-,516,39.69,,1,33.00,2,10,,,,32 years 100 days
+17.0,13/04/2007,Ireland,Kensington Oval,-,516,39.69,,1,33.00,1,11,,,,32 years 105 days
+18.0,16/04/2007,Sri Lanka,National Cricket Stadium (Grenada),-,516,39.69,,1,33.00,1,12,,,,32 years 108 days
+19.0,29/09/2007,India,M Chinnaswamy Stadium,0,516,36.86,,1,33.00,,12,,,,32 years 274 days
+20.0,02/10/2007,India,Nehru Stadium (Kochi),3,519,34.60,,1,33.00,2,14,,,,32 years 277 days
+21.0,05/10/2007,India,Rajiv Gandhi International Stadium,3,522,32.63,0/18,1,51.00,,14,,,,32 years 280 days
+22.0,08/10/2007,India,Sector 16 Stadium,17,539,31.71,,1,51.00,,14,,,,32 years 283 days
+23.0,11/10/2007,India,Reliance Stadium,-,539,31.71,,1,51.00,,14,,,,32 years 286 days
+24.0,14/10/2007,India,Vidarbha Cricket Association Ground,20,559,31.06,,1,51.00,2,16,,,,32 years 289 days
+25.0,17/10/2007,India,Wankhede Stadium,16,575,30.26,,1,51.00,,16,,,,32 years 292 days

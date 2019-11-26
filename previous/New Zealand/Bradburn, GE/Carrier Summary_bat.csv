@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,04/11/1990,Pakistan,Arbab Niaz Stadium,30,30,30.00,2/18,2,9.00,,0,,,,24 years 162 days
+2.0,06/11/1990,Pakistan,Jinnah Stadium (Sialkot),0,30,15.00,0/24,2,21.00,,0,,,,24 years 164 days
+3.0,11/12/1990,Australia,Melbourne Cricket Ground,6,36,12.00,1/56,3,32.67,,0,,,,24 years 199 days
+4.0,13/12/1990,England,Sydney Cricket Ground,2,38,9.50,1/44,4,35.50,1,1,,,,24 years 201 days
+5.0,04/12/1992,Sri Lanka,R Premadasa Stadium,6,44,8.80,,4,35.50,,1,,,,26 years 192 days
+6.0,12/12/1992,Sri Lanka,P Sara Oval,11*,55,11.00,0/36,4,44.50,,1,,,,26 years 200 days
+7.0,13/12/1992,Sri Lanka,R Premadasa Stadium,2,57,9.50,0/17,4,48.75,,1,,,,26 years 201 days
+8.0,12/04/2001,Pakistan,Sharjah Cricket Stadium,0*,57,9.50,0/61,4,64.00,,1,,,,34 years 321 days
+9.0,15/04/2001,Pakistan,Sharjah Cricket Stadium,1,58,8.29,0/28,4,71.00,,1,,,,34 years 324 days
+10.0,17/04/2001,Sri Lanka,Sharjah Cricket Stadium,-,58,8.29,2/22,6,51.00,1,2,,,,34 years 326 days
+11.0,25/07/2001,Sri Lanka,R Premadasa Stadium,2*,60,8.57,0/12,6,53.00,,2,,,,35 years 60 days

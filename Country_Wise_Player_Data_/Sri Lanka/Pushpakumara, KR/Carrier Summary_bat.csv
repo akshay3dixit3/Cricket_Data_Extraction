@@ -1,0 +1,34 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,18/02/1994,India,Lal Bahadur Shastri Stadium,3*,3,,0/30,0,,1,1,,,,18 years 212 days
+2.0,22/08/1994,Pakistan,Sinhalese Sports Club Ground,-,3,,1/50,1,80.00,,1,,,,19 years 32 days
+3.0,03/11/1994,Zimbabwe,Harare Sports Club,-,3,,2/51,3,43.67,,1,,,,19 years 105 days
+4.0,05/11/1994,Zimbabwe,Harare Sports Club,-,3,,1/43,4,43.50,,1,,,,19 years 107 days
+5.0,06/11/1994,Zimbabwe,Harare Sports Club,-,3,,3/25,7,28.43,,1,,,,19 years 108 days
+6.0,02/12/1994,Pakistan,Kingsmead,-,3,,0/47,7,35.14,,1,,,,19 years 134 days
+7.0,04/12/1994,Pakistan,SuperSport Park,14*,17,,0/39,7,40.71,1,2,,,,19 years 136 days
+8.0,08/12/1994,New Zealand,Mangaung Oval,-,17,,1/18,8,37.88,,2,,,,19 years 140 days
+9.0,15/12/1994,South Africa,Mangaung Oval,-,17,,0/20,8,40.38,,2,,,,19 years 147 days
+10.0,18/12/1994,New Zealand,Buffalo Park,-,17,,1/50,9,41.44,,2,,,,19 years 150 days
+11.0,26/03/1995,New Zealand,AMI Stadium,3,20,20.00,2/53,11,38.73,,2,,,,19 years 248 days
+12.0,29/03/1995,New Zealand,Seddon Park,-,20,20.00,0/32,11,41.64,1,3,,,,19 years 251 days
+13.0,29/09/1995,Pakistan,Jinnah Stadium (Gujwranwala),-,20,20.00,0/47,11,45.91,,3,,,,20 years 70 days
+14.0,12/01/1996,Australia,WACA Ground,1*,21,21.00,0/41,11,49.64,,3,,,,20 years 175 days
+15.0,14/01/1996,West Indies,WACA Ground,5,26,13.00,0/21,11,51.55,1,4,,,,20 years 177 days
+16.0,16/01/1996,Australia,Melbourne Cricket Ground,-,26,13.00,1/47,12,51.17,,4,,,,20 years 179 days
+17.0,18/01/1996,Australia,Melbourne Cricket Ground,8*,34,17.00,2/34,14,46.29,,4,,,,20 years 181 days
+18.0,20/01/1996,Australia,Sydney Cricket Ground,-,34,17.00,0/39,14,49.07,,4,,,,20 years 183 days
+19.0,02/03/1996,India,Arun Jaitley Stadium,-,34,17.00,1/53,15,49.33,,4,,,,20 years 225 days
+20.0,06/03/1996,Kenya,Asgiriya Stadium,-,34,17.00,0/46,15,52.40,,4,,,,20 years 229 days
+21.0,28/08/1996,India,R Premadasa Stadium,-,34,17.00,0/23,15,53.93,,4,,,,21 years 38 days
+22.0,03/09/1996,Zimbabwe,Sinhalese Sports Club Ground,-,34,17.00,2/27,17,49.18,,4,,,,21 years 44 days
+23.0,08/04/1997,Zimbabwe,Sharjah Cricket Stadium,2*,36,18.00,1/34,18,48.33,,4,,,,21 years 261 days
+24.0,23/08/1997,India,Sinhalese Sports Club Ground,-,36,18.00,1/47,19,48.26,1,5,,,,22 years 33 days
+25.0,22/01/1998,Zimbabwe,Sinhalese Sports Club Ground,-,36,18.00,2/30,21,45.10,,5,,,,22 years 185 days
+26.0,24/01/1998,Zimbabwe,R Premadasa Stadium,-,36,18.00,1/26,22,44.23,,5,,,,22 years 187 days
+27.0,26/01/1998,Zimbabwe,Sinhalese Sports Club Ground,-,36,18.00,0/34,22,45.77,,5,,,,22 years 189 days
+28.0,07/04/1998,Pakistan,Diamond Oval,-,36,18.00,2/56,24,44.29,3,8,,,,22 years 260 days
+29.0,09/04/1998,Pakistan,Boland Park,0,36,12.00,0/46,24,46.21,,8,,,,22 years 262 days
+30.0,18/12/1999,Zimbabwe,Harare Sports Club,-,36,12.00,0/37,24,47.75,,8,,,,24 years 150 days
+31.0,19/12/1999,Zimbabwe,Harare Sports Club,0,36,9.00,0/35,24,49.21,,8,,,,24 years 151 days

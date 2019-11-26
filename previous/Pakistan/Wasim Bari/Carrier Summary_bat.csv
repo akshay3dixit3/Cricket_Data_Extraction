@@ -1,0 +1,54 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,11/02/1973,New Zealand,AMI Stadium,21,21,21.00,,0,,,0,3,,3,24 years 325 days
+2.0,31/08/1974,England,Trent Bridge,-,21,21.00,,0,,,0,1,2,6,26 years 160 days
+3.0,03/09/1974,England,Edgbaston,-,21,21.00,,0,,,0,1,,7,26 years 163 days
+4.0,07/06/1975,Australia,Headingley,2,23,11.50,,0,,,0,2,,9,27 years 75 days
+5.0,11/06/1975,West Indies,Edgbaston,1*,24,12.00,,0,,,0,3,,12,27 years 79 days
+6.0,14/06/1975,Sri Lanka,Trent Bridge,-,24,12.00,,0,,,0,1,,13,27 years 82 days
+7.0,16/10/1976,New Zealand,Jinnah Stadium (Sialkot),2*,26,13.00,,0,,,0,1,,14,28 years 207 days
+8.0,16/03/1977,West Indies,Albion Sports Complex,-,26,13.00,,0,,,0,2,,16,28 years 358 days
+9.0,23/12/1977,England,Zafar Ali (Sahiwal) Stadium,1*,27,13.50,,0,,,0,1,,17,29 years 274 days
+10.0,30/12/1977,England,Jinnah Stadium (Sialkot),1,28,9.33,,0,,,0,,,17,29 years 281 days
+11.0,13/01/1978,England,Gaddafi Stadium,-,28,9.33,,0,,,0,1,,18,29 years 295 days
+12.0,24/05/1978,England,Old Trafford,19,47,11.75,,0,,,0,2,,20,30 years 61 days
+13.0,26/05/1978,England,Kennington Oval,1,48,9.60,,0,,,0,,,20,30 years 63 days
+14.0,01/10/1978,India,Ayub National Stadium,11*,59,11.80,,0,,,0,,,20,30 years 191 days
+15.0,13/10/1978,India,Jinnah Stadium (Sialkot),-,59,11.80,,0,,,0,,,20,30 years 203 days
+16.0,03/11/1978,India,Zafar Ali (Sahiwal) Stadium,-,59,11.80,,0,,,0,1,,21,30 years 224 days
+17.0,09/06/1979,Canada,Headingley,-,59,11.80,,0,,,0,1,1,23,31 years 77 days
+18.0,13/06/1979,Australia,Trent Bridge,-,59,11.80,,0,,,0,2,,25,31 years 81 days
+19.0,16/06/1979,England,Headingley,17,76,12.67,,0,,,0,2,,27,31 years 84 days
+20.0,20/06/1979,West Indies,Kennington Oval,9,85,12.14,,0,,,0,1,,28,31 years 88 days
+21.0,19/12/1980,West Indies,Gaddafi Stadium,-,85,12.14,,0,,,0,1,,29,32 years 271 days
+22.0,19/12/1981,West Indies,WACA Ground,4,89,11.13,,0,,,0,2,,31,33 years 270 days
+23.0,09/01/1982,Australia,Melbourne Cricket Ground,-,89,11.13,,0,,,0,,,31,33 years 291 days
+24.0,12/01/1982,West Indies,Sydney Cricket Ground,-,89,11.13,,0,,,0,,,31,33 years 294 days
+25.0,14/01/1982,Australia,Sydney Cricket Ground,9*,98,12.25,,0,,,0,1,,32,33 years 296 days
+26.0,17/07/1982,England,Trent Bridge,-,98,12.25,,0,,,0,2,,34,34 years 115 days
+27.0,19/07/1982,England,Old Trafford,4,102,11.33,,0,,,0,2,,36,34 years 117 days
+28.0,20/09/1982,Australia,Niaz Stadium,5*,107,11.89,,0,,,0,2,,38,34 years 180 days
+29.0,08/10/1982,Australia,Gaddafi Stadium,-,107,11.89,,0,,,0,,,38,34 years 198 days
+30.0,22/10/1982,Australia,National Stadium (Karachi),-,107,11.89,,0,,,0,,,38,34 years 212 days
+31.0,03/12/1982,India,Jinnah Stadium (Gujwranwala),-,107,11.89,,0,,,0,1,,39,34 years 254 days
+32.0,17/12/1982,India,Ibn-e-Qasim Bagh Stadium,-,107,11.89,,0,,,0,,,39,34 years 268 days
+33.0,31/12/1982,India,Gaddafi Stadium,-,107,11.89,,0,,,0,,,39,34 years 282 days
+34.0,21/01/1983,India,National Stadium (Karachi),-,107,11.89,,0,,,0,,,39,34 years 303 days
+35.0,09/06/1983,Sri Lanka,St Helen's,-,107,11.89,,0,,,0,1,,40,35 years 77 days
+36.0,11/06/1983,New Zealand,Edgbaston,34,141,14.10,,0,,,0,3,1,44,35 years 79 days
+37.0,13/06/1983,England,Lord's,18*,159,15.90,,0,,,0,,,44,35 years 81 days
+38.0,16/06/1983,Sri Lanka,Headingley,-,159,15.90,,0,,,0,1,2,47,35 years 84 days
+39.0,18/06/1983,England,Old Trafford,2*,161,16.10,,0,,,0,,,47,35 years 86 days
+40.0,20/06/1983,New Zealand,Trent Bridge,-,161,16.10,,0,,,0,1,,48,35 years 88 days
+41.0,22/06/1983,West Indies,Kennington Oval,4*,165,16.50,,0,,,0,,,48,35 years 90 days
+42.0,10/09/1983,India,Lal Bahadur Shastri Stadium,18,183,16.64,,0,,,0,1,,49,35 years 170 days
+43.0,02/10/1983,India,Sawai Mansingh Stadium,5*,188,17.09,,0,,,0,1,,50,35 years 192 days
+44.0,10/01/1984,Australia,Sydney Cricket Ground,13,201,16.75,,0,,,0,3,,53,35 years 292 days
+45.0,12/01/1984,West Indies,Melbourne Cricket Ground,-,201,16.75,,0,,,0,,,53,35 years 294 days
+46.0,14/01/1984,West Indies,Brisbane Cricket Ground,10*,211,17.58,,0,,,0,3,,56,35 years 296 days
+47.0,15/01/1984,Australia,Brisbane Cricket Ground,-,211,17.58,,0,,,0,,,56,35 years 297 days
+48.0,19/01/1984,West Indies,Sydney Cricket Ground,6*,217,18.08,,0,,,0,,1,57,35 years 301 days
+49.0,21/01/1984,Australia,Melbourne Cricket Ground,2,219,16.85,,0,,,0,,1,58,35 years 303 days
+50.0,28/01/1984,West Indies,Adelaide Oval,-,219,16.85,,0,,,0,2,1,61,35 years 310 days
+51.0,30/01/1984,Australia,Adelaide Oval,2*,221,17.00,,0,,,0,,1,62,35 years 312 days

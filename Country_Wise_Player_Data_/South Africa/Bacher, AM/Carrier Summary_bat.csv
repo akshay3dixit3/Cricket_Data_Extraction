@@ -1,0 +1,16 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,02/02/1997,India,St George's Park,13,13,13.00,,0,,1,1,,,,23 years 96 days
+2.0,04/02/1997,India,Buffalo Park,14,27,13.50,,0,,,1,,,,23 years 98 days
+3.0,29/03/1997,Australia,Buffalo Park,27,54,18.00,,0,,,1,,,,23 years 151 days
+4.0,31/03/1997,Australia,St George's Park,3,57,14.25,,0,,,1,,,,23 years 153 days
+5.0,05/04/1997,Australia,Kingsmead,45,102,20.40,,0,,,1,,,,23 years 158 days
+6.0,08/04/1997,Australia,Wanderers Stadium,6,108,18.00,,0,,,1,,,,23 years 161 days
+7.0,10/04/1997,Australia,SuperSport Park,15,123,17.57,,0,,,1,,,,23 years 163 days
+8.0,27/01/1998,Australia,Sydney Cricket Ground,45,168,21.00,,0,,2,3,,,,24 years 90 days
+9.0,30/01/2005,England,Wanderers Stadium,4,172,19.11,,0,,,3,,,,31 years 93 days
+10.0,11/02/2005,England,Kingsmead,15,187,18.70,,0,,,3,,,,31 years 105 days
+11.0,25/02/2005,Zimbabwe,Wanderers Stadium,56,243,22.09,0/6,0,,,3,,,,31 years 119 days
+12.0,27/02/2005,Zimbabwe,Kingsmead,18,261,21.75,2/36,2,21.00,1,4,,,,31 years 121 days
+13.0,02/03/2005,Zimbabwe,St George's Park,9,270,20.77,1/22,3,21.33,,4,,,,31 years 124 days

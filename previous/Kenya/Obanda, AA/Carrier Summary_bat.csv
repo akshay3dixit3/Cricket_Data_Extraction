@@ -1,0 +1,52 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,18/10/2007,Canada,Gymkhana Club Ground,30,30,30.00,,0,,,0,,,,19 years 297 days
+2.0,20/10/2007,Canada,Gymkhana Club Ground,85,115,57.50,,0,,,0,,,,19 years 299 days
+3.0,25/10/2007,Bermuda,Gymkhana Club Ground,79*,194,97.00,,0,,2,2,,,,19 years 304 days
+4.0,27/10/2007,Bermuda,Gymkhana Club Ground,-,194,97.00,,0,,,2,,,,19 years 306 days
+5.0,12/08/2008,Scotland,Cambusdoon New Ground,24,218,72.67,,0,,,2,,,,20 years 231 days
+6.0,21/08/2008,Netherlands,Hazelaarweg,20,238,59.50,,0,,1,3,,,,20 years 240 days
+7.0,24/08/2008,Ireland,Civil Service Cricket Club,16,254,50.80,,0,,,3,,,,20 years 243 days
+8.0,25/08/2008,Ireland,Civil Service Cricket Club,-,254,50.80,,0,,,3,,,,20 years 244 days
+9.0,19/10/2008,Zimbabwe,Gymkhana Club Ground,71,325,54.17,,0,,1,4,,,,20 years 299 days
+10.0,31/10/2008,South Africa,Mangaung Oval,38,363,51.86,,0,,1,5,,,,20 years 311 days
+11.0,02/11/2008,South Africa,Diamond Oval,23,386,48.25,,0,,,5,,,,20 years 313 days
+12.0,27/01/2009,Zimbabwe,Mombasa Sports Ground,6,392,43.56,,0,,1,6,,,,21 years 33 days
+13.0,29/01/2009,Zimbabwe,Mombasa Sports Ground,2,394,39.40,,0,,,6,,,,21 years 35 days
+14.0,31/01/2009,Zimbabwe,Gymkhana Club Ground,49,443,40.27,,0,,,6,,,,21 years 37 days
+15.0,01/02/2009,Zimbabwe,Gymkhana Club Ground,96*,539,49.00,,0,,,6,,,,21 years 38 days
+16.0,04/02/2009,Zimbabwe,Gymkhana Club Ground,3,542,45.17,,0,,,6,,,,21 years 41 days
+17.0,06/04/2009,Bermuda,Senwes Park,15,557,42.85,,0,,1,7,,,,21 years 102 days
+18.0,19/04/2009,Netherlands,Senwes Park,0,557,39.79,,0,,,7,,,,21 years 115 days
+19.0,09/07/2009,Ireland,Castle Avenue,25,582,38.80,,0,,,7,,,,21 years 196 days
+20.0,11/07/2009,Ireland,Castle Avenue,59,641,40.06,,0,,,7,,,,21 years 198 days
+21.0,12/07/2009,Ireland,Castle Avenue,41,682,40.12,,0,,,7,,,,21 years 199 days
+22.0,19/08/2009,Canada,Maple Leaf North - West Ground,5,687,38.17,,0,,,7,,,,21 years 237 days
+23.0,22/08/2009,Canada,Maple Leaf North - West Ground,-,687,38.17,,0,,,7,,,,21 years 240 days
+24.0,12/10/2009,Zimbabwe,Harare Sports Club,19,706,37.16,,0,,1,8,,,,21 years 291 days
+25.0,13/10/2009,Zimbabwe,Harare Sports Club,6,712,35.60,,0,,1,9,,,,21 years 292 days
+26.0,15/10/2009,Zimbabwe,Harare Sports Club,65,777,37.00,,0,,,9,,,,21 years 294 days
+27.0,17/10/2009,Zimbabwe,Harare Sports Club,33,810,36.82,,0,,,9,,,,21 years 296 days
+28.0,18/10/2009,Zimbabwe,Harare Sports Club,4,814,35.39,,0,,,9,,,,21 years 297 days
+29.0,16/02/2010,Netherlands,Gymkhana Club Ground,61,875,36.46,,0,,1,10,,,,22 years 53 days
+30.0,18/02/2010,Netherlands,Gymkhana Club Ground,15,890,35.60,,0,,1,11,,,,22 years 55 days
+31.0,01/07/2010,Ireland,Hazelaarweg,40,930,35.77,,0,,1,12,,,,22 years 188 days
+32.0,03/07/2010,Netherlands,Sportpark Westvliet,10,940,34.81,,0,,,12,,,,22 years 190 days
+33.0,05/07/2010,Afghanistan,VRA Ground,3,943,33.68,,0,,,12,,,,22 years 192 days
+34.0,07/07/2010,Scotland,Hazelaarweg,39,982,33.86,,0,,,12,,,,22 years 194 days
+35.0,09/07/2010,Canada,Sportpark Thurlede,14,996,33.20,,0,,,12,,,,22 years 196 days
+36.0,10/07/2010,Canada,Sportpark Thurlede,21,1017,32.81,,0,,1,13,,,,22 years 197 days
+37.0,11/10/2010,Afghanistan,Gymkhana Club Ground,77,1094,34.19,,0,,,13,,,,22 years 290 days
+38.0,20/02/2011,New Zealand,MA Chidambaram Stadium,6,1100,33.33,,0,,,13,,,,23 years 57 days
+39.0,13/03/2011,Australia,M Chinnaswamy Stadium,14,1114,32.76,,0,,,13,,,,23 years 78 days
+40.0,20/03/2011,Zimbabwe,Eden Gardens,23,1137,32.49,,0,,,13,,,,23 years 85 days
+41.0,18/02/2012,Ireland,Mombasa Sports Ground,-,1137,32.49,,0,,1,14,,,,24 years 55 days
+42.0,20/02/2012,Ireland,Mombasa Sports Ground,14,1151,31.97,,0,,,14,,,,24 years 57 days
+43.0,11/03/2013,Canada,ICC Global Cricket Academy,26,1177,31.81,,0,,,14,,,,25 years 76 days
+44.0,13/03/2013,Canada,ICC Global Cricket Academy,29,1206,31.74,,0,,,14,,,,25 years 78 days
+45.0,30/06/2013,Scotland,Mannofield Park,0,1206,30.92,,0,,1,15,,,,25 years 187 days
+46.0,02/07/2013,Scotland,Mannofield Park,3,1209,30.23,,0,,,15,,,,25 years 189 days
+47.0,02/10/2013,Afghanistan,Sharjah Cricket Stadium,3,1212,29.56,,0,,,15,,,,25 years 281 days
+48.0,23/01/2014,Netherlands,Bert Sutcliffe Oval,5,1217,28.98,,0,,,15,,,,26 years 29 days
+49.0,30/01/2014,Scotland,Hagley Oval,89,1306,30.37,,0,,,15,,,,26 years 36 days

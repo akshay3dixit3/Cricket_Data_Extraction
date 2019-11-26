@@ -1,0 +1,67 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,23/05/1996,India,Kennington Oval,40,40,40.00,,0,,,0,,,,26 years 269 days
+2.0,25/05/1996,India,Headingley,-,40,40.00,0/23,0,,,0,,,,26 years 271 days
+3.0,22/05/1997,Australia,Headingley,-,40,40.00,2/21,2,22.00,1,1,,,,27 years 268 days
+4.0,24/05/1997,Australia,Kennington Oval,-,40,40.00,0/40,2,42.00,,1,,,,27 years 270 days
+5.0,25/05/1997,Australia,Lord's,-,40,40.00,2/47,4,32.75,,1,,,,27 years 271 days
+6.0,11/12/1997,India,Sharjah Cricket Stadium,9,49,24.50,2/43,6,29.00,,1,,,,28 years 106 days
+7.0,13/12/1997,West Indies,Sharjah Cricket Stadium,28*,77,38.50,1/28,7,28.86,,1,,,,28 years 108 days
+8.0,15/12/1997,Pakistan,Sharjah Cricket Stadium,6,83,27.67,1/39,8,30.13,,1,,,,28 years 110 days
+9.0,19/12/1997,West Indies,Sharjah Cricket Stadium,4,87,21.75,1/26,9,29.67,,1,,,,28 years 114 days
+10.0,29/03/1998,West Indies,Kensington Oval,20,107,21.40,2/37,11,27.64,,1,,,,28 years 214 days
+11.0,01/04/1998,West Indies,Kensington Oval,45,152,25.33,0/29,11,30.27,,1,,,,28 years 217 days
+12.0,04/04/1998,West Indies,Arnos Vale Ground,23,175,25.00,1/41,12,31.17,,1,,,,28 years 220 days
+13.0,05/04/1998,West Indies,Arnos Vale Ground,17,192,24.00,1/19,13,30.23,1,2,,,,28 years 221 days
+14.0,08/04/1998,West Indies,Queen's Park Oval,26,218,24.22,0/41,13,33.38,,2,,,,28 years 224 days
+15.0,21/05/1998,South Africa,Kennington Oval,1,219,21.90,0/38,13,36.31,,2,,,,28 years 267 days
+16.0,23/05/1998,South Africa,Old Trafford,12,231,21.00,2/34,15,33.73,,2,,,,28 years 269 days
+17.0,24/05/1998,South Africa,Headingley,-,231,21.00,3/44,18,30.56,,2,,,,28 years 270 days
+18.0,25/10/1998,South Africa,Bangabandhu National Stadium,44,275,22.92,0/51,18,33.39,,2,,,,29 years 58 days
+19.0,10/01/1999,Australia,Brisbane Cricket Ground,14,289,22.23,1/16,19,32.47,,2,,,,29 years 135 days
+20.0,11/01/1999,Sri Lanka,Brisbane Cricket Ground,1,290,20.71,1/33,20,32.50,,2,,,,29 years 136 days
+21.0,15/01/1999,Australia,Melbourne Cricket Ground,21,311,20.73,0/25,20,33.75,,2,,,,29 years 140 days
+22.0,17/01/1999,Australia,Sydney Cricket Ground,-,311,20.73,0/52,20,36.35,,2,,,,29 years 142 days
+23.0,19/01/1999,Sri Lanka,Melbourne Cricket Ground,-,311,20.73,0/32,20,37.95,,2,,,,29 years 144 days
+24.0,23/01/1999,Sri Lanka,Adelaide Oval,-,311,20.73,0/48,20,40.35,,2,,,,29 years 148 days
+25.0,26/01/1999,Australia,Adelaide Oval,4,315,19.69,1/46,21,40.62,,2,,,,29 years 151 days
+26.0,29/01/1999,Sri Lanka,WACA Ground,16,331,19.47,5/32,26,34.04,,2,,,,29 years 154 days
+27.0,03/02/1999,Sri Lanka,Sydney Cricket Ground,0,331,18.39,0/30,26,35.19,,2,,,,29 years 159 days
+28.0,05/02/1999,Australia,Sydney Cricket Ground,33,364,19.16,1/46,27,35.59,1,3,,,,29 years 161 days
+29.0,10/02/1999,Australia,Sydney Cricket Ground,4,368,18.40,3/45,30,33.53,,3,,,,29 years 166 days
+30.0,13/02/1999,Australia,Melbourne Cricket Ground,12,380,18.10,0/41,30,34.90,,3,,,,29 years 169 days
+31.0,07/04/1999,Pakistan,Sharjah Cricket Stadium,11,391,17.77,1/52,31,35.45,,3,,,,29 years 222 days
+32.0,09/04/1999,India,Sharjah Cricket Stadium,7,398,17.30,0/36,31,36.61,,3,,,,29 years 224 days
+33.0,11/04/1999,India,Sharjah Cricket Stadium,7,405,16.88,1/41,32,36.75,,3,,,,29 years 226 days
+34.0,12/04/1999,Pakistan,Sharjah Cricket Stadium,36,441,17.64,4/30,36,33.50,,3,,,,29 years 227 days
+35.0,14/05/1999,Sri Lanka,Lord's,-,441,17.64,2/31,38,32.55,,3,,,,29 years 259 days
+36.0,18/05/1999,Kenya,St Lawrence Ground,-,441,17.64,2/49,40,32.15,,3,,,,29 years 263 days
+37.0,22/05/1999,South Africa,Kennington Oval,5,446,17.15,2/48,42,31.76,,3,,,,29 years 267 days
+38.0,25/05/1999,Zimbabwe,Trent Bridge,-,446,17.15,2/35,44,31.11,,3,,,,29 years 270 days
+39.0,29/05/1999,India,Edgbaston,0,446,16.52,2/28,46,30.37,1,4,,,,29 years 274 days
+40.0,23/01/2000,South Africa,Mangaung Oval,-,446,16.52,1/22,47,30.19,,4,,,,30 years 148 days
+41.0,26/01/2000,South Africa,Newlands,25,471,16.82,0/33,47,30.89,1,5,,,,30 years 151 days
+42.0,28/01/2000,Zimbabwe,Newlands,2,473,16.31,1/35,48,30.98,,5,,,,30 years 153 days
+43.0,30/01/2000,Zimbabwe,Diamond Oval,-,473,16.31,5/15,53,28.34,,5,,,,30 years 155 days
+44.0,04/02/2000,South Africa,Buffalo Park,29*,502,17.31,1/53,54,28.80,1,6,,,,30 years 160 days
+45.0,13/02/2000,South Africa,Wanderers Stadium,4,506,16.87,0/24,54,29.24,,6,,,,30 years 169 days
+46.0,16/02/2000,Zimbabwe,Queens Sports Club,36*,542,18.07,0/37,54,29.93,,6,,,,30 years 172 days
+47.0,18/02/2000,Zimbabwe,Queens Sports Club,32,574,18.52,2/27,56,29.34,,6,,,,30 years 174 days
+48.0,20/02/2000,Zimbabwe,Harare Sports Club,0,574,17.94,0/28,56,29.84,1,7,,,,30 years 176 days
+49.0,08/07/2000,Zimbabwe,Kennington Oval,32,606,18.36,1/44,57,30.09,,7,,,,30 years 315 days
+50.0,09/07/2000,West Indies,Lord's,17,623,18.32,,57,30.09,,7,,,,30 years 316 days
+51.0,13/07/2000,Zimbabwe,Old Trafford,-,623,18.32,1/19,58,29.90,,7,,,,30 years 320 days
+52.0,15/07/2000,West Indies,Riverside Ground,-,623,18.32,1/31,59,29.92,,7,,,,30 years 322 days
+53.0,18/07/2000,Zimbabwe,Edgbaston,9*,632,18.59,0/31,59,30.44,,7,,,,30 years 325 days
+54.0,20/07/2000,West Indies,Trent Bridge,16,648,18.51,2/37,61,30.05,1,8,,,,30 years 327 days
+55.0,22/07/2000,Zimbabwe,Lord's,-,648,18.51,0/41,61,30.72,,8,,,,30 years 329 days
+56.0,05/10/2000,Bangladesh,Gymkhana Club Ground,-,648,18.51,3/48,64,30.03,,8,,,,31 years 39 days
+57.0,10/10/2000,South Africa,Gymkhana Club Ground,10,658,18.28,0/41,64,30.67,,8,,,,31 years 44 days
+58.0,24/10/2000,Pakistan,National Stadium (Karachi),-,658,18.28,2/49,66,30.48,,8,,,,31 years 58 days
+59.0,27/10/2000,Pakistan,Gaddafi Stadium,3,661,17.86,0/23,66,30.83,,8,,,,31 years 61 days
+60.0,30/10/2000,Pakistan,Rawalpindi Cricket Stadium,23,684,18.00,0/9,66,30.97,,8,,,,31 years 64 days
+61.0,27/03/2001,Sri Lanka,Sinhalese Sports Club Ground,28,712,18.26,0/26,66,31.36,,8,,,,31 years 212 days
+62.0,07/06/2001,Pakistan,Edgbaston,4,716,17.90,0/35,66,31.89,1,9,,,,31 years 284 days
+63.0,10/06/2001,Australia,County Ground (Bristol),-,716,17.90,0/60,66,32.80,,9,,,,31 years 287 days
+64.0,12/06/2001,Pakistan,Lord's,0,716,17.46,1/32,67,32.79,,9,,,,31 years 289 days

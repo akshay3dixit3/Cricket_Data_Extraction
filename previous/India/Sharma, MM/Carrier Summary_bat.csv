@@ -1,0 +1,29 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,01/08/2013,Zimbabwe,Queens Sports Club,-,0,,2/26,2,13.00,,0,,,,24 years 317 days
+2.0,03/08/2013,Zimbabwe,Queens Sports Club,-,0,,1/25,3,17.00,1,1,,,,24 years 319 days
+3.0,24/11/2013,West Indies,Dr YS Rajasekhara Reddy Cricket Stadium,-,0,,1/48,4,24.75,,1,,,,25 years 66 days
+4.0,27/11/2013,West Indies,Green Park,-,0,,0/47,4,36.50,,1,,,,25 years 69 days
+5.0,05/12/2013,South Africa,Wanderers Stadium,0*,0,,0/82,4,57.00,,1,,,,25 years 77 days
+6.0,15/06/2014,Bangladesh,Shere Bangla National Stadium,-,0,,0/23,4,62.75,,1,,,,25 years 269 days
+7.0,17/06/2014,Bangladesh,Shere Bangla National Stadium,4*,4,,4/22,8,34.13,,1,,,,25 years 271 days
+8.0,19/06/2014,Bangladesh,Shere Bangla National Stadium,1,5,5.00,,8,34.13,,1,,,,25 years 273 days
+9.0,27/08/2014,England,Sophia Gardens,-,5,5.00,0/18,8,36.38,,1,,,,25 years 342 days
+10.0,30/08/2014,England,Trent Bridge,-,5,5.00,0/17,8,38.50,1,2,,,,25 years 345 days
+11.0,08/10/2014,West Indies,Nehru Stadium (Kochi),8,13,6.50,0/61,8,46.13,,2,,,,26 years 19 days
+12.0,30/01/2015,England,WACA Ground,7*,20,10.00,2/36,10,40.50,,2,,,,26 years 133 days
+13.0,15/02/2015,Pakistan,Adelaide Oval,-,20,10.00,2/35,12,36.67,,2,,,,26 years 149 days
+14.0,22/02/2015,South Africa,Melbourne Cricket Ground,-,20,10.00,2/31,14,33.64,,2,,,,26 years 156 days
+15.0,28/02/2015,United Arab Emirates,WACA Ground,-,20,10.00,1/16,15,32.47,,2,,,,26 years 162 days
+16.0,06/03/2015,West Indies,WACA Ground,-,20,10.00,1/35,16,32.63,1,3,,,,26 years 168 days
+17.0,10/03/2015,Ireland,Seddon Park,-,20,10.00,1/38,17,32.94,,3,,,,26 years 172 days
+18.0,14/03/2015,Zimbabwe,Eden Park,-,20,10.00,3/48,20,30.40,1,4,,,,26 years 176 days
+19.0,19/03/2015,Bangladesh,Melbourne Cricket Ground,-,20,10.00,1/36,21,30.67,,4,,,,26 years 181 days
+20.0,26/03/2015,Australia,Sydney Cricket Ground,0,20,6.67,2/75,23,31.26,,4,,,,26 years 188 days
+21.0,18/06/2015,Bangladesh,Shere Bangla National Stadium,11,31,7.75,1/53,24,32.17,1,5,,,,26 years 272 days
+22.0,14/07/2015,Zimbabwe,Harare Sports Club,-,31,7.75,2/33,26,30.96,,5,,,,26 years 298 days
+23.0,14/10/2015,South Africa,Holkar Cricket Stadium,0*,31,7.75,1/21,27,30.59,1,6,,,,27 years 25 days
+24.0,18/10/2015,South Africa,Saurashtra Cricket Association Stadium,-,31,7.75,2/62,29,30.62,,6,,,,27 years 29 days
+25.0,22/10/2015,South Africa,MA Chidambaram Stadium,-,31,7.75,1/48,30,31.20,,6,,,,27 years 33 days
+26.0,25/10/2015,South Africa,Wankhede Stadium,0*,31,7.75,1/84,31,32.90,,6,,,,27 years 36 days

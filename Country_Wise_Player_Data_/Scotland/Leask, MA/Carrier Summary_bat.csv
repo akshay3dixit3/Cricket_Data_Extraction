@@ -1,0 +1,37 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,23/01/2014,Canada,Hagley Oval,12,12,12.00,,0,,,0,,,,23 years 86 days
+2.0,30/01/2014,Kenya,Hagley Oval,5,17,8.50,,0,,,0,,,,23 years 93 days
+3.0,09/05/2014,England,Mannofield Park,42,59,19.67,,0,,,0,,,,23 years 192 days
+4.0,08/09/2014,Ireland,The Village,50,109,27.25,0/7,0,,,0,,,,23 years 314 days
+5.0,10/09/2014,Ireland,The Village,10,119,23.80,1/26,1,33.00,,0,,,,23 years 316 days
+6.0,12/09/2014,Ireland,The Village,-,119,23.80,0/32,1,65.00,,0,,,,23 years 318 days
+7.0,08/01/2015,Afghanistan,ICC Global Cricket Academy,19,138,23.00,0/51,1,116.00,,0,,,,24 years 71 days
+8.0,12/01/2015,Ireland,Dubai International Cricket Stadium,16,154,22.00,1/40,2,78.00,1,1,,,,24 years 75 days
+9.0,11/03/2015,Sri Lanka,Bellerive Oval,2,156,19.50,0/63,2,109.50,1,2,,,,24 years 133 days
+10.0,14/03/2015,Australia,Bellerive Oval,23*,179,22.38,0/7,2,113.00,1,3,,,,24 years 136 days
+11.0,04/07/2016,Afghanistan,Grange Cricket Club,-,179,22.38,0/18,2,122.00,,3,,,,25 years 248 days
+12.0,06/07/2016,Afghanistan,Grange Cricket Club,3,182,20.22,0/17,2,130.50,,3,,,,25 years 250 days
+13.0,14/08/2016,United Arab Emirates,Grange Cricket Club,10,192,19.20,1/54,3,105.00,1,4,,,,25 years 289 days
+14.0,16/08/2016,United Arab Emirates,Grange Cricket Club,-,192,19.20,0/36,3,117.00,1,5,,,,25 years 291 days
+15.0,10/09/2016,Hong Kong,Grange Cricket Club,12,204,18.55,0/23,3,124.67,1,6,,,,25 years 316 days
+16.0,24/01/2017,United Arab Emirates,Dubai International Cricket Stadium,11,215,17.92,0/13,3,129.00,,6,,,,26 years 87 days
+17.0,15/06/2017,Zimbabwe,Grange Cricket Club,59*,274,22.83,0/42,3,143.00,,6,,,,26 years 229 days
+18.0,17/06/2017,Zimbabwe,Grange Cricket Club,11*,285,23.75,0/33,3,154.00,,6,,,,26 years 231 days
+19.0,05/10/2017,Papua New Guinea,Amini Park,2,287,22.08,2/26,5,97.60,3,9,,,,26 years 341 days
+20.0,08/10/2017,Papua New Guinea,Amini Park,14,301,21.50,0/28,5,103.20,,9,,,,26 years 344 days
+21.0,24/11/2017,Papua New Guinea,Dubai International Cricket Stadium,-,301,21.50,1/27,6,90.50,,9,,,,27 years 26 days
+22.0,25/11/2017,Papua New Guinea,Dubai International Cricket Stadium,-,301,21.50,2/42,8,73.13,2,11,,,,27 years 27 days
+23.0,18/01/2018,Ireland,ICC Global Cricket Academy,59,360,24.00,0/49,8,79.25,,11,,,,27 years 81 days
+24.0,23/01/2018,United Arab Emirates,ICC Global Cricket Academy,15,375,23.44,0/43,8,84.63,1,12,,,,27 years 86 days
+25.0,04/03/2018,Afghanistan,Bulawayo Athletic Club,-,375,23.44,0/14,8,86.38,1,13,,,,27 years 126 days
+26.0,12/03/2018,Zimbabwe,Queens Sports Club,28*,403,25.19,4/37,12,60.67,,13,,,,27 years 134 days
+27.0,15/03/2018,United Arab Emirates,Queens Sports Club,6,409,24.06,0/28,12,63.00,1,14,,,,27 years 137 days
+28.0,18/03/2018,Ireland,Harare Sports Club,2,411,22.83,0/39,12,66.25,,14,,,,27 years 140 days
+29.0,21/03/2018,West Indies,Harare Sports Club,14*,425,23.61,2/36,14,59.36,,14,,,,27 years 143 days
+30.0,10/06/2018,England,Grange Cricket Club,10*,435,24.17,0/50,14,62.93,,14,,,,27 years 224 days
+31.0,21/05/2019,Sri Lanka,Grange Cricket Club,8,443,23.32,1/25,15,60.40,1,15,,,,28 years 204 days
+32.0,17/08/2019,Papua New Guinea,Mannofield Park,19,462,23.10,3/38,18,52.44,,15,,,,28 years 292 days
+33.0,18/08/2019,Oman,Mannofield Park,0,462,22.00,0/33,18,54.28,1,16,,,,28 years 293 days
+34.0,20/08/2019,Papua New Guinea,Mannofield Park,12,474,21.55,1/43,19,53.68,,16,,,,28 years 295 days

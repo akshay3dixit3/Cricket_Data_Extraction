@@ -1,0 +1,25 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,07/02/2018,India,Newlands,6,6,6.00,0/47,0,,1,1,,,,21 years 314 days
+2.0,10/02/2018,India,Wanderers Stadium,-,6,6.00,2/52,2,49.50,,1,,,,21 years 317 days
+3.0,13/02/2018,India,St George's Park,4*,10,10.00,4/51,6,25.00,,1,,,,21 years 320 days
+4.0,16/02/2018,India,SuperSport Park,0*,10,10.00,2/54,8,25.50,,1,,,,21 years 323 days
+5.0,29/07/2018,Sri Lanka,Rangiri Dambulla International Stadium,-,10,10.00,1/29,9,25.89,,1,,,,22 years 121 days
+6.0,01/08/2018,Sri Lanka,Rangiri Dambulla International Stadium,-,10,10.00,3/50,12,23.58,1,2,,,,22 years 124 days
+7.0,05/08/2018,Sri Lanka,Pallekele International Cricket Stadium,-,10,10.00,4/57,16,21.25,2,4,,,,22 years 128 days
+8.0,08/08/2018,Sri Lanka,Pallekele International Cricket Stadium,1*,11,11.00,2/65,18,22.50,,4,,,,22 years 131 days
+9.0,30/09/2018,Zimbabwe,Diamond Oval,-,11,11.00,3/19,21,20.19,,4,,,,22 years 184 days
+10.0,03/10/2018,Zimbabwe,Mangaung Oval,4*,15,15.00,1/26,22,20.45,,4,,,,22 years 187 days
+11.0,04/11/2018,Australia,Optus Stadium,-,15,15.00,2/26,24,19.83,,4,,,,22 years 219 days
+12.0,09/11/2018,Australia,Adelaide Oval,19*,34,34.00,1/67,25,21.72,,4,,,,22 years 224 days
+13.0,11/11/2018,Australia,Bellerive Oval,-,34,34.00,1/56,26,23.04,,4,,,,22 years 226 days
+14.0,03/03/2019,Sri Lanka,Wanderers Stadium,-,34,34.00,3/60,29,22.72,1,5,,,,22 years 338 days
+15.0,06/03/2019,Sri Lanka,SuperSport Park,6,40,20.00,2/14,31,21.71,,5,,,,22 years 341 days
+16.0,10/03/2019,Sri Lanka,Kingsmead,-,40,20.00,1/25,32,21.81,,5,,,,22 years 345 days
+17.0,13/03/2019,Sri Lanka,St George's Park,-,40,20.00,1/22,33,21.82,,5,,,,22 years 348 days
+18.0,16/03/2019,Sri Lanka,Newlands,-,40,20.00,1/16,34,21.65,,5,,,,22 years 351 days
+19.0,30/05/2019,England,Kennington Oval,6*,46,23.00,3/66,37,21.68,,5,,,,23 years 61 days
+20.0,02/06/2019,Bangladesh,Kennington Oval,-,46,23.00,0/34,37,22.59,,5,,,,23 years 64 days
+21.0,19/06/2019,New Zealand,Edgbaston,-,46,23.00,1/47,38,23.24,,5,,,,23 years 81 days
+22.0,23/06/2019,Pakistan,Lord's,1,47,15.67,3/64,41,23.10,1,6,,,,23 years 85 days

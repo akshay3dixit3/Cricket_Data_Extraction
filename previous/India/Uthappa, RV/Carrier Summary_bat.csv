@@ -1,0 +1,49 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,15/04/2006,England,Holkar Cricket Stadium,86,86,86.00,,0,,1,1,,,,20 years 155 days
+2.0,18/04/2006,Pakistan,Sheikh Zayed Stadium,12,98,49.00,,0,,,1,,,,20 years 158 days
+3.0,28/05/2006,West Indies,Queen's Park Oval,0,98,32.67,,0,,,1,,,,20 years 198 days
+4.0,27/01/2007,West Indies,MA Chidambaram Stadium,70,168,42.00,,0,,2,3,,,,21 years 76 days
+5.0,31/01/2007,West Indies,Reliance Stadium,28,196,39.20,,0,,1,4,,,,21 years 80 days
+6.0,08/02/2007,Sri Lanka,Eden Gardens,-,196,39.20,,0,,,4,,,,21 years 88 days
+7.0,11/02/2007,Sri Lanka,Madhavrao Scindia Cricket Ground,7,203,33.83,,0,,,4,,,,21 years 91 days
+8.0,17/02/2007,Sri Lanka,Dr YS Rajasekhara Reddy Cricket Stadium,52,255,36.43,,0,,3,7,,,,21 years 97 days
+9.0,17/03/2007,Bangladesh,Queen's Park Oval,9,264,33.00,,0,,,7,,,,21 years 125 days
+10.0,19/03/2007,Bermuda,Queen's Park Oval,3,267,29.67,,0,,1,8,,,,21 years 127 days
+11.0,23/03/2007,Sri Lanka,Queen's Park Oval,18,285,28.50,,0,,,8,,,,21 years 131 days
+12.0,16/08/2007,Scotland,Titwood,55,340,30.91,,0,,,8,,,,21 years 277 days
+13.0,05/09/2007,England,Kennington Oval,47*,387,35.18,,0,,,8,,,,21 years 297 days
+14.0,08/09/2007,England,Lord's,22,409,34.08,,0,,,8,,,,21 years 300 days
+15.0,02/10/2007,Australia,Nehru Stadium (Kochi),41,450,34.62,,0,,,8,,,,21 years 324 days
+16.0,05/10/2007,Australia,Rajiv Gandhi International Stadium,0,450,32.14,,0,,1,9,,,,21 years 327 days
+17.0,08/10/2007,Australia,Sector 16 Stadium,30*,480,34.29,,0,,,9,,,,21 years 330 days
+18.0,11/10/2007,Australia,Reliance Stadium,5,485,32.33,,0,,,9,,,,21 years 333 days
+19.0,14/10/2007,Australia,Vidarbha Cricket Association Ground,44,529,33.06,,0,,1,10,,,,21 years 336 days
+20.0,17/10/2007,Australia,Wankhede Stadium,47,576,33.88,,0,,1,11,,,,21 years 339 days
+21.0,05/11/2007,Pakistan,Nehru Stadium (Guwahati),11*,587,34.53,,0,,,11,,,,21 years 358 days
+22.0,08/11/2007,Pakistan,Punjab Cricket Association IS Bindra Stadium,0,587,32.61,,0,,,11,,,,21 years 361 days
+23.0,11/11/2007,Pakistan,Green Park,19,606,31.89,,0,,,11,,,,22 years 364 days
+24.0,15/11/2007,Pakistan,Captain Roop Singh Stadium,-,606,31.89,,0,,,11,,,,22 years 3 days
+25.0,18/11/2007,Pakistan,Sawai Mansingh Stadium,1,607,30.35,,0,,,11,,,,22 years 6 days
+26.0,03/02/2008,Australia,Brisbane Cricket Ground,5,612,29.14,,0,,,11,,,,22 years 83 days
+27.0,04/02/2008,Sri Lanka,Brisbane Cricket Ground,-,612,29.14,,0,,,11,,,,22 years 84 days
+28.0,10/02/2008,Australia,Melbourne Cricket Ground,-,612,29.14,,0,,1,12,,,,22 years 90 days
+29.0,12/02/2008,Sri Lanka,Manuka Oval,0*,612,29.14,,0,,,12,,,,22 years 92 days
+30.0,17/02/2008,Australia,Adelaide Oval,18,630,28.64,,0,,1,13,,,,22 years 97 days
+31.0,19/02/2008,Sri Lanka,Adelaide Oval,10,640,27.83,,0,,1,14,,,,22 years 99 days
+32.0,24/02/2008,Australia,Sydney Cricket Ground,51,691,28.79,,0,,,14,,,,22 years 104 days
+33.0,26/02/2008,Sri Lanka,Bellerive Oval,11,702,28.08,,0,,1,15,,,,22 years 106 days
+34.0,02/03/2008,Australia,Sydney Cricket Ground,17,719,27.65,,0,,,15,,,,22 years 111 days
+35.0,04/03/2008,Australia,Brisbane Cricket Ground,30,749,27.74,,0,,,15,,,,22 years 113 days
+36.0,25/06/2008,Hong Kong,National Stadium (Karachi),15*,764,28.30,,0,,,15,,,,22 years 226 days
+37.0,28/06/2008,Bangladesh,National Stadium (Karachi),2,766,27.36,,0,,,15,,,,22 years 229 days
+38.0,06/07/2008,Sri Lanka,National Stadium (Karachi),20,786,27.10,,0,,,15,,,,22 years 237 days
+39.0,15/06/2014,Bangladesh,Shere Bangla National Stadium,50,836,27.87,0/0,0,,,15,,,,28 years 216 days
+40.0,17/06/2014,Bangladesh,Shere Bangla National Stadium,14,850,27.42,,0,,,15,,,,28 years 218 days
+41.0,19/06/2014,Bangladesh,Shere Bangla National Stadium,5,855,26.72,,0,,,15,,,,28 years 220 days
+42.0,13/11/2014,Sri Lanka,Eden Gardens,16*,871,27.22,,0,,,15,1,1,2,29 years 1 days
+43.0,16/11/2014,Sri Lanka,JSCA International Stadium Complex,19,890,26.97,,0,,,15,,,2,29 years 4 days
+44.0,10/07/2015,Zimbabwe,Harare Sports Club,0,890,26.18,,0,,,15,,,2,29 years 240 days
+45.0,12/07/2015,Zimbabwe,Harare Sports Club,13,903,25.80,,0,,,15,2,,4,29 years 242 days
+46.0,14/07/2015,Zimbabwe,Harare Sports Club,31,934,25.94,,0,,,15,1,1,6,29 years 244 days

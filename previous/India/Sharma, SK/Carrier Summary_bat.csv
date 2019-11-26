@@ -1,0 +1,26 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,02/01/1988,West Indies,Eden Gardens,0,0,0.00,1/29,1,29.00,,0,,,,22 years 129 days
+2.0,05/01/1988,West Indies,Madhavrao Scindia Cricket Ground,-,0,0.00,1/31,2,30.00,,0,,,,22 years 132 days
+3.0,07/01/1988,West Indies,Sardar Patel Stadium,1*,1,1.00,0/24,2,42.00,,0,,,,22 years 134 days
+4.0,22/01/1988,West Indies,Captain Roop Singh Stadium,1,2,1.00,1/42,3,42.00,2,2,,,,22 years 149 days
+5.0,25/01/1988,West Indies,University Stadium,2,4,1.33,0/47,3,57.67,,2,,,,22 years 152 days
+6.0,01/04/1988,New Zealand,Sharjah Cricket Stadium,-,4,1.33,1/21,4,48.50,1,3,,,,22 years 219 days
+7.0,16/10/1988,West Indies,Sharjah Cricket Stadium,-,4,1.33,5/26,9,24.44,,3,,,,23 years 52 days
+8.0,19/10/1988,Pakistan,Sharjah Cricket Stadium,8*,12,4.00,1/51,10,27.10,,3,,,,23 years 55 days
+9.0,21/10/1988,West Indies,Sharjah Cricket Stadium,13*,25,8.33,2/25,12,24.67,,3,,,,23 years 57 days
+10.0,27/10/1988,Bangladesh,MA Aziz Stadium,-,25,8.33,1/22,13,24.46,,3,,,,23 years 63 days
+11.0,29/10/1988,Sri Lanka,Bangabandhu National Stadium,28,53,13.25,1/44,14,25.86,,3,,,,23 years 65 days
+12.0,31/10/1988,Pakistan,Bangabandhu National Stadium,-,53,13.25,0/26,14,27.71,,3,,,,23 years 67 days
+13.0,04/11/1988,Sri Lanka,Bangabandhu National Stadium,-,53,13.25,0/20,14,29.14,,3,,,,23 years 71 days
+14.0,10/12/1988,New Zealand,Indira Priyadarshini Stadium,-,53,13.25,0/13,14,30.07,2,5,,,,23 years 107 days
+15.0,12/12/1988,New Zealand,Barabati Stadium,-,53,13.25,0/19,14,31.43,1,6,,,,23 years 109 days
+16.0,15/12/1988,New Zealand,Nehru Stadium (Indore),-,53,13.25,2/22,16,28.88,,6,,,,23 years 112 days
+17.0,17/12/1988,New Zealand,Moti Bagh Stadium,0,53,10.60,0/74,16,33.50,,6,,,,23 years 114 days
+18.0,07/03/1989,West Indies,Kensington Oval,6,59,9.83,0/55,16,36.94,,6,,,,23 years 194 days
+19.0,09/03/1989,West Indies,Queen's Park Oval,14,73,10.43,,16,36.94,1,7,,,,23 years 196 days
+20.0,25/04/1990,Sri Lanka,Sharjah Cricket Stadium,2*,75,10.71,2/63,18,36.33,,7,,,,24 years 243 days
+21.0,27/04/1990,Pakistan,Sharjah Cricket Stadium,5,80,10.00,1/52,19,37.16,,7,,,,24 years 245 days
+22.0,18/07/1990,England,Headingley,-,80,10.00,2/57,21,36.33,,7,,,,24 years 327 days
+23.0,20/07/1990,England,Trent Bridge,-,80,10.00,1/50,22,36.95,,7,,,,24 years 329 days

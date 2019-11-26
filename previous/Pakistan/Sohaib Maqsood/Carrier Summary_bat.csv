@@ -1,0 +1,29 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,08/11/2013,South Africa,Sheikh Zayed Stadium,56,56,56.00,,0,,,0,,,,26 years 207 days
+2.0,11/11/2013,South Africa,Sharjah Cricket Stadium,53,109,54.50,,0,,,0,,,,26 years 210 days
+3.0,24/11/2013,South Africa,Newlands,22,131,43.67,,0,,1,1,,,,26 years 223 days
+4.0,27/11/2013,South Africa,St George's Park,42,173,43.25,,0,,,1,,,,26 years 226 days
+5.0,30/11/2013,South Africa,SuperSport Park,25,198,39.60,0/11,0,,,1,,,,26 years 229 days
+6.0,18/12/2013,Sri Lanka,Sharjah Cricket Stadium,73,271,45.17,,0,,1,2,,,,26 years 247 days
+7.0,20/12/2013,Sri Lanka,Dubai International Cricket Stadium,18,289,41.29,,0,,,2,,,,26 years 249 days
+8.0,22/12/2013,Sri Lanka,Sharjah Cricket Stadium,21,310,38.75,,0,,2,4,,,,26 years 251 days
+9.0,25/12/2013,Sri Lanka,Sheikh Zayed Stadium,46*,356,44.50,,0,,1,5,,,,26 years 254 days
+10.0,27/12/2013,Sri Lanka,Sheikh Zayed Stadium,7,363,40.33,,0,,,5,,,,26 years 256 days
+11.0,25/02/2014,Sri Lanka,Khan Shaheb Osman Ali Stadium,17,380,38.00,,0,,,5,,,,26 years 316 days
+12.0,27/02/2014,Afghanistan,Khan Shaheb Osman Ali Stadium,13,393,35.73,,0,,,5,,,,26 years 318 days
+13.0,01/03/2014,India,Shere Bangla National Stadium,38,431,35.92,,0,,1,6,,,,26 years 320 days
+14.0,04/03/2014,Bangladesh,Shere Bangla National Stadium,2,433,33.31,0/7,0,,,6,,,,26 years 323 days
+15.0,23/08/2014,Sri Lanka,Mahinda Rajapaksha International Cricket Stadium,89*,522,40.15,,0,,,6,,,,27 years 130 days
+16.0,26/08/2014,Sri Lanka,Mahinda Rajapaksha International Cricket Stadium,9,531,37.93,,0,,1,7,,,,27 years 133 days
+17.0,30/08/2014,Sri Lanka,Rangiri Dambulla International Stadium,7,538,35.87,,0,,,7,,,,27 years 137 days
+18.0,12/10/2014,Australia,Sheikh Zayed Stadium,34,572,35.75,,0,,,7,,,,27 years 180 days
+19.0,15/02/2015,India,Adelaide Oval,0,572,33.65,,0,,,7,,,,27 years 306 days
+20.0,21/02/2015,West Indies,Hagley Oval,50,622,34.56,0/8,0,,,7,,,,27 years 312 days
+21.0,01/03/2015,Zimbabwe,Brisbane Cricket Ground,21,643,33.84,,0,,,7,,,,27 years 320 days
+22.0,04/03/2015,United Arab Emirates,McLean Park,45,688,34.40,1/16,1,42.00,,7,,,,27 years 323 days
+23.0,07/03/2015,South Africa,Eden Park,8,696,33.14,,1,42.00,,7,,,,27 years 326 days
+24.0,15/03/2015,Ireland,Adelaide Oval,-,696,33.14,,1,42.00,1,8,,,,27 years 334 days
+25.0,20/03/2015,Australia,Adelaide Oval,29,725,32.95,,1,42.00,1,9,,,,27 years 339 days
+26.0,25/01/2016,New Zealand,Basin Reserve,10,735,31.96,,1,42.00,,9,,,,28 years 285 days

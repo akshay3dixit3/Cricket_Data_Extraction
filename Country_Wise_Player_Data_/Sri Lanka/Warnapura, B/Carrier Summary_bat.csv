@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,07/06/1975,West Indies,Old Trafford,8,8,8.00,,0,,1,1,,,,22 years 97 days
+2.0,11/06/1975,Australia,Kennington Oval,31,39,19.50,0/40,0,,,1,,,,22 years 101 days
+3.0,14/06/1975,Pakistan,Trent Bridge,2,41,13.67,3/42,3,27.33,,1,,,,22 years 104 days
+4.0,09/06/1979,New Zealand,Trent Bridge,20,61,15.25,0/30,3,37.33,,1,,,,26 years 99 days
+5.0,16/06/1979,India,Old Trafford,18,79,15.80,1/47,4,39.75,2,3,,,,26 years 106 days
+6.0,13/02/1982,England,Sinhalese Sports Club Ground,10,89,14.83,,4,39.75,,3,,,,28 years 349 days
+7.0,14/02/1982,England,Sinhalese Sports Club Ground,4,93,13.29,1/42,5,40.20,1,4,,,,28 years 350 days
+8.0,12/03/1982,Pakistan,National Stadium (Karachi),77,170,21.25,,5,40.20,,4,,,,29 years 10 days
+9.0,29/03/1982,Pakistan,Gaddafi Stadium,5,175,19.44,0/21,5,44.40,,4,,,,29 years 27 days
+10.0,12/09/1982,India,Gandhi Sports Complex Ground,0,175,17.50,2/41,7,37.57,,4,,,,29 years 194 days
+11.0,15/09/1982,India,Arun Jaitley Stadium,4,179,16.27,1/38,8,37.63,1,5,,,,29 years 197 days
+12.0,26/09/1982,India,M Chinnaswamy Stadium,1,180,15.00,0/15,8,39.50,,5,,,,29 years 208 days

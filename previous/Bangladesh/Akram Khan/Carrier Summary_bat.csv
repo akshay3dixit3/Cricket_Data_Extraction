@@ -1,0 +1,47 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,29/10/1988,Pakistan,MA Aziz Stadium,21*,21,,0/28,0,,,0,,,,19 years 362 days
+2.0,02/11/1988,Sri Lanka,Bangabandhu National Stadium,9,30,30.00,0/6,0,,,0,,,,20 years 1 days
+3.0,28/04/1990,New Zealand,Sharjah Cricket Stadium,33,63,31.50,,0,,1,1,,,,21 years 177 days
+4.0,30/04/1990,Australia,Sharjah Cricket Stadium,13,76,25.33,,0,,,1,,,,21 years 179 days
+5.0,25/12/1990,India,Sector 16 Stadium,10,86,21.50,,0,,,1,,,,22 years 53 days
+6.0,31/12/1990,Sri Lanka,Eden Gardens,4,90,18.00,0/25,0,,1,2,,,,22 years 59 days
+7.0,05/04/1995,India,Sharjah Cricket Stadium,24,114,19.00,,0,,,2,,,,26 years 154 days
+8.0,06/04/1995,Sri Lanka,Sharjah Cricket Stadium,24,138,19.71,,0,,2,4,,,,26 years 155 days
+9.0,08/04/1995,Pakistan,Sharjah Cricket Stadium,44,182,22.75,,0,,,4,,,,26 years 157 days
+10.0,16/07/1997,Pakistan,R Premadasa Stadium,59,241,26.78,,0,,,4,,,,28 years 257 days
+11.0,22/07/1997,Sri Lanka,Sinhalese Sports Club Ground,32,273,27.30,0/34,0,,,4,,,,28 years 263 days
+12.0,24/07/1997,India,Sinhalese Sports Club Ground,11,284,25.82,,0,,,4,,,,28 years 265 days
+13.0,10/10/1997,Kenya,Gymkhana Club Ground,16,300,25.00,0/22,0,,,4,,,,28 years 343 days
+14.0,11/10/1997,Zimbabwe,Gymkhana Club Ground,59,359,27.62,,0,,1,5,,,,28 years 344 days
+15.0,14/10/1997,Zimbabwe,Aga Khan Sports Club Ground,11,370,26.43,0/23,0,,,5,,,,28 years 347 days
+16.0,15/10/1997,Kenya,Aga Khan Sports Club Ground,7,377,25.13,,0,,,5,,,,28 years 348 days
+17.0,10/01/1998,India,Bangabandhu National Stadium,2,379,23.69,,0,,1,6,,,,29 years 69 days
+18.0,12/01/1998,Pakistan,Bangabandhu National Stadium,7,386,22.71,,0,,,6,,,,29 years 71 days
+19.0,17/05/1998,Kenya,Lal Bahadur Shastri Stadium,39,425,23.61,,0,,,6,,,,29 years 196 days
+20.0,23/05/1998,Kenya,MA Chidambaram Stadium,23,448,23.58,,0,,,6,,,,29 years 202 days
+21.0,25/05/1998,India,Wankhede Stadium,8,456,22.80,,0,,,6,,,,29 years 204 days
+22.0,16/03/1999,Pakistan,Bangabandhu National Stadium,28,484,23.05,,0,,,6,,,,30 years 134 days
+23.0,20/03/1999,Kenya,Bangabandhu National Stadium,0,484,22.00,,0,,,6,,,,30 years 138 days
+24.0,21/03/1999,Zimbabwe,Bangabandhu National Stadium,22,506,22.00,,0,,,6,,,,30 years 139 days
+25.0,24/03/1999,Kenya,Bangabandhu National Stadium,65,571,23.79,,0,,,6,,,,30 years 142 days
+26.0,25/03/1999,Zimbabwe,Bangabandhu National Stadium,50*,621,25.88,,0,,,6,,,,30 years 143 days
+27.0,17/05/1999,New Zealand,County Ground (Chelmsford),16,637,25.48,,0,,,6,,,,30 years 196 days
+28.0,21/05/1999,West Indies,Castle Avenue,4,641,24.65,,0,,,6,,,,30 years 200 days
+29.0,24/05/1999,Scotland,Grange Cricket Club,0,641,23.74,,0,,,6,,,,30 years 203 days
+30.0,27/05/1999,Australia,Riverside Ground,0,641,22.89,,0,,,6,,,,30 years 206 days
+31.0,31/05/1999,Pakistan,County Ground (Northampton),42,683,23.55,,0,,,6,,,,30 years 210 days
+32.0,29/05/2000,Sri Lanka,Bangabandhu National Stadium,41,724,24.13,,0,,,6,,,,31 years 209 days
+33.0,30/05/2000,India,Bangabandhu National Stadium,64,788,25.42,,0,,,6,,,,31 years 210 days
+34.0,02/06/2000,Pakistan,Bangabandhu National Stadium,2,790,24.69,,0,,,6,,,,31 years 213 days
+35.0,05/10/2000,England,Gymkhana Club Ground,6,796,24.12,,0,,,6,,,,31 years 338 days
+36.0,07/04/2001,Zimbabwe,Harare Sports Club,35,831,24.44,,0,,,6,,,,32 years 157 days
+37.0,08/04/2001,Zimbabwe,Harare Sports Club,1,832,23.77,,0,,,6,,,,32 years 158 days
+38.0,11/04/2001,Zimbabwe,Queens Sports Club,25,857,23.81,,0,,1,7,,,,32 years 161 days
+39.0,26/02/2003,New Zealand,Diamond Oval,13,870,23.51,,0,,,7,,,,34 years 116 days
+40.0,01/03/2003,Kenya,Wanderers Stadium,44,914,24.05,,0,,1,8,,,,34 years 119 days
+41.0,11/04/2003,India,Bangabandhu National Stadium,9,923,23.67,,0,,,8,,,,34 years 160 days
+42.0,14/04/2003,South Africa,Bangabandhu National Stadium,15,938,23.45,,0,,,8,,,,34 years 163 days
+43.0,16/04/2003,India,Bangabandhu National Stadium,35,973,23.73,,0,,,8,,,,34 years 165 days
+44.0,17/04/2003,South Africa,Bangabandhu National Stadium,3,976,23.24,,0,,,8,,,,34 years 166 days

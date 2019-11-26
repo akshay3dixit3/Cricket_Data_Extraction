@@ -1,0 +1,44 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,07/06/1975,West Indies,Old Trafford,21,21,21.00,1/33,1,33.00,,0,,,,32 years 361 days
+2.0,11/06/1975,Australia,Kennington Oval,-,21,21.00,2/60,3,31.00,,0,,,,33 years 365 days
+3.0,14/06/1975,Pakistan,Trent Bridge,26,47,23.50,1/61,4,38.50,,0,,,,33 years 2 days
+4.0,09/06/1979,New Zealand,Trent Bridge,6,53,17.67,0/42,4,49.00,,0,,,,36 years 363 days
+5.0,16/06/1979,India,Old Trafford,1*,54,18.00,3/29,7,32.14,,0,,,,37 years 4 days
+6.0,13/02/1982,England,Sinhalese Sports Club Ground,8,62,15.50,1/31,8,32.00,,0,,,,39 years 247 days
+7.0,14/02/1982,England,Sinhalese Sports Club Ground,9*,71,17.75,1/54,9,34.44,,0,,,,39 years 248 days
+8.0,12/03/1982,Pakistan,National Stadium (Karachi),-,71,17.75,0/30,9,37.78,,0,,,,39 years 274 days
+9.0,29/03/1982,Pakistan,Gaddafi Stadium,-,71,17.75,1/49,10,38.90,,0,,,,39 years 291 days
+10.0,31/03/1982,Pakistan,National Stadium (Karachi),2,73,14.60,0/34,10,42.30,,0,,,,39 years 293 days
+11.0,12/09/1982,India,Gandhi Sports Complex Ground,9,82,13.67,2/49,12,39.33,,0,,,,40 years 93 days
+12.0,26/09/1982,India,M Chinnaswamy Stadium,3,85,12.14,1/51,13,40.23,,0,,,,40 years 107 days
+13.0,02/03/1983,New Zealand,Carisbrook,18,103,12.88,0/20,13,41.77,,0,,,,40 years 264 days
+14.0,19/03/1983,New Zealand,McLean Park,37*,140,17.50,1/28,14,40.79,,0,,,,40 years 281 days
+15.0,20/03/1983,New Zealand,Eden Park,1,141,15.67,0/46,14,44.07,,0,,,,40 years 282 days
+16.0,13/04/1983,Australia,P Sara Oval,15*,156,17.33,2/21,16,39.88,,0,,,,40 years 306 days
+17.0,16/04/1983,Australia,P Sara Oval,7*,163,18.11,0/52,16,43.13,,0,,,,40 years 309 days
+18.0,29/04/1983,Australia,Sinhalese Sports Club Ground,-,163,18.11,2/51,18,41.17,,0,,,,40 years 322 days
+19.0,09/06/1983,Pakistan,St Helen's,35,198,19.80,0/52,18,44.06,1,1,,,,40 years 363 days
+20.0,11/06/1983,England,The Cooper Associates County Ground,28,226,20.55,0/65,18,47.67,,1,,,,41 years 365 days
+21.0,13/06/1983,New Zealand,County Ground (Bristol),13,239,19.92,1/39,19,47.21,,1,,,,41 years 1 days
+22.0,16/06/1983,Pakistan,Headingley,1,240,18.46,0/42,19,49.42,1,2,,,,41 years 4 days
+23.0,18/06/1983,New Zealand,County Ground (Derby),2,242,17.29,2/11,21,45.24,,2,,,,41 years 6 days
+24.0,20/06/1983,England,Headingley,15,257,17.13,0/29,21,46.62,,2,,,,41 years 8 days
+25.0,03/03/1984,New Zealand,Sinhalese Sports Club Ground,8,265,16.56,1/42,22,46.41,,2,,,,41 years 265 days
+26.0,31/03/1984,New Zealand,Tyronne Fernando Stadium,18*,283,17.69,1/28,23,45.61,,2,,,,41 years 293 days
+27.0,01/04/1984,New Zealand,P Sara Oval,14*,297,18.56,1/34,24,45.13,1,3,,,,41 years 294 days
+28.0,06/04/1984,Pakistan,Sharjah Cricket Stadium,-,297,18.56,2/50,26,43.58,,3,,,,41 years 299 days
+29.0,08/04/1984,India,Sharjah Cricket Stadium,8*,305,19.06,0/21,26,44.38,,3,,,,41 years 301 days
+30.0,03/11/1984,New Zealand,P Sara Oval,-,305,19.06,0/25,26,45.35,,3,,,,42 years 145 days
+31.0,04/11/1984,New Zealand,Tyronne Fernando Stadium,13,318,18.71,0/14,26,45.88,,3,,,,42 years 146 days
+32.0,08/01/1985,Australia,Sydney Cricket Ground,-,318,18.71,0/32,26,47.12,,3,,,,42 years 211 days
+33.0,10/01/1985,West Indies,Tasmania Cricket Association Ground,-,318,18.71,1/29,27,46.44,,3,,,,42 years 213 days
+34.0,12/01/1985,West Indies,Brisbane Cricket Ground,9,327,18.17,1/57,28,46.82,,3,,,,42 years 215 days
+35.0,17/01/1985,West Indies,Sydney Cricket Ground,-,327,18.17,1/48,29,46.86,,3,,,,42 years 220 days
+36.0,19/01/1985,Australia,Melbourne Cricket Ground,-,327,18.17,1/33,30,46.40,,3,,,,42 years 222 days
+37.0,23/01/1985,Australia,Sydney Cricket Ground,-,327,18.17,1/62,31,46.90,,3,,,,42 years 226 days
+38.0,26/01/1985,West Indies,Adelaide Oval,-,327,18.17,1/36,32,46.56,,3,,,,42 years 229 days
+39.0,28/01/1985,Australia,Adelaide Oval,15*,342,19.00,0/42,32,47.88,1,4,,,,42 years 231 days
+40.0,23/02/1985,New Zealand,Melbourne Cricket Ground,24*,366,20.33,0/25,32,48.66,1,5,,,,42 years 257 days
+41.0,27/02/1985,West Indies,Melbourne Cricket Ground,5,371,19.53,,32,48.66,,5,,,,42 years 261 days

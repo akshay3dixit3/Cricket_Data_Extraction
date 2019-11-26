@@ -1,0 +1,14 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,06/10/2002,Bangladesh,Willowmoore Park,-,0,,,0,,,0,,,,28 years 110 days
+2.0,09/10/2002,Bangladesh,Diamond Oval,42,42,42.00,1/0,1,0.00,1,1,,,,28 years 113 days
+3.0,28/06/2003,England,Kennington Oval,13,55,27.50,,1,0.00,,1,,,,29 years 9 days
+4.0,29/06/2003,Zimbabwe,St Lawrence Ground,-,55,27.50,,1,0.00,1,2,,,,29 years 10 days
+5.0,03/07/2003,England,Old Trafford,-,55,27.50,1/18,2,9.00,,2,,,,29 years 14 days
+6.0,05/07/2003,Zimbabwe,Sophia Gardens,8*,63,31.50,,2,9.00,,2,,,,29 years 16 days
+7.0,08/07/2003,England,Edgbaston,45,108,36.00,,2,9.00,,2,,,,29 years 19 days
+8.0,10/07/2003,Zimbabwe,The Rose Bowl,5,113,28.25,,2,9.00,1,3,,,,29 years 21 days
+9.0,12/07/2003,England,Lord's,11,124,24.80,,2,9.00,,3,,,,29 years 23 days
+10.0,12/09/2004,Bangladesh,Edgbaston,-,124,24.80,,2,9.00,1,4,,,,30 years 86 days
+11.0,18/09/2004,West Indies,Kennington Oval,0,124,20.67,,2,9.00,,4,,,,30 years 92 days

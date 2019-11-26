@@ -1,0 +1,42 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,02/05/2014,Afghanistan,Kinrara Academy Oval,16,16,16.00,1/72,1,72.00,,0,,,,26 years 333 days
+2.0,04/05/2014,Hong Kong,Kinrara Academy Oval,16*,32,32.00,1/16,2,44.00,,0,,,,26 years 335 days
+3.0,28/11/2014,Afghanistan,ICC Global Cricket Academy,-,32,32.00,1/51,3,46.33,,0,,,,27 years 178 days
+4.0,30/11/2014,Afghanistan,ICC Global Cricket Academy,-,32,32.00,0/42,3,60.33,1,1,,,,27 years 180 days
+5.0,02/12/2014,Afghanistan,ICC Global Cricket Academy,-,32,32.00,1/51,4,58.00,,1,,,,27 years 182 days
+6.0,04/12/2014,Afghanistan,ICC Global Cricket Academy,20,52,26.00,1/60,5,58.40,,1,,,,27 years 184 days
+7.0,19/02/2015,Zimbabwe,Saxton Oval,23*,75,37.50,1/60,6,58.67,,1,,,,27 years 261 days
+8.0,25/02/2015,Ireland,Brisbane Cricket Ground,13,88,29.33,2/65,8,52.13,1,2,,,,27 years 267 days
+9.0,28/02/2015,India,WACA Ground,6,94,23.50,1/35,9,50.22,,2,,,,27 years 270 days
+10.0,04/03/2015,Pakistan,McLean Park,0*,94,23.50,1/50,10,50.20,,2,,,,27 years 274 days
+11.0,11/03/2015,South Africa,Westpac Stadium,17,111,22.20,3/63,13,43.46,,2,,,,27 years 281 days
+12.0,15/03/2015,West Indies,McLean Park,14,125,20.83,0/34,13,46.08,,2,,,,27 years 285 days
+13.0,14/08/2016,Scotland,Grange Cricket Club,2,127,18.14,0/58,13,50.54,,2,,,,29 years 72 days
+14.0,16/08/2016,Scotland,Grange Cricket Club,1,128,16.00,2/42,15,46.60,,2,,,,29 years 74 days
+15.0,24/01/2017,Scotland,Dubai International Cricket Stadium,30,158,17.56,1/30,16,45.56,,2,,,,29 years 235 days
+16.0,26/01/2017,Hong Kong,Dubai International Cricket Stadium,9*,167,18.56,0/38,16,47.94,,2,,,,29 years 237 days
+17.0,02/03/2017,Ireland,ICC Global Cricket Academy,14,181,18.10,3/40,19,42.47,,2,,,,29 years 272 days
+18.0,04/03/2017,Ireland,ICC Global Cricket Academy,4,185,16.82,0/32,19,44.16,1,3,,,,29 years 274 days
+19.0,31/03/2017,Papua New Guinea,Sheikh Zayed Stadium,34*,219,19.91,1/41,20,44.00,1,4,,,,29 years 301 days
+20.0,02/04/2017,Papua New Guinea,Sheikh Zayed Stadium,0,219,18.25,1/42,21,43.90,,4,,,,29 years 303 days
+21.0,04/04/2017,Papua New Guinea,Sheikh Zayed Stadium,2,221,17.00,0/35,21,45.57,1,5,,,,29 years 305 days
+22.0,11/01/2018,Ireland,ICC Global Cricket Academy,7*,228,17.54,2/45,23,43.57,,5,,,,30 years 222 days
+23.0,13/01/2018,Ireland,ICC Global Cricket Academy,25,253,18.07,1/51,24,43.88,,5,,,,30 years 224 days
+24.0,21/01/2018,Scotland,ICC Global Cricket Academy,4,257,17.13,2/52,26,42.50,,5,,,,30 years 232 days
+25.0,23/01/2018,Scotland,ICC Global Cricket Academy,3*,260,17.33,3/47,29,39.72,,5,,,,30 years 234 days
+26.0,04/03/2018,Papua New Guinea,Harare Sports Club,0*,260,17.33,5/28,34,34.71,,5,,,,30 years 274 days
+27.0,06/03/2018,West Indies,Old Hararians Sports Club,-,260,17.33,0/53,34,36.26,,5,,,,30 years 276 days
+28.0,12/03/2018,Ireland,Old Hararians Sports Club,6,266,16.63,3/84,37,35.59,,5,,,,30 years 282 days
+29.0,15/03/2018,Scotland,Queens Sports Club,6,272,16.00,0/68,37,37.43,,5,,,,30 years 285 days
+30.0,20/03/2018,Afghanistan,Old Hararians Sports Club,45,317,17.61,2/37,39,36.46,,5,,,,30 years 290 days
+31.0,22/03/2018,Zimbabwe,Harare Sports Club,22*,339,18.83,3/40,42,34.81,,5,,,,30 years 292 days
+32.0,30/08/2018,Nepal,Kinrara Academy Oval,0,339,17.84,3/48,45,33.56,1,6,,,,31 years 88 days
+33.0,25/01/2019,Nepal,ICC Global Cricket Academy,-,339,17.84,3/31,48,32.10,,6,,,,31 years 236 days
+34.0,26/01/2019,Nepal,ICC Global Cricket Academy,19,358,17.90,1/56,49,32.59,,6,,,,31 years 237 days
+35.0,28/01/2019,Nepal,ICC Global Cricket Academy,11*,369,18.45,1/38,50,32.70,,6,,,,31 years 239 days
+36.0,10/04/2019,Zimbabwe,Harare Sports Club,9,378,18.00,0/15,50,33.00,,6,,,,31 years 311 days
+37.0,12/04/2019,Zimbabwe,Harare Sports Club,10,388,17.64,0/39,50,33.78,,6,,,,31 years 313 days
+38.0,13/04/2019,Zimbabwe,Harare Sports Club,7,395,17.17,1/42,51,33.94,,6,,,,31 years 314 days
+39.0,16/04/2019,Zimbabwe,Harare Sports Club,2,397,16.54,2/26,53,33.15,,6,,,,31 years 317 days

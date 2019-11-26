@@ -1,0 +1,34 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,14/11/2016,Zimbabwe,Harare Sports Club,-,0,,3/21,3,7.00,,0,,,,30 years 310 days
+2.0,16/11/2016,West Indies,Harare Sports Club,18,18,18.00,1/40,4,15.25,,0,,,,30 years 312 days
+3.0,21/11/2016,Zimbabwe,Queens Sports Club,-,18,18.00,,4,15.25,,0,,,,30 years 317 days
+4.0,23/11/2016,West Indies,Queens Sports Club,6,24,12.00,1/47,5,21.60,,0,,,,30 years 319 days
+5.0,27/11/2016,Zimbabwe,Queens Sports Club,16*,40,20.00,3/10,8,14.75,,0,,,,30 years 323 days
+6.0,28/01/2017,South Africa,St George's Park,10,50,16.67,1/19,9,15.22,1,1,,,,31 years 20 days
+7.0,01/02/2017,South Africa,Kingsmead,18,68,17.00,0/37,9,19.33,,1,,,,31 years 24 days
+8.0,04/02/2017,South Africa,Wanderers Stadium,2,70,14.00,,9,19.33,,1,,,,31 years 27 days
+9.0,07/02/2017,South Africa,Newlands,38,108,18.00,0/16,9,21.11,2,3,,,,31 years 30 days
+10.0,10/02/2017,South Africa,SuperSport Park,114*,222,37.00,0/46,9,26.22,1,4,,,,31 years 33 days
+11.0,25/03/2017,Bangladesh,Rangiri Dambulla International Stadium,24,246,35.14,1/40,10,27.60,,4,,,,31 years 76 days
+12.0,28/03/2017,Bangladesh,Rangiri Dambulla International Stadium,39,285,35.63,,10,27.60,,4,,,,31 years 79 days
+13.0,01/04/2017,Bangladesh,Sinhalese Sports Club Ground,34,319,35.44,0/16,10,29.20,1,5,,,,31 years 83 days
+14.0,03/06/2017,South Africa,Kennington Oval,4,323,32.30,0/64,10,35.60,,5,,,,31 years 146 days
+15.0,08/06/2017,India,Kennington Oval,34*,357,35.70,1/7,11,33.00,,5,,,,31 years 151 days
+16.0,12/06/2017,Pakistan,Sophia Gardens,27,384,34.91,0/19,11,34.73,1,6,,,,31 years 155 days
+17.0,30/06/2017,Zimbabwe,Galle International Stadium,28,412,34.33,2/45,13,32.85,1,7,,,,31 years 173 days
+18.0,02/07/2017,Zimbabwe,Galle International Stadium,-,412,34.33,1/15,14,31.57,1,8,,,,31 years 175 days
+19.0,06/07/2017,Zimbabwe,Mahinda Rajapaksha International Cricket Stadium,-,412,34.33,2/53,16,30.94,,8,,,,31 years 179 days
+20.0,08/07/2017,Zimbabwe,Mahinda Rajapaksha International Cricket Stadium,1,413,31.77,1/41,17,31.53,,8,,,,31 years 181 days
+21.0,10/07/2017,Zimbabwe,Mahinda Rajapaksha International Cricket Stadium,59*,472,36.31,1/23,18,31.06,,8,,,,31 years 183 days
+22.0,10/12/2017,India,Himachal Pradesh Cricket Association Stadium,-,472,36.31,,18,31.06,,8,,,,31 years 336 days
+23.0,13/12/2017,India,Punjab Cricket Association IS Bindra Stadium,34,506,36.14,0/10,18,31.61,,8,,,,31 years 339 days
+24.0,17/12/2017,India,Dr YS Rajasekhara Reddy Cricket Stadium,17,523,34.87,0/30,18,33.28,,8,,,,31 years 343 days
+25.0,17/01/2018,Zimbabwe,Shere Bangla National Stadium,4,527,32.94,3/37,21,30.29,,8,,,,32 years 9 days
+26.0,19/01/2018,Bangladesh,Shere Bangla National Stadium,16,543,31.94,1/38,22,30.64,1,9,,,,32 years 11 days
+27.0,21/01/2018,Zimbabwe,Shere Bangla National Stadium,9,552,30.67,0/4,22,30.82,,9,,,,32 years 13 days
+28.0,25/01/2018,Bangladesh,Shere Bangla National Stadium,-,552,30.67,,22,30.82,,9,,,,32 years 17 days
+29.0,27/01/2018,Bangladesh,Shere Bangla National Stadium,6,558,29.37,,22,30.82,1,10,,,,32 years 19 days
+30.0,03/01/2019,New Zealand,Bay Oval,11,569,28.45,0/5,22,31.05,,10,,,,32 years 360 days
+31.0,05/01/2019,New Zealand,Bay Oval,6,575,27.38,0/40,22,32.86,,10,,,,32 years 362 days

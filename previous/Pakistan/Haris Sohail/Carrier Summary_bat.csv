@@ -1,0 +1,44 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,19/07/2013,West Indies,Darren Sammy National Cricket Stadium,26,26,26.00,,0,,,0,,,,24 years 191 days
+2.0,21/07/2013,West Indies,Darren Sammy National Cricket Stadium,-,26,26.00,,0,,,0,,,,24 years 193 days
+3.0,24/07/2013,West Indies,Darren Sammy National Cricket Stadium,17,43,21.50,,0,,2,2,,,,24 years 196 days
+4.0,27/08/2013,Zimbabwe,Harare Sports Club,2,45,15.00,,0,,,2,,,,24 years 230 days
+5.0,08/12/2014,New Zealand,Dubai International Cricket Stadium,85*,130,43.33,0/39,0,,,2,,,,25 years 332 days
+6.0,12/12/2014,New Zealand,Sharjah Cricket Stadium,33,163,40.75,3/48,3,29.00,,2,,,,25 years 336 days
+7.0,14/12/2014,New Zealand,Sharjah Cricket Stadium,39,202,40.40,3/45,6,22.00,1,3,,,,25 years 338 days
+8.0,17/12/2014,New Zealand,Sheikh Zayed Stadium,13,215,35.83,0/47,6,29.83,,3,,,,25 years 341 days
+9.0,19/12/2014,New Zealand,Sheikh Zayed Stadium,65,280,40.00,0/38,6,36.17,,3,,,,25 years 343 days
+10.0,31/01/2015,New Zealand,Westpac Stadium,23,303,37.88,0/16,6,38.83,,3,,,,26 years 21 days
+11.0,03/02/2015,New Zealand,McLean Park,6,309,34.33,0/47,6,46.67,2,5,,,,26 years 24 days
+12.0,15/02/2015,India,Adelaide Oval,36,345,34.50,0/26,6,51.00,1,6,,,,26 years 36 days
+13.0,21/02/2015,West Indies,Hagley Oval,0,345,31.36,2/62,8,46.00,1,7,,,,26 years 42 days
+14.0,01/03/2015,Zimbabwe,Brisbane Cricket Ground,27,372,31.00,,8,46.00,2,9,,,,26 years 50 days
+15.0,04/03/2015,United Arab Emirates,McLean Park,70,442,34.00,0/18,8,48.25,,9,,,,26 years 53 days
+16.0,15/03/2015,Ireland,Adelaide Oval,3,445,31.79,1/20,9,45.11,,9,,,,26 years 64 days
+17.0,20/03/2015,Australia,Adelaide Oval,41,486,32.40,0/7,9,45.89,,9,,,,26 years 69 days
+18.0,17/04/2015,Bangladesh,Shere Bangla National Stadium,51,537,33.56,0/31,9,49.33,,9,,,,26 years 97 days
+19.0,19/04/2015,Bangladesh,Shere Bangla National Stadium,44,581,34.18,,9,49.33,,9,,,,26 years 99 days
+20.0,22/04/2015,Bangladesh,Shere Bangla National Stadium,52,633,35.17,,9,49.33,,9,,,,26 years 102 days
+21.0,26/05/2015,Zimbabwe,Gaddafi Stadium,89*,722,40.11,,9,49.33,,9,,,,26 years 136 days
+22.0,29/05/2015,Zimbabwe,Gaddafi Stadium,52*,774,43.00,,9,49.33,,9,,,,26 years 139 days
+23.0,16/01/2018,New Zealand,Seddon Park,50,824,43.37,1/29,10,47.30,,9,,,,29 years 6 days
+24.0,18/01/2018,New Zealand,Basin Reserve,63,887,44.35,,10,47.30,,9,,,,29 years 8 days
+25.0,21/09/2018,Afghanistan,Sheikh Zayed Stadium,13,900,42.86,0/30,10,50.30,,9,,,,29 years 254 days
+26.0,11/11/2018,New Zealand,Dubai International Cricket Stadium,60,960,43.64,,10,50.30,,9,,,,29 years 305 days
+27.0,22/03/2019,Australia,Sharjah Cricket Stadium,101*,1061,48.23,,10,50.30,,9,,,,30 years 71 days
+28.0,23/03/2019,Australia,Sharjah Cricket Stadium,34,1095,47.61,0/18,10,52.10,,9,,,,30 years 72 days
+29.0,27/03/2019,Australia,Sheikh Zayed Stadium,1,1096,45.67,1/35,11,50.55,1,10,,,,30 years 76 days
+30.0,29/03/2019,Australia,Dubai International Cricket Stadium,25,1121,44.84,0/9,11,51.36,2,12,,,,30 years 78 days
+31.0,31/03/2019,Australia,Dubai International Cricket Stadium,130,1251,48.12,0/13,11,52.55,,12,,,,30 years 80 days
+32.0,08/05/2019,England,Kennington Oval,14*,1265,48.65,,11,52.55,,12,,,,30 years 118 days
+33.0,11/05/2019,England,The Rose Bowl,14,1279,47.37,0/16,11,54.00,1,13,,,,30 years 121 days
+34.0,14/05/2019,England,County Ground (Bristol),41,1320,47.14,0/19,11,55.73,,13,,,,30 years 124 days
+35.0,31/05/2019,West Indies,Trent Bridge,8,1328,45.79,,11,55.73,,13,,,,30 years 141 days
+36.0,23/06/2019,South Africa,Lord's,89,1417,47.23,,11,55.73,,13,,,,30 years 164 days
+37.0,26/06/2019,New Zealand,Edgbaston,68,1485,47.90,,11,55.73,1,14,,,,30 years 167 days
+38.0,29/06/2019,Afghanistan,Headingley,27,1512,47.25,,11,55.73,,14,,,,30 years 170 days
+39.0,05/07/2019,Bangladesh,Lord's,6,1518,46.00,,11,55.73,1,15,,,,30 years 176 days
+40.0,30/09/2019,Sri Lanka,National Stadium (Karachi),40,1558,45.82,,11,55.73,,15,,,,30 years 263 days
+41.0,02/10/2019,Sri Lanka,National Stadium (Karachi),56,1614,46.11,,11,55.73,2,17,,,,30 years 265 days

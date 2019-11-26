@@ -1,0 +1,34 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,02/03/1983,New Zealand,Carisbrook,13*,13,,,0,,,0,1,,1,24 years 15 days
+2.0,19/03/1983,New Zealand,McLean Park,12,25,25.00,,0,,,0,,,1,24 years 32 days
+3.0,20/03/1983,New Zealand,Eden Park,-,25,25.00,,0,,,0,,,1,24 years 33 days
+4.0,13/04/1983,Australia,P Sara Oval,6,31,15.50,,0,,,0,5,,6,24 years 57 days
+5.0,16/04/1983,Australia,P Sara Oval,-,31,15.50,,0,,,0,,,6,24 years 60 days
+6.0,29/04/1983,Australia,Sinhalese Sports Club Ground,-,31,15.50,,0,,,0,2,,8,24 years 73 days
+7.0,09/06/1983,Pakistan,St Helen's,59*,90,45.00,,0,,,0,,,8,24 years 114 days
+8.0,11/06/1983,England,The Cooper Associates County Ground,58*,148,74.00,,0,,,0,1,,9,24 years 116 days
+9.0,13/06/1983,New Zealand,County Ground (Bristol),16,164,54.67,,0,,,0,1,,10,24 years 118 days
+10.0,16/06/1983,Pakistan,Headingley,4,168,42.00,,0,,,0,1,,11,24 years 121 days
+11.0,18/06/1983,New Zealand,County Ground (Derby),11*,179,44.75,,0,,,0,1,,12,24 years 123 days
+12.0,20/06/1983,England,Headingley,19,198,39.60,,0,,,0,1,,13,24 years 125 days
+13.0,03/03/1984,New Zealand,Sinhalese Sports Club Ground,8,206,34.33,,0,,,0,,,13,25 years 16 days
+14.0,31/03/1984,New Zealand,Tyronne Fernando Stadium,1,207,29.57,,0,,,0,2,,15,25 years 44 days
+15.0,01/04/1984,New Zealand,P Sara Oval,9,216,27.00,,0,,,0,1,,16,25 years 45 days
+16.0,13/04/1986,India,Sharjah Cricket Stadium,19,235,26.11,,0,,,0,,1,17,27 years 57 days
+17.0,27/11/1986,India,Sharjah Cricket Stadium,17,252,25.20,,0,,,0,1,,18,27 years 285 days
+18.0,02/12/1986,Pakistan,Sharjah Cricket Stadium,0,252,22.91,,0,,,0,1,,19,27 years 290 days
+19.0,24/12/1986,India,Green Park,15,267,22.25,,0,,,0,2,,21,27 years 312 days
+20.0,11/01/1987,India,Nehru Stadium (Guwahati),6*,273,22.75,,0,,,0,,,21,27 years 330 days
+21.0,13/01/1987,India,Arun Jaitley Stadium,-,273,22.75,,0,,,0,,,21,27 years 332 days
+22.0,15/01/1987,India,Moti Bagh Stadium,10,283,21.77,,0,,,0,,1,22,27 years 334 days
+23.0,02/01/1988,Australia,WACA Ground,44,327,23.36,,0,,,0,1,,23,28 years 321 days
+24.0,05/01/1988,New Zealand,Sydney Cricket Ground,32,359,23.93,,0,,,0,1,,24,28 years 324 days
+25.0,10/01/1988,Australia,Adelaide Oval,11*,370,24.67,,0,,,0,,,24,28 years 329 days
+26.0,12/01/1988,New Zealand,Bellerive Oval,7*,377,25.13,,0,,,0,1,,25,28 years 331 days
+27.0,14/01/1988,Australia,Melbourne Cricket Ground,0,377,23.56,,0,,,0,2,,27,28 years 333 days
+28.0,16/01/1988,New Zealand,Brisbane Cricket Ground,2,379,22.29,,0,,,0,1,,28,28 years 335 days
+29.0,19/01/1988,Australia,Sydney Cricket Ground,4,383,21.28,,0,,,0,1,,29,28 years 338 days
+30.0,25/03/1988,India,Sharjah Cricket Stadium,2,385,20.26,,0,,,0,,,29,29 years 38 days
+31.0,31/03/1988,New Zealand,Sharjah Cricket Stadium,16*,401,21.11,,0,,,0,,1,30,29 years 44 days

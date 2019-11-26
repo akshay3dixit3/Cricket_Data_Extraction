@@ -1,0 +1,53 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,29/08/1996,Pakistan,Old Trafford,-,0,,1/31,1,31.00,1,1,,,,27 years 48 days
+2.0,31/08/1996,Pakistan,Edgbaston,-,0,,1/30,2,30.50,,1,,,,27 years 50 days
+3.0,01/09/1996,Pakistan,Trent Bridge,2,2,2.00,0/66,2,63.50,,1,,,,27 years 51 days
+4.0,15/12/1996,Zimbabwe,Queens Sports Club,0,2,1.00,2/24,4,37.75,,1,,,,27 years 156 days
+5.0,01/01/1997,Zimbabwe,Harare Sports Club,-,2,1.00,3/29,7,25.71,,1,,,,27 years 173 days
+6.0,03/01/1997,Zimbabwe,Harare Sports Club,20,22,7.33,1/39,8,27.38,1,2,,,,27 years 175 days
+7.0,20/02/1997,New Zealand,AMI Stadium,-,22,7.33,1/21,9,26.67,1,3,,,,27 years 223 days
+8.0,23/02/1997,New Zealand,Eden Park,-,22,7.33,1/36,10,27.60,,3,,,,27 years 226 days
+9.0,16/08/1998,Sri Lanka,Lord's,1,23,5.75,2/20,12,24.67,,3,,,,29 years 34 days
+10.0,18/08/1998,South Africa,Edgbaston,1*,24,6.00,2/33,14,23.50,,3,,,,29 years 36 days
+11.0,20/08/1998,Sri Lanka,Lord's,-,24,6.00,0/37,14,26.14,,3,,,,29 years 38 days
+12.0,10/01/1999,Australia,Brisbane Cricket Ground,-,24,6.00,4/18,18,21.33,1,4,,,,29 years 181 days
+13.0,11/01/1999,Sri Lanka,Brisbane Cricket Ground,-,24,6.00,1/35,19,22.05,,4,,,,29 years 182 days
+14.0,15/01/1999,Australia,Melbourne Cricket Ground,2,26,5.20,1/42,20,23.05,,4,,,,29 years 186 days
+15.0,17/01/1999,Australia,Sydney Cricket Ground,-,26,5.20,1/45,21,24.10,,4,,,,29 years 188 days
+16.0,19/01/1999,Sri Lanka,Melbourne Cricket Ground,-,26,5.20,1/23,22,24.05,,4,,,,29 years 190 days
+17.0,23/01/1999,Sri Lanka,Adelaide Oval,-,26,5.20,1/61,23,25.65,,4,,,,29 years 194 days
+18.0,26/01/1999,Australia,Adelaide Oval,0*,26,5.20,0/39,23,27.35,,4,,,,29 years 197 days
+19.0,29/01/1999,Sri Lanka,WACA Ground,-,26,5.20,2/17,25,25.84,,4,,,,29 years 200 days
+20.0,05/02/1999,Australia,Sydney Cricket Ground,-,26,5.20,2/31,27,25.07,,4,,,,29 years 207 days
+21.0,10/02/1999,Australia,Sydney Cricket Ground,7,33,5.50,0/42,27,26.63,1,5,,,,29 years 212 days
+22.0,13/02/1999,Australia,Melbourne Cricket Ground,9,42,6.00,1/53,28,27.57,,5,,,,29 years 215 days
+23.0,07/04/1999,Pakistan,Sharjah Cricket Stadium,2*,44,6.29,0/64,28,29.86,,5,,,,29 years 268 days
+24.0,09/04/1999,India,Sharjah Cricket Stadium,0*,44,6.29,0/32,28,31.00,,5,,,,29 years 270 days
+25.0,14/05/1999,Sri Lanka,Lord's,-,44,6.29,4/37,32,28.28,,5,,,,29 years 305 days
+26.0,18/05/1999,Kenya,St Lawrence Ground,-,44,6.29,0/41,32,29.56,,5,,,,29 years 309 days
+27.0,22/05/1999,South Africa,Kennington Oval,1*,45,6.43,2/28,34,28.65,,5,,,,29 years 313 days
+28.0,25/05/1999,Zimbabwe,Trent Bridge,-,45,6.43,2/16,36,27.50,,5,,,,29 years 316 days
+29.0,29/05/1999,India,Edgbaston,0,45,5.63,2/54,38,27.47,,5,,,,29 years 320 days
+30.0,04/02/2000,South Africa,Buffalo Park,-,45,5.63,1/24,39,27.38,,5,,,,30 years 206 days
+31.0,13/02/2000,South Africa,Wanderers Stadium,14*,59,7.38,1/22,40,27.25,,5,,,,30 years 215 days
+32.0,16/02/2000,Zimbabwe,Queens Sports Club,-,59,7.38,3/37,43,26.21,,5,,,,30 years 218 days
+33.0,18/02/2000,Zimbabwe,Queens Sports Club,5*,64,8.00,1/28,44,26.25,,5,,,,30 years 220 days
+34.0,20/02/2000,Zimbabwe,Harare Sports Club,-,64,8.00,1/43,45,26.62,2,7,,,,30 years 222 days
+35.0,08/07/2000,Zimbabwe,Kennington Oval,0,64,7.11,1/33,46,26.76,,7,,,,30 years 361 days
+36.0,09/07/2000,West Indies,Lord's,-,64,7.11,,46,26.76,,7,,,,30 years 362 days
+37.0,13/07/2000,Zimbabwe,Old Trafford,-,64,7.11,2/13,48,25.92,,7,,,,31 years 1 days
+38.0,15/07/2000,West Indies,Riverside Ground,-,64,7.11,3/27,51,24.92,,7,,,,31 years 3 days
+39.0,18/07/2000,Zimbabwe,Edgbaston,-,64,7.11,0/37,51,25.65,,7,,,,31 years 6 days
+40.0,20/07/2000,West Indies,Trent Bridge,0,64,6.40,1/29,52,25.71,,7,,,,31 years 8 days
+41.0,22/07/2000,Zimbabwe,Lord's,-,64,6.40,1/32,53,25.83,,7,,,,31 years 10 days
+42.0,23/03/2001,Sri Lanka,Rangiri Dambulla International Stadium,0,64,5.82,1/23,54,25.78,,7,,,,31 years 254 days
+43.0,25/03/2001,Sri Lanka,R Premadasa Stadium,1,65,5.42,2/37,56,25.52,,7,,,,31 years 256 days
+44.0,27/03/2001,Sri Lanka,Sinhalese Sports Club Ground,8*,73,6.08,0/51,56,26.43,,7,,,,31 years 258 days
+45.0,07/06/2001,Pakistan,Edgbaston,3,76,5.85,1/44,57,26.74,,7,,,,31 years 330 days
+46.0,10/06/2001,Australia,County Ground (Bristol),-,76,5.85,1/50,58,27.14,,7,,,,31 years 333 days
+47.0,12/06/2001,Pakistan,Lord's,1*,77,5.92,2/47,60,27.02,,7,,,,31 years 335 days
+48.0,14/06/2001,Australia,Old Trafford,6,83,5.93,3/50,63,26.52,,7,,,,31 years 337 days
+49.0,17/06/2001,Pakistan,Headingley,0,83,5.53,0/30,63,27.00,,7,,,,31 years 340 days
+50.0,21/06/2001,Australia,Kennington Oval,3*,86,5.73,0/27,63,27.43,1,8,,,,31 years 344 days

@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,02/06/1977,England,Old Trafford,4,4,4.00,2/37,2,18.50,,0,,,,26 years 236 days
+2.0,04/06/1977,England,Edgbaston,1,5,2.50,0/27,2,32.00,,0,,,,26 years 238 days
+3.0,10/01/1982,West Indies,Melbourne Cricket Ground,1,6,2.00,2/9,4,18.25,,0,,,,31 years 93 days
+4.0,14/01/1982,Pakistan,Sydney Cricket Ground,-,6,2.00,2/36,6,18.17,,0,,,,31 years 97 days
+5.0,17/01/1982,West Indies,Brisbane Cricket Ground,0*,6,2.00,0/34,6,23.83,,0,,,,31 years 100 days
+6.0,19/01/1982,West Indies,Sydney Cricket Ground,-,6,2.00,2/27,8,21.25,,0,,,,31 years 102 days
+7.0,23/01/1982,West Indies,Melbourne Cricket Ground,10,16,4.00,0/25,8,24.38,,0,,,,31 years 106 days
+8.0,24/01/1982,West Indies,Melbourne Cricket Ground,15*,31,7.75,1/37,9,25.78,1,1,,,,31 years 107 days
+9.0,26/01/1982,West Indies,Sydney Cricket Ground,-,31,7.75,1/33,10,26.50,,1,,,,31 years 109 days
+10.0,27/01/1982,West Indies,Sydney Cricket Ground,5*,36,9.00,1/50,11,28.64,,1,,,,31 years 110 days

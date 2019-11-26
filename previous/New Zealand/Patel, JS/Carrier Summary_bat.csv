@@ -1,0 +1,46 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,31/08/2005,Zimbabwe,Harare Sports Club,-,0,,1/47,1,47.00,,0,,,,25 years 115 days
+2.0,02/09/2005,India,Harare Sports Club,-,0,,1/60,2,53.50,1,1,,,,25 years 117 days
+3.0,23/10/2005,South Africa,Mangaung Oval,-,0,,2/48,4,38.75,,1,,,,25 years 168 days
+4.0,06/01/2006,Sri Lanka,Westpac Stadium,-,0,,2/23,6,29.67,,1,,,,25 years 243 days
+5.0,18/02/2006,West Indies,Westpac Stadium,-,0,,2/46,8,28.00,1,2,,,,25 years 286 days
+6.0,22/02/2006,West Indies,Queenstown Events Centre,-,0,,1/14,9,26.44,,2,,,,25 years 290 days
+7.0,25/02/2006,West Indies,AMI Stadium,-,0,,3/42,12,23.33,,2,,,,25 years 293 days
+8.0,01/03/2006,West Indies,McLean Park,-,0,,0/54,12,27.83,1,3,,,,25 years 297 days
+9.0,04/03/2006,West Indies,Eden Park,-,0,,1/58,13,30.15,1,4,,,,25 years 300 days
+10.0,16/10/2006,South Africa,Brabourne Stadium,2,2,2.00,3/11,16,25.19,1,5,,,,26 years 161 days
+11.0,20/10/2006,Sri Lanka,Brabourne Stadium,10,12,6.00,2/32,18,24.17,,5,,,,26 years 165 days
+12.0,06/01/2007,Sri Lanka,Eden Park,6,18,6.00,0/41,18,26.44,,5,,,,26 years 243 days
+13.0,14/01/2007,Australia,Bellerive Oval,4,22,5.50,1/64,19,28.42,,5,,,,26 years 251 days
+14.0,16/01/2007,England,Bellerive Oval,-,22,5.50,2/34,21,27.33,1,6,,,,26 years 253 days
+15.0,28/01/2007,Australia,WACA Ground,-,22,5.50,1/67,22,29.14,1,7,,,,26 years 265 days
+16.0,30/01/2007,England,WACA Ground,-,22,5.50,1/53,23,30.17,,7,,,,26 years 267 days
+17.0,20/02/2007,Australia,Seddon Park,0*,22,5.50,2/70,25,30.56,,7,,,,26 years 288 days
+18.0,16/03/2007,England,Darren Sammy National Cricket Stadium,-,22,5.50,0/42,25,32.24,,7,,,,26 years 312 days
+19.0,22/03/2007,Canada,Darren Sammy National Cricket Stadium,-,22,5.50,3/25,28,29.68,,7,,,,26 years 318 days
+20.0,09/04/2007,Ireland,Providence Stadium,-,22,5.50,2/32,30,28.77,,7,,,,26 years 336 days
+21.0,14/04/2007,South Africa,National Cricket Stadium (Grenada),-,22,5.50,0/36,30,29.97,1,8,,,,26 years 341 days
+22.0,20/04/2007,Australia,National Cricket Stadium (Grenada),0*,22,5.50,2/48,32,29.59,,8,,,,26 years 347 days
+23.0,24/04/2007,Sri Lanka,Sabina Park,34,56,11.20,0/62,32,31.53,,8,,,,26 years 351 days
+24.0,30/11/2007,South Africa,St George's Park,-,56,11.20,1/39,33,31.76,1,9,,,,27 years 206 days
+25.0,02/12/2007,South Africa,Newlands,-,56,11.20,0/54,33,33.39,,9,,,,27 years 208 days
+26.0,16/12/2007,Australia,Sydney Cricket Ground,-,56,11.20,,33,33.39,,9,,,,27 years 222 days
+27.0,20/12/2007,Australia,Bellerive Oval,1*,57,11.40,0/58,33,35.15,,9,,,,27 years 226 days
+28.0,09/02/2008,England,Westpac Stadium,-,57,11.40,2/14,35,33.54,1,10,,,,27 years 277 days
+29.0,23/02/2008,England,AMI Stadium,-,57,11.40,1/33,36,33.53,,10,,,,27 years 291 days
+30.0,01/07/2008,Ireland,Mannofield Park,-,57,11.40,1/24,37,33.27,,10,,,,28 years 55 days
+31.0,11/10/2008,Bangladesh,Shere Bangla National Stadium,4*,61,12.20,0/15,37,33.68,,10,,,,28 years 157 days
+32.0,14/10/2008,Bangladesh,Zahur Ahmed Chowdhury Stadium,-,61,12.20,2/29,39,32.69,,10,,,,28 years 160 days
+33.0,03/01/2009,West Indies,AMI Stadium,-,61,12.20,1/39,40,32.85,,10,,,,28 years 241 days
+34.0,07/01/2009,West Indies,Westpac Stadium,-,61,12.20,1/8,41,32.24,,10,,,,28 years 245 days
+35.0,01/02/2009,Australia,WACA Ground,2*,63,12.60,1/47,42,32.60,,10,,,,28 years 270 days
+36.0,06/02/2009,Australia,Melbourne Cricket Ground,-,63,12.60,0/38,42,33.50,,10,,,,28 years 275 days
+37.0,08/02/2009,Australia,Sydney Cricket Ground,9,72,12.00,0/25,42,34.10,1,11,,,,28 years 277 days
+38.0,08/03/2009,India,AMI Stadium,0*,72,12.00,0/37,42,34.98,,11,,,,28 years 305 days
+39.0,05/10/2009,Australia,SuperSport Park,16*,88,14.67,0/44,42,36.02,1,12,,,,29 years 150 days
+40.0,31/12/2016,Bangladesh,Saxton Oval,-,88,14.67,1/40,43,36.12,1,13,,,,36 years 238 days
+41.0,01/03/2017,South Africa,Seddon Park,-,88,14.67,2/57,45,35.78,,13,,,,36 years 298 days
+42.0,04/03/2017,South Africa,Eden Park,0,88,12.57,2/26,47,34.81,,13,,,,36 years 301 days
+43.0,24/05/2017,Bangladesh,Castle Avenue,7*,95,13.57,2/55,49,34.51,,13,,,,37 years 16 days

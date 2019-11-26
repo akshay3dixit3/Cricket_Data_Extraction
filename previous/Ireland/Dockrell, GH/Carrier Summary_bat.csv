@@ -1,0 +1,90 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,15/04/2010,West Indies,Sabina Park,0,0,0.00,1/34,1,34.00,1,1,,,,17 years 266 days
+2.0,01/07/2010,Kenya,Hazelaarweg,-,0,0.00,1/35,2,34.50,1,2,,,,17 years 343 days
+3.0,03/07/2010,Afghanistan,Hazelaarweg,-,0,0.00,1/37,3,35.33,2,4,,,,17 years 345 days
+4.0,05/07/2010,Scotland,Sportpark Westvliet,-,0,0.00,0/15,3,40.33,,4,,,,17 years 347 days
+5.0,07/07/2010,Canada,VRA Ground,-,0,0.00,2/22,5,28.60,1,5,,,,17 years 349 days
+6.0,09/07/2010,Netherlands,VRA Ground,0,0,0.00,4/35,9,19.78,,5,,,,17 years 351 days
+7.0,10/07/2010,Scotland,VRA Ground,-,0,0.00,2/42,11,20.00,,5,,,,17 years 352 days
+8.0,15/07/2010,Bangladesh,Civil Service Cricket Club,-,0,0.00,0/36,11,23.27,1,6,,,,17 years 357 days
+9.0,16/07/2010,Bangladesh,Civil Service Cricket Club,5*,5,2.50,1/21,12,23.08,,6,,,,17 years 358 days
+10.0,16/08/2010,Netherlands,Castle Avenue,-,5,2.50,1/31,13,23.69,,6,,,,18 years 24 days
+11.0,18/08/2010,Netherlands,Castle Avenue,-,5,2.50,0/20,13,25.23,,6,,,,18 years 26 days
+12.0,06/09/2010,Canada,"Cricket, Skating & Curling Club",2*,7,3.50,0/27,13,27.31,,6,,,,18 years 45 days
+13.0,07/09/2010,Canada,"Cricket, Skating & Curling Club",-,7,3.50,0/62,13,32.08,,6,,,,18 years 46 days
+14.0,26/09/2010,Zimbabwe,Harare Sports Club,0,7,2.33,3/27,16,27.75,,6,,,,18 years 65 days
+15.0,28/09/2010,Zimbabwe,Harare Sports Club,0*,7,2.33,1/47,17,28.88,1,7,,,,18 years 67 days
+16.0,30/09/2010,Zimbabwe,Harare Sports Club,6*,13,4.33,3/41,20,26.60,1,8,,,,18 years 69 days
+17.0,25/02/2011,Bangladesh,Shere Bangla National Stadium,4*,17,5.67,2/23,22,25.23,1,9,,,,18 years 217 days
+18.0,02/03/2011,England,M Chinnaswamy Stadium,-,17,5.67,1/68,23,27.09,,9,,,,18 years 222 days
+19.0,06/03/2011,India,M Chinnaswamy Stadium,3,20,5.00,2/49,25,26.88,,9,,,,18 years 226 days
+20.0,11/03/2011,West Indies,Punjab Cricket Association IS Bindra Stadium,19,39,7.80,1/15,26,26.42,1,10,,,,18 years 231 days
+21.0,15/03/2011,South Africa,Eden Gardens,16,55,9.17,1/37,27,26.81,1,11,,,,18 years 235 days
+22.0,18/03/2011,Netherlands,Eden Gardens,-,55,9.17,0/15,27,27.37,,11,,,,18 years 238 days
+23.0,12/07/2011,Scotland,Grange Cricket Club,-,55,9.17,2/58,29,27.48,1,12,,,,18 years 354 days
+24.0,25/08/2011,England,Castle Avenue,5*,60,10.00,0/24,29,28.31,,12,,,,19 years 33 days
+25.0,19/09/2011,Canada,Castle Avenue,-,60,10.00,1/31,30,28.40,1,13,,,,19 years 58 days
+26.0,20/09/2011,Canada,Castle Avenue,8*,68,11.33,2/27,32,27.47,,13,,,,19 years 59 days
+27.0,18/02/2012,Kenya,Mombasa Sports Ground,3,71,10.14,1/35,33,27.70,,13,,,,19 years 210 days
+28.0,20/02/2012,Kenya,Mombasa Sports Ground,0*,71,10.14,2/18,35,26.63,,13,,,,19 years 212 days
+29.0,23/06/2012,Australia,Civil Service Cricket Club,-,71,10.14,,35,26.63,,13,,,,19 years 336 days
+30.0,05/07/2012,Afghanistan,Castle Avenue,9,80,10.00,2/8,37,25.41,,13,,,,19 years 348 days
+31.0,23/05/2013,Pakistan,Castle Avenue,-,80,10.00,0/45,37,26.62,,13,,,,20 years 305 days
+32.0,26/05/2013,Pakistan,Castle Avenue,3*,83,10.38,1/32,38,26.76,,13,,,,20 years 308 days
+33.0,07/07/2013,Netherlands,VRA Ground,1*,84,10.50,1/25,39,26.72,,13,,,,20 years 350 days
+34.0,09/07/2013,Netherlands,VRA Ground,-,84,10.50,1/53,40,27.38,1,14,,,,20 years 352 days
+35.0,03/09/2013,England,The Village,-,84,10.50,0/73,40,29.20,,14,,,,21 years 42 days
+36.0,06/09/2013,Scotland,Civil Service Cricket Club,4*,88,11.00,4/24,44,27.09,1,15,,,,21 years 45 days
+37.0,08/09/2013,Scotland,Civil Service Cricket Club,-,88,11.00,0/25,44,27.66,1,16,,,,21 years 47 days
+38.0,23/02/2014,West Indies,Sabina Park,1,89,9.89,1/48,45,28.11,,16,,,,21 years 215 days
+39.0,06/05/2014,Sri Lanka,Castle Avenue,18*,107,11.89,1/45,46,28.48,1,17,,,,21 years 287 days
+40.0,10/01/2015,Afghanistan,Dubai International Cricket Stadium,-,107,11.89,4/35,50,26.90,1,18,,,,22 years 171 days
+41.0,12/01/2015,Scotland,Dubai International Cricket Stadium,-,107,11.89,0/28,50,27.46,,18,,,,22 years 173 days
+42.0,17/01/2015,Afghanistan,Dubai International Cricket Stadium,2*,109,12.11,1/44,51,27.78,,18,,,,22 years 178 days
+43.0,16/02/2015,West Indies,Saxton Oval,-,109,12.11,3/50,54,27.17,2,20,,,,22 years 208 days
+44.0,25/02/2015,United Arab Emirates,Brisbane Cricket Ground,7*,116,12.89,1/39,55,27.38,,20,,,,22 years 217 days
+45.0,03/03/2015,South Africa,Manuka Oval,25,141,14.10,0/56,55,28.40,,20,,,,22 years 223 days
+46.0,07/03/2015,Zimbabwe,Bellerive Oval,5*,146,14.60,1/56,56,28.89,,20,,,,22 years 227 days
+47.0,10/03/2015,India,Seddon Park,6,152,13.82,0/44,56,29.68,,20,,,,22 years 230 days
+48.0,15/03/2015,Pakistan,Adelaide Oval,11,163,13.58,0/43,56,30.45,,20,,,,22 years 235 days
+49.0,08/05/2015,England,The Village,-,163,13.58,,56,30.45,,20,,,,22 years 289 days
+50.0,09/10/2015,Zimbabwe,Harare Sports Club,1,164,12.62,2/29,58,29.90,,20,,,,23 years 78 days
+51.0,11/10/2015,Zimbabwe,Harare Sports Club,10*,174,13.38,0/43,58,30.64,1,21,,,,23 years 80 days
+52.0,13/10/2015,Zimbabwe,Harare Sports Club,13,187,13.36,0/40,58,31.33,,21,,,,23 years 82 days
+53.0,12/07/2016,Afghanistan,Civil Service Cricket Club,6,193,12.87,1/52,59,31.68,2,23,,,,23 years 355 days
+54.0,25/09/2016,South Africa,Willowmoore Park,16,209,13.06,0/56,59,32.63,,23,,,,24 years 65 days
+55.0,27/09/2016,Australia,Willowmoore Park,8,217,12.76,0/36,59,33.24,,23,,,,24 years 67 days
+56.0,02/03/2017,United Arab Emirates,ICC Global Cricket Academy,5,222,12.33,3/27,62,32.06,,23,,,,24 years 223 days
+57.0,04/03/2017,United Arab Emirates,ICC Global Cricket Academy,-,222,12.33,2/41,64,31.70,,23,,,,24 years 225 days
+58.0,15/03/2017,Afghanistan,Greater Noida Sports Complex Ground,12,234,12.32,1/68,65,32.26,1,24,,,,24 years 236 days
+59.0,17/03/2017,Afghanistan,Greater Noida Sports Complex Ground,10*,244,12.84,2/45,67,31.97,,24,,,,24 years 238 days
+60.0,19/03/2017,Afghanistan,Greater Noida Sports Complex Ground,-,244,12.84,1/40,68,32.09,1,25,,,,24 years 240 days
+61.0,22/03/2017,Afghanistan,Greater Noida Sports Complex Ground,5*,249,13.11,0/44,68,32.74,,25,,,,24 years 243 days
+62.0,24/03/2017,Afghanistan,Greater Noida Sports Complex Ground,21,270,13.50,1/58,69,33.10,,25,,,,24 years 245 days
+63.0,05/05/2017,England,County Ground (Bristol),0,270,12.86,0/20,69,33.39,1,26,,,,24 years 287 days
+64.0,07/05/2017,England,Lord's,28,298,13.55,1/52,70,33.66,,26,,,,24 years 289 days
+65.0,12/05/2017,Bangladesh,The Village,-,298,13.55,0/24,70,34.00,,26,,,,24 years 294 days
+66.0,14/05/2017,New Zealand,The Village,1,299,13.00,0/42,70,34.60,,26,,,,24 years 296 days
+67.0,19/05/2017,Bangladesh,The Village,25,324,13.50,0/20,70,34.89,1,27,,,,24 years 301 days
+68.0,21/05/2017,New Zealand,The Village,16,340,13.60,1/65,71,35.31,,27,,,,24 years 303 days
+69.0,05/12/2017,Afghanistan,Sharjah Cricket Stadium,10,350,13.46,0/57,71,36.11,1,28,,,,25 years 135 days
+70.0,07/12/2017,Afghanistan,Sharjah Cricket Stadium,62*,412,15.85,1/42,72,36.19,1,29,,,,25 years 137 days
+71.0,10/12/2017,Afghanistan,Sharjah Cricket Stadium,-,412,15.85,4/28,76,34.66,1,30,,,,25 years 140 days
+72.0,11/01/2018,United Arab Emirates,ICC Global Cricket Academy,0*,412,15.85,1/51,77,34.87,1,31,,,,25 years 172 days
+73.0,13/01/2018,United Arab Emirates,ICC Global Cricket Academy,-,412,15.85,1/52,78,35.09,,31,,,,25 years 174 days
+74.0,16/01/2018,Scotland,ICC Global Cricket Academy,-,412,15.85,1/39,79,35.14,,31,,,,25 years 177 days
+75.0,18/01/2018,Scotland,ICC Global Cricket Academy,2*,414,15.92,2/43,81,34.80,1,32,,,,25 years 179 days
+76.0,06/03/2018,Papua New Guinea,Harare Sports Club,8*,422,16.23,0/50,81,35.42,,32,,,,25 years 226 days
+77.0,10/03/2018,West Indies,Harare Sports Club,14,436,16.15,0/38,81,35.89,,32,,,,25 years 230 days
+78.0,28/02/2019,Afghanistan,Rajiv Gandhi International Cricket Stadium,37,473,16.89,1/31,82,35.83,1,33,,,,26 years 220 days
+79.0,02/03/2019,Afghanistan,Rajiv Gandhi International Cricket Stadium,-,473,16.89,3/51,85,35.16,,33,,,,26 years 222 days
+80.0,05/03/2019,Afghanistan,Rajiv Gandhi International Cricket Stadium,54,527,18.17,1/17,86,34.95,,33,,,,26 years 225 days
+81.0,08/03/2019,Afghanistan,Rajiv Gandhi International Cricket Stadium,8,535,17.83,1/55,87,35.18,2,35,,,,26 years 228 days
+82.0,10/03/2019,Afghanistan,Rajiv Gandhi International Cricket Stadium,0,535,17.26,2/46,89,34.91,,35,,,,26 years 230 days
+83.0,03/05/2019,England,The Village,24,559,17.47,0/27,89,35.21,1,36,,,,26 years 284 days
+84.0,05/05/2019,West Indies,Castle Avenue,2,561,17.00,0/57,89,35.85,,36,,,,26 years 286 days
+85.0,11/05/2019,West Indies,The Village,-,561,17.00,0/53,89,36.45,,36,,,,26 years 292 days
+86.0,15/05/2019,Bangladesh,Castle Avenue,4,565,16.62,0/57,89,37.09,,36,,,,26 years 296 days
+87.0,19/05/2019,Afghanistan,Civil Service Cricket Club,14,579,16.54,0/26,89,37.38,,36,,,,26 years 300 days

@@ -1,0 +1,34 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,15/10/2010,Zimbabwe,Mangaung Oval,124,124,124.00,,0,,,0,,,,25 years 103 days
+2.0,17/10/2010,Zimbabwe,Senwes Park,-,124,124.00,,0,,,0,,,,25 years 105 days
+3.0,22/10/2010,Zimbabwe,Willowmoore Park,20,144,72.00,,0,,,0,,,,25 years 110 days
+4.0,29/10/2010,Pakistan,Sheikh Zayed Stadium,12*,156,78.00,,0,,1,1,,,,25 years 117 days
+5.0,31/10/2010,Pakistan,Sheikh Zayed Stadium,100,256,85.33,,0,,1,2,,,,25 years 119 days
+6.0,02/11/2010,Pakistan,Dubai International Cricket Stadium,4,260,65.00,,0,,,2,,,,25 years 121 days
+7.0,05/11/2010,Pakistan,Dubai International Cricket Stadium,27*,287,71.75,,0,,,2,,,,25 years 124 days
+8.0,08/11/2010,Pakistan,Dubai International Cricket Stadium,1,288,57.60,,0,,,2,,,,25 years 127 days
+9.0,12/01/2011,India,Kingsmead,5,293,48.83,,0,,1,3,,,,25 years 192 days
+10.0,15/01/2011,India,Wanderers Stadium,25,318,45.43,,0,,,3,,,,25 years 195 days
+11.0,18/01/2011,India,Newlands,10,328,41.00,,0,,,3,,,,25 years 198 days
+12.0,15/03/2011,Ireland,Eden Gardens,46,374,41.56,,0,,,3,,,,25 years 254 days
+13.0,17/01/2012,Sri Lanka,Mangaung Oval,13,387,38.70,,0,,1,4,,,,26 years 197 days
+14.0,20/01/2012,Sri Lanka,Diamond Oval,1,388,35.27,,0,,,4,,,,26 years 200 days
+15.0,22/01/2012,Sri Lanka,Wanderers Stadium,-,388,35.27,,0,,,4,,,,26 years 202 days
+16.0,19/01/2013,New Zealand,Boland Park,29,417,34.75,,0,,,4,,,,27 years 200 days
+17.0,22/01/2013,New Zealand,Diamond Oval,79,496,38.15,,0,,1,5,,,,27 years 203 days
+18.0,25/01/2013,New Zealand,Senwes Park,25,521,37.21,,0,,1,6,,,,27 years 206 days
+19.0,10/03/2013,Pakistan,Mangaung Oval,105*,626,44.71,,0,,,6,,,,27 years 250 days
+20.0,15/03/2013,Pakistan,SuperSport Park,0,626,41.73,,0,,,6,,,,27 years 255 days
+21.0,17/03/2013,Pakistan,Wanderers Stadium,17,643,40.19,,0,,,6,,,,27 years 257 days
+22.0,21/03/2013,Pakistan,Kingsmead,0,643,37.82,0/17,0,,,6,,,,27 years 261 days
+23.0,24/03/2013,Pakistan,Willowmoore Park,15,658,36.56,,0,,2,8,,,,27 years 264 days
+24.0,31/05/2013,Netherlands,VRA Ground,82,740,38.95,,0,,,8,,,,27 years 332 days
+25.0,06/06/2013,India,Sophia Gardens,6,746,37.30,,0,,,8,,,,27 years 338 days
+26.0,10/06/2013,Pakistan,Edgbaston,20,766,36.48,,0,,2,10,,,,27 years 342 days
+27.0,14/06/2013,West Indies,Sophia Gardens,73,839,38.14,,0,,,10,,,,27 years 346 days
+28.0,19/06/2013,England,Kennington Oval,0,839,36.48,,0,,,10,,,,27 years 351 days
+29.0,20/07/2013,Sri Lanka,R Premadasa Stadium,0,839,34.96,,0,,1,11,,,,28 years 17 days
+30.0,30/10/2013,Pakistan,Sharjah Cricket Stadium,0,839,33.56,,0,,,11,,,,28 years 119 days
+31.0,01/11/2013,Pakistan,Dubai International Cricket Stadium,4,843,32.42,,0,,1,12,,,,28 years 121 days

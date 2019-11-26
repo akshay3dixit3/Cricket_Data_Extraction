@@ -1,0 +1,28 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,11/01/2002,New Zealand,Melbourne Cricket Ground,13*,13,,0/31,0,,,0,,,,27 years 52 days
+2.0,15/01/2003,Sri Lanka,Brisbane Cricket Ground,-,13,,1/33,1,64.00,,0,,,,28 years 56 days
+3.0,19/01/2003,England,Adelaide Oval,-,13,,1/20,2,42.00,,0,,,,28 years 60 days
+4.0,21/01/2003,Sri Lanka,Melbourne Cricket Ground,-,13,,2/57,4,35.25,,0,,,,28 years 62 days
+5.0,23/01/2003,England,Sydney Cricket Ground,-,13,,2/22,6,27.17,,0,,,,28 years 64 days
+6.0,25/01/2003,England,Melbourne Cricket Ground,-,13,,1/46,7,29.86,,0,,,,28 years 66 days
+7.0,06/08/2003,Bangladesh,Marrara Cricket Ground,-,13,,0/32,7,34.43,,0,,,,28 years 259 days
+8.0,26/10/2003,India,Captain Roop Singh Stadium,11*,24,,1/67,8,38.50,,0,,,,28 years 340 days
+9.0,29/10/2003,New Zealand,Nahar Singh Stadium,-,24,,4/22,12,27.50,,0,,,,28 years 343 days
+10.0,01/11/2003,India,Wankhede Stadium,-,24,,0/20,12,29.17,,0,,,,28 years 346 days
+11.0,03/11/2003,New Zealand,Nehru Stadium (Pune),3*,27,,5/53,17,23.71,,0,,,,28 years 348 days
+12.0,12/11/2003,India,M Chinnaswamy Stadium,-,27,,0/43,17,26.24,,0,,,,28 years 357 days
+13.0,18/11/2003,India,Eden Gardens,-,27,,1/30,18,26.44,,0,,,,28 years 363 days
+14.0,09/01/2004,India,Melbourne Cricket Ground,0,27,27.00,2/52,20,26.40,,0,,,,29 years 49 days
+15.0,11/01/2004,Zimbabwe,Sydney Cricket Ground,-,27,27.00,5/22,25,22.00,1,1,,,,29 years 51 days
+16.0,16/01/2004,Zimbabwe,Bellerive Oval,-,27,27.00,1/25,26,22.12,,1,,,,29 years 56 days
+17.0,18/01/2004,India,Brisbane Cricket Ground,0,27,13.50,1/40,27,22.78,2,3,,,,29 years 58 days
+18.0,26/01/2004,Zimbabwe,Adelaide Oval,-,27,13.50,2/38,29,22.52,,3,,,,29 years 66 days
+19.0,28/01/2004,Zimbabwe,Melbourne Cricket Ground,0*,27,13.50,,29,22.52,,3,,,,29 years 68 days
+20.0,01/02/2004,India,WACA Ground,-,27,13.50,1/23,30,22.53,,3,,,,29 years 72 days
+21.0,06/02/2004,India,Melbourne Cricket Ground,-,27,13.50,1/38,31,23.03,,3,,,,29 years 77 days
+22.0,08/02/2004,India,Sydney Cricket Ground,-,27,13.50,2/12,33,22.00,,3,,,,29 years 79 days
+23.0,20/02/2004,Sri Lanka,Rangiri Dambulla International Stadium,-,27,13.50,0/28,33,22.85,,3,,,,29 years 91 days
+24.0,29/02/2004,Sri Lanka,Sinhalese Sports Club Ground,-,27,13.50,1/29,34,23.03,1,4,,,,29 years 100 days
+25.0,25/05/2004,Zimbabwe,Harare Sports Club,-,27,13.50,1/31,35,23.26,,4,,,,29 years 186 days

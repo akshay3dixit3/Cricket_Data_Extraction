@@ -1,0 +1,32 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,22/08/1980,England,Edgbaston,24,24,24.00,,0,,1,1,,,,26 years 72 days
+2.0,23/11/1980,New Zealand,Adelaide Oval,69,93,46.50,,0,,1,2,,,,26 years 165 days
+3.0,25/11/1980,New Zealand,Sydney Cricket Ground,79,172,57.33,,0,,3,5,,,,26 years 167 days
+4.0,06/12/1980,India,Melbourne Cricket Ground,23,195,48.75,,0,,,5,,,,26 years 178 days
+5.0,07/12/1980,New Zealand,Melbourne Cricket Ground,3,198,39.60,,0,,,5,,,,26 years 179 days
+6.0,18/12/1980,India,Sydney Cricket Ground,20,218,36.33,,0,,1,6,,,,26 years 190 days
+7.0,08/01/1981,India,Sydney Cricket Ground,13*,231,38.50,,0,,,6,,,,26 years 211 days
+8.0,11/01/1981,India,Melbourne Cricket Ground,-,231,38.50,,0,,,6,,,,26 years 214 days
+9.0,04/06/1981,England,Lord's,2,233,33.29,,0,,,6,,,,26 years 358 days
+10.0,08/06/1981,England,Headingley,22,255,31.88,,0,,,6,,,,26 years 362 days
+11.0,09/01/1982,Pakistan,Melbourne Cricket Ground,11,266,29.56,,0,,,6,,,,27 years 212 days
+12.0,19/01/1982,West Indies,Sydney Cricket Ground,37,303,30.30,,0,,,6,,,,27 years 222 days
+13.0,23/01/1982,West Indies,Melbourne Cricket Ground,0,303,27.55,,0,,,6,,,,27 years 226 days
+14.0,24/01/1982,West Indies,Melbourne Cricket Ground,18,321,26.75,,0,,2,8,,,,27 years 227 days
+15.0,13/02/1982,New Zealand,Eden Park,32,353,27.15,,0,,,8,,,,27 years 247 days
+16.0,17/02/1982,New Zealand,Carisbrook,18,371,26.50,,0,,1,9,,,,27 years 251 days
+17.0,20/02/1982,New Zealand,Basin Reserve,26*,397,28.36,,0,,,9,,,,27 years 254 days
+18.0,20/09/1982,Pakistan,Niaz Stadium,30*,427,30.50,,0,,1,10,,,,28 years 101 days
+19.0,08/10/1982,Pakistan,Gaddafi Stadium,11,438,29.20,,0,,,10,,,,28 years 119 days
+20.0,22/10/1982,Pakistan,National Stadium (Karachi),-,438,29.20,,0,,,10,,,,28 years 133 days
+21.0,09/01/1983,New Zealand,Melbourne Cricket Ground,78*,516,34.40,,0,,1,11,,,,28 years 212 days
+22.0,11/01/1983,England,Sydney Cricket Ground,49,565,35.31,,0,,,11,,,,28 years 214 days
+23.0,16/01/1983,England,Brisbane Cricket Ground,40,605,35.59,,0,,,11,,,,28 years 219 days
+24.0,18/01/1983,New Zealand,Sydney Cricket Ground,11,616,34.22,,0,,,11,,,,28 years 221 days
+25.0,22/01/1983,New Zealand,Melbourne Cricket Ground,21,637,33.53,,0,,1,12,,,,28 years 225 days
+26.0,23/01/1983,England,Melbourne Cricket Ground,54,691,34.55,,0,,,12,,,,28 years 226 days
+27.0,26/01/1983,England,Sydney Cricket Ground,23,714,34.00,,0,,,12,,,,28 years 229 days
+28.0,30/01/1983,England,Adelaide Oval,17,731,33.23,,0,,,12,,,,28 years 233 days
+29.0,31/01/1983,New Zealand,Adelaide Oval,24,755,32.83,,0,,,12,,,,28 years 234 days

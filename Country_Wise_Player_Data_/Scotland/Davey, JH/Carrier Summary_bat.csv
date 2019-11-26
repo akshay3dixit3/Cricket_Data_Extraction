@@ -1,0 +1,32 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,15/06/2010,Netherlands,Hazelaarweg,24,24,24.00,1/27,1,27.00,,0,,,,19 years 316 days
+2.0,19/06/2010,England,Grange Cricket Club,4,28,14.00,0/25,1,52.00,,0,,,,19 years 320 days
+3.0,16/08/2010,Afghanistan,Cambusdoon New Ground,7,35,11.67,0/33,1,85.00,,0,,,,20 years 13 days
+4.0,17/08/2010,Afghanistan,Cambusdoon New Ground,11,46,11.50,5/9,6,15.67,2,2,,,,20 years 14 days
+5.0,28/06/2011,Netherlands,Mannofield Park,6,52,10.40,3/27,9,13.44,2,4,,,,20 years 329 days
+6.0,29/06/2011,Netherlands,Mannofield Park,30,82,13.67,0/13,9,14.89,,4,,,,20 years 330 days
+7.0,12/07/2011,Ireland,Grange Cricket Club,48*,130,21.67,3/41,12,14.58,,4,,,,20 years 343 days
+8.0,13/07/2011,Sri Lanka,Grange Cricket Club,17,147,21.00,1/45,13,16.92,,4,,,,20 years 344 days
+9.0,12/07/2012,Canada,Cambusdoon New Ground,23,170,21.25,1/37,14,18.36,,4,,,,21 years 343 days
+10.0,08/03/2013,Afghanistan,Sharjah Cricket Stadium,64,234,26.00,1/63,15,21.33,,4,,,,22 years 217 days
+11.0,17/05/2013,Pakistan,Grange Cricket Club,20,254,25.40,,15,21.33,1,5,,,,22 years 287 days
+12.0,09/05/2014,England,Mannofield Park,0,254,23.09,3/28,18,19.33,,5,,,,23 years 279 days
+13.0,08/09/2014,Ireland,The Village,4,258,21.50,1/24,19,19.58,,5,,,,24 years 36 days
+14.0,10/09/2014,Ireland,The Village,40,298,22.92,2/44,21,19.81,,5,,,,24 years 38 days
+15.0,12/09/2014,Ireland,The Village,-,298,22.92,1/41,22,20.77,,5,,,,24 years 40 days
+16.0,08/01/2015,Afghanistan,ICC Global Cricket Academy,22*,320,24.62,0/46,22,22.86,,5,,,,24 years 158 days
+17.0,14/01/2015,Afghanistan,Sheikh Zayed Stadium,53*,373,28.69,6/28,28,18.96,1,6,,,,24 years 164 days
+18.0,19/01/2015,Ireland,ICC Global Cricket Academy,-,373,28.69,,28,18.96,,6,,,,24 years 169 days
+19.0,17/02/2015,New Zealand,University Oval,11*,384,29.54,3/40,31,18.42,,6,,,,24 years 198 days
+20.0,23/02/2015,England,Hagley Oval,9,393,28.07,4/68,35,18.26,1,7,,,,24 years 204 days
+21.0,26/02/2015,Afghanistan,University Oval,1,394,26.27,2/34,37,18.19,1,8,,,,24 years 207 days
+22.0,04/03/2015,Bangladesh,Saxton Oval,4*,398,26.53,2/68,39,19.00,,8,,,,24 years 213 days
+23.0,11/03/2015,Sri Lanka,Bellerive Oval,4,402,25.13,3/63,42,19.14,,8,,,,24 years 220 days
+24.0,14/03/2015,Australia,Bellerive Oval,26,428,25.18,1/38,43,19.58,,8,,,,24 years 223 days
+25.0,26/01/2016,Hong Kong,Mission Road,24,452,25.11,0/57,43,20.91,,8,,,,25 years 175 days
+26.0,14/08/2016,United Arab Emirates,Grange Cricket Club,-,452,25.11,0/49,43,22.05,1,9,,,,26 years 11 days
+27.0,22/01/2017,Hong Kong,Sheikh Zayed Stadium,5,457,24.05,1/33,44,22.30,,9,,,,26 years 172 days
+28.0,24/01/2017,United Arab Emirates,Dubai International Cricket Stadium,6,463,23.15,2/17,46,21.70,,9,,,,26 years 174 days
+29.0,17/06/2017,Zimbabwe,Grange Cricket Club,8,471,22.43,1/16,47,21.57,,9,,,,26 years 318 days

@@ -1,0 +1,21 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,19/01/2019,Pakistan,St George's Park,93,93,93.00,,0,,,0,,,,29 years 345 days
+2.0,22/01/2019,Pakistan,Kingsmead,80*,173,173.00,,0,,1,1,,,,29 years 348 days
+3.0,25/01/2019,Pakistan,SuperSport Park,-,173,173.00,,0,,1,2,,,,29 years 351 days
+4.0,27/01/2019,Pakistan,Wanderers Stadium,18,191,95.50,,0,,1,3,,,,29 years 353 days
+5.0,30/01/2019,Pakistan,Newlands,50*,241,120.50,,0,,1,4,,,,29 years 356 days
+6.0,03/03/2019,Sri Lanka,Wanderers Stadium,32*,273,136.50,,0,,1,5,,,,30 years 23 days
+7.0,06/03/2019,Sri Lanka,SuperSport Park,2,275,91.67,,0,,,5,,,,30 years 26 days
+8.0,10/03/2019,Sri Lanka,Kingsmead,50,325,81.25,,0,,1,6,,,,30 years 30 days
+9.0,16/03/2019,Sri Lanka,Newlands,28*,353,88.25,,0,,,6,,,,30 years 36 days
+10.0,30/05/2019,England,Kennington Oval,50,403,80.60,,0,,,6,,,,30 years 111 days
+11.0,02/06/2019,Bangladesh,Kennington Oval,41,444,74.00,,0,,1,7,,,,30 years 114 days
+12.0,05/06/2019,India,The Rose Bowl,22,466,66.57,,0,,,7,,,,30 years 117 days
+13.0,10/06/2019,West Indies,The Rose Bowl,-,466,66.57,,0,,,7,,,,30 years 122 days
+14.0,15/06/2019,Afghanistan,Sophia Gardens,-,466,66.57,,0,,2,9,,,,30 years 127 days
+15.0,19/06/2019,New Zealand,Edgbaston,67*,533,76.14,,0,,,9,,,,30 years 131 days
+16.0,23/06/2019,Pakistan,Lord's,36,569,71.13,,0,,,9,,,,30 years 135 days
+17.0,28/06/2019,Sri Lanka,Riverside Ground,-,569,71.13,,0,,,9,,,,30 years 140 days
+18.0,06/07/2019,Australia,Old Trafford,95,664,73.78,,0,,,9,,,,30 years 148 days

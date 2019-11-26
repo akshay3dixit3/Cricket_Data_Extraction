@@ -1,0 +1,11 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,05/02/2010,Bangladesh,McLean Park,69,69,69.00,,0,,,0,,,,31 years 103 days
+2.0,08/02/2010,Bangladesh,University Oval,28,97,48.50,,0,,,0,,,,31 years 106 days
+3.0,11/02/2010,Bangladesh,AMI Stadium,25,122,40.67,,0,,1,1,,,,31 years 109 days
+4.0,03/03/2010,Australia,McLean Park,40,162,40.50,,0,,1,2,,,,31 years 129 days
+5.0,06/03/2010,Australia,Eden Park,14,176,35.20,,0,,,2,,,,31 years 132 days
+6.0,09/03/2010,Australia,Seddon Park,5,181,30.17,,0,,1,3,,,,31 years 135 days
+7.0,10/08/2010,India,Rangiri Dambulla International Stadium,12,193,27.57,,0,,,3,,,,31 years 289 days
+8.0,20/08/2010,Sri Lanka,Rangiri Dambulla International Stadium,-,193,27.57,,0,,,3,,,,31 years 299 days

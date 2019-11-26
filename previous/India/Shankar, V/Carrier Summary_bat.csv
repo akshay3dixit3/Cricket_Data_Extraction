@@ -1,0 +1,15 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,18/01/2019,Australia,Melbourne Cricket Ground,-,0,,0/23,0,,1,1,,,,27 years 357 days
+2.0,23/01/2019,New Zealand,McLean Park,-,0,,0/19,0,,1,2,,,,27 years 362 days
+3.0,26/01/2019,New Zealand,Bay Oval,-,0,,0/17,0,,1,3,,,,28 years 0 days
+4.0,03/02/2019,New Zealand,Westpac Stadium,45,45,45.00,0/19,0,,,3,,,,28 years 8 days
+5.0,02/03/2019,Australia,Rajiv Gandhi International Stadium,-,45,45.00,0/22,0,,1,4,,,,28 years 35 days
+6.0,05/03/2019,Australia,Vidarbha Cricket Association Stadium,46,91,45.50,2/15,2,57.50,,4,,,,28 years 38 days
+7.0,08/03/2019,Australia,JSCA International Stadium Complex,32,123,41.00,0/44,2,79.50,1,5,,,,28 years 41 days
+8.0,10/03/2019,Australia,Punjab Cricket Association IS Bindra Stadium,26,149,37.25,0/29,2,94.00,,5,,,,28 years 43 days
+9.0,13/03/2019,Australia,Arun Jaitley Stadium,16,165,33.00,,2,94.00,,5,,,,28 years 46 days
+10.0,16/06/2019,Pakistan,Old Trafford,15*,180,36.00,2/22,4,52.50,1,6,,,,28 years 141 days
+11.0,22/06/2019,Afghanistan,The Rose Bowl,29,209,34.83,,4,52.50,1,7,,,,28 years 147 days
+12.0,27/06/2019,West Indies,Old Trafford,14,223,31.86,,4,52.50,,7,,,,28 years 152 days

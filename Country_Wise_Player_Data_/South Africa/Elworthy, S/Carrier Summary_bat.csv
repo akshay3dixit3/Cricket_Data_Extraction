@@ -1,0 +1,42 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,03/04/1998,Pakistan,Kingsmead,-,0,,2/25,2,12.50,,0,,,,33 years 38 days
+2.0,05/04/1998,Sri Lanka,Wanderers Stadium,14*,14,,2/34,4,14.75,,0,,,,33 years 40 days
+3.0,11/04/1998,Pakistan,Buffalo Park,-,14,,1/70,5,25.80,,0,,,,33 years 46 days
+4.0,17/04/1998,Pakistan,SuperSport Park,-,14,,3/28,8,19.63,,0,,,,33 years 52 days
+5.0,14/08/1998,Sri Lanka,Trent Bridge,0,14,14.00,0/43,8,25.00,1,1,,,,33 years 171 days
+6.0,30/10/1998,Sri Lanka,Bangabandhu National Stadium,-,14,14.00,3/21,11,20.09,,1,,,,33 years 248 days
+7.0,01/11/1998,West Indies,Bangabandhu National Stadium,-,14,14.00,1/48,12,22.42,,1,,,,33 years 250 days
+8.0,22/01/1999,West Indies,Wanderers Stadium,-,14,14.00,1/28,13,22.85,,1,,,,33 years 332 days
+9.0,27/01/1999,West Indies,Kingsmead,-,14,14.00,1/45,14,24.43,,1,,,,33 years 337 days
+10.0,30/01/1999,West Indies,St George's Park,-,14,14.00,2/30,16,23.25,,1,,,,33 years 340 days
+11.0,02/02/1999,West Indies,Newlands,-,14,14.00,0/25,16,24.81,3,4,,,,33 years 343 days
+12.0,25/03/1999,New Zealand,McLean Park,-,14,14.00,2/41,18,24.33,,4,,,,34 years 29 days
+13.0,26/03/1999,New Zealand,McLean Park,1*,15,15.00,0/37,18,26.39,,4,,,,34 years 30 days
+14.0,27/03/1999,New Zealand,Eden Park,-,15,15.00,2/26,20,25.05,,4,,,,34 years 31 days
+15.0,30/03/1999,New Zealand,Basin Reserve,-,15,15.00,,20,25.05,,4,,,,34 years 34 days
+16.0,19/05/1999,Sri Lanka,County Ground (Northampton),23,38,19.00,1/23,21,24.95,,4,,,,34 years 84 days
+17.0,22/05/1999,England,Kennington Oval,-,38,19.00,2/24,23,23.83,,4,,,,34 years 87 days
+18.0,26/05/1999,Kenya,VRA Ground,-,38,19.00,2/20,25,22.72,,4,,,,34 years 91 days
+19.0,29/05/1999,Zimbabwe,County Ground (Chelmsford),1,39,13.00,1/32,26,23.08,,4,,,,34 years 94 days
+20.0,05/06/1999,Pakistan,Trent Bridge,-,39,13.00,2/23,28,22.25,,4,,,,34 years 101 days
+21.0,10/06/1999,New Zealand,Edgbaston,-,39,13.00,0/35,28,23.50,,4,,,,34 years 106 days
+22.0,13/06/1999,Australia,Headingley,-,39,13.00,2/46,30,23.47,,4,,,,34 years 109 days
+23.0,17/06/1999,Australia,Edgbaston,1,40,10.00,0/59,30,25.43,,4,,,,34 years 113 days
+24.0,26/09/1999,India,Gymkhana Club Ground,0,40,8.00,0/14,30,25.90,,4,,,,34 years 214 days
+25.0,30/09/1999,Kenya,Gymkhana Club Ground,2*,42,8.40,0/21,30,26.60,,4,,,,34 years 218 days
+26.0,03/10/1999,India,Gymkhana Club Ground,9*,51,10.20,0/21,30,27.30,,4,,,,34 years 221 days
+27.0,13/02/2000,England,Wanderers Stadium,8*,59,11.80,0/19,30,27.93,,4,,,,34 years 354 days
+28.0,12/03/2000,India,Keenan Stadium,3,62,10.33,0/17,30,28.50,,4,,,,35 years 17 days
+29.0,15/03/2000,India,Nahar Singh Stadium,-,62,10.33,1/44,31,29.00,,4,,,,35 years 20 days
+30.0,17/03/2000,India,Reliance Stadium,-,62,10.33,0/52,31,30.68,1,5,,,,35 years 22 days
+31.0,19/03/2000,India,Vidarbha Cricket Association Ground,-,62,10.33,2/50,33,30.33,2,7,,,,35 years 24 days
+32.0,22/03/2000,India,Sharjah Cricket Stadium,-,62,10.33,3/17,36,28.28,1,8,,,,35 years 27 days
+33.0,24/03/2000,Pakistan,Sharjah Cricket Stadium,4*,66,11.00,2/43,38,27.92,1,9,,,,35 years 29 days
+34.0,27/03/2000,India,Sharjah Cricket Stadium,-,66,11.00,1/28,39,27.92,,9,,,,35 years 32 days
+35.0,31/03/2000,Pakistan,Sharjah Cricket Stadium,5*,71,11.83,0/21,39,28.46,,9,,,,35 years 36 days
+36.0,19/01/2002,New Zealand,Brisbane Cricket Ground,0,71,10.14,1/47,40,28.93,,9,,,,36 years 330 days
+37.0,20/01/2002,Australia,Brisbane Cricket Ground,11*,82,11.71,2/53,42,28.81,,9,,,,36 years 331 days
+38.0,22/01/2002,Australia,Sydney Cricket Ground,18,100,12.50,,42,28.81,,9,,,,36 years 333 days
+39.0,09/10/2002,Bangladesh,Diamond Oval,-,100,12.50,2/25,44,28.07,,9,,,,37 years 227 days

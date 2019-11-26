@@ -1,0 +1,41 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,16/05/1999,Australia,New Road,34,34,34.00,0/37,0,,,0,,,,24 years 242 days
+2.0,20/05/1999,Pakistan,Riverside Ground,76,110,55.00,2/36,2,36.50,,0,,,,24 years 246 days
+3.0,24/05/1999,Bangladesh,Grange Cricket Club,63,173,57.67,0/25,2,49.00,,0,,,,24 years 250 days
+4.0,27/05/1999,West Indies,Grace Road,24*,197,65.67,0/17,2,57.50,,0,,,,24 years 253 days
+5.0,31/05/1999,New Zealand,Grange Cricket Club,20,217,54.25,1/34,3,49.67,1,1,,,,24 years 257 days
+6.0,27/06/2006,Pakistan,Grange Cricket Club,9,226,45.20,,3,49.67,,1,,,,31 years 284 days
+7.0,15/12/2006,Bangladesh,Zahur Ahmed Chowdhury Stadium,29,255,42.50,,3,49.67,,1,,,,32 years 90 days
+8.0,17/12/2006,Bangladesh,Shere Bangla National Stadium,12,267,38.14,,3,49.67,,1,,,,32 years 92 days
+9.0,17/01/2007,Kenya,Mombasa Sports Ground,4,271,33.88,,3,49.67,,1,,,,32 years 123 days
+10.0,18/01/2007,Canada,Mombasa Sports Ground,11,282,31.33,,3,49.67,,1,,,,32 years 124 days
+11.0,21/01/2007,Kenya,Mombasa Sports Ground,46*,328,36.44,,3,49.67,,1,,1,1,32 years 127 days
+12.0,23/01/2007,Canada,Mombasa Sports Ground,44,372,37.20,,3,49.67,,1,,,1,32 years 129 days
+13.0,30/01/2007,Ireland,Gymkhana Club Ground,11,383,34.82,,3,49.67,,1,,,1,32 years 136 days
+14.0,31/01/2007,Canada,Ruaraka Sports Club Ground,64*,447,40.64,,3,49.67,,1,,,1,32 years 137 days
+15.0,02/02/2007,Netherlands,Jaffrey Sports Club Ground,10,457,38.08,,3,49.67,,1,,,1,32 years 139 days
+16.0,04/02/2007,Kenya,Gymkhana Club Ground,58,515,39.62,,3,49.67,,1,,,1,32 years 141 days
+17.0,05/02/2007,Bermuda,Ruaraka Sports Club Ground,79,594,42.43,0/11,3,53.33,,1,,,1,32 years 142 days
+18.0,07/02/2007,Kenya,Gymkhana Club Ground,0,594,39.60,,3,53.33,1,2,,,1,32 years 144 days
+19.0,14/03/2007,Australia,Warner Park,3,597,37.31,,3,53.33,,2,,,1,32 years 179 days
+20.0,20/03/2007,South Africa,Warner Park,4,601,35.35,,3,53.33,,2,,,1,32 years 185 days
+21.0,22/03/2007,Netherlands,Warner Park,4,605,33.61,,3,53.33,,2,,,1,32 years 187 days
+22.0,16/08/2007,India,Titwood,44,649,34.16,,3,53.33,,2,,,1,32 years 334 days
+23.0,02/07/2008,Ireland,Mannofield Park,115,764,38.20,,3,53.33,1,3,,,1,33 years 289 days
+24.0,03/07/2008,New Zealand,Mannofield Park,6,770,36.67,,3,53.33,,3,,,1,33 years 290 days
+25.0,29/07/2008,Netherlands,Castle Avenue,22,792,36.00,,3,53.33,1,4,,,1,33 years 316 days
+26.0,31/07/2008,Ireland,Castle Avenue,21,813,35.35,,3,53.33,,4,,,1,33 years 318 days
+27.0,12/08/2008,Kenya,Cambusdoon New Ground,9,822,34.25,,3,53.33,,4,,,1,33 years 330 days
+28.0,18/08/2008,England,Grange Cricket Club,60,882,35.28,,3,53.33,,4,,,1,33 years 336 days
+29.0,01/04/2009,Ireland,Willowmoore Park,1,883,33.96,,3,53.33,,4,,,1,34 years 197 days
+30.0,08/04/2009,Canada,Willowmoore Park,7,890,32.96,,3,53.33,,4,,,1,34 years 204 days
+31.0,19/04/2009,Afghanistan,Willowmoore Park,8,898,32.07,,3,53.33,1,5,,,1,34 years 215 days
+32.0,07/07/2009,Canada,Mannofield Park,119,1017,35.07,,3,53.33,1,6,,,1,34 years 294 days
+33.0,08/07/2009,Canada,Mannofield Park,59,1076,35.87,,3,53.33,,6,,,1,34 years 295 days
+34.0,22/08/2009,Ireland,Mannofield Park,36,1112,35.87,,3,53.33,,6,,,1,34 years 340 days
+35.0,28/08/2009,Australia,Grange Cricket Club,38,1150,35.94,,3,53.33,,6,,,1,34 years 346 days
+36.0,19/06/2010,England,Grange Cricket Club,48,1198,36.30,,3,53.33,,6,,,1,35 years 276 days
+37.0,16/08/2010,Afghanistan,Cambusdoon New Ground,31,1229,36.15,,3,53.33,,6,,,1,35 years 334 days
+38.0,17/08/2010,Afghanistan,Cambusdoon New Ground,2,1231,35.17,,3,53.33,,6,,,1,35 years 335 days

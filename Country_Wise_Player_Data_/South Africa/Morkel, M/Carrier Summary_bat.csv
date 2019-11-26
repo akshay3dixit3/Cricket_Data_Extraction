@@ -1,0 +1,120 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,06/06/2007,ACC Asian XI,M Chinnaswamy Stadium,4*,4,,3/68,3,22.67,,0,,,,22 years 242 days
+2.0,09/06/2007,ACC Asian XI,MA Chidambaram Stadium,25,29,29.00,2/48,5,23.20,1,1,,,,22 years 245 days
+3.0,10/06/2007,ACC Asian XI,MA Chidambaram Stadium,-,29,29.00,3/50,8,20.75,1,2,,,,22 years 246 days
+4.0,22/08/2007,Zimbabwe,Queens Sports Club,-,29,29.00,1/33,9,22.11,,2,,,,22 years 319 days
+5.0,25/08/2007,Zimbabwe,Harare Sports Club,-,29,29.00,2/39,11,21.64,,2,,,,22 years 322 days
+6.0,26/08/2007,Zimbabwe,Harare Sports Club,23*,52,52.00,1/44,12,23.50,,2,,,,22 years 323 days
+7.0,25/01/2008,West Indies,Newlands,0,52,26.00,4/36,16,19.88,,2,,,,23 years 110 days
+8.0,27/01/2008,West Indies,St George's Park,-,52,26.00,1/49,17,21.59,,2,,,,23 years 112 days
+9.0,01/02/2008,West Indies,Kingsmead,-,52,26.00,2/60,19,22.47,1,3,,,,23 years 117 days
+10.0,14/03/2008,Bangladesh,Shere Bangla National Stadium,-,52,26.00,1/32,20,22.95,,3,,,,23 years 159 days
+11.0,29/08/2008,England,Kennington Oval,6,58,19.33,0/51,20,25.50,,3,,,,23 years 327 days
+12.0,31/08/2008,England,Lord's,-,58,19.33,1/32,21,25.81,,3,,,,23 years 329 days
+13.0,03/09/2008,England,Sophia Gardens,-,58,19.33,,21,25.81,,3,,,,23 years 332 days
+14.0,31/10/2008,Kenya,Mangaung Oval,-,58,19.33,0/32,21,27.33,,3,,,,24 years 25 days
+15.0,07/11/2008,Bangladesh,Senwes Park,6*,64,21.33,2/44,23,26.87,,3,,,,24 years 32 days
+16.0,09/11/2008,Bangladesh,Willowmoore Park,-,64,21.33,1/61,24,28.29,,3,,,,24 years 34 days
+17.0,16/01/2009,Australia,Melbourne Cricket Ground,-,64,21.33,2/68,26,28.73,,3,,,,24 years 102 days
+18.0,26/01/2009,Australia,Adelaide Oval,-,64,21.33,1/41,27,29.19,3,6,,,,24 years 112 days
+19.0,30/01/2009,Australia,WACA Ground,-,64,21.33,2/45,29,28.72,,6,,,,24 years 116 days
+20.0,03/04/2009,Australia,Kingsmead,2,66,16.50,2/61,31,28.84,,6,,,,24 years 179 days
+21.0,17/04/2009,Australia,Wanderers Stadium,15,81,16.20,0/41,31,30.16,,6,,,,24 years 193 days
+22.0,27/11/2009,England,Newlands,-,81,16.20,3/39,34,28.65,,6,,,,25 years 51 days
+23.0,29/11/2009,England,St George's Park,7,88,14.67,0/19,34,29.21,,6,,,,25 years 53 days
+24.0,27/02/2010,India,Sardar Patel Stadium,-,88,14.67,0/48,34,30.62,,6,,,,25 years 143 days
+25.0,22/05/2010,West Indies,Sir Vivian Richards Stadium,-,88,14.67,3/40,37,29.22,,6,,,,25 years 227 days
+26.0,24/05/2010,West Indies,Sir Vivian Richards Stadium,-,88,14.67,3/58,40,28.48,,6,,,,25 years 229 days
+27.0,28/05/2010,West Indies,Windsor Park,14,102,14.57,4/21,44,26.36,,6,,,,25 years 233 days
+28.0,30/05/2010,West Indies,Windsor Park,-,102,14.57,1/56,45,27.02,,6,,,,25 years 235 days
+29.0,29/10/2010,Pakistan,Sheikh Zayed Stadium,-,102,14.57,1/32,46,27.13,,6,,,,26 years 22 days
+30.0,31/10/2010,Pakistan,Sheikh Zayed Stadium,1*,103,14.71,0/39,46,27.98,1,7,,,,26 years 24 days
+31.0,02/11/2010,Pakistan,Dubai International Cricket Stadium,2,105,13.13,4/47,50,26.68,,7,,,,26 years 26 days
+32.0,05/11/2010,Pakistan,Dubai International Cricket Stadium,-,105,13.13,3/48,53,26.08,,7,,,,26 years 29 days
+33.0,08/11/2010,Pakistan,Dubai International Cricket Stadium,-,105,13.13,0/45,53,26.92,2,9,,,,26 years 32 days
+34.0,12/01/2011,India,Kingsmead,0,105,11.67,2/12,55,26.16,,9,,,,26 years 97 days
+35.0,15/01/2011,India,Wanderers Stadium,6,111,11.10,2/32,57,25.81,1,10,,,,26 years 100 days
+36.0,18/01/2011,India,Newlands,0*,111,11.10,3/28,60,24.98,1,11,,,,26 years 103 days
+37.0,21/01/2011,India,St George's Park,-,111,11.10,1/13,61,24.79,,11,,,,26 years 106 days
+38.0,23/01/2011,India,SuperSport Park,0,111,10.09,4/52,65,24.06,2,13,,,,26 years 108 days
+39.0,24/02/2011,West Indies,Arun Jaitley Stadium,-,111,10.09,0/35,65,24.60,1,14,,,,26 years 140 days
+40.0,03/03/2011,Netherlands,Punjab Cricket Association IS Bindra Stadium,-,111,10.09,0/18,65,24.88,,14,,,,26 years 147 days
+41.0,06/03/2011,England,MA Chidambaram Stadium,1,112,9.33,2/16,67,24.37,,14,,,,26 years 150 days
+42.0,12/03/2011,India,Vidarbha Cricket Association Stadium,-,112,9.33,1/59,68,24.88,1,15,,,,26 years 156 days
+43.0,15/03/2011,Ireland,Eden Gardens,-,112,9.33,3/33,71,24.30,,15,,,,26 years 159 days
+44.0,25/03/2011,New Zealand,Shere Bangla National Stadium,3,115,8.85,3/46,74,23.93,,15,,,,26 years 169 days
+45.0,19/10/2011,Australia,SuperSport Park,1*,116,8.92,0/32,74,24.36,,15,,,,27 years 12 days
+46.0,23/10/2011,Australia,St George's Park,-,116,8.92,4/22,78,23.40,,15,,,,27 years 16 days
+47.0,28/10/2011,Australia,Kingsmead,-,116,8.92,1/61,79,23.87,,15,,,,27 years 21 days
+48.0,11/01/2012,Sri Lanka,Boland Park,1*,117,9.00,4/10,83,22.84,,15,,,,27 years 96 days
+49.0,14/01/2012,Sri Lanka,Buffalo Park,-,117,9.00,2/39,85,22.76,1,16,,,,27 years 99 days
+50.0,17/01/2012,Sri Lanka,Mangaung Oval,-,117,9.00,2/65,87,22.99,,16,,,,27 years 102 days
+51.0,20/01/2012,Sri Lanka,Diamond Oval,-,117,9.00,0/43,87,23.48,,16,,,,27 years 105 days
+52.0,22/01/2012,Sri Lanka,Wanderers Stadium,-,117,9.00,0/49,87,24.05,,16,,,,27 years 107 days
+53.0,25/02/2012,New Zealand,Westpac Stadium,-,117,9.00,2/49,89,24.06,,16,,,,27 years 141 days
+54.0,29/02/2012,New Zealand,McLean Park,-,117,9.00,5/38,94,23.18,,16,,,,27 years 145 days
+55.0,24/08/2012,England,Sophia Gardens,-,117,9.00,0/19,94,23.38,,16,,,,27 years 322 days
+56.0,28/08/2012,England,The Rose Bowl,-,117,9.00,2/29,96,23.20,,16,,,,27 years 326 days
+57.0,31/08/2012,England,Kennington Oval,7,124,8.86,1/41,97,23.38,,16,,,,27 years 329 days
+58.0,05/09/2012,England,Trent Bridge,-,124,8.86,2/41,99,23.32,1,17,,,,27 years 334 days
+59.0,22/01/2013,New Zealand,Diamond Oval,19*,143,10.21,3/71,102,23.33,,17,,,,28 years 108 days
+60.0,24/03/2013,Pakistan,Willowmoore Park,-,143,10.21,2/33,104,23.20,,17,,,,28 years 169 days
+61.0,06/06/2013,India,Sophia Gardens,8,151,10.07,0/27,104,23.46,,17,,,,28 years 243 days
+62.0,20/07/2013,Sri Lanka,R Premadasa Stadium,0,151,9.44,2/34,106,23.34,,17,,,,28 years 287 days
+63.0,23/07/2013,Sri Lanka,R Premadasa Stadium,-,151,9.44,3/34,109,23.01,,17,,,,28 years 290 days
+64.0,26/07/2013,Sri Lanka,Pallekele International Cricket Stadium,-,151,9.44,0/29,109,23.28,,17,,,,28 years 293 days
+65.0,28/07/2013,Sri Lanka,Pallekele International Cricket Stadium,0,151,8.88,1/62,110,23.63,,17,,,,28 years 295 days
+66.0,31/07/2013,Sri Lanka,R Premadasa Stadium,0,151,8.39,1/78,111,24.12,,17,,,,28 years 298 days
+67.0,30/10/2013,Pakistan,Sharjah Cricket Stadium,4,155,8.16,2/23,113,23.89,,17,,,,29 years 23 days
+68.0,01/11/2013,Pakistan,Dubai International Cricket Stadium,5,160,8.00,3/38,116,23.60,,17,,,,29 years 25 days
+69.0,06/11/2013,Pakistan,Sheikh Zayed Stadium,0*,160,8.00,2/35,118,23.50,,17,,,,29 years 30 days
+70.0,08/11/2013,Pakistan,Sheikh Zayed Stadium,-,160,8.00,0/44,118,23.87,2,19,,,,29 years 32 days
+71.0,24/11/2013,Pakistan,Newlands,17,177,8.43,3/39,121,23.60,,19,,,,29 years 48 days
+72.0,05/12/2013,India,Wanderers Stadium,-,177,8.43,1/29,122,23.65,,19,,,,29 years 59 days
+73.0,08/12/2013,India,Kingsmead,-,177,8.43,2/34,124,23.54,,19,,,,29 years 62 days
+74.0,06/07/2014,Sri Lanka,R Premadasa Stadium,-,177,8.43,2/39,126,23.48,1,20,,,,29 years 272 days
+75.0,09/07/2014,Sri Lanka,Pallekele International Cricket Stadium,0,177,8.05,1/58,127,23.75,1,21,,,,29 years 275 days
+76.0,12/07/2014,Sri Lanka,Mahinda Rajapaksha International Cricket Stadium,-,177,8.05,2/49,129,23.76,1,22,,,,29 years 278 days
+77.0,27/08/2014,Australia,Harare Sports Club,-,177,8.05,2/63,131,23.88,,22,,,,29 years 324 days
+78.0,02/09/2014,Australia,Harare Sports Club,0,177,7.70,1/51,132,24.08,,22,,,,29 years 330 days
+79.0,04/09/2014,Zimbabwe,Harare Sports Club,-,177,7.70,1/41,133,24.21,,22,,,,29 years 332 days
+80.0,06/09/2014,Australia,Harare Sports Club,-,177,7.70,2/58,135,24.28,,22,,,,29 years 334 days
+81.0,21/10/2014,New Zealand,Bay Oval,-,177,7.70,2/39,137,24.21,,22,,,,30 years 14 days
+82.0,24/10/2014,New Zealand,Bay Oval,0*,177,7.70,1/44,138,24.36,,22,,,,30 years 17 days
+83.0,27/10/2014,New Zealand,Seddon Park,-,177,7.70,,138,24.36,,22,,,,30 years 20 days
+84.0,14/11/2014,Australia,WACA Ground,22*,199,8.65,1/56,139,24.58,1,23,,,,30 years 38 days
+85.0,16/11/2014,Australia,WACA Ground,-,199,8.65,5/21,144,23.88,2,25,,,,30 years 40 days
+86.0,19/11/2014,Australia,Manuka Oval,0*,199,8.65,2/84,146,24.12,,25,,,,30 years 43 days
+87.0,23/11/2014,Australia,Sydney Cricket Ground,-,199,8.65,2/69,148,24.26,,25,,,,30 years 47 days
+88.0,16/01/2015,West Indies,Kingsmead,2*,201,8.74,0/36,148,24.51,,25,,,,30 years 101 days
+89.0,18/01/2015,West Indies,Wanderers Stadium,-,201,8.74,2/43,150,24.47,,25,,,,30 years 103 days
+90.0,21/01/2015,West Indies,Buffalo Park,-,201,8.74,1/26,151,24.48,,25,,,,30 years 106 days
+91.0,25/01/2015,West Indies,St George's Park,-,201,8.74,1/58,152,24.70,,25,,,,30 years 110 days
+92.0,15/02/2015,Zimbabwe,Seddon Park,-,201,8.74,2/49,154,24.69,1,26,,,,30 years 131 days
+93.0,22/02/2015,India,Melbourne Cricket Ground,2,203,8.46,2/59,156,24.76,,26,,,,30 years 138 days
+94.0,27/02/2015,West Indies,Sydney Cricket Ground,-,203,8.46,2/23,158,24.59,,26,,,,30 years 143 days
+95.0,03/03/2015,Ireland,Manuka Oval,-,203,8.46,3/34,161,24.34,,26,,,,30 years 147 days
+96.0,07/03/2015,Pakistan,Eden Park,6*,209,8.71,2/25,163,24.20,1,27,,,,30 years 151 days
+97.0,11/03/2015,United Arab Emirates,Westpac Stadium,-,209,8.71,2/23,165,24.04,,27,,,,30 years 155 days
+98.0,18/03/2015,Sri Lanka,Sydney Cricket Ground,-,209,8.71,1/27,166,24.06,,27,,,,30 years 162 days
+99.0,24/03/2015,New Zealand,Eden Park,-,209,8.71,3/59,169,23.98,,27,,,,30 years 168 days
+100.0,15/07/2015,Bangladesh,Zahur Ahmed Chowdhury Stadium,1*,210,8.75,0/36,169,24.20,,27,,,,30 years 281 days
+101.0,11/10/2015,India,Green Park,-,210,8.75,1/51,170,24.35,1,28,,,,31 years 4 days
+102.0,14/10/2015,India,Holkar Cricket Stadium,4,214,8.56,2/42,172,24.31,,28,,,,31 years 7 days
+103.0,18/10/2015,India,Saurashtra Cricket Association Stadium,-,214,8.56,4/39,176,23.98,,28,,,,31 years 11 days
+104.0,03/02/2016,England,Mangaung Oval,-,214,8.56,1/70,177,24.24,1,29,,,,31 years 119 days
+105.0,06/02/2016,England,St George's Park,-,214,8.56,2/31,179,24.15,,29,,,,31 years 122 days
+106.0,09/02/2016,England,SuperSport Park,-,214,8.56,1/63,180,24.36,1,30,,,,31 years 125 days
+107.0,19/06/2016,Australia,Kensington Oval,-,214,8.56,,180,24.36,,30,,,,31 years 256 days
+108.0,24/06/2016,West Indies,Kensington Oval,32*,246,9.84,1/68,181,24.60,,30,,,,31 years 261 days
+109.0,29/05/2017,England,Lord's,-,246,9.84,0/15,181,24.69,,30,,,,32 years 235 days
+110.0,03/06/2017,Sri Lanka,Kennington Oval,-,246,9.84,1/31,182,24.72,,30,,,,32 years 240 days
+111.0,07/06/2017,Pakistan,Edgbaston,0*,246,9.84,3/18,185,24.42,,30,,,,32 years 244 days
+112.0,11/06/2017,India,Kennington Oval,0,246,9.46,1/38,186,24.49,,30,,,,32 years 248 days
+113.0,01/02/2018,India,Kingsmead,0*,246,9.46,1/35,187,24.55,,30,,,,33 years 117 days
+114.0,04/02/2018,India,SuperSport Park,1,247,9.15,0/30,187,24.71,1,31,,,,33 years 120 days
+115.0,10/02/2018,India,Wanderers Stadium,-,247,9.15,1/55,188,24.87,,31,,,,33 years 126 days
+116.0,13/02/2018,India,St George's Park,1,248,8.86,0/44,188,25.10,,31,,,,33 years 129 days
+117.0,16/02/2018,India,SuperSport Park,20,268,9.24,0/42,188,25.32,,31,,,,33 years 132 days

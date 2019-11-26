@@ -1,0 +1,45 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,13/10/1978,Pakistan,Jinnah Stadium (Sialkot),11,11,11.00,,0,,1,1,,,,24 years 63 days
+2.0,03/11/1978,Pakistan,Zafar Ali (Sahiwal) Stadium,-,11,11.00,,0,,,1,,,,24 years 84 days
+3.0,09/12/1980,New Zealand,WACA Ground,23,34,17.00,,0,,1,2,,,,26 years 120 days
+4.0,18/12/1980,Australia,Sydney Cricket Ground,34,68,22.67,,0,,,2,,,,26 years 129 days
+5.0,21/12/1980,New Zealand,Brisbane Cricket Ground,16,84,21.00,,0,,,2,,,,26 years 132 days
+6.0,23/12/1980,New Zealand,Adelaide Oval,72,156,31.20,,0,,,2,,,,26 years 134 days
+7.0,08/01/1981,Australia,Sydney Cricket Ground,6,162,27.00,,0,,,2,,,,26 years 150 days
+8.0,10/01/1981,New Zealand,Melbourne Cricket Ground,5,167,23.86,,0,,,2,,,,26 years 152 days
+9.0,11/01/1981,Australia,Melbourne Cricket Ground,21*,188,26.86,,0,,,2,,,,26 years 153 days
+10.0,15/01/1981,Australia,Sydney Cricket Ground,25,213,26.63,,0,,1,3,,,,26 years 157 days
+11.0,18/01/1981,New Zealand,Brisbane Cricket Ground,13,226,25.11,0/12,0,,,3,,,,26 years 160 days
+12.0,14/02/1981,New Zealand,Eden Park,17,243,24.30,,0,,,3,,,,26 years 187 days
+13.0,15/02/1981,New Zealand,Seddon Park,9,252,22.91,,0,,,3,,,,26 years 188 days
+14.0,20/12/1981,England,Gandhi Stadium,28*,280,25.45,,0,,,3,,,,27 years 131 days
+15.0,27/01/1982,England,Barabati Stadium,34*,314,28.55,,0,,,3,,,,27 years 169 days
+16.0,02/06/1982,England,Headingley,20,334,27.83,0/34,0,,,3,,,,27 years 295 days
+17.0,04/06/1982,England,Kennington Oval,2,336,25.85,1/27,1,73.00,1,4,,,,27 years 297 days
+18.0,12/09/1982,Sri Lanka,Gandhi Sports Complex Ground,37*,373,28.69,,1,73.00,1,5,,,,28 years 32 days
+19.0,15/09/1982,Sri Lanka,Arun Jaitley Stadium,-,373,28.69,0/16,1,89.00,,5,,,,28 years 35 days
+20.0,26/09/1982,Sri Lanka,M Chinnaswamy Stadium,30*,403,31.00,,1,89.00,,5,,,,28 years 46 days
+21.0,03/12/1982,Pakistan,Jinnah Stadium (Gujwranwala),56*,459,35.31,,1,89.00,,5,,,,28 years 114 days
+22.0,17/12/1982,Pakistan,Ibn-e-Qasim Bagh Stadium,16,475,33.93,0/45,1,134.00,,5,,,,28 years 128 days
+23.0,31/12/1982,Pakistan,Gaddafi Stadium,4*,479,34.21,,1,134.00,,5,,,,28 years 142 days
+24.0,21/01/1983,Pakistan,National Stadium (Karachi),27,506,33.73,0/39,1,173.00,,5,,,,28 years 163 days
+25.0,09/03/1983,West Indies,Queen's Park Oval,2,508,31.75,,1,173.00,1,6,,,,28 years 210 days
+26.0,29/03/1983,West Indies,Albion Sports Complex,23,531,31.24,,1,173.00,1,7,,,,28 years 230 days
+27.0,07/04/1983,West Indies,Queen's Park (Old),25,556,30.89,0/12,1,185.00,,7,,,,28 years 239 days
+28.0,09/06/1983,West Indies,Old Trafford,89,645,33.95,,1,185.00,,7,,,,28 years 302 days
+29.0,11/06/1983,Zimbabwe,Grace Road,18*,663,34.89,,1,185.00,,7,,,,28 years 304 days
+30.0,13/06/1983,Australia,Trent Bridge,3,666,33.30,,1,185.00,1,8,,,,28 years 306 days
+31.0,15/06/1983,West Indies,Kennington Oval,9,675,32.14,,1,185.00,,8,,,,28 years 308 days
+32.0,18/06/1983,Zimbabwe,Nevill Ground,9,684,31.09,,1,185.00,1,9,,,,28 years 311 days
+33.0,20/06/1983,Australia,County Ground (Chelmsford),40,724,31.48,,1,185.00,,9,,,,28 years 313 days
+34.0,22/06/1983,England,Old Trafford,61,785,32.71,,1,185.00,,9,,,,28 years 315 days
+35.0,25/06/1983,West Indies,Lord's,11,796,31.84,,1,185.00,,9,,,,28 years 318 days
+36.0,10/09/1983,Pakistan,Lal Bahadur Shastri Stadium,2,798,30.69,,1,185.00,,9,,,,29 years 29 days
+37.0,02/10/1983,Pakistan,Sawai Mansingh Stadium,23*,821,31.58,,1,185.00,,9,,,,29 years 51 days
+38.0,13/10/1983,West Indies,Sher-I-Kashmir Stadium,7,828,30.67,,1,185.00,,9,,,,29 years 62 days
+39.0,05/12/1984,England,Nehru Stadium (Pune),37,865,30.89,,1,185.00,1,10,,,,30 years 116 days
+40.0,27/12/1984,England,Barabati Stadium,4,869,29.97,,1,185.00,,10,,,,30 years 138 days
+41.0,20/01/1985,England,M Chinnaswamy Stadium,8,877,29.23,0/14,1,199.00,,10,,,,30 years 162 days
+42.0,27/01/1985,England,Sector 16 Stadium,6,883,28.48,,1,199.00,,10,,,,30 years 169 days

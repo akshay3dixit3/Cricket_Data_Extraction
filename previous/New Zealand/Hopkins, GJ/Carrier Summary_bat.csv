@@ -1,0 +1,28 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,29/06/2004,England,Riverside Ground,-,0,,,0,,,0,3,,3,27 years 217 days
+2.0,02/07/2004,West Indies,Sophia Gardens,-,0,,,0,,,0,3,,6,27 years 220 days
+3.0,04/07/2004,England,County Ground (Bristol),-,0,,,0,,,0,2,,8,27 years 222 days
+4.0,08/07/2004,West Indies,The Rose Bowl,-,0,,,0,,,0,,,8,27 years 226 days
+5.0,10/07/2004,West Indies,Lord's,0,0,0.00,,0,,,0,,,8,27 years 228 days
+6.0,25/11/2007,South Africa,Kingsmead,0,0,0.00,,0,,,0,,,8,31 years 0 days
+7.0,16/12/2007,Australia,Sydney Cricket Ground,-,0,0.00,,0,,,0,,,8,31 years 21 days
+8.0,20/12/2007,Australia,Bellerive Oval,9,9,3.00,,0,,,0,,,8,31 years 25 days
+9.0,15/06/2008,England,Riverside Ground,25,34,8.50,,0,,,0,,,8,31 years 203 days
+10.0,18/06/2008,England,Edgbaston,-,34,8.50,,0,,,0,2,,10,31 years 206 days
+11.0,21/06/2008,England,County Ground (Bristol),7,41,8.20,,0,,,0,1,,11,31 years 209 days
+12.0,01/07/2008,Ireland,Mannofield Park,-,41,8.20,,0,,,0,5,,16,31 years 219 days
+13.0,24/09/2009,South Africa,SuperSport Park,13,54,9.00,,0,,,0,,,16,32 years 304 days
+14.0,29/09/2009,England,Wanderers Stadium,2,56,8.00,,0,,,0,,,16,32 years 309 days
+15.0,06/03/2010,Australia,Eden Park,35,91,11.38,,0,,,0,,,16,33 years 101 days
+16.0,09/03/2010,Australia,Seddon Park,45,136,15.11,,0,,,0,,1,17,33 years 104 days
+17.0,11/03/2010,Australia,Eden Park,20,156,15.60,,0,,,0,,,17,33 years 106 days
+18.0,13/03/2010,Australia,Westpac Stadium,26,182,16.55,,0,,,0,2,,19,33 years 108 days
+19.0,10/08/2010,India,Rangiri Dambulla International Stadium,10,192,16.00,,0,,,0,1,,20,33 years 258 days
+20.0,13/08/2010,Sri Lanka,Rangiri Dambulla International Stadium,11,203,15.62,,0,,,0,1,,21,33 years 261 days
+21.0,20/08/2010,Sri Lanka,Rangiri Dambulla International Stadium,-,203,15.62,,0,,,0,,,21,33 years 268 days
+22.0,25/08/2010,India,Rangiri Dambulla International Stadium,0,203,14.50,,0,,,0,4,,25,33 years 273 days
+23.0,28/11/2010,India,Nehru Stadium (Guwahati),16,219,14.60,,0,,,0,3,,28,34 years 3 days
+24.0,01/12/2010,India,Sawai Mansingh Stadium,11*,230,15.33,,0,,,0,,,28,34 years 6 days
+25.0,04/12/2010,India,Reliance Stadium,6,236,14.75,,0,,,0,,,28,34 years 9 days

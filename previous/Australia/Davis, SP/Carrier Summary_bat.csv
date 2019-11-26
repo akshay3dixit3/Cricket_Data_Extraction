@@ -1,0 +1,42 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,09/01/1986,New Zealand,Melbourne Cricket Ground,-,0,,2/30,2,15.00,,0,,,,26 years 62 days
+2.0,12/01/1986,India,Brisbane Cricket Ground,-,0,,1/11,3,13.67,,0,,,,26 years 65 days
+3.0,14/01/1986,New Zealand,Sydney Cricket Ground,-,0,,2/17,5,11.60,,0,,,,26 years 67 days
+4.0,16/01/1986,India,Melbourne Cricket Ground,6,6,6.00,0/16,5,14.80,,0,,,,26 years 69 days
+5.0,19/01/1986,New Zealand,WACA Ground,-,6,6.00,1/13,6,14.50,,0,,,,26 years 72 days
+6.0,21/01/1986,India,Sydney Cricket Ground,-,6,6.00,0/30,6,19.50,,0,,,,26 years 74 days
+7.0,26/01/1986,India,Adelaide Oval,-,6,6.00,0/38,6,25.83,,0,,,,26 years 79 days
+8.0,27/01/1986,New Zealand,Adelaide Oval,0*,6,6.00,2/46,8,25.13,,0,,,,26 years 80 days
+9.0,29/01/1986,New Zealand,Sydney Cricket Ground,-,6,6.00,3/25,11,20.55,,0,,,,26 years 82 days
+10.0,31/01/1986,India,Melbourne Cricket Ground,-,6,6.00,2/40,13,20.46,1,1,,,,26 years 84 days
+11.0,05/02/1986,India,Sydney Cricket Ground,-,6,6.00,3/10,16,17.25,,1,,,,26 years 89 days
+12.0,09/02/1986,India,Melbourne Cricket Ground,-,6,6.00,1/23,17,17.59,,1,,,,26 years 93 days
+13.0,19/03/1986,New Zealand,Carisbrook,0*,6,6.00,0/12,17,18.29,,1,,,,26 years 131 days
+14.0,22/03/1986,New Zealand,AMI Stadium,1*,7,7.00,2/51,19,19.05,,1,,,,26 years 134 days
+15.0,26/03/1986,New Zealand,Basin Reserve,-,7,7.00,2/37,21,19.00,1,2,,,,26 years 138 days
+16.0,29/03/1986,New Zealand,Eden Park,0,7,3.50,1/28,22,19.41,,2,,,,26 years 141 days
+17.0,11/04/1986,Pakistan,Sharjah Cricket Stadium,-,7,3.50,0/28,22,20.68,,2,,,,26 years 154 days
+18.0,07/09/1986,India,Sawai Mansingh Stadium,-,7,3.50,0/48,22,22.86,,2,,,,26 years 303 days
+19.0,09/09/1986,India,Sher-I-Kashmir Stadium,-,7,3.50,2/51,24,23.08,,2,,,,26 years 305 days
+20.0,24/09/1986,India,Lal Bahadur Shastri Stadium,-,7,3.50,0/17,24,23.79,,2,,,,26 years 320 days
+21.0,02/10/1986,India,Arun Jaitley Stadium,-,7,3.50,1/28,25,23.96,,2,,,,26 years 328 days
+22.0,05/10/1986,India,Sardar Patel Stadium,1,8,2.67,3/35,28,22.64,,2,,,,26 years 331 days
+23.0,07/10/1986,India,Madhavrao Scindia Cricket Ground,-,8,2.67,0/34,28,23.86,,2,,,,26 years 333 days
+24.0,01/01/1987,England,WACA Ground,1*,9,3.00,0/48,28,25.57,,2,,,,27 years 54 days
+25.0,25/01/1987,West Indies,Adelaide Oval,3*,12,4.00,1/21,29,25.41,1,3,,,,27 years 78 days
+26.0,26/01/1987,England,Adelaide Oval,-,12,4.00,1/18,30,25.17,,3,,,,27 years 79 days
+27.0,28/01/1987,West Indies,Sydney Cricket Ground,3,15,3.75,0/29,30,26.13,,3,,,,27 years 81 days
+28.0,01/02/1987,England,Melbourne Cricket Ground,-,15,3.75,1/20,31,25.94,1,4,,,,27 years 85 days
+29.0,06/02/1987,West Indies,Sydney Cricket Ground,-,15,3.75,2/31,33,25.30,,4,,,,27 years 90 days
+30.0,08/02/1987,England,Melbourne Cricket Ground,-,15,3.75,0/17,33,25.82,,4,,,,27 years 92 days
+31.0,11/02/1987,England,Sydney Cricket Ground,-,15,3.75,1/44,34,26.35,,4,,,,27 years 95 days
+32.0,03/04/1987,Pakistan,Sharjah Cricket Stadium,2*,17,4.25,1/26,35,26.34,,4,,,,27 years 146 days
+33.0,05/04/1987,India,Sharjah Cricket Stadium,-,17,4.25,0/22,35,26.97,,4,,,,27 years 148 days
+34.0,09/04/1987,England,Sharjah Cricket Stadium,3*,20,5.00,0/24,35,27.66,,4,,,,27 years 152 days
+35.0,17/01/1988,New Zealand,Brisbane Cricket Ground,-,20,5.00,0/33,35,28.60,1,5,,,,28 years 70 days
+36.0,20/01/1988,New Zealand,Sydney Cricket Ground,-,20,5.00,3/27,38,27.05,,5,,,,28 years 73 days
+37.0,22/01/1988,New Zealand,Melbourne Cricket Ground,-,20,5.00,2/27,40,26.38,,5,,,,28 years 75 days
+38.0,24/01/1988,New Zealand,Sydney Cricket Ground,-,20,5.00,1/23,41,26.29,,5,,,,28 years 77 days
+39.0,04/02/1988,England,Melbourne Cricket Ground,-,20,5.00,2/55,43,26.35,,5,,,,28 years 88 days

@@ -1,0 +1,26 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,02/04/1987,India,Sharjah Cricket Stadium,8,8,8.00,1/45,1,45.00,1,1,,,,24 years 55 days
+2.0,07/04/1987,Pakistan,Sharjah Cricket Stadium,2,10,5.00,3/38,4,20.75,1,2,,,,24 years 60 days
+3.0,09/04/1987,Australia,Sharjah Cricket Stadium,17,27,9.00,0/28,4,27.75,,2,,,,24 years 62 days
+4.0,18/11/1987,Pakistan,Gaddafi Stadium,8,35,8.75,1/43,5,30.80,,2,,,,24 years 285 days
+5.0,20/11/1987,Pakistan,National Stadium (Karachi),50*,85,21.25,1/41,6,32.50,,2,,,,24 years 287 days
+6.0,22/11/1987,Pakistan,Arbab Niaz Stadium,25,110,22.00,1/44,7,34.14,,2,,,,24 years 289 days
+7.0,04/02/1988,Australia,Melbourne Cricket Ground,18,128,21.33,1/30,8,33.63,2,4,,,,24 years 363 days
+8.0,09/03/1988,New Zealand,Carisbrook,48,176,25.14,1/45,9,34.89,1,5,,,,25 years 31 days
+9.0,12/03/1988,New Zealand,AMI Stadium,6*,182,26.00,1/27,10,34.10,,5,,,,25 years 34 days
+10.0,16/03/1988,New Zealand,McLean Park,14,196,24.50,0/50,10,39.10,,5,,,,25 years 38 days
+11.0,19/03/1988,New Zealand,Eden Park,25,221,24.56,1/42,11,39.36,,5,,,,25 years 41 days
+12.0,15/10/1989,Sri Lanka,Arun Jaitley Stadium,4,225,22.50,1/16,12,37.42,,5,,,,26 years 251 days
+13.0,19/10/1989,Australia,Lal Bahadur Shastri Stadium,-,225,22.50,0/39,12,40.67,,5,,,,26 years 255 days
+14.0,22/10/1989,Pakistan,Barabati Stadium,23,248,22.55,2/16,14,36.00,,5,,,,26 years 258 days
+15.0,25/10/1989,India,Green Park,2,250,20.83,0/24,14,37.71,,5,,,,26 years 261 days
+16.0,27/10/1989,West Indies,Captain Roop Singh Stadium,21,271,20.85,0/49,14,41.21,,5,,,,26 years 263 days
+17.0,30/10/1989,Pakistan,Vidarbha Cricket Association Ground,20,291,20.79,0/24,14,42.93,,5,,,,26 years 266 days
+18.0,14/02/1990,West Indies,Queen's Park Oval,-,291,20.79,1/25,15,41.73,,5,,,,27 years 8 days
+19.0,17/02/1990,West Indies,Queen's Park Oval,-,291,20.79,,15,41.73,,5,,,,27 years 11 days
+20.0,03/03/1990,West Indies,Sabina Park,28,319,21.27,0/47,15,44.87,,5,,,,27 years 25 days
+21.0,07/03/1990,West Indies,Bourda,1,320,20.00,1/39,16,44.50,,5,,,,27 years 29 days
+22.0,15/03/1990,West Indies,Bourda,7,327,19.24,0/41,16,47.06,1,6,,,,27 years 37 days
+23.0,03/04/1990,West Indies,Kensington Oval,-,327,19.24,1/52,17,47.35,,6,,,,27 years 56 days

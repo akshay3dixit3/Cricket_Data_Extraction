@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,28/04/2001,West Indies,Sabina Park,11,11,11.00,0/23,0,,,0,,,,21 years 114 days
+2.0,02/05/2001,West Indies,Antigua Recreation Ground,-,11,11.00,0/25,0,,1,1,,,,21 years 118 days
+3.0,05/05/2001,West Indies,National Cricket Stadium (Grenada),-,11,11.00,2/12,2,30.00,1,2,,,,21 years 121 days
+4.0,06/05/2001,West Indies,National Cricket Stadium (Grenada),-,11,11.00,0/31,2,45.50,,2,,,,21 years 122 days
+5.0,09/05/2001,West Indies,Kensington Oval,-,11,11.00,0/38,2,64.50,,2,,,,21 years 125 days
+6.0,16/05/2001,West Indies,Arnos Vale Ground,2,13,6.50,0/30,2,79.50,,2,,,,21 years 132 days
+7.0,30/09/2001,Zimbabwe,Harare Sports Club,32,45,15.00,1/33,3,64.00,,2,,,,21 years 269 days
+8.0,19/01/2002,New Zealand,Brisbane Cricket Ground,4,49,12.25,0/26,3,72.67,2,4,,,,22 years 15 days
+9.0,27/01/2002,New Zealand,Adelaide Oval,-,49,12.25,0/8,3,75.33,2,6,,,,22 years 23 days
+10.0,15/08/2002,Sri Lanka,National Cricket Stadium (Tangier),9,58,11.60,,3,75.33,1,7,,,,22 years 223 days
+11.0,18/08/2002,Pakistan,National Cricket Stadium (Tangier),10,68,11.33,1/7,4,58.25,,7,,,,22 years 226 days
+12.0,19/08/2002,Sri Lanka,National Cricket Stadium (Tangier),7,75,10.71,0/31,4,66.00,,7,,,,22 years 227 days
+13.0,20/09/2002,Kenya,R Premadasa Stadium,4*,79,11.29,3/30,7,42.00,,7,,,,22 years 259 days
+14.0,03/10/2002,Bangladesh,Senwes Park,2,81,10.13,0/24,7,45.43,,7,,,,22 years 272 days
+15.0,06/10/2002,Bangladesh,Willowmoore Park,-,81,10.13,0/27,7,49.29,,7,,,,22 years 275 days
+16.0,27/11/2002,Sri Lanka,Wanderers Stadium,6,87,9.67,,7,49.29,1,8,,,,22 years 327 days
+17.0,08/05/2005,West Indies,Sabina Park,-,87,9.67,,7,49.29,,8,,,,25 years 124 days
+18.0,15/05/2005,West Indies,Queen's Park Oval,-,87,9.67,1/23,8,46.00,1,9,,,,25 years 131 days
+19.0,17/08/2005,ACC Asian XI,SuperSport Park,0,87,8.70,,8,46.00,1,10,,,,25 years 225 days
+20.0,16/11/2005,India,Rajiv Gandhi International Stadium,11,98,8.91,,8,46.00,,10,,,,25 years 316 days
+21.0,19/11/2005,India,M Chinnaswamy Stadium,-,98,8.91,1/28,9,44.00,1,11,,,,25 years 319 days
+22.0,20/01/2008,West Indies,SuperSport Park,23,121,10.08,,9,44.00,,11,,,,28 years 16 days
+23.0,03/09/2008,England,Sophia Gardens,-,121,10.08,,9,44.00,,11,,,,28 years 243 days
+24.0,31/10/2008,Kenya,Mangaung Oval,19,140,10.77,,9,44.00,,11,,,,28 years 301 days
+25.0,02/11/2008,Kenya,Diamond Oval,-,140,10.77,,9,44.00,1,12,,,,28 years 303 days
+26.0,07/11/2008,Bangladesh,Senwes Park,27,167,11.93,,9,44.00,1,13,,,,28 years 308 days
+27.0,29/02/2012,New Zealand,McLean Park,17*,184,13.14,,9,44.00,1,14,,,,32 years 56 days
+28.0,05/09/2012,England,Trent Bridge,-,184,13.14,,9,44.00,1,15,,,,32 years 245 days

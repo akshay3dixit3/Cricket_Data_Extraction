@@ -1,0 +1,37 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,30/07/2006,Zimbabwe,Harare Sports Club,50,50,50.00,0/43,0,,1,1,,,,20 years 44 days
+2.0,02/08/2006,Zimbabwe,Harare Sports Club,15,65,32.50,1/31,1,74.00,,1,,,,20 years 47 days
+3.0,04/08/2006,Zimbabwe,Harare Sports Club,30,95,31.67,1/19,2,46.50,,1,,,,20 years 49 days
+4.0,06/08/2006,Zimbabwe,Harare Sports Club,-,95,31.67,0/28,2,60.50,,1,,,,20 years 51 days
+5.0,12/08/2006,Kenya,Gymkhana Club Ground,34*,129,43.00,0/14,2,67.50,1,2,,,,20 years 57 days
+6.0,13/08/2006,Kenya,Gymkhana Club Ground,15,144,36.00,0/23,2,79.00,,2,,,,20 years 58 days
+7.0,15/08/2006,Kenya,Gymkhana Club Ground,41*,185,46.25,0/8,2,83.00,1,3,,,,20 years 60 days
+8.0,07/10/2006,Sri Lanka,Punjab Cricket Association IS Bindra Stadium,34,219,43.80,0/63,2,114.50,2,5,,,,20 years 113 days
+9.0,11/10/2006,West Indies,Sawai Mansingh Stadium,7,226,37.67,0/16,2,122.50,,5,,,,20 years 117 days
+10.0,13/10/2006,Zimbabwe,Sawai Mansingh Stadium,0,226,32.29,0/34,2,139.50,,5,,,,20 years 119 days
+11.0,09/12/2006,Zimbabwe,Shere Bangla National Stadium,5,231,28.88,0/29,2,154.00,,5,,,,20 years 176 days
+12.0,15/12/2006,Scotland,Zahur Ahmed Chowdhury Stadium,-,231,28.88,0/12,2,160.00,,5,,,,20 years 182 days
+13.0,20/07/2007,Sri Lanka,P Sara Oval,28,259,28.78,1/42,3,120.67,,5,,,,21 years 33 days
+14.0,23/07/2007,Sri Lanka,R Premadasa Stadium,2,261,26.10,0/12,3,124.67,,5,,,,21 years 36 days
+15.0,25/07/2007,Sri Lanka,R Premadasa Stadium,7,268,24.36,1/28,4,100.50,,5,,,,21 years 38 days
+16.0,26/12/2007,New Zealand,Eden Park,4,272,22.67,1/21,5,84.60,1,6,,,,21 years 192 days
+17.0,28/12/2007,New Zealand,McLean Park,11*,283,23.58,1/69,6,82.00,,6,,,,21 years 194 days
+18.0,31/12/2007,New Zealand,Queenstown Events Centre,12,295,22.69,,6,82.00,,6,,,,21 years 197 days
+19.0,14/03/2008,South Africa,Shere Bangla National Stadium,20*,315,24.23,1/28,7,74.29,,6,,,,21 years 271 days
+20.0,18/03/2008,Ireland,Shere Bangla National Stadium,-,315,24.23,1/49,8,71.13,2,8,,,,21 years 275 days
+21.0,20/03/2008,Ireland,Shere Bangla National Stadium,1,316,22.57,5/42,13,47.00,1,9,,,,21 years 277 days
+22.0,22/03/2008,Ireland,Shere Bangla National Stadium,0*,316,22.57,0/37,13,49.85,1,10,,,,21 years 279 days
+23.0,08/04/2008,Pakistan,Gaddafi Stadium,7,323,21.53,2/41,15,45.93,,10,,,,21 years 296 days
+24.0,11/04/2008,Pakistan,Iqbal Stadium,26,349,21.81,1/22,16,44.44,,10,,,,21 years 299 days
+25.0,13/04/2008,Pakistan,Gaddafi Stadium,13,362,21.29,1/67,17,45.76,,10,,,,21 years 301 days
+26.0,16/04/2008,Pakistan,Multan Cricket Stadium,14,376,20.89,0/24,17,47.18,,10,,,,21 years 304 days
+27.0,19/04/2008,Pakistan,National Stadium (Karachi),1,377,19.84,0/31,17,49.00,1,11,,,,21 years 307 days
+28.0,12/06/2008,India,Shere Bangla National Stadium,5,382,19.10,1/45,18,48.78,,11,,,,21 years 361 days
+29.0,28/06/2008,India,National Stadium (Karachi),0*,382,19.10,1/38,19,48.21,1,12,,,,22 years 12 days
+30.0,30/06/2008,Sri Lanka,National Stadium (Karachi),5,387,18.43,2/51,21,46.05,,12,,,,22 years 14 days
+31.0,04/07/2008,Pakistan,National Stadium (Karachi),3,390,17.73,0/5,21,46.29,,12,,,,22 years 18 days
+32.0,06/09/2008,Australia,Marrara Cricket Ground,0,390,16.96,1/43,22,46.14,,12,,,,22 years 82 days
+33.0,01/12/2011,Pakistan,Shere Bangla National Stadium,1,391,16.29,,22,46.14,,12,,,,25 years 167 days
+34.0,06/12/2011,Pakistan,Zahur Ahmed Chowdhury Stadium,21,412,16.48,0/2,22,46.23,1,13,,,,25 years 172 days

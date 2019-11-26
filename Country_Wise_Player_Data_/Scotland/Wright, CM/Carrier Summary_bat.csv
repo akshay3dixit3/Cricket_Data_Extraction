@@ -1,0 +1,23 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,05/08/2006,Ireland,Cambusdoon New Ground,18,18,18.00,3/32,3,10.67,,0,,,,32 years 99 days
+2.0,06/08/2006,Netherlands,Cambusdoon New Ground,15*,33,33.00,1/23,4,13.75,,0,,,,32 years 100 days
+3.0,15/12/2006,Bangladesh,Zahur Ahmed Chowdhury Stadium,0,33,16.50,0/25,4,20.00,,0,,,,32 years 231 days
+4.0,17/12/2006,Bangladesh,Shere Bangla National Stadium,0,33,11.00,2/46,6,21.00,,0,,,,32 years 233 days
+5.0,17/01/2007,Kenya,Mombasa Sports Ground,10,43,10.75,1/53,7,25.57,,0,,,,32 years 264 days
+6.0,18/01/2007,Canada,Mombasa Sports Ground,5,48,9.60,1/37,8,27.00,,0,,,,32 years 265 days
+7.0,23/01/2007,Canada,Mombasa Sports Ground,14,62,10.33,4/29,12,20.42,,0,,,,32 years 270 days
+8.0,30/01/2007,Ireland,Gymkhana Club Ground,23*,85,14.17,1/47,13,22.46,,0,,,,32 years 277 days
+9.0,31/01/2007,Canada,Ruaraka Sports Club Ground,-,85,14.17,3/46,16,21.13,,0,,,,32 years 278 days
+10.0,02/02/2007,Netherlands,Jaffrey Sports Club Ground,17,102,14.57,3/39,19,19.84,,0,,,,32 years 280 days
+11.0,04/02/2007,Kenya,Gymkhana Club Ground,15*,117,16.71,1/20,20,19.85,,0,,,,32 years 282 days
+12.0,05/02/2007,Bermuda,Ruaraka Sports Club Ground,15,132,16.50,2/38,22,19.77,,0,,,,32 years 283 days
+13.0,07/02/2007,Kenya,Gymkhana Club Ground,30,162,18.00,0/20,22,20.68,,0,,,,32 years 285 days
+14.0,14/03/2007,Australia,Warner Park,4,166,16.60,1/58,23,22.30,,0,,,,32 years 320 days
+15.0,22/03/2007,Netherlands,Warner Park,1,167,15.18,0/17,23,23.04,1,1,,,,32 years 328 days
+16.0,16/08/2007,India,Titwood,37,204,17.00,1/46,24,24.00,,1,,,,33 years 109 days
+17.0,12/08/2008,Kenya,Cambusdoon New Ground,-,204,17.00,1/16,25,23.68,,1,,,,34 years 106 days
+18.0,18/08/2008,England,Grange Cricket Club,12,216,16.62,,25,23.68,,1,,,,34 years 112 days
+19.0,01/04/2009,Ireland,Willowmoore Park,19,235,16.79,1/48,26,24.62,,1,,,,34 years 338 days
+20.0,08/04/2009,Canada,Willowmoore Park,5,240,16.00,3/23,29,22.86,,1,,,,34 years 345 days

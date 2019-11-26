@@ -1,0 +1,36 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,11/12/1988,Pakistan,Adelaide Oval,-,0,,3/30,3,10.00,,0,,,,27 years 18 days
+2.0,13/12/1988,West Indies,Sydney Cricket Ground,-,0,,3/48,6,13.00,1,1,,,,27 years 20 days
+3.0,15/12/1988,West Indies,Melbourne Cricket Ground,4*,4,,0/39,6,19.50,,1,,,,27 years 22 days
+4.0,02/01/1989,Pakistan,WACA Ground,8,12,12.00,1/49,7,23.71,,1,,,,27 years 40 days
+5.0,10/01/1989,Pakistan,Melbourne Cricket Ground,-,12,12.00,1/18,8,23.00,,1,,,,27 years 48 days
+6.0,12/01/1989,West Indies,Sydney Cricket Ground,-,12,12.00,0/26,8,26.25,,1,,,,27 years 50 days
+7.0,14/01/1989,West Indies,Melbourne Cricket Ground,0,12,6.00,2/34,10,24.40,,1,,,,27 years 52 days
+8.0,16/01/1989,West Indies,Sydney Cricket Ground,13,25,8.33,4/44,14,20.57,,1,,,,27 years 54 days
+9.0,18/01/1989,West Indies,Sydney Cricket Ground,-,25,8.33,0/21,14,22.07,,1,,,,27 years 56 days
+10.0,21/10/1989,West Indies,MA Chidambaram Stadium,3*,28,9.33,2/27,16,21.00,,1,,,,27 years 332 days
+11.0,23/10/1989,Pakistan,Brabourne Stadium,0,28,7.00,1/29,17,21.47,,1,,,,27 years 334 days
+12.0,25/10/1989,Sri Lanka,Nehru Stadium (Margao),8*,36,9.00,1/39,18,22.44,,1,,,,27 years 336 days
+13.0,27/10/1989,India,M Chinnaswamy Stadium,1,37,7.40,0/27,18,23.94,,1,,,,27 years 338 days
+14.0,26/12/1989,Sri Lanka,Melbourne Cricket Ground,-,37,7.40,2/41,20,23.60,1,2,,,,28 years 33 days
+15.0,30/12/1989,Sri Lanka,WACA Ground,-,37,7.40,1/35,21,24.14,,2,,,,28 years 37 days
+16.0,03/01/1990,Pakistan,Melbourne Cricket Ground,-,37,7.40,0/16,21,24.90,1,3,,,,28 years 41 days
+17.0,04/01/1990,Sri Lanka,Melbourne Cricket Ground,0*,37,7.40,1/20,22,24.68,1,4,,,,28 years 42 days
+18.0,11/02/1990,Pakistan,Brisbane Cricket Ground,-,37,7.40,1/39,23,25.30,,4,,,,28 years 80 days
+19.0,08/03/1990,India,Seddon Park,-,37,7.40,3/36,26,23.77,,4,,,,28 years 105 days
+20.0,10/03/1990,New Zealand,Eden Park,-,37,7.40,0/28,26,24.85,,4,,,,28 years 107 days
+21.0,30/04/1990,Bangladesh,Sharjah Cricket Stadium,10*,47,9.40,1/15,27,24.48,,4,,,,28 years 158 days
+22.0,04/05/1990,Pakistan,Sharjah Cricket Stadium,9,56,9.33,0/55,27,26.52,,4,,,,28 years 162 days
+23.0,11/12/1990,New Zealand,Melbourne Cricket Ground,-,56,9.33,0/40,27,28.00,,4,,,,29 years 17 days
+24.0,20/03/1991,West Indies,Bourda,-,56,9.33,3/33,30,26.30,1,5,,,,29 years 116 days
+25.0,01/03/1992,India,Brisbane Cricket Ground,0*,56,9.33,1/49,31,27.03,,5,,,,30 years 98 days
+26.0,19/03/1993,New Zealand,Carisbrook,-,56,9.33,1/23,32,26.91,,5,,,,31 years 116 days
+27.0,21/03/1993,New Zealand,AMI Stadium,0,56,8.00,1/27,33,26.91,,5,,,,31 years 118 days
+28.0,24/03/1993,New Zealand,Basin Reserve,2,58,7.25,0/21,33,27.55,,5,,,,31 years 121 days
+29.0,27/03/1993,New Zealand,Seddon Park,10*,68,8.50,1/28,34,27.56,,5,,,,31 years 124 days
+30.0,28/03/1993,New Zealand,Eden Park,12*,80,10.00,1/46,35,28.09,,5,,,,31 years 125 days
+31.0,19/05/1993,England,Old Trafford,20,100,11.11,1/40,36,28.42,,5,,,,31 years 177 days
+32.0,21/05/1993,England,Edgbaston,-,100,11.11,0/51,36,29.83,,5,,,,31 years 179 days
+33.0,23/05/1993,England,Lord's,-,100,11.11,2/41,38,29.34,1,6,,,,31 years 181 days

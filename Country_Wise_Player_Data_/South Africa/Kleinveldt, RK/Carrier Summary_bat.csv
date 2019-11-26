@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,19/01/2013,New Zealand,Boland Park,26,26,26.00,2/37,2,18.50,,0,,,,29 years 310 days
+2.0,22/01/2013,New Zealand,Diamond Oval,0,26,13.00,2/45,4,20.50,,0,,,,29 years 313 days
+3.0,25/01/2013,New Zealand,Senwes Park,6,32,10.67,0/44,4,31.50,,0,,,,29 years 316 days
+4.0,10/03/2013,Pakistan,Mangaung Oval,-,32,10.67,4/22,8,18.50,1,1,,,,29 years 360 days
+5.0,17/03/2013,Pakistan,Wanderers Stadium,-,32,10.67,1/77,9,25.00,2,3,,,,30 years 2 days
+6.0,21/03/2013,Pakistan,Kingsmead,18,50,12.50,1/51,10,27.60,,3,,,,30 years 6 days
+7.0,31/05/2013,Netherlands,VRA Ground,-,50,12.50,1/48,11,29.45,,3,,,,30 years 77 days
+8.0,06/06/2013,India,Sophia Gardens,4,54,10.80,0/81,11,36.82,,3,,,,30 years 83 days
+9.0,19/06/2013,England,Kennington Oval,43,97,16.17,1/10,12,34.58,,3,,,,30 years 96 days
+10.0,28/07/2013,Sri Lanka,Pallekele International Cricket Stadium,8,105,15.00,0/33,12,37.33,1,4,,,,30 years 135 days

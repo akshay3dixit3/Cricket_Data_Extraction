@@ -1,0 +1,34 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,02/08/2015,Zimbabwe,Harare Sports Club,-,0,,0/65,0,,,0,,,,22 years 274 days
+2.0,04/08/2015,Zimbabwe,Harare Sports Club,-,0,,3/38,3,34.33,,0,,,,22 years 276 days
+3.0,07/08/2015,Zimbabwe,Harare Sports Club,-,0,,2/47,5,30.00,,0,,,,22 years 279 days
+4.0,19/08/2015,South Africa,SuperSport Park,0,0,0.00,0/55,5,41.00,,0,,,,22 years 291 days
+5.0,23/08/2015,South Africa,Senwes Park,-,0,0.00,1/59,6,44.00,,0,,,,22 years 295 days
+6.0,26/08/2015,South Africa,Kingsmead,5,5,2.50,0/55,6,53.17,1,1,,,,22 years 298 days
+7.0,28/12/2015,Sri Lanka,Hagley Oval,-,5,2.50,1/12,7,47.29,,1,,,,23 years 57 days
+8.0,02/01/2016,Sri Lanka,Saxton Oval,-,5,2.50,,7,47.29,,1,,,,23 years 62 days
+9.0,05/01/2016,Sri Lanka,Bay Oval,-,5,2.50,0/55,7,55.14,1,2,,,,23 years 65 days
+10.0,08/02/2016,Australia,Seddon Park,0,5,1.67,2/31,9,46.33,,2,,,,23 years 99 days
+11.0,16/10/2016,India,Himachal Pradesh Cricket Association Stadium,1,6,1.50,1/34,10,45.10,,2,,,,23 years 350 days
+12.0,26/10/2016,India,JSCA International Stadium Complex,-,6,1.50,1/52,11,45.73,,2,,,,23 years 360 days
+13.0,29/10/2016,India,Dr YS Rajasekhara Reddy Cricket Stadium,0,6,1.20,2/66,13,43.77,,2,,,,23 years 363 days
+14.0,19/02/2017,South Africa,Seddon Park,-,6,1.20,1/36,14,43.21,,2,,,,24 years 111 days
+15.0,22/02/2017,South Africa,Hagley Oval,-,6,1.20,1/63,15,44.53,,2,,,,24 years 114 days
+16.0,14/05/2017,Ireland,The Village,-,6,1.20,1/40,16,44.25,,2,,,,24 years 195 days
+17.0,17/05/2017,Bangladesh,Castle Avenue,-,6,1.20,2/40,18,41.56,,2,,,,24 years 198 days
+18.0,21/05/2017,Ireland,The Village,-,6,1.20,1/25,19,40.68,,2,,,,24 years 202 days
+19.0,25/02/2018,England,Seddon Park,-,6,1.20,2/63,21,39.81,,2,,,,25 years 116 days
+20.0,03/03/2018,England,Westpac Stadium,2*,8,1.60,3/53,24,37.04,1,3,,,,25 years 122 days
+21.0,06/03/2018,England,University Oval,-,8,1.60,4/58,28,33.82,1,4,,,,25 years 125 days
+22.0,10/03/2018,England,Hagley Oval,5,13,2.17,1/78,29,35.34,,4,,,,25 years 129 days
+23.0,07/11/2018,Pakistan,Sheikh Zayed Stadium,24,37,5.29,1/54,30,35.97,,4,,,,26 years 6 days
+24.0,09/11/2018,Pakistan,Sheikh Zayed Stadium,13,50,6.25,1/21,31,35.48,2,6,,,,26 years 8 days
+25.0,11/11/2018,Pakistan,Dubai International Cricket Stadium,-,50,6.25,0/51,31,37.13,,6,,,,26 years 10 days
+26.0,03/01/2019,Sri Lanka,Bay Oval,0*,50,6.25,2/53,33,36.48,,6,,,,26 years 63 days
+27.0,05/01/2019,Sri Lanka,Bay Oval,-,50,6.25,3/55,36,34.97,,6,,,,26 years 65 days
+28.0,08/01/2019,Sri Lanka,Saxton Oval,-,50,6.25,3/40,39,33.31,,6,,,,26 years 68 days
+29.0,26/01/2019,India,Bay Oval,0,50,5.56,0/43,39,34.41,1,7,,,,26 years 86 days
+30.0,28/01/2019,India,Bay Oval,12,62,6.20,0/53,39,35.77,,7,,,,26 years 88 days
+31.0,29/06/2019,Australia,Lord's,5,67,6.09,0/35,39,36.67,,7,,,,26 years 240 days

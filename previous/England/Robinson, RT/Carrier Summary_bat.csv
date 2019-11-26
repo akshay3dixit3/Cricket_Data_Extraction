@@ -1,0 +1,29 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,05/12/1984,India,Nehru Stadium (Pune),15,15,15.00,,0,,,0,,,,26 years 14 days
+2.0,27/12/1984,India,Barabati Stadium,1,16,8.00,,0,,,0,,,,26 years 36 days
+3.0,20/01/1985,India,M Chinnaswamy Stadium,2,18,6.00,,0,,,0,,,,26 years 60 days
+4.0,24/03/1985,Australia,Sharjah Cricket Stadium,37,55,13.75,,0,,,0,,,,26 years 123 days
+5.0,26/03/1985,Pakistan,Sharjah Cricket Stadium,9,64,12.80,,0,,2,2,,,,26 years 125 days
+6.0,01/06/1985,Australia,Edgbaston,26,90,15.00,,0,,,2,,,,26 years 192 days
+7.0,03/06/1985,Australia,Lord's,7,97,13.86,,0,,,2,,,,26 years 194 days
+8.0,18/02/1986,West Indies,Sabina Park,0,97,12.13,,0,,,2,,,,27 years 89 days
+9.0,19/03/1986,West Indies,Kensington Oval,23,120,13.33,,0,,,2,,,,27 years 118 days
+10.0,31/03/1986,West Indies,Queen's Park Oval,55,175,17.50,,0,,,2,,,,27 years 130 days
+11.0,02/04/1987,India,Sharjah Cricket Stadium,34,209,19.00,,0,,1,3,,,,28 years 132 days
+12.0,07/04/1987,Pakistan,Sharjah Cricket Stadium,83,292,24.33,,0,,,3,,,,28 years 137 days
+13.0,09/04/1987,Australia,Sharjah Cricket Stadium,5,297,22.85,,0,,1,4,,,,28 years 139 days
+14.0,09/10/1987,West Indies,Jinnah Stadium (Gujwranwala),12,309,22.07,,0,,,4,,,,28 years 322 days
+15.0,12/10/1987,Pakistan,Pindi Club Ground,33,342,22.80,,0,,1,5,,,,28 years 325 days
+16.0,20/10/1987,Pakistan,National Stadium (Karachi),16,358,22.38,,0,,,5,,,,28 years 333 days
+17.0,26/10/1987,West Indies,Sawai Mansingh Stadium,13,371,21.82,,0,,,5,,,,28 years 339 days
+18.0,30/10/1987,Sri Lanka,Nehru Stadium (Pune),55,426,23.67,,0,,,5,,,,28 years 343 days
+19.0,05/11/1987,India,Wankhede Stadium,13,439,23.11,,0,,,5,,,,28 years 349 days
+20.0,08/11/1987,Australia,Eden Gardens,0,439,21.95,,0,,,5,,,,28 years 352 days
+21.0,04/02/1988,Australia,Melbourne Cricket Ground,35,474,22.57,,0,,,5,,,,29 years 74 days
+22.0,09/03/1988,New Zealand,Carisbrook,17,491,22.32,,0,,,5,,,,29 years 108 days
+23.0,12/03/1988,New Zealand,AMI Stadium,44,535,23.26,,0,,,5,,,,29 years 111 days
+24.0,16/03/1988,New Zealand,McLean Park,36,571,23.79,,0,,1,6,,,,29 years 115 days
+25.0,19/03/1988,New Zealand,Eden Park,13,584,23.36,,0,,,6,,,,29 years 118 days
+26.0,04/09/1988,Sri Lanka,Kennington Oval,13,597,22.96,,0,,,6,,,,29 years 287 days

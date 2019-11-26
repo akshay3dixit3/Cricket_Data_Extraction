@@ -1,0 +1,35 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,28/06/2008,Bermuda,Maple Leaf North - West Ground,-,0,,0/18,0,,1,1,,,,20 years 333 days
+2.0,29/06/2008,Bermuda,Maple Leaf North - West Ground,33,33,33.00,1/39,1,57.00,,1,,,,20 years 334 days
+3.0,01/07/2008,Bermuda,Maple Leaf North - West Ground,9,42,21.00,0/41,1,98.00,1,2,,,,20 years 336 days
+4.0,18/08/2008,Bermuda,Maple Leaf North - West Ground,21*,63,31.50,1/39,2,68.50,,2,,,,21 years 18 days
+5.0,22/08/2008,West Indies,Maple Leaf North - West Ground,23*,86,43.00,0/77,2,107.00,,2,,,,21 years 22 days
+6.0,24/08/2008,West Indies,Maple Leaf North - West Ground,13*,99,49.50,1/38,3,84.00,,2,,,,21 years 24 days
+7.0,19/04/2009,Ireland,SuperSport Park,14,113,37.67,0/14,3,88.67,,2,,,,21 years 262 days
+8.0,07/07/2009,Scotland,Mannofield Park,-,113,37.67,0/60,3,108.67,,2,,,,21 years 341 days
+9.0,08/07/2009,Scotland,Mannofield Park,2,115,28.75,2/25,5,70.20,,2,,,,21 years 342 days
+10.0,11/07/2009,Netherlands,VRA Ground,0,115,23.00,1/57,6,68.00,,2,,,,21 years 345 days
+11.0,19/08/2009,Kenya,Maple Leaf North - West Ground,-,115,23.00,2/34,8,55.25,,2,,,,22 years 19 days
+12.0,16/02/2010,Afghanistan,Sharjah Cricket Stadium,-,115,23.00,2/55,10,49.70,,2,,,,22 years 200 days
+13.0,18/02/2010,Afghanistan,Sharjah Cricket Stadium,-,115,23.00,1/54,11,50.09,,2,,,,22 years 202 days
+14.0,05/07/2010,Netherlands,Hazelaarweg,4,119,19.83,2/28,13,44.54,,2,,,,22 years 339 days
+15.0,07/07/2010,Ireland,VRA Ground,11*,130,21.67,1/31,14,43.57,,2,,,,22 years 341 days
+16.0,09/07/2010,Kenya,Sportpark Thurlede,-,130,21.67,3/24,17,37.29,,2,,,,22 years 343 days
+17.0,10/07/2010,Kenya,Sportpark Thurlede,-,130,21.67,2/25,19,34.68,,2,,,,22 years 344 days
+18.0,06/09/2010,Ireland,"Cricket, Skating & Curling Club",-,130,21.67,2/40,21,33.29,1,3,,,,23 years 37 days
+19.0,07/09/2010,Ireland,"Cricket, Skating & Curling Club",17*,147,24.50,3/60,24,31.63,1,4,,,,23 years 38 days
+20.0,20/02/2011,Sri Lanka,Mahinda Rajapaksha International Cricket Stadium,16*,163,27.17,2/59,26,31.46,1,5,,,,23 years 204 days
+21.0,28/02/2011,Zimbabwe,Vidarbha Cricket Association Stadium,13*,176,29.33,2/47,28,30.89,,5,,,,23 years 212 days
+22.0,03/03/2011,Pakistan,R Premadasa Stadium,0,176,25.14,3/35,31,29.03,,5,,,,23 years 215 days
+23.0,07/03/2011,Kenya,Arun Jaitley Stadium,-,176,25.14,2/41,33,28.52,1,6,,,,23 years 219 days
+24.0,13/03/2011,New Zealand,Wankhede Stadium,8,184,23.00,3/84,36,28.47,,6,,,,23 years 225 days
+25.0,16/03/2011,Australia,M Chinnaswamy Stadium,17,201,22.33,1/41,37,28.81,,6,,,,23 years 228 days
+26.0,09/08/2011,Afghanistan,"Cricket, Skating & Curling Club",0,201,20.10,3/19,40,27.13,,6,,,,24 years 9 days
+27.0,19/09/2011,Ireland,Castle Avenue,8,209,19.00,1/75,41,28.29,1,7,,,,24 years 50 days
+28.0,20/09/2011,Ireland,Castle Avenue,6,215,17.92,2/61,43,28.40,,7,,,,24 years 51 days
+29.0,27/08/2013,Netherlands,Maple Leaf North - West Ground,-,215,17.92,0/27,43,29.02,1,8,,,,26 years 27 days
+30.0,29/08/2013,Netherlands,Maple Leaf North - West Ground,2,217,16.69,0/23,43,29.56,,8,,,,26 years 29 days
+31.0,23/01/2014,Scotland,Hagley Oval,1,218,15.57,1/58,44,30.20,1,9,,,,26 years 176 days
+32.0,28/01/2014,Netherlands,Bay Oval,2,220,14.67,0/19,44,30.64,,9,,,,26 years 181 days

@@ -1,0 +1,26 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,11/02/1973,New Zealand,AMI Stadium,8,8,8.00,1/23,1,23.00,1,1,,,,26 years 136 days
+2.0,31/08/1974,England,Trent Bridge,109,117,58.50,1/15,2,19.00,,1,,,,27 years 337 days
+3.0,03/09/1974,England,Edgbaston,0,117,39.00,0/6,2,22.00,,1,,,,27 years 340 days
+4.0,07/06/1975,Australia,Headingley,65,182,45.50,,2,22.00,,1,,,,28 years 252 days
+5.0,11/06/1975,West Indies,Edgbaston,60,242,48.40,,2,22.00,,1,,,,28 years 256 days
+6.0,14/06/1975,Sri Lanka,Trent Bridge,84,326,54.33,,2,22.00,,1,,,,28 years 259 days
+7.0,16/10/1976,New Zealand,Jinnah Stadium (Sialkot),20,346,49.43,,2,22.00,,1,,,,30 years 18 days
+8.0,16/03/1977,West Indies,Albion Sports Complex,23,369,46.13,1/26,3,23.33,,1,,,,30 years 169 days
+9.0,01/10/1978,India,Ayub National Stadium,50,419,46.56,,3,23.33,,1,,,,32 years 3 days
+10.0,03/11/1978,India,Zafar Ali (Sahiwal) Stadium,37,456,45.60,,3,23.33,,1,,,,32 years 36 days
+11.0,09/06/1979,Canada,Headingley,1,457,41.55,1/11,4,20.25,,1,,,,32 years 254 days
+12.0,13/06/1979,Australia,Trent Bridge,61,518,43.17,3/53,7,19.14,1,2,,,,32 years 258 days
+13.0,16/06/1979,England,Headingley,7,525,40.38,3/27,10,16.10,,2,,,,32 years 261 days
+14.0,20/06/1979,West Indies,Kennington Oval,81,606,43.29,0/26,10,18.70,,2,,,,32 years 265 days
+15.0,21/11/1980,West Indies,National Stadium (Karachi),16,622,41.47,1/22,11,19.00,,2,,,,34 years 54 days
+16.0,05/12/1980,West Indies,Jinnah Stadium (Sialkot),34,656,41.00,0/20,11,20.82,,2,,,,34 years 68 days
+17.0,19/12/1980,West Indies,Gaddafi Stadium,16,672,39.53,2/35,13,20.31,1,3,,,,34 years 82 days
+18.0,21/11/1981,West Indies,Melbourne Cricket Ground,56,728,40.44,0/34,13,22.92,,3,,,,35 years 54 days
+19.0,17/12/1981,Australia,Sydney Cricket Ground,20*,748,41.56,0/35,13,25.62,,3,,,,35 years 80 days
+20.0,19/12/1981,West Indies,WACA Ground,DNB*,748,41.56,,13,25.62,,3,,,,35 years 82 days
+21.0,16/01/1982,West Indies,Brisbane Cricket Ground,10,758,39.89,,13,25.62,,3,,,,35 years 110 days
+22.0,17/07/1982,England,Trent Bridge,23,781,39.05,0/25,13,27.54,,3,,,,35 years 292 days
+23.0,19/07/1982,England,Old Trafford,5,786,37.43,0/16,13,28.77,,3,,,,35 years 294 days

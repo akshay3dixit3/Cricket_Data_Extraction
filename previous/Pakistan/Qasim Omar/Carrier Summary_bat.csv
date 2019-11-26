@@ -1,0 +1,34 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,10/09/1983,India,Lal Bahadur Shastri Stadium,5,5,5.00,,0,,,0,,,,26 years 212 days
+2.0,10/01/1984,Australia,Sydney Cricket Ground,1,6,3.00,,0,,,0,,,,26 years 334 days
+3.0,12/01/1984,West Indies,Melbourne Cricket Ground,69,75,25.00,,0,,,0,,,,26 years 336 days
+4.0,14/01/1984,West Indies,Brisbane Cricket Ground,18,93,23.25,,0,,,0,,,,26 years 338 days
+5.0,15/01/1984,Australia,Brisbane Cricket Ground,40,133,26.60,,0,,,0,,,,26 years 339 days
+6.0,19/01/1984,West Indies,Sydney Cricket Ground,67*,200,40.00,,0,,,0,,,,26 years 343 days
+7.0,21/01/1984,Australia,Melbourne Cricket Ground,2,202,33.67,,0,,,0,,,,26 years 345 days
+8.0,25/01/1984,Australia,Sydney Cricket Ground,0,202,28.86,,0,,,0,,,,26 years 349 days
+9.0,28/01/1984,West Indies,Adelaide Oval,26,228,28.50,,0,,,0,,,,26 years 352 days
+10.0,30/01/1984,Australia,Adelaide Oval,2,230,25.56,,0,,,0,,,,26 years 354 days
+11.0,04/02/1984,West Indies,WACA Ground,16,246,24.60,,0,,,0,,,,26 years 359 days
+12.0,09/03/1984,England,Gaddafi Stadium,11,257,23.36,,0,,1,1,,,,27 years 28 days
+13.0,26/03/1984,England,National Stadium (Karachi),7,264,22.00,,0,,,1,,,,27 years 45 days
+14.0,13/04/1984,India,Sharjah Cricket Stadium,16,280,21.54,,0,,,1,,,,27 years 63 days
+15.0,12/01/1985,New Zealand,McLean Park,0,280,20.00,,0,,1,2,,,,27 years 337 days
+16.0,15/01/1985,New Zealand,Seddon Park,15,295,19.67,,0,,,2,,,,27 years 340 days
+17.0,06/02/1985,New Zealand,AMI Stadium,1,296,18.50,,0,,,2,,,,27 years 362 days
+18.0,16/02/1985,New Zealand,Eden Park,6,302,17.76,,0,,,2,,,,28 years 7 days
+19.0,20/02/1985,India,Melbourne Cricket Ground,57,359,19.94,,0,,,2,,,,28 years 11 days
+20.0,24/02/1985,Australia,Melbourne Cricket Ground,31,390,20.53,,0,,,2,,,,28 years 15 days
+21.0,02/03/1985,England,Melbourne Cricket Ground,12,402,20.10,,0,,,2,,,,28 years 21 days
+22.0,06/03/1985,West Indies,Melbourne Cricket Ground,42*,444,22.20,,0,,1,3,,,,28 years 25 days
+23.0,10/03/1985,India,Melbourne Cricket Ground,0,444,21.14,,0,,,3,,,,28 years 29 days
+24.0,15/11/1985,West Indies,Sharjah Cricket Stadium,2,446,20.27,,0,,,3,,,,28 years 279 days
+25.0,04/12/1985,West Indies,Pindi Club Ground,27,473,20.57,,0,,,3,,,,28 years 298 days
+26.0,30/03/1986,Sri Lanka,P Sara Oval,16,489,20.38,,0,,,3,,,,29 years 48 days
+27.0,31/03/1986,Bangladesh,Tyronne Fernando Stadium,3*,492,20.50,,0,,,3,,,,29 years 49 days
+28.0,30/12/1986,West Indies,WACA Ground,30,522,20.88,,0,,,3,,,,29 years 323 days
+29.0,02/01/1987,Australia,WACA Ground,67,589,22.65,,0,,,3,,,,29 years 326 days
+30.0,05/01/1987,England,WACA Ground,32,621,23.00,,0,,,3,,,,29 years 329 days
+31.0,07/01/1987,England,WACA Ground,21,642,22.93,,0,,,3,,,,29 years 331 days

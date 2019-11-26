@@ -1,0 +1,49 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,07/06/2017,South Africa,Edgbaston,31,31,31.00,,0,,,0,,,,27 years 58 days
+2.0,12/06/2017,Sri Lanka,Sophia Gardens,50,81,40.50,,0,,1,1,,,,27 years 63 days
+3.0,14/06/2017,England,Sophia Gardens,57,138,46.00,,0,,1,2,,,,27 years 65 days
+4.0,18/06/2017,India,Kennington Oval,114,252,63.00,0/25,0,,,2,,,,27 years 69 days
+5.0,13/10/2017,Sri Lanka,Dubai International Cricket Stadium,43,295,59.00,,0,,,2,,,,27 years 186 days
+6.0,16/10/2017,Sri Lanka,Sheikh Zayed Stadium,11,306,51.00,,0,,,2,,,,27 years 189 days
+7.0,18/10/2017,Sri Lanka,Sheikh Zayed Stadium,29,335,47.86,,0,,2,4,,,,27 years 191 days
+8.0,20/10/2017,Sri Lanka,Sharjah Cricket Stadium,17,352,44.00,,0,,1,5,,,,27 years 193 days
+9.0,23/10/2017,Sri Lanka,Sharjah Cricket Stadium,48,400,44.44,,0,,1,6,,,,27 years 196 days
+10.0,06/01/2018,New Zealand,Basin Reserve,82*,482,53.56,1/19,1,44.00,,6,,,,27 years 271 days
+11.0,13/01/2018,New Zealand,University Oval,2,484,48.40,,1,44.00,1,7,,,,27 years 278 days
+12.0,16/01/2018,New Zealand,Seddon Park,54,538,48.91,,1,44.00,,7,,,,27 years 281 days
+13.0,18/01/2018,New Zealand,Basin Reserve,12,550,45.83,,1,44.00,1,8,,,,27 years 283 days
+14.0,13/07/2018,Zimbabwe,Queens Sports Club,60,610,46.92,,1,44.00,2,10,,,,28 years 94 days
+15.0,16/07/2018,Zimbabwe,Queens Sports Club,117*,727,55.92,0/11,1,55.00,,10,,,,28 years 97 days
+16.0,18/07/2018,Zimbabwe,Queens Sports Club,43*,770,59.23,,1,55.00,,10,,,,28 years 99 days
+17.0,20/07/2018,Zimbabwe,Queens Sports Club,210*,980,75.38,,1,55.00,,10,,,,28 years 101 days
+18.0,22/07/2018,Zimbabwe,Queens Sports Club,85,1065,76.07,,1,55.00,,10,,,,28 years 103 days
+19.0,16/09/2018,Hong Kong,Dubai International Cricket Stadium,24,1089,72.60,0/0,1,55.00,,10,,,,28 years 159 days
+20.0,19/09/2018,India,Dubai International Cricket Stadium,0,1089,68.06,0/25,1,80.00,,10,,,,28 years 162 days
+21.0,21/09/2018,Afghanistan,Sheikh Zayed Stadium,0,1089,64.06,,1,80.00,,10,,,,28 years 164 days
+22.0,23/09/2018,India,Dubai International Cricket Stadium,31,1120,62.22,,1,80.00,,10,,,,28 years 166 days
+23.0,26/09/2018,Bangladesh,Sheikh Zayed Stadium,1,1121,59.00,,1,80.00,2,12,,,,28 years 169 days
+24.0,07/11/2018,New Zealand,Sheikh Zayed Stadium,1,1122,56.10,,1,80.00,,12,,,,28 years 211 days
+25.0,09/11/2018,New Zealand,Sheikh Zayed Stadium,88,1210,57.62,,1,80.00,,12,,,,28 years 213 days
+26.0,11/11/2018,New Zealand,Dubai International Cricket Stadium,65,1275,57.95,,1,80.00,,12,,,,28 years 215 days
+27.0,19/01/2019,South Africa,St George's Park,25,1300,56.52,0/8,1,88.00,,12,,,,28 years 284 days
+28.0,22/01/2019,South Africa,Kingsmead,26,1326,55.25,,1,88.00,,12,,,,28 years 287 days
+29.0,25/01/2019,South Africa,SuperSport Park,2,1328,53.12,,1,88.00,,12,,,,28 years 290 days
+30.0,27/01/2019,South Africa,Wanderers Stadium,44,1372,52.77,,1,88.00,,12,,,,28 years 292 days
+31.0,30/01/2019,South Africa,Newlands,70,1442,53.41,,1,88.00,,12,,,,28 years 295 days
+32.0,08/05/2019,England,Kennington Oval,3,1445,51.61,,1,88.00,,12,,,,29 years 27 days
+33.0,11/05/2019,England,The Rose Bowl,138,1583,54.59,,1,88.00,1,13,,,,29 years 30 days
+34.0,14/05/2019,England,County Ground (Bristol),2,1585,52.83,,1,88.00,,13,,,,29 years 33 days
+35.0,17/05/2019,England,Trent Bridge,57,1642,52.97,,1,88.00,1,14,,,,29 years 36 days
+36.0,19/05/2019,England,Headingley,0,1642,51.31,0/23,1,111.00,2,16,,,,29 years 38 days
+37.0,31/05/2019,West Indies,Trent Bridge,22,1664,50.42,,1,111.00,,16,,,,29 years 50 days
+38.0,03/06/2019,England,Trent Bridge,36,1700,50.00,,1,111.00,1,17,,,,29 years 53 days
+39.0,12/06/2019,Australia,The Cooper Associates County Ground,0,1700,48.57,,1,111.00,,17,,,,29 years 62 days
+40.0,16/06/2019,India,Old Trafford,62,1762,48.94,,1,111.00,,17,,,,29 years 66 days
+41.0,23/06/2019,South Africa,Lord's,44,1806,48.81,,1,111.00,,17,,,,29 years 73 days
+42.0,26/06/2019,New Zealand,Edgbaston,9,1815,47.76,,1,111.00,,17,,,,29 years 76 days
+43.0,29/06/2019,Afghanistan,Headingley,0,1815,46.54,,1,111.00,1,18,,,,29 years 79 days
+44.0,05/07/2019,Bangladesh,Lord's,13,1828,45.70,,1,111.00,1,19,,,,29 years 85 days
+45.0,30/09/2019,Sri Lanka,National Stadium (Karachi),54,1882,45.90,,1,111.00,2,21,,,,29 years 172 days
+46.0,02/10/2019,Sri Lanka,National Stadium (Karachi),76,1958,46.62,,1,111.00,,21,,,,29 years 174 days

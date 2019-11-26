@@ -1,0 +1,45 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,16/05/2006,Zimbabwe,Queen's Park Oval,0,0,0.00,1/39,1,39.00,,0,,,,27 years 211 days
+2.0,17/05/2006,Bermuda,Queen's Park Oval,11*,11,11.00,1/19,2,29.00,,0,,,,27 years 212 days
+3.0,05/08/2006,Kenya,"Cricket, Skating & Curling Club",0*,11,11.00,3/46,5,20.80,,0,,,,27 years 292 days
+4.0,06/08/2006,Kenya,"Cricket, Skating & Curling Club",0,11,5.50,0/3,5,21.40,,0,,,,27 years 293 days
+5.0,26/11/2006,Netherlands,Senwes Park,3*,14,7.00,0/66,5,34.60,1,1,,,,28 years 40 days
+6.0,27/11/2006,Bermuda,Senwes Park,-,14,7.00,2/34,7,29.57,,1,,,,28 years 41 days
+7.0,30/11/2006,Bermuda,Willowmoore Park,-,14,7.00,3/22,10,22.90,,1,,,,28 years 44 days
+8.0,01/12/2006,Netherlands,Willowmoore Park,3*,17,8.50,2/27,12,21.33,1,2,,,,28 years 45 days
+9.0,18/01/2007,Scotland,Mombasa Sports Ground,-,17,8.50,1/43,13,23.00,,2,,,,28 years 93 days
+10.0,23/01/2007,Scotland,Mombasa Sports Ground,4,21,7.00,1/47,14,24.71,,2,,,,28 years 98 days
+11.0,24/01/2007,Kenya,Mombasa Sports Ground,1,22,5.50,1/16,15,24.13,1,3,,,,28 years 99 days
+12.0,30/01/2007,Netherlands,Ruaraka Sports Club Ground,0*,22,5.50,2/64,17,25.06,,3,,,,28 years 105 days
+13.0,31/01/2007,Scotland,Ruaraka Sports Club Ground,1,23,4.60,0/61,17,28.65,,3,,,,28 years 106 days
+14.0,02/02/2007,Bermuda,Gymkhana Club Ground,-,23,4.60,1/33,18,28.89,,3,,,,28 years 108 days
+15.0,04/02/2007,Ireland,Jaffrey Sports Club Ground,-,23,4.60,2/53,20,28.65,,3,,,,28 years 110 days
+16.0,05/02/2007,Kenya,Jaffrey Sports Club Ground,1*,24,4.80,4/33,24,25.25,,3,,,,28 years 111 days
+17.0,28/02/2007,Bangladesh,Antigua Recreation Ground,-,24,4.80,0/51,24,27.38,,3,,,,28 years 134 days
+18.0,14/03/2007,Kenya,Darren Sammy National Cricket Stadium,1,25,4.17,0/31,24,28.67,,3,,,,28 years 148 days
+19.0,22/03/2007,New Zealand,Darren Sammy National Cricket Stadium,0,25,3.57,0/45,24,30.54,,3,,,,28 years 156 days
+20.0,03/07/2007,Netherlands,"Cricket, Skating & Curling Club",21*,46,6.57,2/42,26,29.81,,3,,,,28 years 259 days
+21.0,20/10/2007,Kenya,Gymkhana Club Ground,0*,46,6.57,1/34,27,29.96,,3,,,,29 years 2 days
+22.0,28/06/2008,Bermuda,Maple Leaf North - West Ground,0,46,5.75,1/21,28,29.64,2,5,,,,29 years 254 days
+23.0,29/06/2008,Bermuda,Maple Leaf North - West Ground,1,47,5.22,0/33,28,30.82,,5,,,,29 years 255 days
+24.0,18/08/2008,Bermuda,Maple Leaf North - West Ground,-,47,5.22,0/20,28,31.54,2,7,,,,29 years 305 days
+25.0,06/04/2009,Ireland,Willowmoore Park,0,47,4.70,1/31,29,31.52,,7,,,,30 years 171 days
+26.0,08/04/2009,Scotland,Willowmoore Park,-,47,4.70,2/14,31,29.94,1,8,,,,30 years 173 days
+27.0,19/04/2009,Ireland,SuperSport Park,0*,47,4.70,0/20,31,30.58,,8,,,,30 years 184 days
+28.0,07/07/2009,Scotland,Mannofield Park,-,47,4.70,0/13,31,31.00,,8,,,,30 years 263 days
+29.0,08/07/2009,Scotland,Mannofield Park,0*,47,4.70,1/47,32,31.50,,8,,,,30 years 264 days
+30.0,11/07/2009,Netherlands,VRA Ground,0,47,4.27,1/41,33,31.79,,8,,,,30 years 267 days
+31.0,19/08/2009,Kenya,Maple Leaf North - West Ground,-,47,4.27,2/36,35,31.00,,8,,,,30 years 306 days
+32.0,22/08/2009,Kenya,Maple Leaf North - West Ground,-,47,4.27,,35,31.00,,8,,,,30 years 309 days
+33.0,13/04/2010,West Indies,Sabina Park,7,54,4.50,0/26,35,31.74,,8,,,,31 years 178 days
+34.0,06/09/2010,Ireland,"Cricket, Skating & Curling Club",-,54,4.50,0/22,35,32.37,1,9,,,,31 years 324 days
+35.0,20/02/2011,Sri Lanka,Mahinda Rajapaksha International Cricket Stadium,4,58,4.46,0/10,35,32.66,,9,,,,32 years 126 days
+36.0,03/03/2011,Pakistan,R Premadasa Stadium,0,58,4.14,1/25,36,32.44,,9,,,,32 years 137 days
+37.0,07/03/2011,Kenya,Arun Jaitley Stadium,-,58,4.14,4/26,40,29.85,,9,,,,32 years 141 days
+38.0,13/03/2011,New Zealand,Wankhede Stadium,0*,58,4.14,0/52,40,31.15,1,10,,,,32 years 147 days
+39.0,16/03/2011,Australia,M Chinnaswamy Stadium,2*,60,4.29,1/53,41,31.68,1,11,,,,32 years 150 days
+40.0,07/08/2011,Afghanistan,Maple Leaf North - West Ground,3,63,4.20,1/5,42,31.05,,11,,,,32 years 294 days
+41.0,11/03/2013,Kenya,ICC Global Cricket Academy,-,63,4.20,2/34,44,30.41,,11,,,,34 years 145 days
+42.0,13/03/2013,Kenya,ICC Global Cricket Academy,1*,64,4.27,1/51,45,30.87,,11,,,,34 years 147 days

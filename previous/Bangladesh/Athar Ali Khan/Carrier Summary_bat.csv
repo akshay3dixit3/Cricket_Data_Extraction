@@ -1,0 +1,22 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,27/10/1988,India,MA Aziz Stadium,16,16,16.00,0/12,0,,1,1,,,,26 years 259 days
+2.0,29/10/1988,Pakistan,MA Aziz Stadium,22,38,19.00,1/54,1,66.00,,1,,,,26 years 261 days
+3.0,02/11/1988,Sri Lanka,Bangabandhu National Stadium,30,68,22.67,0/17,1,83.00,,1,,,,26 years 265 days
+4.0,25/12/1990,India,Sector 16 Stadium,44,112,28.00,1/23,2,53.00,,1,,,,28 years 318 days
+5.0,31/12/1990,Sri Lanka,Eden Gardens,78*,190,47.50,0/24,2,65.00,,1,,,,28 years 324 days
+6.0,05/04/1995,India,Sharjah Cricket Stadium,17,207,41.40,0/22,2,76.00,,1,,,,33 years 53 days
+7.0,06/04/1995,Sri Lanka,Sharjah Cricket Stadium,2,209,34.83,0/28,2,90.00,,1,,,,33 years 54 days
+8.0,08/04/1995,Pakistan,Sharjah Cricket Stadium,2,211,30.14,1/10,3,63.33,,1,,,,33 years 56 days
+9.0,16/07/1997,Pakistan,R Premadasa Stadium,82,293,36.63,0/27,3,72.33,,1,,,,35 years 156 days
+10.0,22/07/1997,Sri Lanka,Sinhalese Sports Club Ground,42,335,37.22,,3,72.33,,1,,,,35 years 162 days
+11.0,24/07/1997,India,Sinhalese Sports Club Ground,33,368,36.80,,3,72.33,,1,,,,35 years 164 days
+12.0,10/10/1997,Kenya,Gymkhana Club Ground,61,429,39.00,0/29,3,82.00,,1,,,,35 years 242 days
+13.0,11/10/1997,Zimbabwe,Gymkhana Club Ground,32,461,38.42,0/38,3,94.67,,1,,,,35 years 243 days
+14.0,14/10/1997,Zimbabwe,Aga Khan Sports Club Ground,9,470,36.15,0/19,3,101.00,,1,,,,35 years 246 days
+15.0,15/10/1997,Kenya,Aga Khan Sports Club Ground,0,470,33.57,,3,101.00,,1,,,,35 years 247 days
+16.0,14/05/1998,India,Punjab Cricket Association IS Bindra Stadium,15,485,32.33,2/33,5,67.20,1,2,,,,36 years 93 days
+17.0,17/05/1998,Kenya,Lal Bahadur Shastri Stadium,47,532,33.25,0/5,5,68.20,,2,,,,36 years 96 days
+18.0,23/05/1998,Kenya,MA Chidambaram Stadium,0,532,31.29,,5,68.20,,2,,,,36 years 102 days
+19.0,25/05/1998,India,Wankhede Stadium,0,532,29.56,1/24,6,60.83,,2,,,,36 years 104 days

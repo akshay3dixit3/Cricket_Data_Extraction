@@ -1,0 +1,35 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,17/05/2006,Canada,Queen's Park Oval,-,0,,1/14,1,14.00,,0,,,,34 years 307 days
+2.0,20/05/2006,Zimbabwe,Queen's Park Oval,2,2,2.00,0/50,1,64.00,,0,,,,34 years 310 days
+3.0,19/08/2006,Canada,"Cricket, Skating & Curling Club",-,2,2.00,2/9,3,24.33,2,2,,,,35 years 36 days
+4.0,21/08/2006,Canada,"Cricket, Skating & Curling Club",-,2,2.00,1/38,4,27.75,,2,,,,35 years 38 days
+5.0,11/11/2006,Kenya,Mombasa Sports Ground,2*,4,4.00,1/37,5,29.60,,2,,,,35 years 120 days
+6.0,12/11/2006,Kenya,Mombasa Sports Ground,-,4,4.00,1/20,6,28.00,,2,,,,35 years 121 days
+7.0,14/11/2006,Kenya,Mombasa Sports Ground,-,4,4.00,5/53,11,20.09,,2,,,,35 years 123 days
+8.0,27/11/2006,Canada,Senwes Park,8*,12,12.00,1/39,12,21.67,,2,,,,35 years 136 days
+9.0,28/11/2006,Netherlands,Senwes Park,2,14,7.00,0/29,12,24.08,,2,,,,35 years 137 days
+10.0,30/11/2006,Canada,Willowmoore Park,5*,19,9.50,2/21,14,22.14,,2,,,,35 years 139 days
+11.0,02/12/2006,Netherlands,Willowmoore Park,-,19,9.50,1/4,15,20.93,1,3,,,,35 years 141 days
+12.0,29/01/2007,Kenya,Jaffrey Sports Club Ground,3*,22,11.00,0/37,15,23.40,,3,,,,35 years 199 days
+13.0,31/01/2007,Ireland,Jaffrey Sports Club Ground,-,22,11.00,2/34,17,22.65,,3,,,,35 years 201 days
+14.0,02/02/2007,Canada,Gymkhana Club Ground,0,22,7.33,1/24,18,22.72,,3,,,,35 years 203 days
+15.0,04/02/2007,Netherlands,Ruaraka Sports Club Ground,9,31,7.75,0/30,18,24.39,1,4,,,,35 years 205 days
+16.0,25/02/2007,Bangladesh,Antigua Recreation Ground,-,31,7.75,0/62,18,27.83,,4,,,,35 years 226 days
+17.0,26/02/2007,Canada,Antigua Recreation Ground,-,31,7.75,1/45,19,28.74,1,5,,,,35 years 227 days
+18.0,15/03/2007,Sri Lanka,Queen's Park Oval,1,32,6.40,1/67,20,30.65,,5,,,,35 years 244 days
+19.0,19/03/2007,India,Queen's Park Oval,9,41,6.83,1/96,21,33.76,1,6,,,,35 years 248 days
+20.0,25/03/2007,Bangladesh,Queen's Park Oval,-,41,6.83,0/19,21,34.67,,6,,,,35 years 254 days
+21.0,18/08/2007,Netherlands,Hazelaarweg,13*,54,9.00,3/55,24,32.63,,6,,,,36 years 35 days
+22.0,20/08/2007,Netherlands,Hazelaarweg,17*,71,11.83,1/19,25,32.08,,6,,,,36 years 37 days
+23.0,25/10/2007,Kenya,Gymkhana Club Ground,4,75,10.71,0/47,25,33.96,,6,,,,36 years 103 days
+24.0,27/10/2007,Kenya,Gymkhana Club Ground,0*,75,10.71,3/28,28,31.32,,6,,,,36 years 105 days
+25.0,28/10/2007,Kenya,Gymkhana Club Ground,4,79,9.88,2/33,30,30.33,2,8,,,,36 years 106 days
+26.0,28/06/2008,Canada,Maple Leaf North - West Ground,-,79,9.88,1/17,31,29.90,,8,,,,36 years 350 days
+27.0,29/06/2008,Canada,Maple Leaf North - West Ground,5*,84,10.50,1/28,32,29.84,1,9,,,,36 years 351 days
+28.0,08/08/2008,Netherlands,VRA Ground,2,86,9.56,0/37,32,31.00,,9,,,,37 years 25 days
+29.0,18/08/2008,Canada,Maple Leaf North - West Ground,-,86,9.56,1/20,33,30.67,,9,,,,37 years 35 days
+30.0,20/08/2008,West Indies,Maple Leaf North - West Ground,20*,106,11.78,0/31,33,31.61,1,10,,,,37 years 37 days
+31.0,06/04/2009,Kenya,Senwes Park,-,106,11.78,0/42,33,32.88,,10,,,,37 years 266 days
+32.0,08/04/2009,Netherlands,Senwes Park,5,111,11.10,1/39,34,33.06,,10,,,,37 years 268 days

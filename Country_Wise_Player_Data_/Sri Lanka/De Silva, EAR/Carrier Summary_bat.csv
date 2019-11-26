@@ -1,0 +1,31 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,24/12/1986,India,Green Park,-,0,,0/13,0,,1,1,,,,30 years 270 days
+2.0,11/01/1987,India,Nehru Stadium (Guwahati),-,0,,0/14,0,,,1,,,,30 years 288 days
+3.0,05/01/1988,New Zealand,Sydney Cricket Ground,6,6,6.00,0/17,0,,,1,,,,31 years 282 days
+4.0,09/01/1988,New Zealand,Adelaide Oval,15,21,10.50,0/40,0,,,1,,,,31 years 286 days
+5.0,10/01/1988,Australia,Adelaide Oval,3,24,8.00,0/27,0,,1,2,,,,31 years 287 days
+6.0,12/01/1988,New Zealand,Bellerive Oval,-,24,8.00,0/16,0,,,2,,,,31 years 289 days
+7.0,29/03/1988,New Zealand,Sharjah Cricket Stadium,4,28,7.00,1/42,1,169.00,,2,,,,32 years 1 days
+8.0,31/03/1988,New Zealand,Sharjah Cricket Stadium,10,38,7.60,3/38,4,51.75,,2,,,,32 years 3 days
+9.0,23/03/1989,Pakistan,Sharjah Cricket Stadium,19*,57,11.40,2/47,6,42.33,,2,,,,32 years 360 days
+10.0,24/03/1989,Pakistan,Sharjah Cricket Stadium,-,57,11.40,0/11,6,44.17,,2,,,,32 years 361 days
+11.0,15/10/1989,England,Arun Jaitley Stadium,2,59,9.83,0/29,6,49.00,,2,,,,33 years 200 days
+12.0,19/10/1989,West Indies,Madhavrao Scindia Cricket Ground,-,59,9.83,2/30,8,40.50,1,3,,,,33 years 204 days
+13.0,22/10/1989,India,Sardar Patel Stadium,1*,60,10.00,0/39,8,45.38,,3,,,,33 years 207 days
+14.0,25/10/1989,Australia,Nehru Stadium (Margao),7*,67,11.17,0/30,8,49.13,,3,,,,33 years 210 days
+15.0,27/10/1989,Pakistan,"KD Singh ""Babu"" Stadium",0,67,9.57,1/31,9,47.11,,3,,,,33 years 212 days
+16.0,26/12/1989,Australia,Melbourne Cricket Ground,13*,80,11.43,0/42,9,51.78,,3,,,,33 years 272 days
+17.0,04/01/1990,Australia,Melbourne Cricket Ground,1,81,10.13,0/29,9,55.00,,3,,,,33 years 281 days
+18.0,10/02/1990,Pakistan,Brisbane Cricket Ground,-,81,10.13,1/47,10,54.20,,3,,,,33 years 318 days
+19.0,15/02/1990,Pakistan,Bellerive Oval,1,82,9.11,0/34,10,57.60,1,4,,,,33 years 323 days
+20.0,17/02/1990,Pakistan,Adelaide Oval,3*,85,9.44,2/57,12,52.75,,4,,,,33 years 325 days
+21.0,18/02/1990,Australia,Adelaide Oval,7,92,9.20,1/37,13,51.54,,4,,,,33 years 326 days
+22.0,25/04/1990,India,Sharjah Cricket Stadium,-,92,9.20,0/38,13,54.46,,4,,,,34 years 27 days
+23.0,29/04/1990,Pakistan,Sharjah Cricket Stadium,0,92,8.36,0/57,13,58.85,,4,,,,34 years 31 days
+24.0,02/05/1990,Australia,Sharjah Cricket Stadium,9,101,8.42,0/34,13,61.46,,4,,,,34 years 34 days
+25.0,26/01/1991,New Zealand,McLean Park,11,112,8.62,2/36,15,55.67,,4,,,,34 years 303 days
+26.0,28/01/1991,New Zealand,Eden Park,10*,122,9.38,1/41,16,54.75,2,6,,,,34 years 305 days
+27.0,06/02/1991,New Zealand,Carisbrook,16,138,9.86,0/44,16,57.50,,6,,,,34 years 314 days
+28.0,05/09/1992,Australia,R Premadasa Stadium,-,138,9.86,1/47,17,56.88,,6,,,,36 years 161 days

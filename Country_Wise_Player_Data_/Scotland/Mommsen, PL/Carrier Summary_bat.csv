@@ -1,0 +1,47 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,15/06/2010,Netherlands,Hazelaarweg,18,18,18.00,,0,,,0,,,,22 years 244 days
+2.0,01/07/2010,Netherlands,VRA Ground,5,23,11.50,,0,,,0,,,,22 years 260 days
+3.0,03/07/2010,Canada,VRA Ground,19,42,14.00,1/19,1,19.00,1,1,,,,22 years 262 days
+4.0,05/07/2010,Ireland,Sportpark Westvliet,4,46,11.50,,1,19.00,1,2,,,,22 years 264 days
+5.0,07/07/2010,Kenya,Hazelaarweg,11,57,11.40,,1,19.00,,2,,,,22 years 266 days
+6.0,10/07/2010,Ireland,VRA Ground,80,137,22.83,,1,19.00,,2,,,,22 years 269 days
+7.0,16/08/2010,Afghanistan,Cambusdoon New Ground,5,142,20.29,,1,19.00,,2,,,,22 years 306 days
+8.0,28/06/2011,Netherlands,Mannofield Park,34,176,22.00,0/24,1,43.00,,2,,,,23 years 257 days
+9.0,12/07/2011,Ireland,Grange Cricket Club,20,196,21.78,3/26,4,17.25,,2,,,,23 years 271 days
+10.0,13/07/2011,Sri Lanka,Grange Cricket Club,8,204,20.40,2/19,6,14.67,1,3,,,,23 years 272 days
+11.0,12/07/2012,Canada,Cambusdoon New Ground,5,209,19.00,0/17,6,17.50,1,4,,,,24 years 272 days
+12.0,06/03/2013,Afghanistan,Sharjah Cricket Stadium,1,210,17.50,0/25,6,21.67,,4,,,,25 years 143 days
+13.0,08/03/2013,Afghanistan,Sharjah Cricket Stadium,4,214,16.46,,6,21.67,1,5,,,,25 years 145 days
+14.0,17/05/2013,Pakistan,Grange Cricket Club,15,229,16.36,,6,21.67,1,6,,,,25 years 215 days
+15.0,30/06/2013,Kenya,Mannofield Park,63*,292,20.86,,6,21.67,2,8,,,,25 years 259 days
+16.0,02/07/2013,Kenya,Mannofield Park,5,297,19.80,,6,21.67,,8,,,,25 years 261 days
+17.0,03/09/2013,Australia,Grange Cricket Club,8,305,19.06,,6,21.67,,8,,,,25 years 324 days
+18.0,06/09/2013,Ireland,Civil Service Cricket Club,91*,396,24.75,,6,21.67,2,10,,,,25 years 327 days
+19.0,08/09/2013,Ireland,Civil Service Cricket Club,12,408,24.00,,6,21.67,,10,,,,25 years 329 days
+20.0,23/01/2014,Canada,Hagley Oval,6,414,23.00,,6,21.67,,10,,,,26 years 101 days
+21.0,30/01/2014,Kenya,Hagley Oval,78,492,25.89,,6,21.67,2,12,,,,26 years 108 days
+22.0,01/02/2014,United Arab Emirates,Bert Sutcliffe Oval,139*,631,33.21,,6,21.67,1,13,,,,26 years 110 days
+23.0,09/05/2014,England,Mannofield Park,9,640,32.00,,6,21.67,,13,,,,26 years 207 days
+24.0,08/09/2014,Ireland,The Village,10,650,30.95,,6,21.67,,13,,,,26 years 329 days
+25.0,10/09/2014,Ireland,The Village,3,653,29.68,,6,21.67,,13,,,,26 years 331 days
+26.0,12/09/2014,Ireland,The Village,31*,684,31.09,,6,21.67,,13,,,,26 years 333 days
+27.0,08/01/2015,Afghanistan,ICC Global Cricket Academy,1,685,29.78,,6,21.67,1,14,,,,27 years 86 days
+28.0,12/01/2015,Ireland,Dubai International Cricket Stadium,16,701,29.21,,6,21.67,,14,,,,27 years 90 days
+29.0,14/01/2015,Afghanistan,Sheikh Zayed Stadium,31,732,29.28,,6,21.67,,14,,,,27 years 92 days
+30.0,19/01/2015,Ireland,ICC Global Cricket Academy,-,732,29.28,,6,21.67,,14,,,,27 years 97 days
+31.0,17/02/2015,New Zealand,University Oval,0,732,28.15,,6,21.67,,14,,,,27 years 126 days
+32.0,23/02/2015,England,Hagley Oval,26,758,28.07,,6,21.67,2,16,,,,27 years 132 days
+33.0,26/02/2015,Afghanistan,University Oval,23,781,27.89,,6,21.67,1,17,,,,27 years 135 days
+34.0,04/03/2015,Bangladesh,Saxton Oval,39,820,28.28,,6,21.67,,17,,,,27 years 141 days
+35.0,11/03/2015,Sri Lanka,Bellerive Oval,60,880,29.33,,6,21.67,1,18,,,,27 years 148 days
+36.0,14/03/2015,Australia,Bellerive Oval,0,880,28.39,,6,21.67,,18,,,,27 years 151 days
+37.0,26/01/2016,Hong Kong,Mission Road,5,885,27.66,,6,21.67,2,20,,,,28 years 104 days
+38.0,04/07/2016,Afghanistan,Grange Cricket Club,-,885,27.66,,6,21.67,,20,,,,28 years 264 days
+39.0,06/07/2016,Afghanistan,Grange Cricket Club,13,898,27.21,,6,21.67,,20,,,,28 years 266 days
+40.0,14/08/2016,United Arab Emirates,Grange Cricket Club,111*,1009,30.58,,6,21.67,1,21,,,,28 years 305 days
+41.0,16/08/2016,United Arab Emirates,Grange Cricket Club,80*,1089,33.00,,6,21.67,1,22,,,,28 years 307 days
+42.0,08/09/2016,Hong Kong,Grange Cricket Club,12,1101,32.38,,6,21.67,,22,,,,28 years 330 days
+43.0,15/06/2017,Zimbabwe,Grange Cricket Club,10,1111,31.74,,6,21.67,,22,,,,29 years 244 days
+44.0,17/06/2017,Zimbabwe,Grange Cricket Club,4,1115,30.97,,6,21.67,,22,,,,29 years 246 days

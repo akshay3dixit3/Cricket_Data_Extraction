@@ -1,0 +1,18 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,11/02/1973,Pakistan,AMI Stadium,9,9,9.00,0/35,0,,,0,,,,26 years 315 days
+2.0,18/07/1973,England,St Helen's,4,13,6.50,0/18,0,,,0,,,,27 years 107 days
+3.0,20/07/1973,England,Old Trafford,-,13,6.50,1/52,1,105.00,,0,,,,27 years 109 days
+4.0,31/03/1974,Australia,AMI Stadium,-,13,6.50,2/38,3,47.67,,0,,,,27 years 363 days
+5.0,08/03/1975,England,Carisbrook,-,13,6.50,2/17,5,32.00,,0,,,,28 years 340 days
+6.0,09/03/1975,England,Basin Reserve,0,13,4.33,1/9,6,28.17,,0,,,,28 years 341 days
+7.0,07/06/1975,East Africa,Edgbaston,-,13,4.33,1/23,7,27.43,,0,,,,29 years 65 days
+8.0,11/06/1975,England,Trent Bridge,6,19,4.75,2/43,9,26.11,,0,,,,29 years 69 days
+9.0,14/06/1975,India,Old Trafford,-,19,4.75,0/43,9,30.89,,0,,,,29 years 72 days
+10.0,18/06/1975,West Indies,Kennington Oval,2,21,4.20,3/28,12,25.50,1,1,,,,29 years 76 days
+11.0,21/02/1976,India,AMI Stadium,-,21,4.20,5/23,17,19.35,,1,,,,29 years 324 days
+12.0,22/02/1976,India,Eden Park,0*,21,4.20,0/19,17,20.47,,1,,,,29 years 325 days
+13.0,16/10/1976,Pakistan,Jinnah Stadium (Sialkot),5*,26,5.20,1/37,18,21.39,,1,,,,30 years 197 days
+14.0,15/07/1978,England,North Marine Road Ground,5*,31,6.20,0/46,18,23.94,,1,,,,32 years 104 days
+15.0,17/07/1978,England,Old Trafford,3,34,5.67,0/48,18,26.61,,1,,,,32 years 106 days

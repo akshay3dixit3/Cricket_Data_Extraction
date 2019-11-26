@@ -1,0 +1,82 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,30/09/1999,South Africa,Gymkhana Club Ground,0*,0,,1/10,1,10.00,1,1,,,,22 years 231 days
+2.0,18/08/2001,West Indies,Gymkhana Club Ground,36,36,36.00,0/26,1,36.00,,1,,,,24 years 189 days
+3.0,19/08/2001,West Indies,Gymkhana Club Ground,1,37,18.50,0/40,1,76.00,,1,,,,24 years 190 days
+4.0,07/10/2001,South Africa,Willowmoore Park,1*,38,19.00,0/19,1,95.00,,1,,,,24 years 239 days
+5.0,12/10/2001,India,Mangaung Oval,3,41,13.67,0/16,1,111.00,,1,,,,24 years 244 days
+6.0,24/10/2001,India,Boland Park,-,41,13.67,0/26,1,137.00,,1,,,,24 years 256 days
+7.0,05/09/2002,Australia,Gymkhana Club Ground,2,43,10.75,0/44,1,181.00,,1,,,,25 years 206 days
+8.0,15/12/2002,Zimbabwe,Queens Sports Club,0,43,8.60,0/34,1,215.00,,1,,,,25 years 307 days
+9.0,12/02/2003,South Africa,Senwes Park,13,56,9.33,0/17,1,232.00,,1,,,,26 years 1 days
+10.0,15/02/2003,Canada,Newlands,16,72,10.29,1/12,2,122.00,,1,,,,26 years 4 days
+11.0,24/02/2003,Sri Lanka,Gymkhana Club Ground,20,92,11.50,0/22,2,133.00,,1,,,,26 years 13 days
+12.0,01/03/2003,Bangladesh,Wanderers Stadium,2*,94,11.75,0/29,2,147.50,,1,,,,26 years 18 days
+13.0,04/03/2003,West Indies,Diamond Oval,24,118,13.11,0/17,2,156.00,,1,,,,26 years 21 days
+14.0,07/03/2003,India,Newlands,8,126,12.60,0/31,2,171.50,,1,,,,26 years 24 days
+15.0,12/03/2003,Zimbabwe,Mangaung Oval,-,126,12.60,0/16,2,179.50,,1,,,,26 years 29 days
+16.0,15/03/2003,Australia,Kingsmead,1,127,11.55,2/44,4,100.75,,1,,,,26 years 32 days
+17.0,20/03/2003,India,Kingsmead,0,127,10.58,1/38,5,88.20,,1,,,,26 years 37 days
+18.0,05/04/2003,Zimbabwe,Sharjah Cricket Stadium,10*,137,11.42,0/6,5,89.40,,1,,,,26 years 53 days
+19.0,06/04/2003,Sri Lanka,Sharjah Cricket Stadium,4,141,10.85,0/23,5,94.00,,1,,,,26 years 54 days
+20.0,08/04/2003,Pakistan,Sharjah Cricket Stadium,0*,141,10.85,2/57,7,75.29,,1,,,,26 years 56 days
+21.0,11/09/2004,India,The Rose Bowl,-,141,10.85,0/27,7,79.14,,1,,,,27 years 213 days
+22.0,14/09/2004,Pakistan,Edgbaston,2,143,10.21,0/20,7,82.00,,1,,,,27 years 216 days
+23.0,25/02/2006,Zimbabwe,Queens Sports Club,0*,143,10.21,1/37,8,76.38,,1,,,,29 years 14 days
+24.0,26/02/2006,Zimbabwe,Queens Sports Club,0,143,9.53,3/26,11,57.91,2,3,,,,29 years 15 days
+25.0,01/03/2006,Zimbabwe,Harare Sports Club,8,151,9.44,4/14,15,43.40,1,4,,,,29 years 18 days
+26.0,03/03/2006,Zimbabwe,Harare Sports Club,17,168,9.88,3/32,18,37.94,,4,,,,29 years 20 days
+27.0,17/03/2006,Bangladesh,Shaheed Chandu Stadium,10,178,9.89,2/73,20,37.80,,4,,,,29 years 34 days
+28.0,20/03/2006,Bangladesh,Sheikh Abu Naser Stadium,3*,181,10.06,1/17,21,36.81,,4,,,,29 years 37 days
+29.0,23/03/2006,Bangladesh,Khan Shaheb Osman Ali Stadium,27,208,10.95,3/40,24,33.88,,4,,,,29 years 40 days
+30.0,25/03/2006,Bangladesh,Khan Shaheb Osman Ali Stadium,3,211,10.55,1/20,25,33.32,,4,,,,29 years 42 days
+31.0,05/08/2006,Canada,"Cricket, Skating & Curling Club",2,213,10.14,2/24,27,31.74,,4,,,,29 years 175 days
+32.0,06/08/2006,Canada,"Cricket, Skating & Curling Club",-,213,10.14,1/22,28,31.39,,4,,,,29 years 176 days
+33.0,12/08/2006,Bangladesh,Gymkhana Club Ground,9*,222,10.57,1/52,29,32.10,,4,,,,29 years 182 days
+34.0,13/08/2006,Bangladesh,Gymkhana Club Ground,13,235,10.68,1/19,30,31.67,,4,,,,29 years 183 days
+35.0,15/08/2006,Bangladesh,Gymkhana Club Ground,14,249,10.83,2/37,32,30.84,,4,,,,29 years 185 days
+36.0,11/11/2006,Bermuda,Mombasa Sports Ground,26*,275,11.96,0/14,32,31.28,1,5,,,,29 years 273 days
+37.0,12/11/2006,Bermuda,Mombasa Sports Ground,-,275,11.96,0/19,32,31.88,1,6,,,,29 years 274 days
+38.0,14/11/2006,Bermuda,Mombasa Sports Ground,2*,277,12.04,0/27,32,32.72,,6,,,,29 years 276 days
+39.0,17/01/2007,Scotland,Mombasa Sports Ground,-,277,12.04,3/30,35,30.77,1,7,,,,29 years 340 days
+40.0,21/01/2007,Scotland,Mombasa Sports Ground,11*,288,12.52,0/22,35,31.40,,7,,,,29 years 344 days
+41.0,24/01/2007,Canada,Mombasa Sports Ground,1,289,12.04,0/28,35,32.20,,7,,,,29 years 347 days
+42.0,29/01/2007,Bermuda,Jaffrey Sports Club Ground,-,289,12.04,3/23,38,30.26,,7,,,,29 years 352 days
+43.0,31/01/2007,Netherlands,Gymkhana Club Ground,-,289,12.04,2/13,40,29.08,,7,,,,29 years 354 days
+44.0,02/02/2007,Ireland,Ruaraka Sports Club Ground,0,289,11.56,2/33,42,28.48,,7,,,,29 years 356 days
+45.0,04/02/2007,Scotland,Gymkhana Club Ground,5,294,11.31,2/44,44,28.18,,7,,,,29 years 358 days
+46.0,05/02/2007,Canada,Jaffrey Sports Club Ground,0,294,10.89,5/51,49,26.35,,7,,,,29 years 359 days
+47.0,07/02/2007,Scotland,Gymkhana Club Ground,-,294,10.89,1/25,50,26.32,1,8,,,,29 years 361 days
+48.0,14/03/2007,Canada,Darren Sammy National Cricket Stadium,-,294,10.89,1/51,51,26.80,1,9,,,,30 years 31 days
+49.0,20/03/2007,New Zealand,Darren Sammy National Cricket Stadium,4,298,10.64,2/64,53,27.00,,9,,,,30 years 37 days
+50.0,24/03/2007,England,Darren Sammy National Cricket Stadium,3,301,10.38,1/31,54,27.07,,9,,,,30 years 41 days
+51.0,10/06/2007,ACC Asian XI,MA Chidambaram Stadium,-,301,10.38,3/35,57,26.26,,9,,,,30 years 119 days
+52.0,20/10/2007,Canada,Gymkhana Club Ground,-,301,10.38,1/23,58,26.21,,9,,,,30 years 251 days
+53.0,25/10/2007,Bermuda,Gymkhana Club Ground,-,301,10.38,3/16,61,25.18,1,10,,,,30 years 256 days
+54.0,27/10/2007,Bermuda,Gymkhana Club Ground,4*,305,10.52,1/10,62,24.94,1,11,,,,30 years 258 days
+55.0,28/10/2007,Bermuda,Gymkhana Club Ground,1,306,10.20,0/13,62,25.15,1,12,,,,30 years 259 days
+56.0,12/08/2008,Scotland,Cambusdoon New Ground,3*,309,10.30,0/11,62,25.32,,12,,,,31 years 183 days
+57.0,21/08/2008,Netherlands,Hazelaarweg,-,309,10.30,0/11,62,25.50,,12,,,,31 years 192 days
+58.0,24/08/2008,Ireland,Civil Service Cricket Club,0,309,9.97,2/17,64,24.97,,12,,,,31 years 195 days
+59.0,25/08/2008,Ireland,Civil Service Cricket Club,-,309,9.97,1/7,65,24.69,,12,,,,31 years 196 days
+60.0,18/10/2008,Ireland,Gymkhana Club Ground,1*,310,10.00,0/25,65,25.08,,12,,,,31 years 250 days
+61.0,19/10/2008,Zimbabwe,Gymkhana Club Ground,0,310,9.69,1/34,66,25.21,1,13,,,,31 years 251 days
+62.0,31/10/2008,South Africa,Mangaung Oval,1,311,9.42,2/72,68,25.53,2,15,,,,31 years 263 days
+63.0,02/11/2008,South Africa,Diamond Oval,10*,321,9.73,1/46,69,25.83,,15,,,,31 years 265 days
+64.0,27/01/2009,Zimbabwe,Mombasa Sports Ground,0,321,9.44,0/19,69,26.10,,15,,,,31 years 351 days
+65.0,29/01/2009,Zimbabwe,Mombasa Sports Ground,18*,339,9.97,1/71,70,26.74,,15,,,,31 years 353 days
+66.0,31/01/2009,Zimbabwe,Gymkhana Club Ground,5*,344,10.12,2/42,72,26.58,,15,,,,31 years 355 days
+67.0,01/02/2009,Zimbabwe,Gymkhana Club Ground,1,345,9.86,1/33,73,26.67,1,16,,,,31 years 356 days
+68.0,04/02/2009,Zimbabwe,Gymkhana Club Ground,4,349,9.69,1/44,74,26.91,,16,,,,31 years 359 days
+69.0,01/04/2009,Netherlands,Senwes Park,7*,356,9.89,1/35,75,27.01,,16,,,,32 years 50 days
+70.0,06/04/2009,Bermuda,Senwes Park,-,356,9.89,1/49,76,27.30,,16,,,,32 years 55 days
+71.0,19/04/2009,Netherlands,Senwes Park,1,357,9.65,1/22,77,27.23,,16,,,,32 years 68 days
+72.0,09/07/2009,Ireland,Castle Avenue,6,363,9.55,0/42,77,27.78,,16,,,,32 years 149 days
+73.0,11/07/2009,Ireland,Castle Avenue,3*,366,9.63,0/9,77,27.90,,16,,,,32 years 151 days
+74.0,19/08/2009,Canada,Maple Leaf North - West Ground,6,372,9.54,0/27,77,28.25,,16,,,,32 years 190 days
+75.0,22/08/2009,Canada,Maple Leaf North - West Ground,-,372,9.54,0/0,77,28.25,1,17,,,,32 years 193 days
+76.0,12/10/2009,Zimbabwe,Harare Sports Club,12,384,9.60,0/38,77,28.74,,17,,,,32 years 244 days
+77.0,13/10/2009,Zimbabwe,Harare Sports Club,1,385,9.39,0/56,77,29.47,,17,,,,32 years 245 days
+78.0,01/03/2011,Sri Lanka,R Premadasa Stadium,0,385,9.17,0/28,77,29.83,,17,,,,34 years 18 days
+79.0,20/03/2011,Zimbabwe,Eden Gardens,6,391,9.09,1/53,78,30.13,,17,,,,34 years 37 days

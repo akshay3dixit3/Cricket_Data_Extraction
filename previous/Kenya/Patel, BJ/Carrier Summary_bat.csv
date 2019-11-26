@@ -1,0 +1,34 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,19/08/2001,West Indies,Gymkhana Club Ground,-,0,,,0,,,0,,,,23 years 278 days
+2.0,07/10/2001,South Africa,Willowmoore Park,-,0,,0/17,0,,,0,,,,23 years 327 days
+3.0,14/10/2001,South Africa,Diamond Oval,-,0,,1/15,1,32.00,,0,,,,23 years 334 days
+4.0,17/10/2001,India,St George's Park,-,0,,,1,32.00,,0,,,,23 years 337 days
+5.0,22/10/2001,South Africa,Newlands,6,6,6.00,1/50,2,41.00,,0,,,,23 years 342 days
+6.0,24/10/2001,India,Boland Park,-,6,6.00,0/9,2,45.50,1,1,,,,23 years 344 days
+7.0,02/09/2002,Australia,Gymkhana Club Ground,28,34,17.00,,2,45.50,,1,,,,24 years 292 days
+8.0,05/09/2002,Australia,Gymkhana Club Ground,42,76,25.33,,2,45.50,,1,,,,24 years 295 days
+9.0,17/09/2002,West Indies,Sinhalese Sports Club Ground,35,111,27.75,,2,45.50,,1,,,,24 years 307 days
+10.0,20/09/2002,South Africa,R Premadasa Stadium,0,111,22.20,,2,45.50,,1,,,,24 years 310 days
+11.0,08/12/2002,Zimbabwe,Harare Sports Club,44,155,25.83,,2,45.50,,1,,,,25 years 23 days
+12.0,11/12/2002,Zimbabwe,Kwekwe Sports Club,28*,183,30.50,,2,45.50,1,2,,,,25 years 26 days
+13.0,15/12/2002,Zimbabwe,Queens Sports Club,8,191,27.29,0/17,2,54.00,,2,,,,25 years 30 days
+14.0,12/02/2003,South Africa,Senwes Park,1,192,24.00,,2,54.00,,2,,,,25 years 89 days
+15.0,24/02/2003,Sri Lanka,Gymkhana Club Ground,12,204,22.67,,2,54.00,1,3,,,,25 years 101 days
+16.0,01/03/2003,Bangladesh,Wanderers Stadium,32,236,23.60,,2,54.00,,3,,,,25 years 106 days
+17.0,04/03/2003,West Indies,Diamond Oval,11,247,22.45,,2,54.00,1,4,,,,25 years 109 days
+18.0,07/03/2003,India,Newlands,-,247,22.45,,2,54.00,,4,,,,25 years 112 days
+19.0,15/03/2003,Australia,Kingsmead,0,247,20.58,,2,54.00,,4,,,,25 years 120 days
+20.0,05/04/2003,Zimbabwe,Sharjah Cricket Stadium,18,265,20.38,,2,54.00,1,5,,,,25 years 141 days
+21.0,06/04/2003,Sri Lanka,Sharjah Cricket Stadium,13,278,19.86,,2,54.00,,5,,,,25 years 142 days
+22.0,08/04/2003,Pakistan,Sharjah Cricket Stadium,0,278,18.53,,2,54.00,1,6,,,,25 years 144 days
+23.0,11/09/2004,India,The Rose Bowl,40*,318,21.20,0/21,2,64.50,,6,,,,26 years 301 days
+24.0,14/09/2004,Pakistan,Edgbaston,1,319,19.94,,2,64.50,,6,,,,26 years 304 days
+25.0,25/02/2006,Zimbabwe,Queens Sports Club,0,319,18.76,0/14,2,71.50,,6,,,,28 years 103 days
+26.0,26/02/2006,Zimbabwe,Queens Sports Club,2*,321,18.88,2/20,4,40.75,1,7,,,,28 years 104 days
+27.0,01/03/2006,Zimbabwe,Harare Sports Club,6,327,18.17,,4,40.75,,7,,,,28 years 107 days
+28.0,03/03/2006,Zimbabwe,Harare Sports Club,3,330,17.37,,4,40.75,,7,,,,28 years 109 days
+29.0,05/08/2006,Canada,"Cricket, Skating & Curling Club",6,336,16.80,,4,40.75,,7,,,,28 years 264 days
+30.0,06/08/2006,Canada,"Cricket, Skating & Curling Club",23,359,17.10,,4,40.75,,7,,,,28 years 265 days
+31.0,15/08/2006,Bangladesh,Gymkhana Club Ground,1,360,16.36,,4,40.75,,7,,,,28 years 274 days

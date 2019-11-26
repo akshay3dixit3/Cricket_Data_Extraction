@@ -1,0 +1,48 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,13/04/2003,India,Bangabandhu National Stadium,4,4,4.00,,0,,1,1,,,,21 years 343 days
+2.0,14/04/2003,Bangladesh,Bangabandhu National Stadium,44,48,24.00,,0,,,1,,,,21 years 344 days
+3.0,17/04/2003,Bangladesh,Bangabandhu National Stadium,81,129,43.00,0/26,0,,,1,,,,21 years 347 days
+4.0,18/04/2003,India,Bangabandhu National Stadium,37,166,41.50,,0,,,1,,,,21 years 348 days
+5.0,21/04/2003,India,Bangabandhu National Stadium,-,166,41.50,,0,,1,2,,,,21 years 351 days
+6.0,28/06/2003,England,Kennington Oval,20,186,37.20,,0,,,2,,,,22 years 54 days
+7.0,29/06/2003,Zimbabwe,St Lawrence Ground,32,218,36.33,,0,,,2,,,,22 years 55 days
+8.0,03/07/2003,England,Old Trafford,71*,289,48.17,,0,,,2,,,,22 years 59 days
+9.0,05/07/2003,Zimbabwe,Sophia Gardens,-,289,48.17,,0,,2,4,,,,22 years 61 days
+10.0,08/07/2003,England,Edgbaston,16,305,43.57,,0,,,4,,,,22 years 64 days
+11.0,10/07/2003,Zimbabwe,The Rose Bowl,69*,374,53.43,,0,,,4,,,,22 years 66 days
+12.0,12/07/2003,England,Lord's,19,393,49.13,,0,,,4,,,,22 years 68 days
+13.0,03/10/2003,Pakistan,Gaddafi Stadium,3,396,44.00,,0,,,4,,,,22 years 151 days
+14.0,05/10/2003,Pakistan,Gaddafi Stadium,25,421,42.10,,0,,,4,,,,22 years 153 days
+15.0,07/10/2003,Pakistan,Iqbal Stadium,46,467,42.45,,0,,,4,,,,22 years 155 days
+16.0,10/10/2003,Pakistan,Rawalpindi Cricket Stadium,20,487,40.58,,0,,,4,,,,22 years 158 days
+17.0,12/10/2003,Pakistan,Rawalpindi Cricket Stadium,13*,500,41.67,,0,,,4,,,,22 years 160 days
+18.0,25/01/2004,West Indies,Newlands,61*,561,46.75,,0,,1,5,,,,22 years 265 days
+19.0,28/01/2004,West Indies,St George's Park,14,575,44.23,,0,,,5,,,,22 years 268 days
+20.0,30/01/2004,West Indies,Kingsmead,-,575,44.23,,0,,1,6,,,,22 years 270 days
+21.0,01/02/2004,West Indies,SuperSport Park,-,575,44.23,,0,,,6,,,,22 years 272 days
+22.0,04/02/2004,West Indies,Wanderers Stadium,35,610,43.57,,0,,1,7,,,,22 years 275 days
+23.0,13/02/2004,New Zealand,Eden Park,24,634,42.27,,0,,,7,,,,22 years 284 days
+24.0,17/02/2004,New Zealand,AMI Stadium,42,676,42.25,,0,,1,8,,,,22 years 288 days
+25.0,25/02/2004,New Zealand,Carisbrook,70*,746,46.63,,0,,,8,,,,22 years 296 days
+26.0,29/02/2004,New Zealand,Eden Park,-,746,46.63,,0,,,8,,,,22 years 300 days
+27.0,02/03/2004,New Zealand,McLean Park,3,749,44.06,,0,,,8,,,,22 years 302 days
+28.0,20/08/2004,Sri Lanka,R Premadasa Stadium,22,771,42.83,,0,,,8,,,,23 years 108 days
+29.0,22/08/2004,Sri Lanka,R Premadasa Stadium,4,775,40.79,,0,,,8,,,,23 years 110 days
+30.0,25/08/2004,Sri Lanka,Rangiri Dambulla International Stadium,18,793,39.65,,0,,,8,,,,23 years 113 days
+31.0,28/08/2004,Sri Lanka,Rangiri Dambulla International Stadium,24,817,38.90,,0,,,8,,,,23 years 116 days
+32.0,31/08/2004,Sri Lanka,Sinhalese Sports Club Ground,48,865,39.32,,0,,,8,,,,23 years 119 days
+33.0,12/09/2004,Bangladesh,Edgbaston,-,865,39.32,,0,,,8,,,,23 years 131 days
+34.0,18/09/2004,West Indies,Kennington Oval,46,911,39.61,,0,,,8,,,,23 years 137 days
+35.0,25/02/2005,Zimbabwe,Wanderers Stadium,50,961,40.04,,0,,1,9,,,,23 years 297 days
+36.0,27/02/2005,Zimbabwe,Kingsmead,7,968,38.72,,0,,,9,,,,23 years 299 days
+37.0,02/03/2005,Zimbabwe,St George's Park,33,1001,38.50,,0,,,9,,,,23 years 302 days
+38.0,20/08/2005,ACC Asian XI,Kingsmead,10,1011,37.44,,0,,,9,,,,24 years 108 days
+39.0,21/08/2005,ACC Asian XI,Kingsmead,7,1018,36.36,,0,,,9,,,,24 years 109 days
+40.0,30/10/2005,New Zealand,St George's Park,17,1035,35.69,,0,,,9,,,,24 years 179 days
+41.0,17/01/2006,Sri Lanka,Brisbane Cricket Ground,53,1088,36.27,,0,,,9,,,,24 years 258 days
+42.0,24/01/2006,Sri Lanka,Adelaide Oval,11,1099,35.45,,0,,,9,,,,24 years 265 days
+43.0,31/01/2006,Sri Lanka,WACA Ground,25,1124,35.13,,0,,1,10,,,,24 years 272 days
+44.0,03/02/2006,Australia,Etihad Stadium,19,1143,34.64,,0,,,10,,,,24 years 275 days
+45.0,05/02/2006,Australia,Sydney Cricket Ground,31*,1174,35.58,,0,,1,11,,,,24 years 277 days

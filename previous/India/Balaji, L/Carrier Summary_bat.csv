@@ -1,0 +1,33 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,18/11/2002,West Indies,Reliance Stadium,-,0,,0/44,0,,,0,,,,21 years 51 days
+2.0,09/01/2004,Australia,Melbourne Cricket Ground,0*,0,,1/52,1,96.00,2,2,,,,22 years 103 days
+3.0,14/01/2004,Zimbabwe,Bellerive Oval,-,0,,0/26,1,122.00,,2,,,,22 years 108 days
+4.0,18/01/2004,Australia,Brisbane Cricket Ground,-,0,,4/48,5,34.00,1,3,,,,22 years 112 days
+5.0,20/01/2004,Zimbabwe,Brisbane Cricket Ground,-,0,,2/37,7,29.57,,3,,,,22 years 114 days
+6.0,22/01/2004,Australia,Sydney Cricket Ground,-,0,,0/40,7,35.29,,3,,,,22 years 116 days
+7.0,24/01/2004,Zimbabwe,Adelaide Oval,-,0,,1/52,8,37.38,1,4,,,,22 years 118 days
+8.0,01/02/2004,Australia,WACA Ground,11,11,11.00,1/37,9,37.33,1,5,,,,22 years 126 days
+9.0,03/02/2004,Zimbabwe,WACA Ground,-,11,11.00,1/32,10,36.80,,5,,,,22 years 128 days
+10.0,06/02/2004,Australia,Melbourne Cricket Ground,2,13,6.50,3/52,13,32.31,1,6,,,,22 years 131 days
+11.0,08/02/2004,Australia,Sydney Cricket Ground,2,15,5.00,0/65,13,37.31,,6,,,,22 years 133 days
+12.0,13/03/2004,Pakistan,National Stadium (Karachi),-,15,5.00,1/56,14,38.64,,6,,,,22 years 167 days
+13.0,16/03/2004,Pakistan,Rawalpindi Cricket Stadium,14,29,7.25,0/47,14,42.00,,6,,,,22 years 170 days
+14.0,19/03/2004,Pakistan,Arbab Niaz Stadium,21*,50,12.50,0/41,14,44.93,,6,,,,22 years 173 days
+15.0,21/03/2004,Pakistan,Gaddafi Stadium,-,50,12.50,2/64,16,43.31,,6,,,,22 years 175 days
+16.0,24/03/2004,Pakistan,Gaddafi Stadium,10*,60,15.00,3/62,19,39.74,,6,,,,22 years 178 days
+17.0,16/07/2004,United Arab Emirates,Rangiri Dambulla International Stadium,-,60,15.00,2/28,21,37.29,,6,,,,22 years 292 days
+18.0,18/07/2004,Sri Lanka,Rangiri Dambulla International Stadium,10,70,14.00,1/60,22,38.32,,6,,,,22 years 294 days
+19.0,21/07/2004,Bangladesh,Sinhalese Sports Club Ground,-,70,14.00,0/32,22,39.77,,6,,,,22 years 297 days
+20.0,24/07/2004,Pakistan,R Premadasa Stadium,5*,75,15.00,0/61,22,42.55,,6,,,,22 years 300 days
+21.0,21/08/2004,Pakistan,VRA Ground,2,77,12.83,3/27,25,38.52,,6,,,,22 years 328 days
+22.0,23/08/2004,Australia,VRA Ground,-,77,12.83,3/20,28,35.11,1,7,,,,22 years 330 days
+23.0,01/09/2004,England,Trent Bridge,0,77,11.00,2/37,30,34.00,,7,,,,22 years 339 days
+24.0,03/09/2004,England,Kennington Oval,18,95,11.88,0/77,30,36.57,1,8,,,,22 years 341 days
+25.0,02/04/2005,Pakistan,Nehru Stadium (Kochi),0,95,10.56,2/32,32,35.28,,8,,,,23 years 187 days
+26.0,05/04/2005,Pakistan,Dr YS Rajasekhara Reddy Cricket Stadium,17*,112,12.44,0/33,32,36.31,1,9,,,,23 years 190 days
+27.0,12/04/2005,Pakistan,Sardar Patel Stadium,-,112,12.44,1/51,33,36.76,2,11,,,,23 years 197 days
+28.0,15/04/2005,Pakistan,Green Park,-,112,12.44,0/51,33,38.30,,11,,,,23 years 200 days
+29.0,03/08/2005,Sri Lanka,Rangiri Dambulla International Stadium,1*,113,12.56,1/48,34,38.59,,11,,,,23 years 310 days
+30.0,08/02/2009,Sri Lanka,R Premadasa Stadium,7,120,12.00,0/32,34,39.53,,11,,,,27 years 134 days

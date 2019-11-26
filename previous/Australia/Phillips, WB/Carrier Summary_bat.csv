@@ -1,0 +1,51 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15
+,Date,Versus,Ground,Batting,Batting,Batting,Bowling,Bowling,Bowling,Fielding,Fielding,Keeping,Keeping,Keeping,Age
+,Date,Versus,Ground,Runs,Aggr,Avg,Wkts,Aggr,Avg,Ca,Agg,Ca,St,Agg,Age
+1.0,22/10/1982,Pakistan,National Stadium (Karachi),-,0,,,0,,,0,,,,24 years 235 days
+2.0,08/01/1984,West Indies,Melbourne Cricket Ground,10,10,10.00,,0,,,0,,,,25 years 312 days
+3.0,10/01/1984,Pakistan,Sydney Cricket Ground,2,12,6.00,,0,,,0,,,,25 years 314 days
+4.0,22/01/1984,West Indies,Melbourne Cricket Ground,18*,30,15.00,,0,,,0,,,,25 years 326 days
+5.0,25/01/1984,Pakistan,Sydney Cricket Ground,25,55,18.33,,0,,,0,,,,25 years 329 days
+6.0,29/01/1984,West Indies,Adelaide Oval,2,57,14.25,,0,,,0,,,,25 years 333 days
+7.0,30/01/1984,Pakistan,Adelaide Oval,17,74,14.80,,0,,,0,2,,2,25 years 334 days
+8.0,12/02/1984,West Indies,Melbourne Cricket Ground,22,96,16.00,,0,,,0,,,2,25 years 347 days
+9.0,29/02/1984,West Indies,Albion Sports Complex,0*,96,16.00,,0,,,0,1,,3,25 years 364 days
+10.0,14/03/1984,West Indies,Queen's Park Oval,10,106,15.14,,0,,,0,1,,4,26 years 13 days
+11.0,19/04/1984,West Indies,Mindoo Philip Park,0,106,13.25,,0,,,0,1,,5,26 years 49 days
+12.0,26/04/1984,West Indies,Sabina Park,13,119,13.22,,0,,,0,,,5,26 years 56 days
+13.0,28/09/1984,India,Jawaharlal Nehru Stadium (Delhi),1,120,12.00,,0,,,0,3,1,9,26 years 211 days
+14.0,01/10/1984,India,University Stadium,-,120,12.00,,0,,,0,2,,11,26 years 214 days
+15.0,03/10/1984,India,Keenan Stadium,-,120,12.00,,0,,,0,,,11,26 years 216 days
+16.0,05/10/1984,India,Sardar Patel Stadium,-,120,12.00,,0,,,0,,2,13,26 years 218 days
+17.0,06/10/1984,India,Nehru Stadium (Indore),33,153,13.91,,0,,,0,,,13,26 years 219 days
+18.0,06/01/1985,West Indies,Melbourne Cricket Ground,23,176,14.67,,0,,,0,1,,14,26 years 311 days
+19.0,08/01/1985,Sri Lanka,Sydney Cricket Ground,3,179,13.77,,0,,,0,1,,15,26 years 313 days
+20.0,19/01/1985,Sri Lanka,Melbourne Cricket Ground,67,246,17.57,,0,,,0,,,15,26 years 324 days
+21.0,20/01/1985,West Indies,Melbourne Cricket Ground,4,250,16.67,,0,,,0,3,,18,26 years 325 days
+22.0,23/01/1985,Sri Lanka,Sydney Cricket Ground,19,269,16.81,,0,,,0,3,,21,26 years 328 days
+23.0,27/01/1985,West Indies,Adelaide Oval,36,305,17.94,,0,,,0,,,21,26 years 332 days
+24.0,28/01/1985,Sri Lanka,Adelaide Oval,-,305,17.94,,0,,,0,1,1,23,26 years 333 days
+25.0,03/02/1985,Sri Lanka,WACA Ground,75*,380,22.35,,0,,,0,3,1,27,26 years 339 days
+26.0,06/02/1985,West Indies,Sydney Cricket Ground,50,430,23.89,,0,,,0,,,27,26 years 342 days
+27.0,10/02/1985,West Indies,Melbourne Cricket Ground,56*,486,27.00,,0,,,0,,,27,26 years 346 days
+28.0,12/02/1985,West Indies,Sydney Cricket Ground,3,489,25.74,,0,,,0,,,27,26 years 348 days
+29.0,17/02/1985,England,Melbourne Cricket Ground,-,489,25.74,,0,,,0,,,27,26 years 353 days
+30.0,24/02/1985,Pakistan,Melbourne Cricket Ground,44,533,26.65,,0,,,0,,,27,26 years 360 days
+31.0,03/03/1985,India,Melbourne Cricket Ground,60,593,28.24,,0,,,0,1,,28,27 years 2 days
+32.0,30/05/1985,England,Old Trafford,28,621,28.23,,0,,,0,2,,30,27 years 90 days
+33.0,01/06/1985,England,Edgbaston,14,635,27.61,,0,,,0,2,,32,27 years 92 days
+34.0,03/06/1985,England,Lord's,10,645,26.88,,0,,,0,,,32,27 years 94 days
+35.0,09/01/1986,New Zealand,Melbourne Cricket Ground,-,645,26.88,,0,,,0,2,,34,27 years 314 days
+36.0,12/01/1986,India,Brisbane Cricket Ground,8,653,26.12,,0,,,0,1,,35,27 years 317 days
+37.0,14/01/1986,New Zealand,Sydney Cricket Ground,3,656,25.23,,0,,,0,3,1,39,27 years 319 days
+38.0,16/01/1986,India,Melbourne Cricket Ground,7,663,24.56,,0,,,0,1,,40,27 years 321 days
+39.0,19/01/1986,New Zealand,WACA Ground,28*,691,25.59,,0,,,0,,,40,27 years 324 days
+40.0,21/01/1986,India,Sydney Cricket Ground,7,698,24.93,,0,,,0,,,40,27 years 326 days
+41.0,26/01/1986,India,Adelaide Oval,23*,721,25.75,,0,,,0,3,,43,27 years 331 days
+42.0,27/01/1986,New Zealand,Adelaide Oval,22,743,25.62,,0,,,0,1,,44,27 years 332 days
+43.0,29/01/1986,New Zealand,Sydney Cricket Ground,3,746,24.87,,0,,,0,1,,45,27 years 334 days
+44.0,31/01/1986,India,Melbourne Cricket Ground,8,754,24.32,,0,,,0,,,45,27 years 336 days
+45.0,19/03/1986,New Zealand,Carisbrook,23,777,24.28,,0,,,0,1,,46,28 years 18 days
+46.0,22/03/1986,New Zealand,AMI Stadium,12,789,23.91,,0,,,0,,,46,28 years 21 days
+47.0,26/03/1986,New Zealand,Basin Reserve,53,842,24.76,,0,,,0,1,1,48,28 years 25 days
+48.0,29/03/1986,New Zealand,Eden Park,10,852,24.34,,0,,,0,1,,49,28 years 28 days
